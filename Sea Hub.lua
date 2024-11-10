@@ -1,1 +1,7090 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _YFonzBYupMOm = a; end)); lWQPWXcyViAYiKEK=_ENV;hFbBpb_oxGFpbAq='zCG*w8mPNj#cM4(b4(jb(4*MNM(NGjPNMPCw(c8b#cbNwbP8bCwwj*cGCbPNMCmjcbhm88#wbC4c*4jm4cG*PMMwmMM8Sj8N#PbwMc*bj8(w*PPNcmCmmCcM8McjbjwNjP(wcj*MN#4w4wwjc*C*848b4JwMj#(QNN4(G8PwM*CDbw8b#*r#w8#CbCNc(cGNPPMmC*b#8ccj%NwM#1(NbAm8(*GcmbMbC*mNcmI##wbNwCj+4bGMWjPMcbCwmC;jmN#mb8wwjCmj4j*PPPMwGww8#bC!mZPMb(w4Nj4#*C4*GPP!cby(8cw*#PXCwNjl*N#848GwP*M>j8CNmmc;c G#jP(j*N*c#bGPm4MwSb8#cPc*8Cjb#:GGN*M(4M8Z42!(mmcc88#GbGw#Nb4(G4P#8cMM}(w(c#b#8b#8bjj*(m*APbM(CcC4m*M8Cg#jSGwmj8(w*C}NPMMwGwmGc*C*8*#bbbjN(P*mN84wG*PGcCwbm&cmb4wMjc(NM)*;N444G#PmMbm*bc_ewbj((c(PwGjC4MG(wwNN4P8(#bLjwM#N(wbbN*4(Gc*MM5xMPCcGbMCw#j(NwmNM(G*8N*N(bwmjMCQO8N#4cPwjNc(CGjPw48CmP*P( #w(cVbhw4j4#PGcN84MGGmbMCUG8wm(bc*(j8(jbNN844CNMwC(mCctbbwM*8jb4w5dm#4#;(NHc4!Mmw>*8N#V(b*(NcPCMbG_PCcC4(cPCG8w#*bG*bCmN(4GGjPM#bGGmCc(g(*bmcw8j#(G*CN M4cGG8mwMCCC8bbjw4jm(8*wNCNj4*G*PCMw8(MMbcw#jj(mcMwGNNMNGjPNPwbPmw##bCwcw(MbG4P(Mb4j8(NcMm8DjPbNw(jm(*w*N*4CCjMjG*mmc8^w8CGMjjbPCwN4(8Gw88MGJ4m4QNm>#8bww*jvP#4N*wNwMjC(mMm4Mb#jsPwmj8(w*C{MPj4PbbP}cGbG8(j(A*wjPm(G*cNcGwPNMCCr8b#Mc+b/wPjb(bNj(MGmP8MwCCb8mjcPcG*#jbbwwF*4cmG#mMPjbC8cmm44wj#8(PNb(wGMPcM#CPb(m(cNbc8G#jw*jM(AGbP(MccGGG8(c(DbwjNc(jw{N#**N(4ICbm(cccCCPT4NGbPwjjP(M* Nc4G(mMCGC8(#4bMwjG,jw(BG4NwcCGcmcMG(mw*N8(*GGPbMCCb4#**PPMmC8mGmGcwb8wP#8b8wGNN4MGwM#GtmPcm}88G*mj(bm*wjm4m**M4Gmm#cjXN88*M#PbMwGmM(jGMNmMGGGc4Cw8##jbNw8GjjP(#GbNjM4GGPKZbmw#Mbcw#jPm(b*GcNP4jC4MwCGmCcMb(w4jM(jc(wCNb4jbbmjMjC**Pc*?CwP((Pwb4w4(jcMGjwPGmcm}#8*#GbC*(C8N44jGGPjCcmbcN;P8m#*#PbN*(jG(PN94mC4mMcc9N(M8Pjc(M*4PB4#N*b_GLmbc(&c(Im*cCbcbcP(Mj(NmcMcGGPwcb,PCC#bb8b(NC(8*NPbNj4(GP#GI#m##NrwjbbP*MNc4#GPXCmcMcC8w*#c%cwjjbwnjw44GMPcMN#jG-mmc40C#8bNwGjC(fG4O8PbM(GnccCC8N#Pbmw*CNNj(P*4PbMcCwc(Cm8c##bjwmCcN44MCcN8MMCcmbcP8bcwbMwcj#(PMj*jN44CC4PbC*mmc,bbw(jc#*4bweNPGjPcMmC8mwcCjN1jw8bywcN44MGcPN8GMwC4mCc8bN8wNjbm*MN*44P(4*Ccm#cjlm(N8N##bw*PjC*Gj8MbC(m4c#MGCw8C#gbNw4jP4mG(P(McCcmPMwCw8b#4bmw#jb*NN#48GwP*M3#NbmwGbb8(jM(c*#NPmN4jGbm4PP(j8mcCc*8m#<#FCMN44MG#MjG8mmc8Vw8CGjjjbP*PNw(wGNPMMwbM8McM!4#mbMw*jG(CG(CwPm4*CwPG#C(M#jxCwmj8(w*C?mPP4PCcPPcCC*8*#Cw##w(P*mN84G#PG#PNMG(w8GcGD*wPjj(cNj(CGmP8MwCCCN88#8bP8*jw((*4NbG#NCMPCmm8cGjjb#8N#P(c*bNP(GPcCwwbjG8Pm4(MCccCw*#1(>GbP(Mc#8CPmccO(C8*#cbcwcmj44G4PbMmmbMc2M8c##bPMMwbj4(PGmmP4#CjPmMm5,w*NmwM#w(j*NNP4wcmCMmjc#CPmm#*5*8j(4w=N#4jGNP8w(MmCMm*7*8m#.(b*(NcPG(GGMPMCjmbcm 88w#CjM(jwPNj4mG(N8CMm(cjdN8PsNm(cNbN(*8NNtMbC(mcw8c4gbfMP(bG*(Nc(G(mN*4*G8mbcG-MxbcC1CwcN((8(jNP4j4mPGc4C88*#Nb8bb#CbC*cP(48PP4kCwm*cGbb4wwwj*bG*wjw4mC4PbcbmPMC+w8*#G(bMmCNj*4CGMP*#(GCm!c4:4#m.4w*jG(CG(-*Nm4wC(C(jQ/c8P#m((*cjcjmDmN(4NGwmmPi(w8cjbbCw4(N*cN84wG*P)PwcbCPmwb(8wjc(#*jNmNm4NCjmcMmCCmmiewmNGw(44MjNb(McNMNGwm8cwW*83G8#Nbmw+PY(wG#Pj#NCsP:#(l##8HswGjC(9G43GN84*C4C4N(bM8M#4bCw*j8**NN46Cbm(ccMGC88M#((bw4(PwjNw4*GGmb8PMjym88#4.GwMjw(w*CNCM4G#P#M8C*8Mc,}8j4c(m4N*8N#jCGP48wm8c#SG8C#h(4MP*bNc4GGGP(CjPwcm)88w#CPM(jwPm*(8*wNCMPvbPCcbbb#Psmwwj*(GGbCPNjMmC8m4#GTG8j#cbm*(Pw4MG4P(4NPCMM_(84#Mbj4hwcj4(NG(N#cjCPmjc4CNm8bb8cjM(c*#NP8M4bG4PP#MCm8Mcmbwwmjm4m.G4M*(PjMNCPmwwMc(bc8*jjbPwCmj4jGmPmMGCbmbj#FN8C#8b#j*(c*yPbM(Ccb*m4cMZ(*b#jb(*cNb*wN#4CGrmbcMcmCC84##4(GGmM*PNb4wG*PGcbcNC*mm#jbbwP#C(C*N4P*CmCbc4*RMmPPmN4jbb4*MNc4#GPG#PGMMAb8k#P4j*NNjbC*(jN(C!C8CC#PNcP_m88#GPPb#wNjGjGC8N84CCMC4cc>jg#NbcMj8bQ*GNC4)C4CwmNcw:C8NjcbNw*jc4jG(PcG*PcM{9b8(#cN#bPwjjN4#RcN(4#CNMwGCmCc<bbwMG*jP(**ZNP#bCcP4cjbNmc##VP8Pb{w#N44MGcPN8*M^C(*Mc.T.8Gjjbm*Nj;GbN#MMCcm#cPjw<4*G#cb**Pj*4NC8P*M#Cwc4Cc8##jbNw8C#jmb0)#8c#4GCwwcG&*8##(((*bjm*NNc48GwP*M,ccuw8b#mw(#w(c*#Nj4m4MC(PjMMYbmP#j8Ccm((*4NM4jMC**PKcbCPmMcm4j8##mb8*PNb(wCCmbM^CC*bcj&N8#b8w#jG(C*FP4m848GCmM#*Mb#jWCwmj8(w*CGNPMMNC8mMcG}(wbcCw##j(P*mN84GcjC#m8P*(#mm#G#bYcw4Mb*&N#4(GsGPCwmMcCd2wbjMN*(wGb*4cC*CmbMPCMc8CC8G#CbX*4CbN84GG*NTMb/MmMMGcN*cjP(PjGbCGbP(M4C#d*P<cCk4**#PbNwMj#MNGjN84NC#m*cw8McwbjwNjP(wcjGcP##PGjPPMmC{8(b48Nj#(j*NN88MMjGwmcMPL8wm##bGwcjwbuNc(PGNPPMmC*(NmccjF**N#G(NwGN34GGGmGN4mNM*_88w#*bpM8wNjm(uCGPNM(bmm##biMw#bmw#j*(G*CP(8#4mC4mYcM8cccbNwPjm(*MjGcN84_CMm8cGCw8w#G(l8>j#(MG#PbMMPwMPCCm5#bbM4cwNjC(NN#(MGPPmM8CG(Pm#cN,G7GPwbj*CN44bG*Gcc8bM84#NcmCPjCwCjP4(G4PMMj#<CcmjcNb(wc#cwwjj(C*kPbMM4*G*Pocm9#8GbNw(j8(w**NOmmMNCbP1Mw3wmCbc8NjN(P*mN*P#M(C#mPc(y8m{c8b48GjmbK*WNPGPP4MwC*mG#bNjbc8wjN(MGbNcG#PMMPCmm8GNPMMG>mbCw8N(44GMPj84M(Cw84#(8m#Mb*wGjC4(c#*8NwMbb8mGM/8jM*bmw8jw(CMC**PwMmCmmwmbbC8T#(bww#j4jNC#NcMNCPmNM8Cw8mcwb#wj#8jMNN4bG8PwM*CtbP8w#cb4GGj(4bwC4#wDPPMmC8mG*j#4bjwmj4Mb*CNM4*7#Pcc4((mNc4bj8Gj#48wNNP(w*wM4GCm#cjJN88*N#M(b*cjP*GNPMbC(m4c#jM>MWMNCbjw0(m*jN*4GGCm(mNc#C*8PbM8Gjj(N*PNwm*MMGbwNM*}P8Pbb8PjM(c*#NP844mC#mMcM((8(cNIm#>bw*4NM4cGNGCPMMbCGmNK88b#GbCwQN4mw4NGwPCMNMMw(c(oNwc#Gww#G(C*QPbMMcGCwm#cMb4wbN+bNwwNc4c*PmC4GCwcbCM8M#cb#wPGNNc(G*m*P#MG#PGcmCm8##bb48C(cw#NN4PGmP*8jccCGm*cjbPG4j8b8**NjMLGwP(M8E4c8kc8G#Cb6*4Cbj84MG*PbM8J(cNCw88#wb*wL**PMcN*LP(4jb98mMC)c*PNNb8j8(j*GNC4^C4bNmNc(C*8jb#8mjP(m*8NGm*4wG#mNj8}G84c*b4G#jc(#*N4PwUPwM*CG8b*m##bmw*j#MG*MjCM4Gmm(#jCM8ccN1N*mj4(#*wNG(*C(m8#Nb_cPCU8w#*bG*bG*N(4G*jPw4Wb8m8cbs4#PnPwwj*(GGb!mP#MmC*m##4bfmC#NbPwNjm4m9jPmMbCNcb#cCtPGC#44484PbmNm*4jcaPNCjmCjP#*4w(#C(c*#Nj4m4*CMPPM8mwc(rC8Ljb(MMCwwjG4M7PPwMmC8w8cmbN#*b8w3Nb4(GcG4P*4wm#4C+P8m#8bG4j*mN44b(G8*MbCfPGPjcM*m#*b8wwwPM**wPmNb4GwmMwKG#cb#wjjN(P*mM8w*m*P*MMC98b#(bc4/8*#C(cZ(j*McGPPjc4m*cjQxwbj((cMMGbNb48GjmbMMmmMwq*8G#C((M*wmjw4(4(mGMMCGmM##bMwM8m4crP(C*PP(M4CMmj*bMCCw*Cj((jwj(w*cNC4)CbmMwmMwpM8.cSbwwjjP*mNN4*GGPCc(j4Im8(bMC(PkM8jP*C#/b1**MwC(mCc<bbwM*w#m(**GN#Nc;4Pjc4yM8#0*mY#o(b*(NcmG4mGGmbMmbPmN##(#8mjmbcwCj8GbNmMMCcm#cPNMb(w4NCb8wmj#(NN0MbC(m4cMYc8##j*NwNj4(8*wN*47cwCwPwcmZ(m*bMwbjj(N*PNwmm4mGwm#CGmM#bb(w4j#PC(8*CP(48v4m4MwCmmC#j86jb((*4NM4c##4qKNCNPYc8Uw8*#+P#(Mwwjw(wC(mCMG&4cjCm8m#8bwwCCmjj(P*C*C#mChPAc#cM*mjcb4*j(8*MNG4CG6m4P8cbCGmG#bb8wjjC*PjC4wG*PGcbj#CP8##wbwGcjM(=wDNmM(Pm4wC*mGcCb((C88jN(wws*4cG*vPNcMCMmhc8O*8PbCw*N(44GMPjP4MNC4cNtc88#wb*w/CmjN(8*VM(Gbmcc#Dj8m*(c{(4*Mjwj8*NNGNGb*mMMwL*q4N*bD*cjc*mjw4*GGPCc(#mC9m8#Gbm*CN4(cC*NPcbGmPNMC-NcC+Pw(j4(M*jw=NC4jC(Pwc4GscwCM8C#7(b*MGcPG4*C(GM#*Cb8c#8cP*8#*bdwMwGMw*8PbM(CMm(cbc#GcP(w8#8(G*CNJM4#wCbmcc#^Gwb#bMc8*j4(jGc8#4CC8mPM*8(c*bcw#jj(m4 G#Nw4MCcPNCGm8#bb(w4j#PP(2*cNjGNN*M8Cwm*c2N8bPwmNC(CwCPb4wG(mMM#CCcmCw8*#GbC*(C*jm(wG(G(cGCMmGcMb#wMjM#mGc8m*CNcM(C4mMcjN(CC8b#j(NCbNM(#GwmP##mbc(h48M#cb#NjCPGP*Pj*4wG*PGcbjwCPm8#b488*jj(NwwmMM#GCmcCwmMcC^EwbjM#P((w_NN4bGcmccM_4c8CC8G#Cb *4w8NC4CG#PG#(tM84#(4M8m#8bPjG(MGbP(M4C#b8mGM,4b8*#MbM*Njw4NGj4CGNm(c47M8jwx#C(MCbjb44*8N#G*PMM_Ab8(#cNGbmwmjN4bicP4MMCMm#C*PPc_bbw(jcN*(**jNC4cGjPcMMMPm#cwcw*8j*(w*8*bcGGMPcM4mNMC_88w#*bXM8wPjm4GG*P##wGGm##(8N#(b8wwj*(QcNGNPNMGG8mcMG8cc#bNwPjm(*cN*cNj4*4*88M3C88c8(4w8Cjw((G#N#G8PNMGCCmY#4c8bjwGjj*cjG4NGPPmM*#jC8m#cGbPwcjb(PN4*KG#PjMNC8CCmMcc m8Nm(cG.Cj*4C*m*MMwC8mbcGv(w##Mbj*#jm4m*CPb4wCwmMMCM#w(#jbmAPNc4P*MP4MP4bPwc*CC8P#40:w(8jcb*wNMMcG*PNNG.b8Gc*K*w*jb#c^MP(M4GPP8Mj4wwP#whNwmP4(_*MP(4*GaPMNPCwmM#P8*cGbs*bN(4ccl**NCMcMcw4cNp48*8m4P*jj*4PGGNGC4P(c#Qj8N#8P#b4wcj8j8CPPwMwCmPGmbbjwv#C(Mb#8#48N84bGGPCM){4(#84#{b8wGm(bv*(N44PG8MwCNmCcybbwMGm#C4b*#NCGjNGMmC8mwcCNMbj8PN8(mwGj84PGOPCCNmPcm!88w#*4Gc14e(S*GP4MMCcmNwj#MCG#PAGwwj*(GGbp#PP48XwmbjMrGw4#4(bwMjM*8N44GGCPBc4jGIw8*Nmbm8UN4(jwC4mGNP*MGCC8(*b##b(j4bN*#Nj4NG83PPPPP(jmC#4s*vGNw(N*NN(GcN/MNCPmmc*N#_88C#*b8^84b**PMMcC#mP8b#bbc84j(ww#5(C*SPbMM#(C(Puc#b48P8#4MwMjm4j*)w(GCNwc(I48M#jjUbCwPNb4M*M*PcNCmmPcNMGm8#b#b*Gjb(8GMNmGPNNMwC*mG#bNmb*wMj8jbC(Nb48Gjm4c(MNw#c#bm8N#Nb8N(wm#b#c##cbN8G#Mw88#wb*wGjC(g(bb,T4C4P#c#Rj8N#8PMbg*MNj(Ht4NmcwCGmjc*FP8c#*wNjP(m*8Nw4*GGN8y/CWN##4bMwcjNjw(b*(Nj#G(m*8MMCcm#PAD*wbjC(#*MjwjjC4PNM84m8PcN}PwN#mcsfbNN4Gb#*4jf4#GjP(MMCcm(cw7*88G(P4MMccc4mmNM*c(Pbmw#j*(G*CP(m8MjCbmbNq8cc*bNwPjm(*cNG#Pj#8GPPmcGt*8#bMmGjj(N*PNwPbMMG#wcMmCN8cc84wwwNb(j*CN4#4GNP4M8C#8jc*=#8_(bw#NM4cG#PPmGccCGmMN4i88PPP(c*cN44wP44jC#mjcN>8(j8wjNbb*#jmMmG8N*MjCbPGM28#cjbPwmj8(GM**wNj4mCPw*M8C*mG#Mb#HMm((N*bN8GwNGMCC;8b#MNCew8GjMjMCbNb4cGmGPM8C*CwjjM8jb=8*MNc4#GPG4mM4C^jm#cjb#8NjM(m;cwbj(bGwCjw4(G4P4M4G_mbc4jG(jGbP(M4C#b(PGMo(88jjcbC*c(wwPNC4OCbmMw*cP=*8X#PMM*4jG44*8N#cwGGmN#8C88Cc*t*8&(#wCNP4mG8PGwjMwCmm8#cb8wb#C*MNb4jGNPPMwc(Cvmw#j8Gcb(b*(N44##b*GNHM#M#w(cNb(8Njm(N*NwGM*GCPGM*M48GPMc#Cm8N44LNw8#C(*mNjwm(M#<c8##jbmMcw(jM(m(m8P4jGMGGjNd88pc>wcj((N*PNm4*cwCbP*cbmCc#b(w4jM(j4C*Mm!4NG4P#cNCw8N#j8C#b((*4NM4jcwGCPb##C88jMubc8P#P4PwwN#4CGcMc8P;wW4#mM4*GMP^*j*(P*dPbM(j9(BG4P*MPabbN8wj8(w**NZmmMwGRm8cb^MwCcGbMw4j*(MG448GbPGMCCJ84*(#jb4wPj#(8w8PbcwC4NQCwP_cCD2wbjMPb(b**Ncc^GwPPc(Cmm##bWw8GbCw#N(44GMPjm)4?WMm(c(7c2PN#(m*m(C*cP(M4CMmjPCc(Xe8Nj4bCw8N4#G*jN*GIN(c4?M8c#NP4KSw(jNjNCmNmM#GGG*jm<#84#wbM8Lj8(#*N*j#cCNPCc#Mww*cwb#w(jG(*Nc(jGNPPMmC*((8ccj(GwNj*b**8jG(G: PwMgC4m4vm8j#*bGwCN(PPc8GjPMCMPGcj0N8P#wPcbmwwjj4j*CNmCbPPcM?c8##PP(bjwPjM4NGbN*MjG8M6C#84#MbcwNGmj#(**P*Nc#CcPPM#WNmwb(w4jM(c*#Nj4NNccmMmGGm*cG}Cw(Gw##b0*-jC(}CnP4M*<#mwj4M##*DjwvNb4(GcX;N*4CCcCcj#U(8w#*#mGCNj(jGPN*Ny{#8CcGb4Qcm4(mjm(b**NG4CC(CNP*cbyM*4#*bGw(Nb(4Nm(CG*PGMCd((8m*#8b98GjG4**wNNM4GPP(CwP.cC^SwbjMP*(P**N)4Pn(mbc#(#8M#PrN8NbCwbN(44GMPjw(4CCbmjmj4(wN#NbGbwmb4P*PP8McmMMc?j8N#PbwM(wmjNj8CwPbM*G#m8MCCC!4Ncbjwm#G*mN44*GGPCc(jc<bm*c*(bwcNb(%NN4MG8PwM*CJbjmC#cqsw((4w*N#4jGNP88ccjF#8cm8(#CPbfwNN44MGcPN8bMXCm8(#c0c*#jm(mjC(MG(P4MMCj,GmMcG?Mw#jM(MbmPP48GmPPCbNPcMKc8##PNNbjwNjmM#GcPNM*imPmM*Zj84#8^OGwjw4(G4P448bPPjMNC8cq3ww4jM(c*NH(N44*GPmbC8PNcGeC8^j4P((b*Cm#4G*GPAMm4#wPcj(*8wjmMb*PjP48GcwJCcNwcN/P8m#*Nc(cwCNj(**CN*4wMbPGcMcM*m#*b4wcjM(wG#*w#MG8m4cC;48Gb#wjjN8P8Ch5m:C*c*MGCc8b#(b4w#8CjG(#GbPj4MG*PTMGCCcGDPwbj((4*#CCm*4(CMPPc(mmcjU*8G#C((4-*GN44wPM4PCjmNcPew4#8m#N(j*jj8c8*rPMM(GY*e2#84#Pbmw8jGm#4m*mP(GkPGc4sM8cv4mC#jyj(P*(Nw4*GGmbwjccIb8wNcb*8*j8*j(C4mG8PwMCc4CNmPcG{wC#8(#4*bP4(G(NPTMCCc8(c#bm8N#8(mwGNG44GcNTM+CNm4Pmb#88#Gc**PN*(NGjP*NcG{8bc4h*8j#Mb# 8mc(7*NPPMbGwG(ccb(8b#b(bwc8PcNG#Pj4*GCP8N_(j84cGbGw(jC4cGMP4cwCPP*c8s#8Pc*c(wc#*4(N#44GPPmM8CG(M8(cmbN#Hbb*4NM4cGNCFP;Mmh(mNcmoN8jNP(N**N*48G+NC4Cm#MceP8m#8bG4GwwN84P3*Nm4wC(m#cMb4wbP4bNwmN44bGM4GGMmbc(O48#*G#Gbb*(jM(G*NNcMbGwPGCs8b#(G4*4(4##*wMj4N*iP8MwC*mQwN#cbc8*jw4(GCNGM4Pj4mCmm8cwTC(bG4#C(m*mjNcCG*P8c4GCm*cN_##8Q*wGjC(5G4CCN84*M(PmccCy8M8j4GwmNNj8S4PPGUPjc4_M8c#Nj((M*(j?44bwPb4*C#PGCum##4bMwcjNm((#*NP(NN,#P#cmCNmNc8wb#w(M*cN#4P#MGbP4MPb#wNp*8N#^(b*(NcPG(GC(N94sC4cPiM8w#*bG*bGPjP(*G(m8jGmcM4nN8P#mb*MNwcjj(*(*8NM#C(m*m((j8CcCb**#jM4bGPN*GGPccb&(84##jCbG*bj#(NG4PPc#CcmmCGm##bb(w4j#NC4(*8NPN#bcPPcNC#c*;c8xjb((*cGCNP4wGwPbj(CNmPcj8*#GbCw{Nb4(#4MMrcCcP8cNgP8m#*N#(cwCNj4m*m*CcGCLmPcC8#cmbPwmj8(GM#*MPjMNGtw*cMCw8*NwbC*MjM*PjP4wG*PGcbjmCCmCcj#b*CjG((wCPb4c4N8CM8uP*4NP8>#m(4*MNc4NcGG4PbMGCMGNj*8*ckbq*bN(4ccmG*NC#(gMmN#4_P8wN#bM*jNN(=Pb4#CMmcc#fP4(*Y#c(jwwNccN*4P84CG*mP 4mN##bjwNj8m#(4*cN8#cC8P8cb(M8Cc*(bjcbj*NNP4mG*DcP4c#xjmCcm)9GGjcb**Gm*4vCcPcCmPDc*_G8Cj(P*bmwwN(cS*GN8#Gvb8#c#88M#bGwCjZ44cG*8N*M4M4wPcw!m888N4PwGNm(4GNNw4w4OwqcwCC8C#4##CMjP(w*mNCMjGPmPPCbwmC#P((wN(N*PNm48GwP*MGCCmWc.Zjw4jM(c*NCbN!4mC(mcMcbN8m#4bP#xbw*4NM4cGNCCwbM*CmG#=88M#GbCwIN4PmcjfGP4MbC#mJcM8P#Mbww*jG4bc#-*m8#*b>wM;cmj#NbPwmj*m#(8*GPmMwGmwPMG_o8c#G?*w#jM(wN84wG*PGMCCE8bGP*4w4#m(#*jNN48#cG4Najj9484c*4(wG#P*4j*4#GjPNM8c.kjm9c#44*mN*w?jP44GMPcMN#GCwmNcG_cwbjc(jjG(8GbP(M4C#JCmmMmBF#N+Gw8jw(**3CwPbM*Cwm8cPL48j#<b{wM(m*8Nw4*GGbCww*4jb#(WNwcj#(j*mC(jXM4CMPw#j&jm=cGb4w8(4wPN#4jGNP88uc4Ccww#mACwNNw(G*jN*GMNCMjCNmPCMPwMm9N8*#wbN(Y*4P4MMCcmNm*cT;(wM#Pb8wwN#4P*PPc4BC(PG3Mmw#jbNwPjwmj4cG#mN4UCMmmcmCG#bbM8Cjj(N*PNw8c4mG*PGj#<GcqCXw4jM(c*Nn4jq4(GNGN#juP8(#Nc**4PPb8*cN#(mCjMjC(mmc81w8CGMjjbPCbjK4GP44cC#mjcN/8(48NNG(bwjjP(N*lPm#jGGm##(0#wbbN8_j8(w**N6884NGmP6#*3%85#Gb(jjbR*mN84wGCbMmjMPb*mm#8+G8G(cw*NN4PGmP*8#cjCP8j#NZ;GN#8(NNM(8GjPNMPCw((8NcjYjG8#Pbm*GN*4#PM4GCjmNcPdw(c8G#bb8*4NN4*Pb4NCMmcc#<P(48b#P4c*MjN(cG4PmMPmbM4vM8c##bPM4wjjc4MGMNNcNC4P4cPbC8jcPb*wj(#*(NP4mG8PG8OMw&m*M#mwb#j(M*cN#4Pcb*Cm(c4C8w8#Pb(wNj8b8N((mGcP#MjCm((mc#jb(w4jm(m*bNPG((mlCwmw#GPA4Mj(wbmwjj*(G*CP(NjMGCjP*YMmG#jbNwPjwPc(gGNNCM4GCmjQbmc#Mbcw#jPPm(**4Nc4MGwm#Pw(NmN#mb(8*(cV48bcwNmGxNb4b#Gc*CZ8Hjb((*c*mN*(C<GP4MbCGmMNcvc8wj4cwCb4b*NPMMcC#mPw(#b<8w4j#b#GPN84mGPMbG*mMcca#8P8(##(#wbj8*wNj4CG{mbcMj4aNmSj(b*wW(Nw%N84wG*PewPcc9P8w#c(C*bjK(CNj(8GmP8MwCCbG84c8b*wNj8jbGCjC4cC(P8j*mmcb5*8G#C((4BwQm*4cGPP4#(C#84cw8m#4b*wGjC4(M8*mPGc*CPPCcNO<#NbMw8jw(**nCNPcMPC(m8I4mP##bjwNj8jE44*cNc48G#mwc(Cm88cGwM#w(j*NNP4wcbGmPNM&CPm*#*bww8(4w^N#4jGNP884c40Nm*F*8##n(b*(NcP*(%C(P8Mj>b8(cc88#MbGwCjd44cwGCPcM#:b84#(D8#P1wwwj*(GGbCjPPM4CbmGcPCCm8N?bN*(j8bE*j4*G4PYcb_(8c*c#*b*8Bm((j*PNM4jG8PCCGmN#bb(w4j#jG(M*cN4M4G(PNC8mbcGLC8Wj4P4(b*GPb4j+MPPccGG84cj8*#GbCwANb4(G4M4-cCcm(cN{P8m#*jbb8wGNj*CNNM(C4mMcj#Cb4w4jCbG*Mjc4(N*44Gembc(pc(Wm*cCbcGmj*(8*wmP4GG(MGCb8b#(b4w#G8jGblybPb4MCcmMMw.j88cC5m8w((wcNc4#GjcM+#NN44GCPG#Nb8*w#U(Pwwjb(**jC#PbcPhm88#GPPb#wNjGjGC*PjMbM(wmc#bb8Mj##N*GPj4#G8**j8_(c(*N8c##bjwmwGj4(M*PNjjb(**Gc#CP8CcwoGwM8#4(*mNGMcGG*8MP%8m#PC48w8#GbG*bNc(w(Pw(c(t48c#NxNCC#mbjww44GcP#MjCNmNc4d88w#*b,M8*PNmM8GCPCCMPPcjqN8P#wPc(b*cNN4bENNgMmC4mNc*CR##y*wPjm(8*GC*NwMmbPmPMCbwmCjbbmj#(4*PNm48GGqcPjc4nbcqGmw4jM(c*NGFN*4*GMGNc4=bmC#jc*8jjGb*(bN(4bGcPbcb_MmM#Mb# 8#c(MwmNjjUAMP4MMC#w(#bbM}NN4cjj*b8*HPbM(CcbNm8cc{c84jb44wSNM(*G#mPMNGmP8cj%488cyw##r(P*mN84GcjG#mmP*bm8G#Gw4#8(#*jNN48cjGwmNMbF#mmN#;Pw#((w#Nc4#GjPmPCc(CMw8#ck48NPMb8*4NC44GGM#CjmNcPum88mwm#NGjG(jGbP(M4C#GCmGMq!b8*#P(bw#(w*(NC4-CbmMwCc*iG*C#(b#w#N4(P*(NwG*P(MBVb8(#cNNbM8*jc(mGbmMM4GjPMc#CmcCd(w(j4(M*j*iNw4TC4PwcPCjm8c#bcwc#8(m*C44*jP#MjCNm8wjcwbN8bj#bmb*P8(8GCN*4*GZc#Cj8P#mb8wGCNNm4PG(Pj4*CbPwcMiCGb##bmwNj###Nw4MGCPJcbEM(P8wcG4*w(#:(**4NcG8PjMGCCmq#4NbbbG8j4(wN#(wGPPmM8CGb*8mcmbM81jm4CwwN*(q*FMjGCmmc87w8C*w#GMm*#NG4(GmP*MCm#M8xP8m#8bGMj*(jN4M*MPmM(% P*cGZb8bbN84j8(w**N;mN4#CPmmc(cbmG#M#MG*j*(Z*}PM4jGjGw#*CC8##(K*jMbw*jNN4PGwb(PjMcF(mNjmb#8r#/*4jN4#GjPNM8jcOjmjc#b(8R#G4*wmN8(G*GMcC(mNcP2mMjk888#(bm(C*#P(M4CMmj8CcCC*8(Pcb4wcj#(w*G4CGwm(c45M8j*#j4bwwN(P*(Nw4*GGmbwMM8(48b#vbGwGjO*jN#4mG8Pw*mNPM*w4bbw(j4bb*cN#4jGjN>MmC8mwcCcj{*8m#mb**jN448Pc48CNmPcmt*4#GM#P(8wnNPMG*8Pw4CGCc#C*8P#mb8wGGjjj48*8NmcGG8mwMCCC##%2wPjm(8*GCNP#4CGGPmcmC*#4 Gw#jj(N*8VMNP4wG*wcc*mCcGb(w4jM(jMmC04jGMPmM8CwmC8M#8RZwP((*4NM4cG#PjMNwc#mcmX(8*#GbC*(C8Nj4C*CmbMrG1m0cM8Pcmbww*jG4bcc*PP(MCC4m4cm}{*4#jbNwMPP4P*PNNGCPPc(Q48M#jN4bN*M#*4(*#N#GwNwMCCe8b#MjGbww(jj(8G(Pc44C4mc#jCjm*c8b*wNj8*4jw4#GjPNM8#jCPm##b7jw4#Gb{NbbNGMPcM#CP((mG#(bc8GP#bwwjN84(GmmC4wC*PJM)((88#G(M*#jc4mC4mq#NmbMG!M8c##bP4NwjNc##N84jGGPCM5X4C88b#bb48q(#wGNP4mG8PG8*cm^cmC#cL888j*(*Nc(mGNPPMmC*bymwcc>*w(jP4w*8jC(wGGP(CjP*cm!88w#CNCb**mN*44CIPccbGmmCc48P#mb8wwc8(G*CNi(Cjmm(cMBcmC#jbNwPcm(m*wN*4GGCP.M#:(P4MCbcw#jj(N*Pjj48wwN(MGCCm #bb(8mjM:cwwNj4NGPPmM8C(m*4GX*8fjb((*4NM(NG#Nc4(CPmPc8Am8*#GbCwWc44bG(PMMMC#mccNGP#(#8b8w*j*(C*4PbM(PNmMcc>#8j#NbNwmc8*M**NG4CG.mbMb 4NG(mbcwjjN%w*mNm4wGcPGM8jjmI#(b4mjjc(c*jj#((GmPmMwC#mGcCHembbm(4*4Nc4cGjNwMP*mc4cw_w8G#Gb.w*N(b4NwPcMcCjmjcPgc88MwC#wGjG(A*aP(4bCMP44(6j8c#Pbjw8jw(*wwNG42G*m(c(ZM8c##?c8bjP(c*8jG4*GGPCMx*48bcGbMwMj#(c*N#PG(G8PjM*CPmCcbbbw(Cb(M*bN#4cGNPjMmGPPcc*-P8C#((b*(N44M8jPcM(CNmNcm.P8wM*w#wCj84b**P44GCcm#cMYN8N#mb#wwjw(G*8hj4^C(m444<c8c#jZ#8(jm(m*wj*4GGCP)4CG884#(bcwMjj(N*PNmPjGwP8MGCGmf#bb(w4#G(c*cNj4NGPPPM8CwMNc*.C8.#W((*4NM4c*#PjMNCPmPcMtw8*#G(bMc*PNG4M**PmCcmbcNEP8m#*#c(P*PjH4NN.4mC4mMccQN(C8jjbbmwCNM(jN*4#Gombc(/c(Pm*##(4wjjj(GGM48GMPGMCC684w*#bb(8GP444*4N(GPP4MwC*mG#bj*b(wG#j(ww}jSG#N(MPCmm8cGN#b(8P#P(**bN*4wtwPbMcCN*4cCbj8jjP(NwNNN(wPb4wCMmcc#nPdw8#j#bCwjjj**N44;Cbm(ccjcR48-j4bPG#j84jw-Pc4PPGMjSb8(#4b#4(wMjb(w*(NG4PG8MwC(mCc>bbwMGPjwbGCdNw4wGmm4M#hMmwF*8N#&(b*(NcNN4M*vPCM4C(cPCc8w#*bG*bCjNc4bGw88MPCbmbcb448C#Cb**#Pw4#tmP(MGG*PGeMmw#jbNwPjwPb(m*NNr4PG*m*cw08#Mbcw#jj(N*PNm48GwPwMPCCms#bbMbPw:jc(GNj4NGPPm((Cwm*cGuCMcjb(b*4NM4cG#Pj4#PGmPcPAw8c#GbCwi#C(cG4PbMcG#mjcNEPPm##bwwmjG(w*+N4M(*4P-cc348j#cbPwjj8Qww#NG4wGVPGc(CN8M#c/Mwjjc(P*#N84wG*PG4CC_mC#(b4wMjb(#*4CC4NGmP8(jC*m*cCZmwbjbbw*Mjj4#G#PNM4Cmmj*4Yw8G#Cb(*bNb44wM#GM#GlmNc4+mmG#w68*8jC(jGbNGM4CMmcc#PN8N#(bmw(jw(8*GNPGmCbP8c4C48c#cbjwjjP(#c(N84*GGNGM,C%8(cCN8wMj#(j84NP4PG8jwCcCGmjcT%mw(j((MwjCc4j*PPP(cC8m8c*,#8C#wPN*bN44M8BP#M#CNNP2(S88M#*bjwCj84b*wMcMMG*m#4(rN8N#mb8wwjPmc*GNHMbw*m4c4AcmMMibN8%jmb8*wN*4GwCcMcbCP84c8bc8kjj6N8wNm4(GwPMMGC#m&MbCNw4#8(cw*Nj4bGPjm4mCwm(cG!j8<#j((*4#G4c**Pj4*CPmNc8W#mj#Gb#wL#b4(G(PMMcC#m4wCuN8m#8Cww*j*(C*w{NMbC4mM(oF#8##N)j84j8(4**Nw4CGRmb4(m88Mcwb#8GjNb**mN8bmG*PMMCCC8b#(b4wMc4(#wwNN4bGmP8MwC*m8cC,jwb#j(4*4Nc(9N#PNMjCmm(cwTw8G#*bSw*CP4(GMPc4*CjmjcP9m4G#8bwwGj*(KGbP(M4NCmMc#Dj8j#Pbmw8j8bG*GNC46GyP4c4vM8c#NNGbwwNN4c(*KNN4NGNwmc#J#8M#*wM#0(j*NNP4wc(CNPGM#IjcCDCw(j4(M*jGm4#G#PPMmC8mGw#F*8m#h(b*(NcNmMbG#PCCjPGcmy88w#CNP(8*mNPcmG(Pw4oCwP8_jm*#mb8wwjCPC(*GmP*M4AQmc#bCm8C#4wNjc(8*wN*4!4cCwmcM88(cMbcw#jj(mMMG#PcMM3#PPc8CCm8#Pbb8Cjc(G*<4j*JPmM8CwmCwjcj)88oN{((G88CGcNGMNCPmmc*jc5c8P#G4GwJPP#wPMMcC#mjcN}P8mj8**wwj#(C*:PbMMcUCc8bMm!C84#4wPjb(w**NGMb#mC#mGMG<r8CcCbCw4(N*(N84wG*POPPcNCT88#cbw8P(#*jNN4P8*P8MwC*PwMN7Fwbj(b8*MNc4#Gj#mMNCmm8c8B*8w#CbmN4N(44GM#PM#C#mNcP6m8jG4bwwGjCBMGbPbM4G(NGc#lj8NcCbmw8jw(jNNNC4tCbPmc4>48c#cbjwMG>(P*8Nw4cGGPGM.C*(P#(bMwc#8(j*jNP(N*MPwM*CGPFcDbbw(#b4b*cNc4jGMPPMmC8mwM82G8C#vbC*(N(4M*4jCMjCNmPMC;88w#*bNNbj/4bG(P4MMCMm#cjLN8cGbbmwwj*(G*CNCMb*vNwcMWc8##(bNwPjm_8jcNw4GGCPKcbCc84MMbbw#jj(N*PNm4MGwj*4*CCm?#bb(w4##(c8#Nb4NGPPmM8CwmwcGC*mcjbbv*4jG4cG#PjMNCjmmc8yw88#Gb*wqj8(#G4PMMcC#mjcj)P8m#8bNMMj*(C*XPbM(C(mMM4GC8j#NbPwcj8(w**#GGjGDmbc(I48McNb#mjb+(P*mN84wG*PjMC*VcP#(b4wMjc(#wPNNbPP(P8MwC*mGcCEmwbc(w8*MNc4#GjPNMjCmP**b+*8(#CC_*bNb44GMPcM(#GmjcPqmP8#wbwwGj8mj*lP(M4CMmccc,jm#c(bmw8jw(N*GNC4s*bMmc42M8c##bj88jP&mN4Nw4*GGPCM^Cm8(M48wwcj#(j*NNP(wG8jwCcCGmCcXbbw(#m(M8c(G4jGNPPMmC8mmc*<N#P#g(b*(N44MGMP#M#CNmc*bfm8w#*bGwCjC4bwTjwMMCcm#MNON8P#mUP*Pj*(**CN*MbC(m4cMC48##jbNwjjm(m*wNP8cGGP;cbB(84#4bcw#b((j*PNm4mGwP*MGCCm##bb(w4j4bi*#Nj4NG8b4mjMcKPc*!N8)jb((*cCGmw4bC4PNcbmPc4<w8*#G(bb8*PjG(8GNNvMGm#MPiP8m#8bG4G*mjP(PO8P4MbGGm*M:C}*jN#MMjm(#**NG4CC(GGmGcjCCmCbc8CjN(P*mN*m8cmbN8GcwHb8mb(8Cjc(#*jNmNCM#G8mMCwm#cCJnwbjMP(MbCCmj48G(P(CPPCcwe*8GjbP#bP*#Nw4wlcPMMrG_mm#(8mcmb*wGjC4(MwGmNdMcCPml#4?bwbj44cwcj8(PG8P#MPm(c4-M8ccbbjwNjPbNPcNw4*GGPwMisb8(cbCwwcjc(j*bNP4mG8jwMNCGmGcS:}w(#P(M8cNM4jGjPPMPC8m4c*/G8w#7(b*(Nb4MG4P#4cGMmPcP}88j#*bGwCcX(NG(PbMMCcm#c#gNPPb(b8wmj*(w*CNNMbC(Mcc4yM8##cbNw#jm(jc4Nw4GGCNGcbSb84MM8*w#jb(N*MNm4cGwj*C#CCmP#bb(w4j4(c8#(C4NG(PmMMCwmPcG)PNj#Jbw*4jM4cGcPjMbCPm#*(q88*#G_Cw.j&4(*C^8MMC#mjM#2P8P#8CwjcjG(P*WN*M(CbmMccNP8##(bPwNj8(w**NN*GGxPrc(CP8M#Mb#wcjN(ccbNm4wG*PMMCCC8b#(mGw4jc(#*#NN4PGmP8M4C*mGcCoCm*j((4*MNjNM4MGuPNPjCM8b#cc88w#Gbww8NC4c4(PcMcGGcNkc88#wb*w%*#NM(3G8M(GCmcc#rj8m8Cj#b8*M(w*#NC4DCbmM8Gcwic8Mclbkw4(PwPNw4*GGmb88cPCC8M#NbC*(#)(0G(mM4MGmPNcmic8Nq-8cj4(M*cNNm84j*2PNM*HMwj##qm8jjPb*N((*GcP#MjCm(4mNc8ZwGMjwwGj84bG(P4M#48f(m8cb8NcNb8wwj*(FcPGwP4MmQ.PCcPJcwb#H44wjNj((*wP#4mPqcbR(84MMbcw#jjb#w(Nm48GwPcMGCCm>#bGMw(jM(c*cNj4#GPPMCcCwm*cGLm8U#V((*(NM4bc*P#MNCPmcc8R88*#mP#wCNb4(wMPMMMC#mj4C=N8m#8bww*jG(C*m48M(C4mMMwu#8##NbNwmjjm4*wNG4CGjmbcbn4m+*wbcwjjN(P*mNm4w*8NjMCCD8bcCb4wMjc1#2GNN4PGmP8MwCNmG4CCwwbj((4*MNc4(GjjNMMCmm8cw?*8G#Nb38bjw44GMPcM#Cjm(cPCNmw#wb8wGj#(7GbP(M4**mcc4<j8j#Pbmw8jwb8*GNC4xGGm(cb0MPccJbjwNjP(m*8Nm4**wN8M<CC8(#(bMwcj#(jwNNP4mG8PmM*CwmCcm88w(j4(M8GN#4#GNPNMmCj(4cwFG8CcP(b*bN4(6cwPcMjCNmPcm^m8wc8yjwCj<4b*CP4MMCcN#CC%N8P#mb8wwjN(G8C4NMbC(m4cM5c8(#jCNjbjm(8*wN*4GGNPJ4b*884#Mbcw#jj((*PjNMNGwP8MGC#m/#bb(w4jb(c*#Nj4#GPPPM8CN(Mc*lC8_jb((*(NM4cNbP#MNCPmPc8uw8*#GbCw<Nb4(G4PMMcC#mccN_P8m#8bjw*jG(C*_PbM(C4mMGX^c8j#NbNwmj8(w*wjH4CGvmbc(t48M#cb#wjjNw1PmNm4#G*PGMC?(Cmm7cWb(8C(cw*NN4PGmP*8(M8CP8bcmKGwGj*(wNM4bGjPNMPCwCb8N#b6j#Gb8*bN(44G#G8m(MjC<cNCw88#wb*wlCbNM(m*wN8M4C*wmcbIPwc#P(Mjw(**GNC4UCbm(c4HM8M#bbjwNjP(w(MGNNj4JPGMb1b8(#4b#4MwGjc(jC4NC4#GiPwc#bw8wcw_8j(bj*cN#4jGm)4PCM#C&mw##48wm#m(#wmNwGMP(MjCNmPcwcmbM84b*wNjd4bG(Pc8G#wCb84cNbb#Pbjwwj*(GGbC+P*4Cm(M4Xc8##jbm4(wjjM(mCCP(4PGNP+cm(jmG##((w#Nb*PNm48GwN4MGCCmSMCC8w4jM(cwGNj4NGPjmC4Cwm*cGFC8I#*((*4c#4MG#PjMjCPmNc8>##C#GbCw=#N4(G(PMMcC#m4wCqN8m#814w*j*(CwGjmM(C4mMMja#8j#Nb4jwj8(w**NG4CGCmbc(W4mt*wbcwjjN(P*mNm4w*8NjMCC%8bcSb4wMjcbMNNNj4NGmP#MwC*mG4Cncwbjb(4*4Nc44GjjN4#Cmmmcw>w8G#(b-8bjb44G4PcMcCjm(cPGm8P#wbwwGjG( *jP((4C4mcccdj8j#Pbbw8cwb4*GNG4SG=m(Mj_Mm4c/b#w#jPbG*8Nw4*wGNwM5CC8(#bbM8mj#bcwjNP4jG8PcM*CGmCMGdNw(#C(M*MN#4jGNNjM(C8mjc*Vj8C#e(b*(#y4MG4P#M(CNmjcm?8(m#*b*wCjC4b*_P4MMG4m#cj}N8j#mbmwwjPmc*GN}MbC(m4c4Wc8#)(bjwPjm(m*wN*4GGCPmcb_(84#4QNw#jj(N*8(j*44PnGPcNGM*CP#8ccewj(*cN(4NGPPmM*c(Cjm##m8Cjb((*4NM4M*wPjMNCPmwCNmMHmGP#*bmw8wm(OP44#C#mjcN?8cj:4#P4N*mN44P(G8*MbGGPCPG>M#j>6wmj8(w*C*jN*4mGmP*cjd488b#wjjN(PwjN84wG*NwjCC&m.#(S*wMjc(#wc#G4PGNP8M#C*mGcCg m#j(b=*MNc4#GjPNMPGwm8cmT*8w#CbG*b#((8GMP4M#CcmNcj_mmP#Nb*wmjC(CGbP(M4G(NGc#<(8N##bmw8jw(*m/NC4GCbP*c4,(8cM#b(wNjj(m*PNw48GGN*4#JbmG#4kCwcj#(jw#Nj4mG#PwMmCGmCc=bb8Pj4((*cNb4jG#PP(mG(mwc8+G8*#ZbC*(jbbmGcP(MjCMmPcmQ8mmc4bGwmjt(GG(P4MMCcPGcjT#8P#cb8wwj*(G*cNL4!C(m4cM:c8##j(4wPjP(8*wN*4GGCP>Gw b84#MbMw#jj(N*NNm48GwP*MGCCmI#b!Qw4jM(c*#N(4NGPPmM8Cwm*cG/Cc8#>((*4N44cG#PjMj*jmmc8}w8*#GbCw,Nb4(G4mMN#C#**(48(Pmjmj(#j8>(C*jm*(8C4ww8cb;jN#j *wmj8(w*C}NPMMNC8mM#wuw8c#4bNwJ(N*NN84wG*PW8(C-c83b*Q?M#{MNNcMN4Pjm(Nj*PGmb4G8*Nbj(NP48GwP*MGCCj>88mmcjR*8G#C(((j*GN44wPcwb4M*NPmm#b8N#cGw*jc(=GbP(MccmC4mbcP-(8#j#(c*M(wwCNC4!CbmMwPcwCG*C#Cb(*4N((mGcPP4*GNPm^bP8mwM4wccN4CC*MP4PGjPwM*CG8bw6#*KCj(bC*cN#4jGm!#m#M#CccwRj8C#L(b*MC*m8(HC(PjM=mNM8288w#*bA4N*NNb(CGMPwP(CMmGmc((8G#8(Mjw(P*CN&MbCMb(mlccWG##b(wPjm(8*G*#Nw4wGGP8XbPC#Mbcw#jPjC(**cP44PGNPwMM/M8b##2w8Nj((b*cNN4#G4M8-wPPM3HC(*(#*mPcNM(wk(j,MN(bHmjcM*8w#NbCw7Nb4M(;GfPPMbCbcNjm#8Mc*wGWP#Mb(bPbMNe#8PPc0*NwP8*PwP#8(w**NGMbc*GwP5MN0N8c#mLV8wP#(c*PNw4mGjMGCm8b#(b4w#G#jGbG*-NMGmXC8N*CGG8mPPcm4M((w3Nc4#GjPmPNc(Cbcwj*wj)wcdcMC(#4(cPM48CjmNcPow4bwM##4N*jj8(NG#P*Mwmcw#REccmPP*48mwGG*Gj(jjQw#4mC*jGN(#bjwNjP(m*8Nw4*GGPCM3tb8(#48#wcj#(jw#444PG8Pw4*CGmCc<CbmCj4(M*cN#4jw8PP4N*GmwcwSG8(#D(b*(jb(SGcPMMj*jmPcm!8mm#NbGwwj<(mG(P4MMG4N-cj3M8P#Pb8wwj*bw*GNn4wC(NbcMlc8#ccbbwPjM(88mN*4GGCNG4MD(mw#MC4w#jj(NwjjN48GMP*M8CCm%#bCy8#jMbw*#j*4NGPPm4PG#m*cM;CPGjb((*4j(4MG#NwMNGCmmc8Jwm8#NbCwMNbbwG4PMMcC#4NcNEP8mcCbww8jGb*NmN2MbC4PMccQ#8jMNHwwmjm(w*wNG((G+NCcb148(#c7PwjjN(PwNjG4wGmPG4#C98b#(nb8Pjc((*jN(4PGmP84mG#mGcm^D8;j((4*Mj444GjP(MPCNm8cw_*mw#NbZwmN(bGGMPcM#GcPPcPF(88Mmb*wGjCbG*cP(4mCMNjc#ej8Ncjbjw8j((*w#NC4_CbN>M(QMmm##C8wNjP(mwPNc4*G(PC4Ntb8(#4x(mPj#bm*N#P4mG8PwM*NCmCcCbb8cj4((*cjMb4GNPjMmC4mwc*BGm*#c(bwCN4(8GcP#Mj*NbPcm&N8w#mbGmnj7bC*NP44CCcP8cjiN8P#mb(wwjm(G*mN:4CC(N44rWc84#jbcwP#w(88wN#4GGwPkMG{(m(#MCcmwjj(c*PNj48*bP*(GG(m}cGb(8=jM+m*##j*%GPPjM8CPm*MGWCP2bP((w=NM4(G#P(MN*Pc(c8gN8*#*bCw8Nb4(cwPMMbC#m4cNrj8m#c(Gw*jm(CmcPbMbC4mbcc=((G#jbPwm4I(w*wNG(**PmbMCo4m8#cb#wjcNPP*mNN4wGmPG(}CePCcmb48Cjcb8*jNN4PGmPNMwCmmGcm,r8Cj(n48GNc44GjPcMPGwm84wC/8G#wbqwGN(((GMjc4CCjmccP^j88cbb*mG#8(}*GP(4%CMNmc#Gjb)#Pbjw8jP(*wGNCbi*mm(M^lM8(##b(wNcPbN*8NN4*G*PCM81b8(MYbMwbj#(4*NNj4mGcPjM*C8mCJ4bbwbj4b5*cN(mGGjPPMmPGmwcw,Gm*cP(bwCN4(BGcP#MjCNqPcm-N8w#wbGwGj!bCGbP4MbCcP4cjeN8PcNb(wwjP(G*#N,MbC(N44*-c8(#jbMwPc8(8wmN(4GGPPtM#9(84#Mbc8Mjj(M*PNM48GmP*(GGwm1c*b(8CjMbj*##j*DGPP#M8CNm*M*kCPd#c(bwCNM4bG#jwMN*PPNc8_N8*#mbCwbNbb(*GPMMbC#m4cNCP8m#8b8w*j8(C*GPbMbC4P(M8T#8M#N>(wmj8(ww8Nm4CGwmbMPk48M#cC#8#jN(c*mNj4wwGPG4*r*8bcwb48Pjc(#*jNNwmGmPjMwCjmGc*3Jmbbm(4wsNc4(GjNmMP*mc4cwfP8G#8bO80N(b448PcM(CjmMcPGC88Mw98wGj8(1**P(4jCMmcM#Kj8M#Pbcw8jw(**GN*42GGm(c4yMm0##b4mGjP(m*84b4*G*PC(xmP8(c8bM8Gj#bc*N#4#8G8PMM*m#mCcCbbmNj4b!MwNc4jGNMbMmCmmwcPNc8G#7(bjjN444GcNM({CNmbcmCj8w#*bGwCcG4b*PP44*Ccm#cj)Nmj#mb4wwj8(G*GN748Pbm4cb1c#(#jbjwPjN(8*NnM4*GCP/C*i(8(#Mbc#bj#(N*PNP48GwP*MGCCmL#bb(w4jM(c*#Nc4NGPPmM8Cjm*cGAC80jb((*4NMw?GcPjMNCNmmc8kw8w4CbCwINb4b**PMMcC#mPwccMIGwcjMww#w(C*xPbMMN8C**NPGMMC4j(M*b48P#NGjw(NN(G**cw84#4b#wjjN(8N*Nm4bG*PGMCh((j8mcw(Gw*jbbG*wP4M(PmMjC*mGcCb(bjwGj4(wNM(sGjPNMPCwCcmPcGb(8NbCwmN(44GMPj8cMcC4mP##+w#wb*wGjC(sGbP(M48MmMcMIj8N#Pbw(#j8(#*GNC4UC4GwPwMCDP8c#*wjcG(m*8Nw4CcGC4P8c*nN888b4GwGN4(PGbNcNNGjmcNGCPmPcCbwwcwb(P*c*MGjPjMmC8mwcCPG8G#8(b*(N44#4cC(NDM*mNcM-88w#*bA4N*Nj#(8bGM4GGm#cjqN88*M#Mbm*jjQ(PN)MbC(m4cM cP#88*NwNj4(8*wN*47#PGGmbc((mw(bM8Xjj(N*PNwNMMNCNPCcjmCcMb(w4jM(jMm*#jC4jGwm4##}cmPc#bN8w(b*4NM4cG#P#4yCPmmc8WG(Nw##CbGwmNm(*P44MC#mjcN18(48C#w(cG*j*(8GbPGMMb*m*#(vN8{#Mwmj8(w**NG4C*Nmwb(-(ms#cb#wjjmw#c*(N48G(PGMCC_84*G#GbC81jGbG*wPc44C4M8CjmGcC_gw48CjC(Nw&j!G#PbMPCmm8cG#MFw8m#O(*w84(GbPcM#Cjmmm8cM8m#cb*wGjC4(MCGbm*MyC#mG+#P*#Pbmw8jGPw(w*mN_M*C4Gpj*1*w(#NbowMwj(#GMw*4NGNPGc8FMCg#NbMb4(#*#NP4mG8PGmPC*PGcEbbw(jcN*(P*#NCcNG*PccjY(8cNjbjwwj((mwG44*4P#MjCNm8wc#4tP8Gj((P*wjm4mGwmG4GCMm(#M+Cw(bmw#j*(G*CP(mmMmGNP*Pb8c#bbNwPjm(*44*GNw4*G8MBC*84#MbcwN8&jw(PG(4mGPP*MGCC8(mCcww(#*(c*#Nj4m4(*GPNcMC88c_C8Zjb((*4NM4cC#cNM#CNmPcb>w8*#G(bM#*Pj8cm*CN*MmG5m(nN8N#8bww*jsj6*CNmM(C4mMcjj#a884jcb>*4(w**NG4CGRmb4(MjjM#MbbwjjN(P*w*Mj>4mC#MGC88b#(b4w#GMN((j* 4PGmP8MwC*mGcCw(Nbj((4*MNcN*GjPNMPGNNjcwX*8GM4bT*bN((bw8PcMcCjN4cP{m88MwwcwGjG(7*)P(bCCMmc(Nq#8j#PbPw8jm(**GP24DGpm(c(5M8c##bj#*jP(N*8Nw4*G*PC(emM8(#4bMwcj#bC*Njj(4G8PPM**PmCc-bbm(b8(M*(N#4MGNjcMmC8jGcwA88C#C(bwXN44MC#P#MMCNm#cmH88w#*w4wCjw4bG(P4M4Ccm#*weN8M#mb8wwj8(Gw*jPMbGwm4MmFc8##jCNjbjm(c*wNj4G*MP{4C*G84c*bcwMjj(N*PjN(jGwPcMGC(m!#bb(m4cj(MwGNj(9GPjjM8*wP*cGZ#83#C((8wNM4cGbPj4dCPmNc85m8*cwvPw?jN4(*#PMMcC#Nj4*aP8b#8b4w*c8(C8ljmM(GPmMc4R#P)#NCP8cj8((**NM4C*-mbc(mQ84cwb#wcjN(j*mjPbsG*PMMCC48b#(b4mM#M(#w*NN(CGmjNMw**P(cC1cwb#J(4wMNcb#GbPN4GCmPqcw*G8G#CQN*bjN44G(PcMMCjP#M*smmX#w2?wGjC(7wbNcM4GPmcM8JjPc#PCm8*jw(b*GN*4Zw(m(c4C(8cc8bjw#jP(N*8Nw(*GGPPMIC#8(#bbM8c#3(j*4NP(MG8P#M*GwmMcE!8w(#P(M*cN#bjGbPPMMC8m#c*C48CcGbN*(jw4MG4P#MjCNPjPP+88M#*bbwCj.4bw(NbMMG*m#MC+NP##mC8wmj*(c*CNwMb*8m4cMCN8#cCbNwjjm(P*wj84jGCPjcbCc84#Mbcm##w(Nw0Nm4(GwjmMG*CP4#b_Nw4#&(c8CNjbNG(PPMbCwm4cGCC8ajbwC*(j84cGMPjM#CPPNMDrw84#Gb(w)Nb4(w4j*McGwmjMG?PPj#8CwwMjG(M*7N*M(G4mM4cCM8jc*bP8Cj8C***NG4*G%Pjc(%b8M#4b#8c#4(PwCN8(CG*PGMC*tmm#(QNwM#m(#8MNNbPi#P84!C*mmcCGbwbj(c8*Mjm4#GcPNMjCmm8MjO*8N#Cbc*bjD44*MN7M#C(mN4PRm8c#wb*8wjC(mGbP(M4C(mcc#!48N#(bmw8jw(w*Gj*(#CbPmc4CC8c##bjmN#((m*4Nw4cGGP8MlGC8C#4omwccc(j*NNP4mjwPwMcCGmcc_vCw(c4ww*cjG4j*KPP4cC8NwUcVG8j#JbP*(j(4Mwc#CMjGdmPc(h8mP#*Dw*wjU(jG(#mMMCcm#cjGm8NcCb8wwj*(G*CNI*(C(P8cMCm8##cbN8PC*(8*cN*((GCPNcbC(4##M5Cw#cN(N*(Nm48jbP*MjCCm_#bBLw4MMwP*cjX4N8CPm(4CwP8cc,C8Njbb**4NM4cw#N#MNCbmmc4;w8P#GH*wcNb(NG4j4McC#mjcNC*8m#4bww4jG(**Sjb4GC4PwccCG8jc4bPmm#P(w*cNG4jGJNlc(G4N*#c,Gwj#.(PwjN8(mCmPGMcCtNN#(b4wMjcEN*#j*4PGPP8MwC*mGG+L)8Pj(bN*MN44#*jb8MPC4m84Af*8##CiIcMN((*GMNwM#G&mN(P*G8m##b*wjjCbwGb#((GCMPCc#*w8Nccbm8P#P(**jNC(#Cbm(c40MmW##/CwNj4(m*8Nw4*G#PCMPqbmY#4k8wcj(n**NNP4mMCPwMwCGP*MPbb8#j4Cj*cN#4jGNjjMmGGmwc()G8C#t(bMgN4(NGcPMMjC#mP4M4w8w#bbG#wjZ(sG(NbMMCbb*c#aN8P3jb8w8j*(mc#NCMbC(;jcM.M8#ccebwP#G(8w(N*4GGCPY(Cr(m##MAmw#jj(N*P(w4m*XP*MwCCm(#bRG4mj4(c*#G*4NGNPm4PGcm*M*ECPmjb((*4NMb4G#NcMNGPmmc8Sw8*GwbC8CNb(dG4P(McwpcmcNCN8m*bbwwwjGb**&N*8PC(mMcc#w8j#jbP8N#M(wwwNG(cG&mbc(T4P(#c;Mwj#N(P*mN84wNCP*4GCumC#(CgwMjbP**#NN4Pc(P8M8C*NGJj5Vm8j(qG*M#N4#GbMmMPGMm8wM-*8*#Cb=*bjGmmG4PcM#cCmNcNImP8bMb*8NjCb8Gb#MM4*MjGc#Gf8Nc4bmwcjwb8G8NC(jCbP#c4oM8c##mNwN#((mw(Nw48GGjCCN^bP8#4C*wcMC(j8N#(4m*4Pw4jCGmPc7CCwCj4Xm*cjm4jGNPPMmNwmwMchGmc#=bC*(#4*wGcjGMj*6mPc(?88#m#bG8NjJmCG(P(MM**m#c4jC8N#mb8Mmj*(**C#{bmC(NwcMGC8##bbN8jNj(8w4N*4(GCPUcb)(MM#MCGw#cG(N*jNmb8PMP*4NCCPP#bG8w4cMw**##34N*GPm(bCwmj-eJCmPjbP4*4N44cG#PjMM# mPc8yw(G#GbGw&#b*mG4j*McGlmj(*YP8mMPbw8cjGbP*DPbM(GbjaccG*8jMubPwmj8bm*MNG(cG7NNc(x48MMc8Gwjc*(PwcN848G*PGw*C+Pj#(bbwMj4(#wcPc4PwCP8MPC*mGcCgx4Pjb_w*M#G4#wwPN4Pj*m8c#5*P4#CfP*bjGmmG4PcM#cCmNcN;mP8bMb*8jjC(mGbN8M4CMN4c#GC8Nc4bmw8jwb88mNC(jCbNmc4_M8ccMCWwNcC(mw(Nw4*GGjCCN>bPj#4CCwcjc(j*Naj4m*bPwM8CGm*c%CCwCj4sP*cN44jGNPPMmj4m8M#UGmN#r6#*(j48jGcNoMjCbmPM4H88#YwbG8GjxwbG(P(MMC4m#c4jC8N#mb8cwj*(**CNm*pC(PjcMPG8###bNwjjm(jc4Nw4GGC4Pcb_b84cG8Mw##.(NjwNm4mGwP8MGC8(jcqb(w4bj(c*cNj(#C#PmMMCwNCcGqC8Bcbwm*4jw4cGbPj4(CPmm*4288##GbNwljP4(*4bjMcCbmj4#=P84#8Sm*mjG(N*nN#M(C4mM4cmG8jc>bPwcj8Jw**NG8jGCPmc(Cw8Mc*b#8jC8(P*cN8(GG*PjMCG<4M#(5GwM##(#*bNN4P#*PmMjC*mwcC&xwbj(8G*4Nc4#G#PNMPCmm8Mb_*8G#CbCw8N(44GMPjNCc4)4mm#(8mc*b*wGjC4(cN*yNGMmC4PCM_iE8NN#b4*Mjj(jNG4NCbm(c4o#((8jj4iw*bjc(cNw4*GGCCC*cM(GjC*4wMjb(j*NNP4wc8GmmNNmmCcobbw(j4(M*cN#CjGNPPMmC8mwc*##(P(=bfw*N44MGcPNP*cMCP8(9mm*#*bGwCN(mj4GGMPcM*GmCMN(bc8j#M(N*bj**GNjMbC(m4c#MGQM8b#bbMwGjm4(Nw4cGCPvcb%M(M8wcwbGwNP44b*#48GwP*MGCCm_#b((NMj4b**#Nj4NG8!jPwcNqj8#N4bP#3b**4NM4cGNxjP#cM4McmCp8*#GbC*(C(j!4*GvP##4CN8MM*b(8#b8wNjG(C*hP4PPMjC4mG?c8(#NbPwmj*mc4P*jP8GCPwc(148M#jjC(4w(j8*PNc4wG*PGcbjb/PmP#8bcjc(#*jNN4PGmP8MwC*m*cbIRwbj((c4mGbjC4CG4G#jbCC8(#(ijwj#8*bN(44GMPcM#bj(4bPWPm*#wb*wGNbmj(C*mP(4*Wbmmc#(M8bj(bcwc(w*NNC4xCbmMP_cO^P8b#bwjjM(m*8Nw4CcGG*m8Nw8bc*bMwcj#(P4CGcN844CMM*CGmCGfC#MjGj4MPMN#4jGNPPCNC8mwc*CwmN#I(b*(j84MGcP#(jP2mPcmh88w#*b8wCc_*PG(P4MMCcm#MN<NPPb(b8wwj*(G*CjCMb*(M8cM{c8##jbN8#jm_8NMN*4GGCP?cbGN84c(((w#j#(NwcNm48GwNCw4CCmP#brNw4j4(c*#Nj4McWPPM8Cwm4cGpG8D#*PP*(NM4cwuPjMjCPPNMM=w88#Gbjw/Nb4(w4w4McCMmjc#1Pm*#8C#wPjG(**WN(M(C(mM4mq#84*CbNwmj8b***N*4CGwbNcb:48MMCb#w#jNbjGjN84mG*NPMCCE8bM>NcwMj4(#*(NN4PGmNP4NC*mwcCeGwbj((4w(j44#GcPN(uCmm8cwC8mC#CbG*bjw44GMPc4M*mmNcjAmm*#wb*wGj8b#GbP(M4m4mccc_jmm*Gbm8cjwbM*GNG4^Cbm(MCj88M##bjmCjP(P*8NN8MG*PCM0*w8(#(bM84cC(j*#NP4(G8PwM**G*GcW}Cw(jb(MwNN#bbw8PPMNC8NGc*!*8C#w(bwGCm44GcP#(PCNmNcmBj44#wbGwCc84bGbP44(-(m#cc1NmQ#mb8ww#8Po*CNGMbG*m4cM7cmMc#bNwjjmbM*wN*4G**PmcbC%84M8bcw#jjb#*bNm4PGwPjMGCCmXMCdMw4j((cwNNj4NGPP#(=Cwm*cG8G8L#K((wb#*4cGMPj(JCPmmc8FwmM#*bwwJNb4(G4PMMcPNm#c#{P8N#8bNw*jmm#*CPbM(mMmMcMk#mccbbPw4j8bM**NG4CGvjCc(C88McCb#wjjN(PjwNm4cG*PwMCCj8bcGNmw4jc(#NmNN4NGmj8CMC*m(cCScwb#j(4w(#G4#*mPN4bCmm8cwG*###Cb(*bjj44*(PcM#PPmjMwQm8P#w.GwGj8mj*HP(M4mPmcccKj8(cmbm8CjwCN*GNG4dCbm(MCj88M##bjP4jP(P*8NN8MG*PCMn8#8(#(bM8Cv8(j*jNPGCG8P8M*C(mCcwNNwbj4(MNmN#4#GNjPC(C8Pmc*=48CcG(b*(C*44*4P#4cCNPPcmC*(8#*b(wC4c4bGbP44(Ccm(wGAj8P#mw wwjw(Gw*jPMb*tm4c4}c8##jCNC*jmbP*wj84G*CPWcbG884cbbcwcjj(N*PjNbCGwNPMGCcm=#bb(w4cG(cwbNj44GPPmM8CwPPcGC88Qcw((*4NM4cwGPj4#CPmmc8!m8*#Nv(wH#C4(PNPMMMC#m#cN&c4b#mbww*44(C*CPbM(*bmMcMD#m8#NbPwm#PCC*wjw4CG#mbc(_48Mcwb#8MjNbP*mN84wG*NNMCGG8bcpb4w(jcbM8+NN(jGmP#MwC*mGM*/bwb#*(488Nc4#GjN#4PCmmbcwCC8G#Cbew8(b44*jPcbMCjmjcP{N88#NPMw*jC(amCP(M(CMPCCcJj8b#PG*w8j8(**wNC4w#Nmbc4FMNN##b#wNj4wP*8Nm4*wcPCMC5bm/#4UA4wjc(j*Nc/4mGmPwM*PPmGcYbbwbj4(M*cN#bCGNPPMmCmP8c*/G8Cj(P#bm*4N94MGMP8cbbMmNcPdc*mjmbmwP(_*4P4MMCcmNwGcw0Nw4P(b=wNjN(NlmP#M#CMm*eMPG#jbNwPjwmc4bGcPNMbXCm*c(r8*M#4(bG,j#(bGcNwMMqPP#cjCmmmbb8PjM(c*#NPPG4jGcP*M#Cm8m#PbN#?b**4NM4cGNGGPwMNr4cm_c8*#GbC*(w8j8(GGNPMMwm#c4uP8m#8bG(4wNjj48Nf48C4mMccTN(w8+jcb8wMNb*wNN4CG>mbcMMwty8%#jbCjjbW*mN84wGCb4PjME3*8b#bbNwG(c*jNN4PGmPmMjC*mGcCb(bjwGj4(wNM(mGjPNMPCwbNm)cNbm8NjNMw*Gj*4NGCMcGGmNcPpm8*8c#8bNwNj84cGbPPC4PCc#Hj8N#8#j(jwyjN(NNG4MCbm(c4V#(88GclM(wGjG(wGcNNM#GGMCCP8(#4bMwjCbj((w*CP#MMCMMwCNmCcSbbwMG4j((G*GNNGjPbMmC8mwcCN#xGwNjb(#*8jGGMP(MjCNmPcwjCD#GPbGwCjS4bG(P4MMCcm#c#C88P#mb8wGbmw#(w5bNNNb4}GwcGMNCC#cwNj4(8*wN*4%M4GCP8cmCGm*bMwbjj(N*PNwmmMNG*m#CCm%#bb(#CjM(c*#Nj8*GPPmM8Cwm*cGTCmGb#(b*(NM(#G#PjMNGjmMc89m8*#(bCw7Nbb(*XPMM4C#mccNyc8mM8bmw*jw(C*GPb(CC4NM4C%#8c#Nbjwm#8(w**Nw4CGGmbMCA48M#cb#8CjN(N*mN84wGmPGM8jjmQ#(b4NGjc(c*jj#((GmPcMwCMmGcC^-mbbm(4wGNc(UGjP4MPCmNPcw1#8G#Cb-*bN(b4NwPc4GCjm4cPC(88#wmGwGjP(>*PP(MbCMPCdNSj8(#PsPw8j8(**GNC4w#Nmbc4{MmM##b#wNjcmb*mNw4*8NPCMCkbP(4wbM8Cj#((*Njc4m*PmPM*C#mCMGbbw(j4(M##N#4bGNPbMmCPmwcj8N8C#m(b88N444GcPcMjCMb,cP088wc#bGwGj0(*cPP(MMCc#JcjYj8PMmw4wwjj(G*mNY(PC(j*_jIcma#jC*wPjP(8wCN*4m##PCcbK(PN#MbMw#j4PC*NNm488#P*M*CCPGMmb(8*jMbC*#Nj4NwPM(M8C#m*cNpC88jbe(j8NM(GG#P(MNGbmmMPbP8*##bC8CNb4(G4PM*#C#mbcNEb8m#Pbwwj(N(C*mPbVwC4m4cc c8j#MNEwPj8(wmjNG4GG3Nb(874mG#cbbwjj#(PwNPN4wGcPGMcCq8b#(b4ccjcbp*jjZ4PGNP8M#mjmGcPWQPPj(((*MNM4#G4UCMNCmm84M_*8*#CbwMNNb44GMcCM#C#mN4P8(88##b*wPjC(#Gbj(G8CMPCc#Vb8N#bbm8*G8(*wPNCZmCbmbc4CG8c#(NGwjjP(mmcNw4wGGjC(Pvbmw#4_CwcjM(jw#P#4mG4PwMwCGmCc3bbc4j4bG*cjG4jG#PPMMm*mwcj;GNP#gbt*(N44MGbS*M#CNmP(M=888#*+w8NjT(8G(NmMMCcm#4jmK8P#Mb8w#j*bj*CNDbCC(PwcMyc8##jbNmP(((8*MN*4PGCNNcbT(mh#MhCw##C(N*NNm4cN8P*M*CCmj#bbbw4j((c*(CG4jGPPmM(CwmwcGC*mPjb(b*4jc4cG#PjMN*jmmcP-w8*#GbCwINb*MG(P4McCMmjcc!P8#G(b8w*jG*5*sN}M(C4N(ccCT8j#4bPwmj8bmw#NG4NGkP4c(L48MMcGCwj#i(P*cN84cG*NwcwCXmj#(C*wMjc(#wcPc4P*CP8MbC*mGcCDLFGj(b8*Mjm4#GjPNMP#8m8ccI*8G#CbG*bN(bbGMN_M#G/mNcP)mmPccb*wjjC((GbP(M4CMmMc#CC8N#Mbmw8jw(**jNC4PCbPdc4&(8ccMf4wNjb(m*NNw4*GGPCMbJbmm#4b4wcjM(j*(jG4mGMPwCGCGmGc.;Pw(#CP8*MN#4jPPPPMPC8PmM#/G8N#_b4*(N44MGcjMMjGomPcM;88w#*bGP*jI(mG(N8MMCcm#cjb48P#4b8wwj*(G*CNm*YC(m(cMwP8###bNwjjm(jc4Nw4GGC#Mcb.b84#MCjwcj#(N*PNm48GwP**bCGmC#b+vw4jM(c*#((4jGPPmMmCwm*cGeC88jb((*4N4(*G#PjMNC8CK84ccb4w##GbjjC4bG(NPMcC#mjcmj b#8c#cMPwjjN4wG8PMC(PCcc:#8j#mcC(#wCjc**CMm#cjDN8P#mC8(#b#wjjN(Pw8N84wG*Nw4NCd8b#(ICwMjc(#*jcm4NGmP8M8C*mwcCpm#8j((4*Mj%4#G#PNMNCmmj*4Rw8G#Cb8*bNb44*7UwMcCjmNM80m8m#wg88jjC(tGbPbM4CMmcc#mj8N#Pbmwmjw(8*G#C4wCbm(c4:M8c#4bjm(c*(m*8Nw4(GGPGMBCC8(cCN8wMj#(jw*NP4PG8PNwMC*mCc/bbw(j((Mw4P44jGNPPMcC8mwc*xG8m#r(b*(N44MGcP#M4#CmNcmY88w#*b*wCj:wwGbP4MMCMm#cjgN8PcMb8wwj*(G*CNHMbC(m4cM+cj###bbwPjm(8*G*cN*4wCwm8cM8(c(bcw#jj(mMMG(NN4*CbmNc8CP8P#8(*8*j4(bG4NGMbPmGlc#8MbCj84*N(G4*(jj4cG#PjMm#*CPm(cmYCw#NP(NwwjP48*CMMC(mjcNXP8w8mjMb4jG(C*UPbM(C4mMcc^#8jc*G#(3C8*mmMwNChG{4Np#*#8M44jNj#8N(N*4N84wG*PnwPMG3b8(Nm((jMb8*jNN4PGwbbmMM#bN8jc8ONw#j*(wNM(mGjPNMPCwbb8Mcw}C8*jm(4w8Nb4uGGM#(M8MjU)PGM4j8GNGjG(8GbP(M4C#C88(cjKO#Pbmw8jw(**GNCMq8(m(CNcG8w(jN4McNm#8*mNM4*GGPCc(#w_m84#(YGwGjb*NNP4mG8PwM*CGmjb/J380j4(M*cNNwbGjP(MmC8mwcCNN4#88j*((*84MGw*PCmjPj4MN#wCw#wbNwCj)4bGMVCNCM4GwmCJN8P#mb8m#j*(G*CjGG8Cbm4cMCb8##jbNmPjP(8*wN*4GGCPmcbGSm##MbMw##((N*PNm(PGcP*MwCCm4#bb(w4#({m*#NM4N*yPmM8CwP8cckC8wjbbm*4NM4c*MNPMNCMmmcMQw8*#Gi*wPNb(wG4NxMcC#mjM#=b8m#Mbww#jG(C*_jC(#C4PwccCj8j#NbP8N#N(w*MNG4NG^mbc(CbPm#c2wwj#N(P*mN8(mGMPGMMCnmm#(b4wM#4b/*jjw4PG(P8MwC*mGGD%>wbj(bj*MN44#*cP(MNCPm8MNq*8G#CCEwcN(4(GMPMM#CbmNMjCc88#mb*wjjC(/GbjS(PCMm(c#Cc8N#Pbm8Pj#(**mNC4PCbm(c4}MmG##b#wNjc(m*PNw4*cwPCMd.b8(#4b4wc#M4m*NNP4m*cPwM*CGmCGcbbw(j4(M*cNM4j8N#cMPC8mwMGEG84#tCbj#N(4MGcPcMjGcmPMNC*8w#wbGwbj!4bG(j44mCcmccjhj8PcCb88mjM(G*wNR4GC(m4cM<cP8#jbjwPjj(8*mN*bG*MPDMY<(8(#MvMw#cj(M*PNP48G8P*MMCCN_4mb(w(jM(M*#N(4N*jN4M8CPm*cwkC8sjb((8bNM4bG#PjMNCPmmc8bN8*#8bCwwNb4(G4PM4CC#m#cNoP8m#mbww*bP(G*%PbMbC4mMcc9#(*#NbPwmjm(#**NG4CC(VGmGMGC*GPbc8GjN(P*mN*m#McCMPCcNC)m8P8w4jb(#*jNN48cMG*NXCwmccC;/wbjM#w((wCjC4(GwPNMUmmc(!*8G#C((48*mNP4MG*Pc424MG#-P8M#wb*wGNbPP4*G*PMMwGGccC88N#Pbmw*G4Nb(P*NNNM*C488MG2*8bb#84jP(m*8NG844#C4PPc*C*wZcw<N8PjN(HC#Nc4PC(PNc#CPmm138Pj4(M*cNNmb4BGCPmc4C8m#PM8G#j(b*(N44#c(GMPbMwC(mGcPf8#wbMwCj:4bGM!CP*MGb8m8cbbM8Nc7w8j#(G*CNVM4#wCbmMcc(*wcbjm<jm(8*wNCmCM4Gjmccb>P<bjNbMwjN4(*G(*NMGpGPcNGM*GwPCMk9bNc*cjw4NGPPmM*j#C8mCc*08GNj4(b*(j9GcNGMNCPmmc*jPaGwmjP(wwwN8#8P(McCcPGcNRP8m#*N#(c*MjC4N*BN8jwm4MCa#8j#Nb84mwPNc4c*C4GGjmbc(s48#wC#Gb*wNNb(P*Mw4GwPMMCCe8b#MN*bP*bjb44G(N(M(G#M8CmmGcC&iw4C#ma*MNc4#Gj*NG8NCP4bwew8M#Cb,*bNMPE4cCbNmMCC4wCc(BC#8bjwGjC(WG4QwPNMwCCmNkj8N#Pbm#8P8MBb8wC4CG*m(c4>M8j8c#C>GjN(N*8Nw4*Gd0(MCCN8(#4bMwjG4jN4MG4P#4#Cc*#C*mmc:bbw(jcj8(P*cNxGjPbMmC8mwcCjcb48mjc(**MNwGMNYMjCNmPcwjNbN8N#jccjC(8G(P4MMCjC4m(cwBN84b8wwj*(GCCN(MWN(#4c4C^8##jbNw8w4Nj(#*C4*GmP<cb^(8c*Mjbbmw#(j*cNm48GwPC*mNM4*#bb(w4jMNc*cGmj#(PPPM4Cwm*cGbb(P8w#!bL*PjPj(P#4vCPmmc8?G(#8P#*b**#j##8P44wC#mjcN<8(j8wjN(j*mjm4PbwMbG*mMccO#8P*cjcbcwM8#*wNb4CGFmbcMj*:P8*#HbPGpjN4(*8N{McGNMGCm8b#(b4w#G(N(((*bwcGPNCMwC*mG#bN#kwwG#m(wwCjC4cGjmbMMmmcMY*8G#C((4N*mN*(*G4PbNbmjM,=m88#wbCMj*4Nw4(*%PP4wC*ccCG8N#Pbmw*GPjG4mGPPw4wC8*mZ4mm##bjwNj8P84jGj*mc8GjP4MM 488b4w4j#(j*NN8w#G8PwM*CGmCcIbb#P44(4wCN#4jGNP88jcjCjm#P48G#N(b*(N44#MIGGPjM#C(8(cc88cZbGwCjK44c#G(N8M4CNmCj(bb8c#((MwN(G*CNaMbC(G#4NMMC###iPwPjm(8*GVMP(4GCPwNc#CGmGcG47wwjw(mG44m*mP*MGCC8(8N##vGwwjC(j*8P(48C4m4Mc6c8NcNiG8w(bwZNM4cG#PP*PP#mPc#>w8*#G(bMb*PNP(wP44CC#mjcNv8(#84jMbjwj(C*}PbM(C4mMccT#jj#NbPwmj8Gwc#jjNjmDPFM8J48M#cbN4ww_Nc(8*MPbGwPNMCC+8b#MNPbPw4#{b)Nj(8GmP8MwCCb888c8g8w4j8bN((Nw4(G9mbMPmmccX*8G#C((b8w8jG4NGMPwCjmNcP1m88#wb*8G4C(C*NP(M4CMmj8Cc(5#8##CbC*Mjj*GNC4OCbm(c40M#w(#b#w(jP(m*8NGmmMmGmPPNN8bcNbMwcj#(Pc4*MNGMcGGwjMwCLmGcwwb#((M*cN#4Pc4CbPmMPC48cjCbj8jjP(4GwNN(GGjPCCjmbcmB88w#CNc(j*mjm(2*GwCCMmbcjEN8P#w#b(N*bjj*GNmMbC(m4c#j(b(8(#bcMjP((*wN*4GCbp*m(cGQ*87cubCy4(jw8Nm48GwPC8GM*CGmyj8b88P#GbG*(N3c*C4MmC4m*cG)Cw(*Gj4(C*GPb4bGewGCPmmc8IwP*b4cw#CMb4b*mPMMcC#mPwccmb#wcjNbN*j8P*CNMM(C4mMcjjb+CwM#mb88CwP4N*CP8MmC4c(<48M#cb#wjjNbcPmNm44G*PGMCs(b88m#PbMw*jcbIbM4NGbP8MwC*mnwP#Nbjw(j8(4wG88GjPNMPCmN8MNMj1j(CbCw#N(44GMPjms4pC#mMcmcNwj#Gb#*j(C*NP(M4CMmjwbccobwc#4bCwmjw**Nj4.Cbm(ccjbo#w(c8bDwMjM*mN#4*GGPCc(#8CN8C#Mb(jcbc*NNP4mG*VjmcM8Cx8M#8bG8wjw(GGEjB4#GMm#cbuMcwSN8C#J(b*MGxNL(I*CwCCjPPcmD88w#CjMbm*wjN4m**N*M4CcmCjTCew(#mbcjw(c*CNTMbCMbMmNc8v8mW#wbNwW(mw8N*4GGCm(w#Mmn48X#MbMw8NbMM*NNP4c.mmmMmCPc^fOw4jM(c*NGw4NGPPmM8Cwm*cGyC8s#IbP*4NM4cGNXbPIMCCm84c8V#CPbGwMNb4(G4P#8#MMfb8Mcm(j8wjNbb*#jm*CNPM(C4mMcj#CY(8###bC8C8c**NG4CG7GbM(N8C*(cbc8PjN(P*mN*m848GjGwjjCP84#M#bGcjM(c*j4PGmP8MwC*mGbCPbNbj((4*MNcC#8C8bNP4mmmcPo*8G#C((#bAG4(*mPcM#Cjmm*4c8!Pw##C4j*4j!4PPb4*CMmcc#^P(48*#Ub;wc(w*MNC4WCbmMPPc(Cl8N#bbc*cNM44N84jGGPCM%:4bC8CcCkGCC(#*bNP4mG8PG8wMwCN8M#Nd#j(b8*cN#4jGm-4m(cbCw8cc*xNCMb.wwN44MGcPNNAM#C#mNcc88#MbGwCj<44cj*8PMcbCcmccwb(#Pb#wwj*(GGbCCP*M(C8c4CG8##jbNw8GjNj(j*#wmjwPCMP/(84#Mbj(Cw(j#(#*CjCjjPwM4CCm)#bbM4w8w#CbCw8*ccMGNPccMm*cGhC8hbbM*(*w*CcGcNCMNCPmmc*jc_N8w#w(cwc8wG(NGMcC#mjcmc4vj8w#=b#j*(N*kPbM(CcbP8bccaV8Pjbwmj8(w**GG*mc(4,b(5(mG#cb#wjjmj#4#*CNj4jP*MbCB8b#(bc4Gw#jm4b*m8(M(GMmMcjCjm*c88p#G(4*MNc4NcjCMP#CPm#cw1*8Gjbj#(**(N8G4P4M#CjmNc8cb88#wb*wG8C(4N*4bO4CMmcc#lj8N#PbmP84w(w84NC4ICbmMmNM*CG84Pmc#!j#Z(b*(ww4PG*m8c(CXmNm4bCwMjj##GcNM4cCMP#Nw(*8M#mM(Cjmm#(<mw4jbb**4Nc4NcwCN8C#Q(b*MCwNN(C*Cm4Mjl48(N(Vj88#GMP*cN*(*GCPG4GCGm(;j8M#mb8wwjCPC44*CPPCbPPcMsc8##PNN(cwkjm(-*#N#MNCNMYC484#MbcwNGwNM(b*PNMMMC#G8jPewm8c8bMww(MwmNj4NGPPww#MMC#mjc*!CC*P8(bwmNMG#PjMNCPMmNjCCCmmGbGwjNb4(G4P#mCMGC*mN#b}P8Mm#w*jG(C*^4bmc#bGwbcUcmZ#NbPwmj*m#cM*PP84)CPcbC*8M#cb#wPGcj*(jG4N#G*PGMCC,mbc%b4wM#4Gm*jNN4P#GP8MwC*NGcGx>wbj((4*M(w4#wjNwMPCmm8cwU*Nm#CCr8CN(44GMPcM#G8mN4Pg(88#wb*wGjCC8GbjT4(CMm4c#CC8N#Pbm8Pj4(**8NC(NCbm(c4uMM###bjwNj#(m*PNw4jP6PCM!pbmj#4b4wcj#(j*MC&4PG8PwM(CGmGcS-*4Pj((M*c4C4jGjPP4NGMmwc*uGM4# (b*(#4*wGcP#MjCNmPCGk8PwbcbGwCj{4bG(NQMM*cMGcj1N8P#mb8jFj*}NP(N2MbC(#bcMHM8#GjbNwcCb(m*wN*CwGCPCcbGnPw#Mbcw#C8(N*PNmb8PMP*MGCCm}#b8#w4cMw**#Nj4NGPPmG4CwPCC#LCMbjboj*4N44cG#PjMM#umPc8,wm(#GbGw^#Cb8G4PMMcjmmjcNxPPmb4bww*jG(C*B4cM(*4Mwccf#8j#NbP#(j8?#(PNG4CGxcCc(^(8MbMb#w4GC(N*mN8CmG*P*MCGGPm#(b4wMCP(#*jNNbP8(PmMwC*mGcC8Pwbc(yG*MNc4#GjPNGNCmN8cM%*8G#Cbq*b%b44*(N(M#CcmN(wUm88#wC*w(jC(GGbN{M4*mmcMMCG8N##bm#cjw(**Gj*4MCbPGc4Nw8c##bj8#N#(m*#NwCDGGPCM15bCC#4b(wcjb(j*NNP4mcwPwM*CGmCc-hCw(#cP4*cM(4j8NPPMPC8mwc*Lm4##C(b*(c44MGMP#4cGbmPcm}8MG#*bGwC#GG#G(P(MM#wm#cjUNPPcMb8w8j*(**Cj#Mb*DP8cMl48#&bbNwPjmbP*MN*48GC(Ncba(84c(>bw#j4(NPwNm48GwP*MPCCmC#bdGw4jM(c*#jN4NGPPmM8CwmwcGC*mPjb((*4dN4cG#Pj(Nc7mmc8kw8*#Gw#w^#b(PG4PMMcC#mj(MlPPmMCbww*jG(C*0NcM(*4Pbcce#8j#NbPPcj8bm*cNG4*G;M#c(-48Mc49Gwjjc(PPGN84wG*PG#jCf8b#(e)wMjM(#wcj*4PGmP8wlC*mGcCG68Gj((4*MNc4#NGPN(PwPm8cw9*8G#CGw*b#(4bGMPcM#CjmNM*gmP8cMb*wGjC(lGbc*M4G(NGc#9c8N;Gbmw8jwb8*wNC4*Cb##c4WM8c##CPwjjc(m*mNw4*GGPCM*Kb8(#4s1wcjc(j*MCk4PG8Pw4GCwmGcVCCm8j4(M*cbm4jGNPP4NfNmwcwTGc8#r(b*(jbMbGcPMMjmjmPcmq88w#mbGwCj{(CG(P(MMCbb*c#,N8Pc8bPw8j*bwwNN)MbC((jcM3c8#MjPNwNjm(8*wN*GjGCjW4#7(84#Mbcw#b#(N8PNc48GwP*MGCCPP#bC(8cjM(c*#Nj4Nw#Pm(8CMm*cGIC8xjbCM*4#M(wG#PjMNCPmm4*Ow8jc(bCwYNbGbG4P4McCcmjcMj+8P#8bwjwjG(G*SN*8PC(mMccm48j#jbP8N#M(w**NGw4Grmbc(G4cw#cb#wjjN(P*4N8bww#PGMCC,8b#(NGwM#4*P*#N#4Pm(P8MwC*NGM8Kr8Cj((b*M#84#*cjCMPCjm8C*_*8G#CSG8CN((CGM4#M#CjmNcPCN88#mb*wmjC(QGbP(4jCMmcc#Uj8N#Nbm8P#c(**GNCwMCbm(c4GMc*##bjwNjP(m*MNwb*wjPCM,Kb8(#4NCwc#M*m*jNj4mm4PwM*CGNCc8bb8lj4((*c#w4j*#N4MmCNmwCG<G8C#>%C8GN4(+Gc4jMjCNmPcmlc8w#8bGw8jU4bG(P44*Ccm#cjHN8P#Pb88m##(G*CNBwcC(m4cMGcb*#jbNwPjm(8N4N*bG*cPVcb=(84#MGbw#cjb^*PNm48GwP*M(CCNocPb(w4jM(c*#c(4N*jPbM8Cmm*c#xC8fjb%=8mNM4(G#jCMNCPmmc8P*8*#GbCw*Nb( G4jMG*C#mjcNFP8mb4bwwj(N(C*.PbN(C4m4cc?c8j#MNSwPj8(wb*NG4GGoNC48&48M#cN*wjjN(P8mbC4wG*PGMCCnPj#(vbm8jc(c*j#C4PGmP84mGGmGc*Y9M4j((4*Mj4(8GjPcMPPjm8cw:*8G#4bB*bN((3GMP4M#*jPccPZm88#wb*wMjCbGG(P(M(CM(Pc#yj8NMPsmw8j8(***NCGPCbN(4N_M8M##b#wNbN(m88N#4*G*PCMC{bPG#4CMmPj#(#*NNN4mNGPw(*CmmCcCbbwbj4bm*cN#(CGNPPMmC8mwcweGPCbN(b*(N44MGcb4MjGmbNcm*P8wGcbGwGjA4bG(NC88CMm#cjjd8P#Pb88m##(G*CNk*4C(m4cMC4#8#jbjwPCb(8*wN*bG*(P-M,%(8(#MC8w##cb#*PNN48*4P*MGCCPGc4b(86jMmj*#Nj4N*jNwM8CNm*C8&C8Qjb((8mNM4MG#P4MNCPmmc8!88*#GbCwyNb4bG4N=8wCcmjcNM88m#mbw88#j(C*.PbbNC4mMccCMP%#NbNwm4M(w**NG(*C*mbMQ{4mj#cb#wjjN4c*mNm4wG8PGMCC18b*4b4wMjc(#*jN#4PGMM*MwC*mGmb)S8Bj((4*MNbm*G#PNMP4wm8c89*mwcNbv*bN(vPGMPcM#Gc8bcP%P88(cb*wGjCbG*jP(MbCMPNc#nj8N#PS(w8j8(**wNC40Cbm(McSM8c##bjwNjj(mwPju4*GGPC*4Hb8(#4}(mGj#(j*N#j4mG8Pw(*GCmGcXbbw(j4*8*cN#(mGNPPMmCmmwcwWG8C#m(b*(N44MGcP#MjG#P8cmZm8wGibGwCjXbb*wP4M4CcmccjPN8P#ms4wwj8(G*GN6MbC(m44j+c84#jbjwPjm(88#8G4GGwP_8be(8(#M0cw#j4PC*NNm48MwP*M*CCm #Cb(8AjM(c*#Nj4NGPjwMmCPm*c*gC8hjb((4GNM4cG#PMMNCNmmMPCc8*#GbCwcNb4(G4N(4bC#m#cNmM8m#8bww*j#(C*2Pb4>C4m4ccCMmZ#NbPwmCG(w**NG4PGwmbc(^4C##cbcwjjN(P*#r(48G*PGPbCIm6#(ibm*jc(#*j284PGmP8(w*#mGcCl,wbj(Gw*Mj4M4GjP#MPN8m8cwY*8GCYbs*bN(4bGMP4M#CbcmcP%m88mGb*w*jC(TGbNG8mC4mcc#MP8N#Nbm8P#c(**GNCw4Cbm(c4GMNG##bjwNjP(mmMNw(8C8PCMGFbcc#4bMwcj#8N*NNP4mGPPwM8CGmP)mbbw(j4#C*cNc4jGjPPM#j(m8c*-GOm#Wbg*(jCm8GMP#Mj4mmPcPH8mmc#bGwCj!8MG(P4MM*cMGcjJN8P#mb8c*j*.GNjN3MbC(m4cMwj8#Mb**wNjm(8(bN*4*GCMbcbCG(m#4bcw#8w(N*NNm4j#4PwMGCCC(#bbbw4jM%w*cNj4NGNPmM8CwNjbbKC87jbN**4N44c*#PjMM#vmPc8!w(N#GbGwYNbw*G(PMMcCcmjcN9P8#G(b8w*jGbF*GN9M(GbN*cc:#8jGwbPwmj8EwMMNG4CGWmbc(mm8MMcxFwjjN(P*mN8oNG*jG4mCD8b#(b4wM#P(#8j#G4PGmP8MwC*jPcCCGmMj((b*Mj*4#GjPN4jG8m8cP,*m##Cb?*bN(wMGMPcM#CMmNcj_mP8bMb*wGjC(FGb##M4GGMCc#Ej8NMmbPwmjw(w*GN88jG6m(c4Gc8M#cbj8##((m*8NwwbGGPCMVGbjm#(bMwcj#(jNbNPbmGbPwM*CGmCcWmtw(c4%w*cN#4jGNPPwPC8PmMj%G8*#-CM*(N44MwcN(MjC#mPcN^8m(#*dww8j>(GG(c*MMCcm#McCc8P##b8jGj*(G*CjGMGC(PGcM8b8##jbNwPwj(8*mN*4PGCPucbi((M#Mbcw#jj(N*jNm(*NMP*RmCC*j#bbbw4jM(c*(CG4jGPPmj(CwmwcGg84j#Z((*4m(4cGcPj4#G(mmc8,wMC#GbCw}#CGjG4P4Mc#*mjcNiPPmMGbwwwjG(G*0jjM(GbPPccxM8j4(bPwmj8bmw^NG4wGXc4c(U48Mc4t(wjjM(PN#N84wG*PG4MCQmU#(<CwMjc(#*jjN4PGmP8MwC*m*cCiw4Njb(4*Mj#4MG#PNMPjCm8cwV*8j#CbA*b#0GMG4PMM#j8mNcP_mP8#Mb*w*jC(CGb(NM4*Mm(c#a#8N#NbmMSjw_**MNC4CCbmbc4j}8cM#V*wNjN(m*mNwC(GGjCMCib8b#4b4wc:*(j8N#_4mGmPwMwCG4cclCCj4j(((*c=m4jGNPP(mGNmwc8%G8*#58j*(#4(bGcPMMjC#mP*Cl8Pw#8bGw*ji(CG(>CMM*cPbcjg#8P#Nb8mMj*JG*MNX4CC(mbcMPw8#MjC8wPjN(8*mN*wMGCNG6(Obm_#MPPw#jj(N8Pj848GPP*M8CCM##bC(8bjM((*#NM4N#GPm(8G#m*c8pC8*jbPG*4#M(mG#PMMNC#mmBwQwP*#MbCw*Nb(CG4cmMc*#NCcNu#8m#Nbwc4jGb*PbNl4GC4(Ncc+#8jMNb(wmjj(w*PNG*cGhNbMc_4mX#cb(wjC*(P8mjj4wGPPGM8C5(*#(C4mCjc((*jNM4PwGP8(wGMmGc8B{8*j(8m*M#cbGGjPMMPC#m8G(Y*mwb-bCwwN(8jGMPcM#*jmccP=c88#jb*#MjCF+w8P(4GCMPkc#Nw8NMPX4w8jj(**PNC8wCbN(M8lMmf##b(wN#m(m88NM4*GPPCM8qbjN#4CMw(j#((*NNM4mjbPw48mCmGcmbbM#j4(M*c##(4GNP4MmCcmwC4>GPC#c(bwwN4(GGcb8Mj*NNGcm{c8w#jbGM8jEbb*8P44GCcP<cj*P8PMmb(wwjj(G*PNuFjC(N44mAcmA#jb(wPC0(8wm4G4*GNPJ*cU(84#MCc8_jj(b*PN448N(P*(GG8mqcmb(8wjMmm*##jb8GPP4M8Ccm**m.CPfc8((wwNM(GG#MmMN*PPjc8Bc8*#jbCP#Nbb(*(PM4GC#PWcNNC8m#84#w*jG(C*PPbMbC4P(4GR#8##NPVwmj8(w**#w4CGGmbc(_48M#cb##Pjj(N*mNP4wGmPGM8jjmF#(b4mNjM(c*jj#((GmPcMwwcmGcC%7wbMt(4w*Nc4bGjPNMPCmPPcw+j8G#*bsw5N((*N4PcMcCjNCcNBP88#mb*wmC#(CGbP((mC4mMc#/4(C#Nbmw8#*(8**NC(G*mm(c4nM4P##bjwNcPPb*8Nw4*GGPCCjWbP(#bbMwcj#(j*Ncc4mw8jCM*CGmCchbb8#j4KM8PN#4jGNPPMmw#mwM89m8C#G(bwmN44MGcNMMbCNm#cmC48w#*bGwCbb4bG(P4MbCcmMcjGN#b#mb8wwj*(GP%NO48mMm4cM^cN8##bjwPjm(8*NsM4*GCPJ(#Bb8(#Mbb4*j#(N*P4*4mG8P*4wGNmi#bb(MjjM(c*##jC2GNPmM8Cwm*3jeCPQc8((*4NM4cG#4#MN*PP#c8Aw8*#GbCMCNbb^*mPMM4C#jmcN>P8mM8gmw*jw(C*GPb(NC4P(4C6#8M#NP4wmj8(ww8N44CGwmb4b=48M#ciM*MjN(M*mH44wG*PGMCM*8bcRb48Cjc(#*jNNmmGmP8MwC*mGc*Le84Gb(4N&NcC#G#PjMPCmm8cNNM8*#CbhPbNb4(GMN4(CCjmNcPPw88#wb*8w4M(t*-P(8mCMmcc#Gjmc#PbPw8j8(*wMNC(G**m(cbOM(C##bjwN#jbj*8NP4*w*PCM,)bPDc*bMwbj#PC*NNP4mG8P8M*C*mCcwbbw(j4(Mw*N#4jGNPPMmCmmwM8Cj8C#e(bc#N44MGcj#mGCNmPcmo88wbMbGmC#P4bG(P4MMCcj(cjGNmM#mb8wwj*(G*4Ng(bG(m4cM0c8##jG4wP#N(#*wN84GGjPrcb&(mbc.bcw4jjGP*PNm48Gw8cMGCCm7cGb(w(jMb48wNj4NGPjNM8Cwm*4G}#8;jb((*4NMGwG#NcccCPmPc8888*#GbCwA#C4(G4PMM4C#m#cNJc4b#mbww*#C(**CPb(?*wmMcc:#48#NbPwmc8P4**NG4CG^mbCPq4PM#bb#wjjN(P*mcj4ww*NMMCCF8b#(b48Njct#w#NN4PGmP8MwwNmGM*QGwb#?(4wwNc4#GjN#MMCmmNcwCc8G#CbJ*bb444GMPcM4Cjm#cPGm#4#wb*wGjC(iPGP(4*PGmcc#Bj*w#NbPw8j8(**m9#4CCbm(jjH48M##Zc8bjP(m*8?Y4*GGPC(ywP8b#4bMwcj#w_*N#P4jG8PwM*CGmCCCbbm(cP(M*cN#4jGNbNMmGPmjc*tw8CM4(b*(N4bMw*P#McCNmjcmCb8wc8bjwCj*4b8*P4MMCcPM4CkN8c#micwwj*(Gw*P*MbG*m4*E c8##jbNb#jm(P*wNN4GGCPycbj484#Mbcw#jj(#*Pjw*4GwcPMGPPmCcsb(w4jM(bM*N#4NGP4MMmC8m*cmN#8Cjb((#cN44MG#Nc4bCPmmc8PG8*#GbC8G4#4(G(PM8wC#mjcNGP8N#8b8w*j*(Cw#Pb(!*jmMc4+#P(#NbPwm#Pb4**N84C*mmbc(I4m(#4b#w4jN8c*mN84wG*NjMCCC8bcGb4wMjc(#w4NN4PGmP8MwCwmGcCPcwbj((4wCNc4#GjN#N8CmmmcwCm8G#Cbr8C#C44G(PcG#CjmNcPCNm(#wbmwG(w(^GbP(4bG(mcc(sjM8#Pbmw8#m(w*GNm4FGCm(c4)M8ccPbjwNjP(c*8N84**wNNM:CQ8(GjbMwcj#=jNNNN4PG8P8M*PMmC4O28w(j((M*MN#8wGNjPM(C8m8c*k*8CGw(b8(Nb4MGMP#M#CNm4cmCP8(#*bwwCxj4bG(P4MMC(m#cMLN8P#mb8wwj*b9*CNGMbG3m4M.Oc8(*GbjwPjmP8*8Nw4GGCbmMuC884#4bc8WjjUNNbNm44GwP#MGj*m5Mb8mw4#w(cwGNj(GGPjmjmCwmccGRj8<b4((m*jM4c*GPj8NCNmPc8m*8*#mP#wCNb4(c4P4MMC#PcMbtP8(#8Cmw*jG(C8/4PM(G8mMM*x##G#NbPcMj8(M**N*4CGCmb4xGw8Mc*b#NCjN(P*m#8GMG*PcMCCP8bGNb4wM#4(#wCNN4jGmPmMw**c#cChNwb#8(4c(Ncb#NCPNMbCmm4cw;48GMCMC*bjm44*wPcGNCjN(4H&m84#wN*w*jG(_N(P(4C#8mMc#nj(N#NbPw8jNmM**NC4>#*mbc(HMmC/cbjw#jPmw*mN84*GwPCMwjN8b#4bMMjjc(#*NNP8CG8PmM*CGmCc8bbP(bm(4*4N#GcGNj4Mmw8PNc*-w8CGP(bc9N4hM*wP#McCNPNcmP#8w4*b*wCjG4b*PP4G(Ccj#MCDN8j#mb#wwc#(Gw*jGMbGCm4*8lc8##jbNwMjm(j*wN84GGCP{cbmM8(#bbcwMjj(4*PN#8(G8P*MG(#mCc:b(8bc*(cwGNj8wGPPmM8*wcwc*ej8E#P((#PNMbcwCPj4/CPm(c8Pb8*MGb#w?jP4(*8PMwbC#Njcb7P8(#8bMw*48(C8vjjM(G8mMM*3#jw#NbP8Gj8(M**N#4CGPmb4(GC8Mc*b#8CjN8(*m#8(mG*P#MCCN8b*Pb48(#X(#wGNN4cGmP8MwC*mjcCe#wb#m(4*MNc4##cPN4dCmmPcwh88G#Cb*wEjm44*8PcM#CjNNccBm8(#wbcwG=P(twCN8M4GPmcb*%j8N#Pbm8Mjw(M*GNM4RGCm(44G*8ccGbj8CjPGN*8jm4mGGP#MD**8(#4bMPC#((jwqNPNPGmP8M*w*mCcwNNwbj4(M(MNc4#GNPcwbCmmwc*cm8G#C(bmw8M4M**P#P4CjmNcmmM8w#PPcwGj-4b(GP(M4Ccm(wG.j8P#m##w8jw(Gw*P*MbGPm44Clc8##jW#8(jm(b*wMw4GGCP:4bmm84cmbc8wjjA8*PjN(MGwP(MGC8mL#bb(w4GG(MwmNj4jGPPMM8*wcccGl486#c((cbNMbcQbPj4wCPPGc88#8*MGbmw>jc4(*jPM(mC#mjM4/PmC#8bmw*jw(C*ljwM(GjmMMwy#8j#NbP8Gj8((**N(4CGGmbMwGP8Mc8b#GGjj(N*mNm4wGPbcMGCU8bNPb(w4jcbM8%NN(CGmjPMwC*mG4Cmjwb#N(4wmNcG*GjPN44Cmmbcw?w8G#Gb08Cj*44*mPcAGCjmNcPkm8j#wb(wGjG({*8P((4G4mcM8<jm*#PP<w8jwb8*GNc4ZGCm(c(LMm4c8bj8GjPGP*8Nw4*wGN8MqCj8(cPbMmNj#bcwbNP(CG8PNM*CGmCcT{Cw(#j(M*MN#4bGNjPC(C8P;c*B(8CGG(b8(PG4M*PP#48CNc4cmG8mw#*b(wCjM4bwjP4MMGmm#MwsN8j#mbPwwj*b4*CNMMbGPm4cM=c8#cwbN8CjmbC*wN84GGPN#cbCN84NCbMwcjj(j*PN#8(G8P*MG(mmCc0b(8CG8(M*#NjjjGNPPM8GmP#cGqc81cb((*4NM4cwMPj4*CPmMc81w8*#GC*w{jc4(*mPMMcC#mjcc1Pm=#87Jw*j*(C*m(eM(G;mM8Plc8##Nbjwmjjm4*wNG4CcMPocbI4m1*wbcwjjNbm*NNm4w*8NjMCCl8bG#b4wMjcu#4GNN4PGmP8MwmMmG4CCjwbj((4*MNc5(GjjN4NCmm8cwR*8G#4b+8b#c44GMPcM#Cjj4cPCN8(#wb8wGjj(/GbP(4b*8mcc4sjPp#Pbmw8jw8G*GNC4.GGm(cb1MPcFGbjwNjP(m*8{(4*GNMPM=tb8(cMb(wMj#(#*NNc8bGmPwM*GCm*cCbbw(CN(M*cN#4jGNNCMmw8MMcwAG8CMc(bN(N4hM*8P#MjCNcCcm888w4*bcwCjv4b8PP4*bCcj#M86N8P#mm6ww(N(GmCNmMbC(m4Cm/c###jGN#ejP(8*wMN4GmCPr(bC#84#Mbcmjjj*N*Pcm(8GwP*MGwwmTGGb(P4#b(c*#Nj4jGPMmM8wwP#cG}C8_Cy((jGNM(4*mPjMjCP4bc8Kw8*#G_mw+jC4(G4PMMcC#mjCm,N8P#8bmw*j8(C*wXNMbC4mMMNWM8##N2j84j8(#**b(4CG9mb4(m88McCb#wbjN8C*m#8GMG*PNMCCm8bGjb4mMb*(#*bNN44GmbjMw**c#cComwb#w(4mMNcb#NCPNM4CmmccwCC8GMCwN*bjw44*GPc4MCjmN*4BP8c#wbjwGj8(>wb4mM4G*mcMlJjj(#PCmj4jw(#*GNN41Nbm(M*4*8ccCbjwcjj(P*8Nj4*Gmb#MCXb8(c{b(wMj#(4MCNN4mG8NCM8C*mCMGCmw(#w(M84N#4jGNjP7NCmmcc* j8C(j(b*(jm4M*GP#M#CNmNcmCPmG#*bjwCMN4bG(P4(MGwm#MCfN84#mmbwwj*bN*CNPMbGem4c4 cP###bNw(jm(c*wMj4GwCNccbC884c*bcc#jj((*NNm4MGwPmMwCGm<cwb(8CG8(M*#Nj4cGjPPM8C#MwcG<G8_j8(b*(NM44G#P48CCNmmc8b#8w#*bCwFbw4bG4PMMMC#mjcNtP8m#8bww*jG(C*rPb4BC4mMcc{#8(#NbPwmj8(w**NG4CN8P7c(?484#cb#wjjjbG*mN84wGwPjMCCy8b#MN#!wwMjw(N*F4NGMP8MwC*ml*##MATwGjM*4j84#GjPNM8c;CPmjcCxN8wjw(8*m4(*CPcM#Cjmmw###t#8cbww4jC(-GbPM8PMwGG8!cC,4m,#G(c*M(w*(NC4xCbmMwPcwCG*e#wbwwmN4(#GMNwG*PmMO3b8(#c#4b*88#e*jNc4mG8PwMCj(CP*wl58*j4(M*cNNN*MMGPm(CmmNc*YG8Cj(Pb(GwH44*mP#MjCNm8*M#jH8Gj#wby*bNc48G8MMCcm#cjGC8P#mb88m##(G*CNS4mC(m4cMC4MN#jbjwPjb(8*wN*bG*(P%M>x(8(#MIhw##cb4*PNj48GPP*MGCCmscMb(w(jM((*#Nc4NwPN*M8C8m*c*iC8#jbq(8jNM4MG#P#MNCNmm48C#8*#*bCwCNb(;G4jMbGC#m#cN!N8m#cbww*bI(G*CPb4:C4m(cc+((G#jbPwm#c(w*wNGbCwPmbM*24mW#cqGwj##4#*mNM4wGPPGMCCA8bC4b48CjcbC*jN#4PGMM*MwCNmGMPek8lj((4*MNbm*G#PNMPGMm8c8;*PGbjb;wwN((CGMNmM#CbcmcPUc88cNb*w*jC(TGbNG8mC4mcc#C48N#NbmwjC4(w*GNC(mCbmbc4AMPj#cb(wNjN(m*8Nw4*jbPGM89bmK#4bMwc#Zw#*NNP4m*2PwMwCGm*clD*4Pj((M*cj84jGjPPMmP#m8c*tG8G#W(b*(N4(jGcP#MjCjP8cmA88w#CNjb*wNN84j_jP44GCGm(cKS484bm8*j*(G*CP(8NM#C(m*jw_m8(#(b(CMj{(O*GPjGGPMcbL(84##Nb=GwCj(((CjNwMNG#m#MPmCcwb(w4jM(j(c*Cj*4(PPMcCwm*cGbb(;8Cj8(8*c4M*wPjMNCPmwwbcmAN8S#Pb***Nw48P44PC#mjcNJ8(hw4#cMj*4N44bGmN*M8C4cM9b8j#NbPww*bNN(*G#4GGPmbc()48#*.cG=Rwbjj(PNm4bG*PGMCf((j8mcw(Gw*jbbG*wP4M(PmMNC*mGcCb(4c8wPC*4jG4#GjPNM8#*C4m8#4<CwjbCw*N(44GMPj8#c4CccPZm88#w/bwGjC(WwCj8M4CMmcc({j8N#P-Nc*jw(w*GNj4tCbm(44GG8c#cbjwjjPb&*8jm48GGPwMJC88(#4bMwc#j(j*jNP4jG8PmM**Gmjc6?ew(j((MwNN#bj*bPPMPC8m8c*a(8CMLb(*(N(4MGMP#MMCNNP44e888#*b*wCjP4bG(4cM4CMm#ccyN8j#mbjM4jw(G*CjjMbCbm44M*G8##(bNwcjmb-*wj8M8GCPPcbC*84#Mbcw#UN(N*MNm4MGwP8MGCPcm#b%*w4#4(c*cNj4jGPP#w(C8m*cGCG8p#^((wCC84MG#Pj(CCPmPc8Gw#c#Gbmw?j*4(*mPM(cwCmjc4eP8c#8bmw*#w4w*0NmM(C(mMcc-#8jCPbPwcj8(c**Nw4CGmM8c(CG8MM*b#w#jN(N*mNj84GwPGMCGN8b#bb48_Gw(c*jNNb6GmPmMwC*4bcG)wwb#E(4*MNc()N#PNMPCmP7cwQw8G#*brw*CP4(GMPc48CjmjcP_mc##8b*wGjG(UGbP(M4G4mcc#;j8j#bbmw8jw(CM8*3Pw4cCmPGMG8McMbjwNjP(wM#GMNm4CC4mmc*C888#*(C8Cjc(4GcNeM4P8M8CGmCc?b4(cj(b4*cN#4jGm GP(M8?Nmwcwb4wPNwb!*bj*c(C(P(MbmNcN;88w#*b^4MjC(CG(P4MMCjlmc#CU8P#mb8wGGNN#(C*GNmMmG*c4CN8##jbNw8GGjm(4*8NkMj1mmPM*Cm8wcewc#*(N*PNm4*##C(mmMm.w88c8b88C(M*bNj4NGPPwPbcN:bmjRC85jb((*4NM4ci#cNMjG*mmc8Kw8C*C#*(m**N4MiGcmb4mCCm4IN8##8bww*j&jG4N*jMbG4mMccK#8P84jbb#w4NM(j*j8j4CGmP*cC348C#Gw#jb(P*mN84G#jbcPmcw%b8mb(8Cjc(#*jNmNCM#G8mMCwmjcCaawbjMP*((*cN#cGC#MPCmm8cwG48G#Cb!8C#844G4Pc4#CjmNcPGm#4#wbwwGjG(;*CP((4Pwmcccdj8j#Pb4w8cw*c*GNG4;GUm(M(3MPc4CbjwjjP(P*8NM4**wmwMtCG8(ccbMwcj#(j8#NP4#G8PwM*CGmCcq(Pw(j((M*bN#4#GNNjMjC8m8c*CG8C#?(b8(jG4MGMP#M#CNmNcmG8PC#*b*wCjC4b*#P4(M*Nm#c#%N8N#mb(wwc*(j*CNCMbCbm4M&IcmMcMbNwjjmbw*wN*4GwCNmcbC184#(bc8Pjjb#NmNP4NGwN*MGCCm^Mbn+w4jb(c*4Nj4jGPjmMPCwmmcGxw8H#c((84N44cG4PjMcCPmbc8GwmN#Gbww5jG4(*CPM(cC(mjccVP8j#8U*w*cG(8*-NGM(GZmMMa,#mcbPbNw#j8bw**NG4CwgN#c(CC8M#bb#w#jNgP*cN84NG*PmMCCM8bM(T(wMjb(#*4NN(lGmj84cC*mmcCHwwb#G(48Mjw4#G4PNMcCmPwcwG*8b#Cbw*bjG44*GPc4MmNmjcMVmm8#wb*wGcC(jGbN*M4GCmcccijPNcCbmw#jw(N*GN44v*bPbc4CC8c#bbj8CjPvmwmNw4NGGPmMpC*8(M4%cwcjb(j*4NP(8G8jwM(CGmmc<Oww(#%(M*cbj4jG#PPMcC8mmc*CGM(#:b;*(jM4MG4P#4cGbmPcP)88(#*bGwC#G4GG(PbMMGmm#cjpN8PcNb8w8j*(w*CNCMbC(4Gc4Vc8###bNwPjm(m*8N*4GGCPCMmk(84#Mbj4wC4Pbc4_#mmGwP*MGCCm*#bb(w4#(LG*#Nj4NGNPmM8Cwm*GNTC8qjb(b*4N44cG#4(MjCPmmcm2w8*#GbCmmNb4(G4P44uC#mjcNY8_Xwj#w(cj*(#*_PbM(CcbPP*c#b48j#jbG*M(8*bNG4CG}m4w4cbsGwb#j4MwPNcbGG4NjGwPNMCC:8b#Mj*bP*bjb(PNj(wGmP8MwCC(N8M#Nb8wMP8(4**N#48G2P4CPmbcwi*8GjbN#bCw*Nc(GG(m(cbC^cNCG88#wb*wBCcNN(m-8Pj4GGG8(c#b(wbbPw4jw(**GPbm*M(CGPjcwCrm9b#wMjP(m*8NGmjM#GNMCCN8(#4bMwjG4jc((**N44CGmPwCGmCcHbbw(j4#M#4M#4#*wPPMmC8mGw###qm88#Cb*w*NPMbGbPPCjmccmA88w#C#*(jw#(I*wP4MMCcmN*(c#bc84#cw8jN(G*CNSM44NCCmNMG8##jbNwP*mNCbMMGCGGGP#cb=(84##Nc((w*jj(**4N4McCcMGCCm=#bb(w4jM(c*#N#(wGPPmM8CGb#mM#jbN8/N7(G*jN*4_*VMjCMmmc8Aw8C8jj8bm*44b*MPMMcC#mPwCc*;PwMP4(bwPjP(P68PjMjCcmGpcm^#NbPwmj*m#cM*PP84=CPcbCm8M#cb#wPGCj*(M*a8j48CmPNCCPo#(b4wMjjP*((*#jwM(GmGPj#n(mC#NuU8wjj((*M4c*PPNMPCmm**##(b#wPj(48*mNCcCG*m(MbCbcNC_88#wb*wLGmjG(PGNPNPbxCmG#48N#Pbmw8jw(*CGbmCEG:PNc4UM8c#NPbb**cjc4jG#N#M#GmMJob8(#4bMbG#8((PjNP4mG8PwM*CGmCbj*bwb#((M*cN#4PcCG*PMMhMP*jcPbj8#8GM(*8NM4:GGP(CjP*cm688w#CNc(j*cNc4wGMPwcCCG84cb8NcHb8wwj*(B4PGcPPMwCcmCc4b(mHbNwPjm(8cww4#jC4*>M,Cm84#MbcwNGMjw(MG#NmMbCPM*CcmI#bb(wcGcj4(iG4Nb4*GNPmM#m*cGaC8Vjb((b4C(CcGcP4MNCPmmc*j#bb8jbCwSNb4(jwPMMcC#PcMb:P8m#8yNw*jG(C8l4PM(C4mMcca#mN#NbPPwjm(w**N*4CGGmbMw8c8M#cb##bjN(N*mN84wGPbcMGC}8bCwb4w4jc(#8GNj4PGmP8MwC*mGcPw(wbj((4*MNc4cGjPNMPC#((c8&*8G#CbRw<N((bw*PcM#CjP(cPam88MwN(wGjC(ZGbP(4#CMP4Mb+j8j#PCNw8jw(*wwNm4>GCm(M46M8c##Qc8jjP(j*8#C4*GGPCM9Cm8(#4bMw(j#(c*NNP(8G8P8M*CPmCcrbbmy#N(M*4N#(8GNPPMmGPmjc*-88C#w(b*(N4((*PP#M4CNN#cma88wc8b4wCj84bw8P4MMCcPM#MpN84#mCwwwj*(G*CmmMbCbm4MG}c8c#jW#8(jm(P*wNw4GGCP_4b*m84#(bcwMjjbK*P#m(wGwP8MGC*mQcGb(m4#c(c*MNj4#GPjGM8*wmjcGn*8X#C((*bNMbc*_PjM#CPmNc8G#8*#Nbcw}jC4(8cPMMMC#mjcN=c4b#mbww*M0(C*CPb(2*wmMc4O#P##NbPwmj8jb**Nw4CGCmbM}^4PMMmb#wcjN(j*m#84ww*PMMCCG8bcab48mjcq#*cNN4#GmP8MwC4mGcCCNwb#7(4*(Nc44GjjN4#CmmPcw688GcGbBw4j444w#PcbNCjmjcPqN88#NPMw*jC(g84P(M(CMP44C.j8##Pdjw8jw(**G#*4dGGm(c4XM8c##Dc8bjP(#*8#84*GGPCMt*48bcCbMwMj#(c*N#PG(G8PNM*CmmC4/bbm/js(MwsN#(wGNPPMmC8mPc*0w8C#8(b*bN4(EcwPcMjCNmPcm!m8wc8LjwCjG4bwPP4MMCcm#(PTj8j#mbmwwj8(G*P4mMbGBm4.PUc8c#jbjwPj#m(*8N*4GmMPeMF3(mbM*bcwMjj(4*PNm48Gwj8MGCwmIcAb(w4jM(ccMNj4#GPPNM8Cmm*cN8P8?#C((NNNM4MG#P#MNCc(bcmvw8*(4bCwCNbbuwwPMM4C#m#cNXP8mM8bbw*jw(C*GPb4wC4NMc(^#8c#Nbjwmcj(w8*j24CGGmbM6&4PC#cZM8PjN(c*mjb4wG*PGMCC#8bc9b48Fjc(M*jN(bGGmPPMwmMmGcGUnwbj(bCM8NM4#Gj4CMPCPm8MmC#8G#*bowmN(44GMN4(CCjmccP!P88#wb*mG(j(&*GP(4UCMPCc#Gjc3#Pbjw8jP(*w6NCbIwmm(MX2M8(##6(wN#j4j*8Nj4*wGPCMrib8(CMbMw(j#((*NNj4mw8MMM*C8mCc*bb8Nj4(Mc4N#4cGNPjMmCPmw4j8M8C#G(bNjN444GcjbMjCMb}cPW88w((bGwGjr(*cPP(MMCcM*cjHj8PcNJMwwj8(GwwNLMbC(PbMGpM84#jW(wPjm(88wN44GGwPVMGD(m##Mg4mCjj(M*PjN48GwP*4wCwmQcwb(mcjM(c*#jc4cGPPMM8Gmm*cGIC83cG((w%NM(CG#PcMNCPbNc8lP8*#GbCw*NbbKwwPMMbC#N#cNaP8m#8GGwwjm(C*CPb4sC4NMC*e#84#Nbcwmc8(ww8P84CG8mb4j348M#cb#wMjN(j*mN#4wGwPGM8jjm6#(b4wMjc(c*jj#((GmPPMwCwmGcCYumb#j(4*(Nc4MGjP(MP*mNCcw_88G#*bAm*N(b4*cPcMMCjm#cPCc88cmL4wGj8(;wPP(M4CMmc4P j8##Pb#w8jm(**NN44;GCm(c4BM8M##bjwNjcmb*mNw4*GGPCMCgb8(Mmb4w4j#(j*NNP4mw8jcM*CwmCcGbb8Pj4(M8jNc44GNPPMmC8mwc*288C#G(bwGN444GcP(8GCjmPcmR88w#wbGwCb8(}G(P4M4Ccm#cjDNm.#mb8wwjw(#*CNiMbCM7mmwcCCC8c#4cMjPbP*wN*4GCbbmm*MCCwmwcJbGCbj#(N*4N#4mGGPCcjC8#bb(w4jM(c*#Nj84mPPP4aCwm*cGbb4#wP#84**wj5(*G8m(cbmPcj?w8*#G(bbC*PjNG4PMMcC#mjcNSP(#(8b8wbjG(C*RP48*48G*PGcMv#CMP(bNwbj8*wNP4CG mbcMcP0g8c#Gw##w(P*mN84GcMC(PmMPCP8G#M(w8CjG((NN4PGmP84mC*mGcCCGmmj((4*Mj*4#GjPN(P*4m8cwk*8G#Cbw*b#q4BGMP4M#GGmNcP^m88C*b*wGjC(GGbN1M4*MjGc#tj8N#PbmwPjw(*wwNC4/CbP.c4,48ccMC}wNjP(m*4Nw4*GGjC(P<b8(#4bMwcj((jw#P#4mGPPwMMCGmCc bbc4j4(M*cNM4jG#PP(m*Mmwc*kG8C#Ebm*(jbGjGMPMMjCjmPcmB8PwcbbGw*j>(CG(NGMMG4P4cj c8P#Mb8wwj*bwwxN34*C(PycMtc8##jC*wPjN(8*NN*4GGCPdM*s(84#Mbcw#j#(N*P(c4mGwP*M*CCmk#bb(w(jM(c*#N#(MGPPmM8CGb#mM#j+CwP#8(bCPNP4wGwP&M4C4wNcmbb8*#Nw Nb4(G4NwMcC#mjcNaM8m#8bww*jG(C*-Pb(PC(m4cc^#8j#NbPwM(c(w*wNG4mGdPZc(L(8M#bN*w#jN(P*cN848G*Pmw#CC8b#(VwwMjM(#wcjb4PGPP8M8C*mGcC!-M8j(((*MNM4#G#PNMPPcmmcw0*8*#CbK*bNb(PGMPcM#C#P8cP1m88#GPbb*w#jG44Gmm*MwGhP*cC54#Pbmw8jw(**GNC(w8bmbMjVM8c##bP(;w#js(#GNP#M#tmmwc8Hm#(Cmwcj#(j*mC4N(McC#mcMNCP8jcPb4wM#Nj(6bNc(AGCPCMMMP*4##b8888**bjw4MGcP#MP#jCjm4cCb48bb*8*j14bG(PcmCM*C4mNcwb4w##M(M*#PN(N*GNwMGCPmw_MmC#jbNwPjwmc(m**NG##CGMTCG84#MbcwNC(#0b*NP4#GwP*MG.b=#8*#(b8j4b**#Nj4NG8ecm4MwC8mj#j,mjb((*4NM(NG#PjMNGj#Gc8%w8*#cbCwWNbb(*4PMMcC#mjcN;48mM8b#w*jG(C*pPb4NC4NMM#y#8j#NbPwmjM(w8*N44CGRmbc(6484#ciMmwjN(j*mNN4wG*PG4*C48bcCb48wjc(#*jNN4#GmP8MwCmmGcGJhmCc8(4*MNc4bGjPNMPGN8NcwTw8G#8bF*bN((bCbPcMMCjm#cP_m88#wbmwGjC()*CP(M(CMmcCb>#8N#PbPw8jw(**GNN4ECbm(c(Cm8c##bjwmGPN#4b*8Pb4jGjmPcP8bc(bMwcj#(PM**bNmMjG8P8c(sNw8cC+98wPb4b*bjYGjN*MmC8mwcCjCa*wmj*(4G0NcMb*mPCM4mNc(988w#*bu4w*bN*(#G8NC4CmcM*_N8P#mb*M#*(Nm(mGwP848C8PCxMm*#jbNwPjwPN(m*jP(4NCMPCcb8(cCbcw#jj(m(CG#N8MMP*MGCCmsMtb(w4jMbCjgNj4jGPP4M8C8m*c*dC8wGN(b*4NM(GG#P#MNGjP4c8_m8*#jbCw_Nbb(N8PMM4C#mccNLc8mM8wMw*jw(C*GPb4CC4NMC*%#8c#Nbjwmj#(w8*4#4CGCmbM7H48(#cH&jPjN(P*mNb4wGwPGMCC9m**Pb(wMjcbw*jNj4PG#b(M8C*mGcMSD8+j((4#CNM4#GjPjMPCmm84w8c8G#*b+*bN((*GMjcGGCjmccP}P88##b*wG(M(9*CP(MbCMm(c#GjcY#PbNw8jm(***NC4<jMmbcbiM84##bjwNjPwc*mNw4*G*PCM&1bmXMCbMwcj#(j*NNP4mG8PwM*CGmCcCtww(j4(M*jwwP44wG(MPGwmwc*?GwbGjjc(b*wm84PGbPbMb(4mCcCZ*w#b*8Dj%4bG(Pc8mM*GCwdc%O4wMj4b8*#Nm(G*PN8CbPPcM)c8##PjGbjwcj*(#*mPmMPCNcb#Nbmw8jw(**G#CPmNP(qGwP*MG>b(m8*#b4*w(j#(j*8PbMbPP4PCwm*cGbb<mwP#8(N*NNG4CGCPjM#CcmPcPbc8P#NbMjl(mG4PMMcCNbCmj#bJm8CjMbjj*(N*+PbM(CcbPm*#(5N8b#GwPjc(w**NGMb4*C*m#MGCG#4b#w##C(P*mN84G#(G#PCcwC<m!#jb*jM(b*jNN4PGwGsPMc4-#cGK8wbj((4*#*8P(4jGXMNC(m8cwY*8}*wjb(*w#N8(C*CMcG#mNcPHm8*Gb#cbG*8jC(CG#PwcCC4mMMp(cwc#cbMj8(b*GNC4oC4b4mbcGbb8jNMbP*c#G44*j4wGPPCM6ob8M84#EqGw8(#wjNP4mG8PG8jc(CCmN#(bG8wjN(4*cm(MMC(PGM4C#c*vG8C#kG8*(N44M*448M#CNmPMCZ88w#*Kwwwj;(}G(NMMMCcm#4jy48P#Pb8w8j*(P*C#d(wC(m(cMlM8#cGbNmPjc(8*8N*4*GCPwcb&(PG#MbMw#jc(N*PNm48**P*MGCCmh#bgIw4#BPw*cNj4N8#PmMmCwN*4j_C88jbbG*4Nb4c*MmMMNC(mmMGOw8*#GbC#bNb(*G4N*McCMmjc(888m##bwPmjG(G*dPbM(GCb8cMa#8j4cbPwPj8Ww8#NG4mG0P*c(CT8Mc4(4wjjb(PwPN84wG*PG*RCtmw#(qwwMj4(#*b4(4PGcP84PC*m*cCICwb#GPm*4Nc4#*MPNMNCmmj*4pw8G#CG**bNb44wM4*M#C(mNcc%mmG#wC*j#jC(8GbN*M4GmmcMNj#8N#NbmPNjw(w*GNm42G*bPc(LM8c44bjwjjPbNwMNw4NGGP*M9_b8(cb(bwc#f(j*(NP4mG8Pw48CGmmcn Cw(j((M8c(G4jG4PPM#C8PCc**GN8#Cbw*(jP4MGMP#(jPLmPccZ88N#*F*wCM1C*GbNGMMGGm#M8%Nmjc4b8wjj*(#*CNuMb*!NwcMCC8#cNbNwPjmW8NMN*4NGCPmcbC(84MM8*w#jb(N*4Nm(PGwN8(mCCmP#bCGw4jM(cwM#m4NGbPm4NCwm*cGGC#Njbbm*4jw4c*NPjMNC#mmc#7w8c#GbGw5j8GMG4NkMcw4mjcjvP8m#8bNMMj*(C*;cGM(C(mM4c*C8j#4bPw#j8(P**jwMwGyPmc(C#8M#cb#wj?P(P*cN84cG*PwMCCmc8#(_GwMMj(#*#NN4NGmPjw4CwmGcCG(wbjb(4w{Cw4cGjPNb#CmmmcwG*###Cb8*bjG44*jPc(#(#mNcM?m8##wb4wGcP(mGbN*M4wbmccc&j8j#Pb#M(j8(**Gcw4WGZm(MCj88M##bj8bjP(P*8N#*wGGPCM<CP8(#(bMw4j#(4MCNN4mG8PMM*C*mCc9mwwbj4(M*MN#4jGNPP4cC8mwc*O*8##3(b*(Ncmc4***PCMPbM8(cj88#NbGwCj!44M8GCNGMjm#cj7N8P#mb8wwN*GC*GN8MbC(m4c#c8b(8j#rwNjM(8*wN*4%4wCwmcM*C*#4eww#jj(N*8*4NP4#G#PPc4CC8jbb8GjM(c*#NPmN4jCc*#C8mNcG7C8;j4P((b*C8CGcN8MNCPmmc*j*>8wNj8(bGGN44C*NP*Mbm#c4IP8m#8bG4*wwNm#wNr4wC4mMcciNbGwM#mb(*4(8*cNG4CG.m48CcMfHmP#Gb(w((N*cN84wG*PpwNcwCm8Gb(8Gjc(#*jNmmmM(G(mMMGmGcCh3wbj((4*MNcC#G#NPMPCmm8cGNjb4wjjm(4C8NC(*Cb8(4CCam4c488#wb*wGjC(7Gb#G_4C4N*c#qj8N#8PMbk*MNj(FCGPwMbCmw4c(f)*C#ci;*Mj844CNNcM#GPPPCIm*#4bMwcjNj#(:wGN4GmPPM*CGmC#(Nc48j(bC*cN#4jGmsNm#M8DMc*KG8C#58b*(N44MGcNwMjCNmPcm:88w#*bG83j74bG(P(MMCMm#cjHM8P#mb8wwj*(G*CjG4NC(m(cMZb8##jbNmP#M(8*8N*4*GCPMcbG(Pj#MbMw#j#(Nw,Nmb8GbP*M*CCmC#b;cw4cMbm*#N#4NGNPm4*CwN*cjgC8Cjb(b*4jP4c*NPbMNGNmmMCTw8w#GbGwYj*mPG(PMMcGmmjcj1P8#G(b8w*jGwG*ON%M(GbN*ccFc8jcNbPwmj8(wmCN*4GGrPJc(rb8McC8Dwjjj(PwPN848G*P*MCCw(N#bb4wM#M(#*#NN4c#bPmMwC*M*cCHCwbc0Xw*MNM4#*cPNMPCmm8(G<w8*#CbC*bjY44*(jGM#CcmNMCIm88#wbjPcjG(CGbj8M4C4mccM_j8M*,bPw8jwb#*GNG4.G*bPc(9M8cTcbjwjjPbNwMNw4wGGN*M.tb8(#4G#wMjc(j*jNP4NG8PwmCCGmGcKZ-w(j4(MwjbG4j*PPP(*C8m8c*s*8C#wPN*bN44MwNP#M#CNmc*bOm8w#*8*wCjC4bwrjwMMCMm#c(BN8P#mb884jw(w*CNCMbC(m4cMmj8c##bNwjjm(N*wNP8cGGPQcbmM84#4bc8Mcn(N*4Nm4#GwP*MGCCNG#bq8w4#C(c*#Nj4NN8PPMcCwm8cGJj8Z#*PP*(NM4cNmPjMjCPPNMM%w8(#GbmwJNb4(w44wMcGmmjMG&P8N#8bw#Cj*(M*3NCM(G#mMcbj*8##NbP#Sj8(8**jw(NG=Pbc(C*8M#cb#wjc#(PwPN8(GG*PGMCC.(C#()4wMj4(#*cNN(j*4P848C*mMcC?2wb#wGm*4jc4#8jPNMNCmPmcwKP4c#Gbn*bc(44G4PcM(#GmjcP3m#b#wbwwG#*bPGbN(M4Gbmcc#Jj8NMjbm8mjw(N*GNC4HCbc#c(C(8ccMbjwNjP(#c(N84*GGMjM!CB8(cbC*wc#b(jwcNP4mG8jwCcCGPPc1C*w(jb(M*c4m4#*bPP44C8mwc*}m4##C(b*((*4MGMP#4cGbmP4=L88(#*bGwCjm#mG(j8MM8Pm#c#fNPC#mbjM4jw(G*CcMMbCbm4MYjw8c#jbNj4jm(m*wjC*#GCP*cbw484#4bcm*jj(MM-NP48GwcGMGCGm<c*NPw(jM(cjlNj4jGPjmC4CwP4cGC88S#Q((wb#*4cw8PjMMCPmmc8Gw#c#GRMwi##4(*jPM(cPGmj4*yPPC#8b4w*cG*j*{j#M(*NmMMN9#PjkBbPmCj8bb**j.4Cw3MPc(GN8MMmb#8wjN(4#CN8((G*MCMCCC8bMjb48>Gw(c*jNNGmGmPmMwG8PjcCC#wb#w(4*MNc4#wcPN(GCmP4cwf*8G#CPG*b#N44G(PcMMCjPN*whm88#wONwG#c(q*bbcM4CMmcMCRj8M#PImMGjw(**Gj849*Gm(MCj88M##bjj4jP(P*8jm(#GGNcMTCj8(#4bM8cCP(j*NNP(cG8N(M*GwPNcgCjw(#w(M*cN#(j#8PPMmC8mcc*CM8CcG:m*(#P4M**P#MjCNPP**J88w#*:mwC##4bG(b#M4Ccm#cc_N8P#mbc#8j*bP*CcNMbCbm4c(vc8(*GbjwPjmC4*wNw4GGP4CcbC(84(pbcwcjj(#*PN#8(G8P*MGw8m!cqb(8*b4(cw8NjYCGPPPM8Cmm*cmN#8Cjb((mmNM4MG#PbGjCPmMc8Gj8*#*bCwGNb(GcmP4McC#N(cN6N8m#c88w*j*(C8CPbMbC4m(cc<((G#jbPwmcm(w*wNG48#jPec(x4Mw#cbcwj##b(*mNm4wG4PGMCCimbGcb4wMjcbb*jNj4P*NNMMwCwmGcNLvwbj(b4cjNc4#GjPbMPCPm8MmC#8G#GbOwPN(44GMNcwPCjmNcPC#88#8b*wG-((CGbP(MbCMmcc#Ccmb#PbPw8j((**GNC(ZjMm(c4gMP%##b#wN#jb4*8N84*GjPCM}Abm(G#bMwcj#bV*NNN4m*PNcM*C*mCcNbbw(j4bMcNN#4jGNNcMmCmmwc*Pb8G#&(bw_N44MGcP#G(CjmPcmDm8w#*bGwCjc4bG(P4M4G*m#cjfN88*cj4bww8jj4j*m4WG*m4cM-c8Nm*jMb*w4(m*#N*4GGCm(wwM;+(8wcCwc#c(N*PNm4*cjCcP8MR:M88#GXwwwjG4_wUN#4MC#mbcMmwcjUC8&jb(MM**(Nc4#ZGm#CPmmc8vw8*#GbCmwMb4(G4PMMcC#mjcNbPj8#mrCw*jG(CG(icPb4mC(mjcG(b8-#Mbb*4jj*wNP4CGembcMMw+,mC#Nw#j4(P*mN84GM4CmPCcNm5cGb4wMjc(Nc(w j*GmP8MwC*PMcC!<wbcZRw*MNc4#*GPNMPCmN8yMO*8G#Cb6*bj<44GM#jMcCjmNcNhm8P#wbjjNjC(<GbNwM4C4mcccXj8M*AbPw8jw(j*GNG4WG*bPc(_M8cM*bjwjjP(mw(N84*GGPCMS9b8(c*w#wcj#(j*NNP4PG8PwM*Cm(#cCbbw(j4(M*MN#(cCcPPMmC8mcc*rG8CcG(G*(N(4M*CP#MjCNPj#jV88m#*bjwCjQ4b*GbwM4Ccm#4CLN8N#mVP8cj*(m*CN#MbC(m44M#w8##4bNwcjm(j*w#*({GCPwcbCG84#4bcm##P(N*cNm4jGwPNMG*CP*#b1Gw4#5(cwGNj(#G4PmMcCwmmcG0C8>cCb**4j*4c*8PjMNCPPN#NAw8c#GbNwXNb4(*bmbMcG*mjcb%P8m#8bwwmjG(8*KNNM(C(mMcbj(8j#NbP8*j8(8**Nm8#GCmbc(148M#Mb#wjb4(N*mN848G*PGMCC+mb#(b4wMjMbP*jNN4PGwLCP8MMCw8b#N(8wm#Gb8**NbG#PbMPCmm8cGNjfw8C#VMN*.4(**PcM#CjmmwNcNsM8djMb(jC(hGbP(M4CMmcM(wj8j#jbmw8jw(C#mNG48Cbm(c4R#H8w(#jb<jNb#*8Nw4*GibPmbc*H#84#wbGb4P4beGbNM4M4P8MNN4GGCP0w(*PN84wG*PGMC*:E8CmP*c*FG8Cj(N8(m*(j*N((bPjPcC(mNmN(8*mPNwCj^4bG(P4MMCcm#cj;jmj#mb8wwjCPP4j**P(M#C*m6MGKG8ON(b(wNj#4NG4P#GCPfcb_(84#Mbc*#8N(j*bNm48GwPC8PcjC{mCc8b88G(M*bNj4NGPPwPbcNHbmjRG8Mjb((*4N#P84GG#PPMjhMm*cc}8wmjNwCjC4(G4PMMjNbmjcNWP8mM8bww*jGb*mMPbM(C4PGccr#8jMNCGwmj8(w**NG4MG?NbM8{48M#cb#wj#8(P8mj>4wG*PGMCC9mC#(C4m9jc(#*jNN4PGPP84mGCmGc*1B8(j((4*Mj4(mGjPcMPCcm8cw%*8GC=bQ*bN((,GMP4M#*bc8cP:m88c(b*w*jC(#GbNG8mC4mcc#G*8N#Nbm8P#c(***NC4mCbm(c4GMbw##b#wNjN(mw+Nwb*GPPCMCVb8b#4Rjwcc#bm*NNN4mGmPwM8CGNCMcbbwbj4(4*cNc4j*#j*MmCNmwMG.G8C# ,C8GN4(uGcN#MjCNmPcmbC8w#wbGw8j5(2G(Nb(jCcmccjCm8P#mb88mjN(G**NH4PC(m4cM,cPm#jbjwPjN(8*8N*(w**PiM0 (m=#Mbcw##c2**PNN48GcP*MGCCPGc4b(8^jM(b*#Nj4NGPPjM8C8m*c8}C8CjbbGMmN44cG#jNMNCNmm4c8C8*#GbC8bNb4bG4NNMcC(bGcj P8mMwbwwwjGb*wPPbMbC4mbccJ#8jc#(#wmjP(w*MNG4CGrmb4%Y484#cbMwjjj(P*m(#48G*PGMGCV8b#(b4w4jc(#*jNj(NGmP8MwCCbjmwcPpCGMjjbGw*Nc4C>wP4M8_jm8##8G#CbW*bj>44GMPc4M:mmNcPem8m#wb*wGjCw8*XP(M4C4mcc#Fj8j##bmw8jw(w*PNC4JCbmMPPcKyPmCb#w4jP(m*8NGN#MmGPm(CRmw#4bMwcjNjM4(GcN84wP8M*CGmC4Zbbw(j4(4wCN#4jGNP88mMPRc8ccC8C#s(b*(N44MmcCjVjCjPCcma88w#CPN(M*wjw4GG*N*M*Cbc#C98P#mb8wGGmjC48*MPP4*G*c4Cm8##jbNw8CbjC(8GbNNMMr*m*M*Cw#Mbcw#jj(N*PNmc8m*PwMcCCm,#bbM(*w##P4C*(NwMcG8M8Cwm*cGBC89jb4(PMN4(CG#PjMNC8bqmucmZc8CbGwmNb4(G4P#NGMMCMm#c48Pc8bww*jG4bMmGPP4M8CGPGjbb4w(jb44w#j14P*C4GG4mbc(:48#*CN*b(*MjP4(WcjnMNGwPmc#8b#(b4wMjc(##jCbCPGPP#MwC*mG#b##b*w(j8*4jC4#GjPNM8Mj/c8NcG;C#Gbc*bN(44G#CCNCc4C4m(jjuP8+#wbjjG(8GbP(M4C#bcmmc#Bm#Nb#w8jw(**7CCPw4GmbMP7M8c##bP4N*cj%(m*tN#4#CNmNC5m8#4bMwcjNmbbwGMNN4#C(MwC#mCcEbbwMGmjNbC*8NjMMGNMPGmmwc*hGwbGc#P((*CN444GmPD#4CjmNcM(PwP#PbNjC(#G(P4MMCjbwmCcb(4w(##b4*bNN4jNC4jC(m4cMEj(N88#Pbm*Nmj(M*NPmGGP8cbE(84##c8((w8jb*NN(48GwP*MZ#PF(mccCbjwwNb*cj94NGPPmM*j#(MmP#8WXwP(bw*NM4cG#PP8*MbCm8jc88*#GbCw}Nb4(G448/cCcPGcNXP8m#*NPb8wNN4(PGcNdM(m4MP!#8j#Nb848wPN#4P*CmwMbC*P#c8CC#MLwwjjN(P*wCbNm4NG/PPM*!*8w#8w4jc(#*j#84PGmP8M8CjmGcColw48CjC(Nw.jtG#P4MPCmm8cG#4bm8CjNwlj*44GMPcMN4i+Mm4cw88#wb*wGjC(JGb8(;MC4Pbc#Vj8N#8NbbCwjj#(#G8Pb#cCbP,MwCG*#j4bj*cjx44*j4wG#PCMp>b8Mwu#c(b8mjC(4*44PGcPwM*CG8bmmcGbG8Pj4*Mjw4jGNPPMw#82N84c*b48P#P(8*844GbP#MjCNm8w_c4X8#w7*wCjX4bGMVNNwMcL(m#c#5*w4N#bmw8jjMwGwNw48m(Mm<c8##jbmMbw#j4(K*mmj4*GGm(^(84#Mbcw#jj(NGPM848GwP*MGCCmOCbj8N4j4bw*#Nj4NG80CP4MwfPm*c*bMwm(bw#NM4cG#PP8CM*CMm-cwbP8*NNb8*cNG4MP44PC#mjcN28(tw4#cMj*4N44bGmN*M8C4cMh(8j#NbPwwGCj#cPN*4#Gxmbc(Kc(Cwb#>bPwcNc4M**48GjPGMCCe84*(#8bcw*jG*#j*4PGmP8MGjNCCm*cccGGP#Gbw*PjCG#P4MPCmm8cGj#hw8*jbw1jN44GMPcMNjbC*8cccbjw###(#wm(C*#P(M4CMmjwwcCQb*4j(b#w4Nb4NGj4CGwm(c4VM8jmwj4bww((P*(Nw4*GGmb8*MCCw8jc*bPwMj#*jN44mG8PwMC#NCcmGcwb8j(bN*cN#4jGm-mPNccVNmGj8>rww#c(mwG44**P#MjCNm8w4cP3m8GNj(4w*(E*bP4MMCcmN8;cDAmw(#NbmwNjjMPGNP*M*C8mDMCCC#cbNwPjm(#*wN*4GGCP5cbR(84#Mbc#N4j(N4CCbm(c4eM8c4#jbc3V*w4jM(c*Nw*PM4*G4M8Cwm*cGuC81CbwMP4NM4cG#PjMNCPGmS4ww8*#GbCwI#G4(G4PMMc**m#cNBP8m#8bww*#w4w*^NkM(GCmMcc9#8jm4bPwmj8(m**N*4C*GNGc(Z48M#(b#wjjNbjwjN848G*PwMCC&8b#(6GwMjc(#*cNN4NGmP8M8C*mGcC-awbj((4w(j84#G#PNMNCmm8cwh*8c#Cb>*bjE44G4Pc4M*ZmNcPVm8N#wb*wG#*4*GbPbM4C(mcc# j8Ncjbmw8jw(8*GNG4/CbNPc(-M8c##bjwNjPbNGNNw4wGGPmMr+b8(#4U(wcj#(j*#NP4PG8Nm4#CGmCcfLGw(j4(Mw4P44jGjPPMNC8mwc*nGm*#V(b*(Nb4MGMP#MjP4mNcmk888#*bGwCj;(GG(P4MMCMPPcj_N8P#wNc(MwwNjcbGNNc#mGmmwcMCC##rGwPjm(8*GfjP4M8G8m*cwCw8wc}wc##(N*PNm4*#bGcPGc8CCmC##bw*Cj4(Mw_mcMcGcPMCwm*cG9Cm*jb((*4NMwNGcP#MNCPmmc8XwP*cPbCwCNb4bG4P4McC#N8cNO#8m#mbww*jG(C*MPb4GC4mMcc?#8j#Nbjwmj#(w**NG4CG<mbMjD4mG#cbcwjjN(P8mjb4wGjPGMPCHmC#(C484jcbk*jN(4PGjP8MwCjmGcGx;88j(((*MNc44GjPjMPCmm8cwJ*PGMNbSwdN(4(GMPMM#CjGccP?j88#wb*wGjC(y*wP(4CCMmcc#Wj8N#P+mw8jj(**GNC4rCbm(MGlMmC##b#wNjP(m88jG4*GNPCMm)bm2#4CMm8j#(b*NN44mGNPwM*G#mCcCbb8wj4(4*cN#(#GNPPMmCmmwc*lG8Gbj(b*(N4((wGP#MjCNPmcmq88w#*GuwGjr4bGbP4M(CcPxHb_N8P#mb#wwjw(G*GNX4*#Pm(cM6c8b#jbjwPj#m(*8N*4GPjP.MKY(mbM*bcw#jj(#*PNm48wwMcMGCCmH#bb(8*jM&cjGNj4NGPPmM8Gbm*4G8j8%jb((*4NMbCG#jjGqCPmmc8:w8*#MbCm5(P4(G4PMMcC#NGcNCjm4#8b8w*#C(C*uPbM(wcm4cMh#8##Nbjwmc8*M**N*4CGCmbMN{4PMQ*b#w#jN(N*mj(4wG*M4MCCO8b#(b4w4jc^#jCNN4PGmP8MwCcmG4P8#wbj((48<Nc4cGjN8MPC#((c86*8Gc8b:w6N((Cc8PMM#CjMJcP,P88cm #wGjC(5*CP(M4CMNc3X-#8N#Pbmw8j#(*8GNG4LCbm(c4dMPm##Cj8PjP(P*8Nw4**wPC(JCj8(#bbMwcj#bb*N#P(MG8PmM*CwmCc(bbmJ#w(M*(N#4cGNPPMm*8m4c*288C#*(b88N4((m*P#M(CNmMcm!88w#*FGwCj*4b**P4M(CcPMMMhN8c#mbmwwj*(G8CjmMbG*m4c42cm##jbNwcjm(#*wNj4GGCP1cbCm84crbcw#jj((*PN#4bGwP*MGwcm^c<b(m4M*(cw*Nj(nGPNPM8Gm8mcGgM8/cw((*4NM4cjjPj4CCPPCc87m8*#NwPw5jN4(8mPMMMC#m#cNKc4b#mbww*cc(C*CPb4G#mm4ccr#j*#NbNwmc8*M**Nc4CGNmb4#_4NGP#b#8GjNC(*mNm4w*mPGM8jjmD#(b4N*jc(c*j#NGbGmP(MwCcmGM4RoP8(c(4w8Ncg#GjPjMPG#m8cNNM8*#CbDmbN(4(GMPb8*C#mNcP*488#8b*mG(j(+*NP(48CMNPc#Gb#8#Pbbw8MN(***NC(#CbPGwm948c##G4wNjN(m*je44wGGPCbP,b8b#4CM#*j#bG*NNb4mwCPw(j8bmCcjbbNNj4(4*cj*4jGMUEMPC8mw(4>G8G#.lbm8N4(8GcPMMjG*mPcmGP8w#(bGwjj&4bG(P4MbCcP*cjC*8P#Pb8w#bw(G*8NnbGC(m(cMU48##4NCwNjm(88PN*4*GCPmMMr(mC#MbMw#j#(N*jNm48PjP*MGCCm*#bb(w4jMwK*#Nj4NGPPmM8CwmjcbgC88jb((*4N44cGcPjMNmMmmc8qw8P#GbCwUNbNCG4NGMcCbmjcN?P8mc4bwwjjG(G*%NdM(C4NmccC38j#4bPwmj8(ww(NG4PGBPkc(e(8Mc4{0wjj((Pw(N84wG*Nw4cCUmm#(OCwMjc(#*jj84PGMP8MmC*m*cC0.PCj(b**Mj}4#GjPNMPNMm8c#a*8*#CbC*b#hbwGMNCM#*CmNcPEmmPjPb*wjjC(wGbP(M4CMP4c#:b8N#jbmwmjw(*8wNC4mCbP*c4UM8c##mbwNj4(m*mNw4wGGN*4Prbmw#4bbwcj#(j8N4b4mGcPwMjCGmNc7CCm8j4b**c#P4jGNPP4NGMmwccOGm?#_(b*(N4N;GcNGMjCjmPcmr88w*GbGwNjU4bG(PbMMG484cjCQ8PcGb8wwj*(G*wNF48C(P8cM>M8##jwGwPjm(8*wN*4GGCP Gw-b84#MbMw#jj(N*P(*48GwP*4wGNm?#bb(8NjM(c*##b#PGPPmM8Ccm*c*9CmMjbbGMmN44cG#N?MNCNmmMPCc8*#GbCwcNb4(G4#Gj#C#mjcNR(8m#mbwwMjG(8cjN:M(C4P*ccJc8j#MN5wPj8(w*4NG4GG=NC48 48M#cCGwjjN(P*mbc4wG*PGMGC3mU#(.C48jM(#*j(w4PGPP84mG#mGcCn<8#j((4*McCGPGjPNMP*4m8c8f*mM#CbwMNNb44GM#GM#C#mNMjC488#wb*8<jC(3Gbj(84CMmcc#oj8Nc(bm8P#G(**wNCb?Cbm(c4HMPC##bjwNjj(m*PNwb*GjPCM&;b8(#4n(wcc#um*NNP4mG8PwM#CGNCcmbbw(j4(M*cNc4jwNP#MmC8mwc*5G8m#Y5bjmN444GcP#Mj*mmPMNKw8w#8bGwbj%4bG(j44NCcmMcj!#8P##b8mw#M(G**Nf4CC(NMcMGcmG#jb#wPjN(8*PN*bG*#P7MCI(8b#MCCw#cjb**PNN48GmP*(ZCCmhc8b(w(jM(M*#Nc4NwPM(M8C8m*c*)Cm*jbCwPNN44MG#48MNCNmmMGrw8PGcbGw{Nb*#G4P4McGMNfcN-N8mc(bww*jGb*mbN>4XC4PGccr#8j#Nbcwmjm(w*8NG4GG2NC42%484#cTwwjjN(P8mj34wG8PGMCC=P##(b4mPjc(c*jN#4PGPP8MNC#mGcCHx#cj(((*Mj4bCGjPNMPGCm8cwx*PN((bu*bN(CcGMPMM#G4mNccNb8m#wb*NWjC(CGbj5(wCMmcc#C88N#Pbmm8(M(**GNC4^CbNMc4C(8###b#wN#8(m*8Nwb*G8PCMC_b8b#4Onwcc#Uw*NNN4mGmPw(GCGNCMUbbwbj4(4*cN44jwNN4MmCmmwcwOGmP#3kb8CN444GcPcMj*mmPcm!48w#*bGwCjn(EG(j4GwCcm#cj!N8Pcjb8m#(4(G*CNZUmC(m(cM+48##4NCwNjm(8mcN*4*GCPwwNrb84#M8Pw#j#(Nwjj448GwP*MMCCm>#bC_mwjM(M*#j84NGPPmM8Gmm*cGVC8Gjb(b*4j(bGG#PjMN*emmc8=wm8j8bCwCNb(mG4PMMcC#PccNxP8m#PbwwwjG(8cjNtM(C4MNcchc8jc#1(wmj8(w*(NG4CG0j8?ci48M#c8vwjjj(PwPN84N#MP*MCC.c8#(b(wM#4{C*jNN4P*wP8MwC*NG4N6Fwbj((4*M#G4#*cmcMPCNm84wL*8G#Cb9#(N(44GMP4M#CcmN4P8(88#wb*wGjCbAGbj(G8CMmMc#Ij8NM8bm8Pj*(**wNC4(Cbm(c4GMmw##bcwNjj(m*jNwb*GwPCMG)bmx#4Ccwcc#bb*NNj4mGPPwMmCGNCcbbb8nj4((*c#D4jwNNMMmCPmwc8}Gmb#g(b8wN444GcPcMjC#mP4m848w#wbGwGjAbGG(#*GmCcmccj8#8P#Pb8mCj*(mc#NCMbC(cbcMaM8##4NCwNjm(8j!N*4*GCNG4mQ(8(#Ma8w#jj(N8P4(48GmP*MGCCPc#bb(8bjM(M*#Nc4NGNPmMjj4mwcG/C#Mjb(b*4j(bGG#PjMNGGmmc8iwPj(bbCwTNb*#G4P4McGbmjcMja8P#8bwjbjG(G*!jC(8C4mMccCj8j#NbPwN<M(w*wNG4CG<mbc(a4m(#cb#wjj#(P*PN84wNNP*MCCxmq#(b4wMjcbN*jNN4P*NNMMwC*mGc*YUwbj(/4jwNc4#GjPNMPCPm8cw*C8*#Cb_w}N(4bGMNCG/CjmNcPIM88#8b*w*jC(wcNPbM4CMPCc#a#8N#cPbwmjw(**bNC4CCbm(4me48c##bjwNjP(m*c4G4*GGPCM9vb8b#4bMwcj(PG*jNP4mG8PwMwCGP*MPbbw(j4(b*cN#4jG#((MmCmmwc*eG8C#Z(b86N44MGcPMMjCjmPc#N(88#*bGwCjY(gG(P4*CCMm#cjLj8P#mb8wwc#(G*CN,45Gmm4cMOc8N*<#hb4w4j#(m*b4*GmPDcbx(8c8mjbb#wC(j*bNm48GwPC8ccjnmmmcyYGCG(MwcNj4NGPPw8KMMC*8mcGsGwcj84G*(N4(CVMmMMMC4cmS(8*#GbC*(CbNG4PG4PP4CGC8b#b8P#cbww*jG4b(*G*P#4GGGcM^b8j#NbPwwGkNM4PGj4CGnmbc(a48M#cw*Njjjb**mN84wGC}CP*cmH*84j^bc*b#m(C*44NGbP8MwC*m 84cCUG8m#w(w*G8CG#PbMPCmm8cGN(b#w8jbbm*j4(*8PcM#CjmmwGc(e8wN#wbw*4NP*0NPM4CMmccNc8Fj8##(bM*MN##NN*4gG:Pbc4VM8c#NNbbwwPj((wGNN#M(G*PC#wKG8w#Nv*8-(#*MNP4mG8PGPwc#CccRbbw(j4(M*cN#v8mNPN4;C8mwc*g_4(8NjbbCGuN((8GGP(CjPjcmu88w#C#N(jwPN#4#GwP*M*CcmMc4}j8jj4bjw#j(*GNMMbC(m4c#j8EGmTP(bGwGjw4c*NP#4GPCM4_(84#Mbj4CwCjb4bGMNM4dGwmM#w,wmwc8w(#N(c*#Nj4m#4GCmjM8048#jPTPw*#8(8N4(wG#PjMNC8CGmmcPUc8jjj(PSw4b*GPMMcC#mPw(c*C*w4b8wcjG(C*-P4mCMMCkPPcG!(8(bNwbj8(w**NF884CCcm(cCC*84#bw#j4(P*mN84GcwCmPCcN8b#(b4wMjc(#MC*cCPGPPbMwC*mG#bj#b*w4jc4G*(NG4CCbMPCmm8cw_*8G#Cb&*bNb(PGMPcM#CP,GmjccJ*8##m(m*PNN*vN*M4CMmccNcwC<8Cj(wmjj(**GNCM(MbCGPwcP8McmbjwNjP(wMM*(PcM#GG8GcwBc88#GfGjcbC*NNP4mG*GQPwM8CjmP#Pb8j(bc*cN#4jGmC?m(MwCm8j#(AN8MPP(b*8NM(P*9M#G*mPcmV88GGjjmbGCmjC44GMPNMGCGc#CP8P#mb8wGCMN((GGP8NM#GGPGMG({8w#wbm*4(m*MN*4GGCm(wPcbg88M#PbGwb(N*PNm48PmP*MGCCPGjMb(w4jMA(*#Nj4N*jm*M8Cmm*MjTC8QjbutG#NM4(G#NmMNCPmmMPbC8*#*bCw#Nb4(G4N(GmCcm4cN 48m#8bw88j#(C*8Pb4rC4mMccG#m4#NbMwmj#(w8GNGbCGCmbM*g4mC#cGCwjcNb4*mN#4wGNPG48Cg8bc8b48Cjcby*jNN4PGmNbMwCPmGcCy 88j(bCM8NM4#GjMPMPCPm84w8c8G##bewPN(bNGMN4(CCjPGcPGj88#wb*wN8N(/*NP(CMCMmMc#C*8N#cPbwmjw(*NCNC4CCbNs4w/Mmw##h(wNjP(m*8#m4*GMPCMNZb8(#4bMM4j#bG*NNj4mGPPwMjmkmCcjbbj4j4(4*cN#4jGM^FMPC8mw2G?G8G#YhbjmN4(8GcNGMjGwmP4m848w#MbGw#jU(#G(Nc*wCcNNcjGG8P#Pb8w4j*(mc#NCMbC(NPcMHM8##4NCwNjm(8N*N*4*GCNG4m2(mm#MCGw#jj(N8P4(48G4P*McCCm8#bC^mwjMb8*#jm4NGPPmMcG*m*cc6CPojb(b*4jm4cG(hGMjCPmm48qw8w#Gb8Mjjt4(G4McMcCcmjM#C(8m#(bwmPjG(C*_PbPtC4PmccCG8j#NbPwm#P(w*MNG4*GRP6c(CbP*#cJ*wjc#(P*mN8(m*cPGMcCFmj#(b4wMccKC*jj*4PG(P8MNC*PwcGIZ8cj(nj*MNc4#GjNGMPCbm8Mu<*8*#CCK8wN((mGMN*M#C4mNMjUc8m#(b*w8jC(5Gbj(4PCMP8c#C*8NcPbm8P#N(**4NC4NCbm(c4C(8b##>8wNjb(m*8Nw(8*bPCM4abmm#4bMwcj#T8*NjC4m*GPwM8CGPCc*bb8Pj4Qw*cjw4jwNMbMmC(mwcceG84#_CbPGN((8GcNMMj*mmP4m848w#MbGwjjD(cG(#4!.CMP*cjG88PMwb8mw(c(G*#N<4PC(PjcMGcNC#jXCwPjb(8w#N*(wCwPWM#q(m(#Mbcw#jj(c*PNb48GbP*M*CCNKiPb(8mjMb**#N44N8P##MmC4m*4P,C8(jb>(j8NM(wG#NCMNC(mm(88N8*#cbCm8Nb(MG4jM(NC#PGcN}b8mcCbwm*jP(C*jPb4PC4jGccCM8##N:Gwm#b(w**NG4C*CmbMP,4mP#cbMwjj(yC*mN(4wmmPGMGCami#(6C48jM(#*jMc4PGPP8MNjMm*cCVujmj(((*M#c*GGjNCMPC(m8M6v*PGbjbswNN((mGMj8M#*jNbcPhb88#4b*w*jC(xwCP(4mCMm4c#,#8Ncj64w8j4(*w8NC4:CbN=4w!Mm8##bcwNjP(m884M4*GMPCM#+bPP#4CM#*j#b**NjC4mG(Pw48*mmCccbb84j4(M*cjMbmGNN*Mm*mmwc*-GPCbN(bw#N4(NGcj#MjCNm#cm;(8w#bbGwGjT(8NbP44pCcPmcjWj8P#Nb8wNCM(**CNO4cC(m(cMtccb##bNwPjP(8*wN*4m*GP>cby(8(cNbcw#jj(mMm*NPcMNGG88MW:wmc#mRGj4bw*#Nj4NG8Ehm4McbPm##j2m8m(b8GNM4cG#PP8NMjFcww#MKMw##}cwGCj*c4G(PK#jCCPC#br8C#b8w4jG(C*vP4mCMMC!PPcG.(*G#bbGjP(8*wNP4CGSmbcMMPpQ8PcCw#j((P*mN84G4mCNm8cbZ(#bKwwMjc(#*PCGPb44?8PmcNm*cParwbj((c4_w*NG4bGbMNC(m8cwY*8u*#jMb8*#NG4cG*McGwmNcP2m8*GN#cbjw*mj4***P4#cGwcc{(8N#Pbmw**(NP(GGj4CGPm(c4IM8j*4#N(M8*N((#*#4w*GPCM_+b8M*P#w=GG#jc44C4NjMjG(Pw#C34mmcmwb#*(M*cN#4P4cCcPGM#C#cwyP8C#U(b*MC4N+4PGcM#C4mPcmq88G8#jmbP*((CG(P4MM*Cm#cj<N8N#(b8wwj*({MwGbP*4#C8PCMC8cc*bNwPjm(*MP*GPm44CNPwjNC88NbM8Gjj(N*PNwm(40Gjm(cmdb8Pbb8PjM(c*#NPPG4jGcP*M#Cm8m#PbN#xb**4NM4cGNL#mMMP7(cPhw8w#NbCwHNb4M(vGePPMbCbcj248m#8bwwCGmjj4N*8N8C(P*cc_#8j#mNG((*jj*(#G44CG0mbc(048M#cb#wjjj(M*mN84wGC-Gm8cMCD#by(wMjc(#*PC*Nb4mCjP8M8=(8Nj8hC8l#wMbGbNb(:Pj4*Cmm8cwlC(C8*jm(**4Pp4cCbNmMCC4cNeb88#wb*w6CMjN4bGGP(M(CPmC=#m4#Pbmw8jGP*(wGm8bMPGPm8ccMb*M#(4NwjNcMwGMNMM#G9*8C?m4#4bMwcjNPG(w*NP4#(G9PNMNCN*m##b#wMj**Mjm4jGNPPMwjbiMm#NNbMwMj((8wGNw4MPc4CCNmPcmp*4M8wj#bC*MNP(wP(4CCcm#cjymUCw##8(Mjw(P*CNfMbCMGwmOMCZN##p*wPjm(8*GxPN#4NGGwNcGCG8MN#/*j#(4*PNm48GGG4mmc4CP#bb(w4jM*8*#Nj4N*j4CMmCwm*cj5C8Ejb{/wNNM4MG#NMMNCPmm48CM8*#*bCwCNb(GG4jM4mC#m#cN>N8mcPbwm*jw(C*CPbMbC4P4cc_#mG#NbNwmjP(w**NG4CG*mbc(Z48M#cbMwjjMP_*PN84wm#PGMGC+Pb;mb48Cjc((*jN44P*NNMMwCjmGME Xwbj((4m#NM(UGjPjMPCNm8c#*M8*#mb}w4N(4(GMNCM#C4bCcN,m88cGb*w*jC(wcNPbM4CMcGc#A#8NMPC4w8jj(**mNC(+CbNychBMmG##;8wNjP(m*8b*4*GPPCMPJbmY#4yGjjj#((*NM(4mGmPwM*CGm8*j{-w(j4***cNc4jwNj(MmC#mwcPaGmC#BUC*CN4(*GcNNMjCNmPcmPw8w#NbGwNji(CG(N*C#Ccmbcjwb8P#Pb8wwj*(mc#NCMbC(cwcMxM8#Mj8)wPjc(8*NN*(1GCjoCP)(mG#M6Rw##G(Nw8((48G(P*4bCCmC#bs*w4#hPw*cNj4NwwPmMmCwmP*cWG8ejb*8*4N44c*MjaMNCMmmMN^w8*#GCC8jNb(*G4NCMcCcmj4NCX8m##bwwNjG((*ijb(PC4PCccJb8j##bPmmjc(w*NNG4mGVP#c(G4mw#cbbwjj4(PwmN8(m*GPGMNCSmP#(b4wMjcbj*jN44PG4P8MmC*NGaj}{8wj(bG*MN(4#GbM(MPCcm8443*8*#CbC*bjGmmG4PcM#wGmNcN6m8jG4bwwGjCGPGbPbM4G(NGc#q(8Nccbmw8jw6*N#NC48CbP*c4GG8c##mbwNjM(m*mNw4wGGPC4jC}m*#4bMwcj#(j8N4b4mGcPwMPCGmmcWbbmMj(b**cNc4jGNPP4NGMmwccSGmm#0(b*(c*#cGcNGMjwcmPcP 88##*bmM#jC4bG(cfMMCMm#cjb#8P#(b8wwj*(G*CN0(4CbP8cMkM8##jbNwPcP(m*jN*4#GCPCcbG(mc#M+5w#j4(NwPNm(P*CP*MjCCm(#bb(w4jMtC*#N(4NG(PmMPCwmjcwZC88jb*8*4N44cG#PjMM#hmPc85wj##GbGw}#bu8G4NCMcC(mjMNWPmNjNbww#jG(4*{PbM(C44ccc_b8j#bbPwNj8(#NjNG4mGJ#bc(A(8M#Mb#w4GC(N*mN8CwG*P*MCCw(N#bb4wM(G(#*#NNbPP(P8MjC*mmcC/(wbc(w8*Mj/4#G(PN4;CmNcd(u*8P#C*P*bNb44*mPcM(#GmjcP!mjM#wbwwG#*bPGbN*M4*Cmcc#sj8(b4bmw#jwDM*GNG4fGdm(MCj88M##bjPCjP(P*8N#*wGGPCM^CP8(#(bMw4j#(4MCNN4mG8PMM*C*mCc>mwwbj4(M*MN#4jGNPPMcC8mwc*e*8P#.(b*(Ncj*44G4PcM(mNMcX88w#*b)4CwGNwc4G8N8M*CjG4j#dM*m#P(jGGN#(#GNP(j*m(MPgc8##jbmMcw(jM(mqMPm4mGqw(MP8(ccbcw#jj(mMCG(NMcjCPP*cNCG8bj87Pwwj*(cN#4bGPPmM8CG(j*ccmbwwbjm*4NM4cG#NNMNCPmmMPCc8*#GbCwGNb4(G4PMbjCcmjcN;N8m#Pbwwj(F(C*2Pb4*C4m4cc<#8j#MNQwPj8(w*NNG4GGJP*wPY(8M#cVNwjjj(PwNjM4wG*PGMwCT8b#(r*j#jc(#*jjm4PGPP8MwC*mm*#pCwbj(bc*MNM4#*cNbMPCmm8c8K*8G#CRGcGNb4(GMPbM#CjmNcPC(88#mb*wGjC(5Gbj(4jCMm4c#Dc8N#Mbmw8cC(***NC4GCbm(c4AM8b##bjwNjP(m*mNw4*NPPGMV&b8b#4bMwcj#Cj*NNP4m*PNcM*CGmCMCbbw(j4HMj*N#4jGNPPMmCcmwc**V8G#Z(b*bN44(GcNTCPCNmPcm*w8w#wbGwCj^(*cPP(MMCcjjcjWj8PcN^Mwwj*(G*MNeMbC(j*Ncqc8##joCwPjP(8*jN*4m##PCcbx(mm#MbMw#j4PC*NNm48GwP*M*CCPGMmb(w4jMbP*#Nj4NwPbmMmCwm*cG9C84jbF(*(NM4cG#PjMNCNmm48!(8*#GbCwRNb(GG4jMMMC#mjcNKP8mc8bwm*j8(C*=PbM(C4P8ccG#mC#NbPwmj8(w*4NG4PG(mbc(o4mb#cbcwjjj(P*#,(48G*PG4wCQm&#(tC48jM(#*jcw4PGPP84mG#mGcC-<8Gj((4*MNc=NG#PNMPCPm8cmt*8N(bbI*bN(b8GMPMM#CjmNccNb8m#wb*8#jC(CGbNG8mC4mcc#*a8N#Nbm8P#c(**GNC4bCbm(c4C(Bm##b#wN#8(m*8Nw(8*wPCMG}bmm#4bMwcj#b5*NNj4mGmPwM*CGmCc*bbwbj4(M*cN#4jGNN*MmC8mwc*uG8*#Ab*8IN44MGcj(MjCjmPMNCM8w#NbGwNjL4bG(N*4jCcPEcjEj8P#Pb8w8j*(GNmNOMbC(PCcM_c8##jD#wPjc(8*mN*4*GCPykjE(ml#Mbcw#jj(N*4(P48GwP*(CCCmC#bdxw4#JPw*cNj4NwmPmMmCwmP*cIG89jb((*4N44c*Mj>MNCPmmcMow8*#GbPw4Nb4bG4PMMcCcmjcjvP8m4Nbww*jG(C*BPbM(C4P(cch#8j##bPwPj8(NcMN*4CG0mbc(Q(8Mc4CCwjjN(P*NN84wG*PG*PC)8b#(b(wMjM(#*4CC4NGmP8MwC*m*cC?Scwjb(4*MNM4#GjPNMPGcm8cwF*8*c>bn*bN(4cc8GPPcMEbCm*ccpc8cPj(4*4Nb4mP(M4CMmcc#tj8N#PbmwmjN(**GNCM(#bCGPyY4mc##bjwNj8N74j*cPc4PbmmwM8umC4Nbb#*(j#(0NN4MG8PwM*C9CNmGcGdv8*(M*cN#4jGNPP#mP##wcwC*8C#s(b*MCNjw4cC(P#M#C*84j#om88#j4w*wjw(8P(48Ccm#cjOm(#8N#cb!w#N((**C4DGDm4cMYc8Nw8bj8Cjm(8*wNCmM4*G8m4MwCD80#CbGj#b**PNm48GGb4m#MNbm8Pc*lmwNjC(GN#(&GPPmM8CGbM8##PZP8C#*c*NM4cG#PjMNCPmmb(ww8w#jbCwVNb4Mc*U8Nac(CjmIeNmS#8bww*j_PC4wGjPbMjG*P*cC{C#jbjwmj8(w*CCb4GGwmbc(l48#8M#GB*jj(j*mN84wGC&4MGC88b#(b4w#w8N((j*)4PGmP8MwC*mGcCmjNbj((4*MNc4#Gj*N*j8mm8cwi*8G4(b7*bN((bw*PcMcCjPwcPem88MwwcwGjG(}*TP(4(CMP4#4dj8##PbNw8jw(*8G#N47GGm(c4&M8M##>c*cjP(c*8Nc4*GGPCM0P(8(cabM83j#(c*N#PG(G8PPM*C8mCcNbbm(b8(M*(N#4MGNNYMmGP8Pc*Vm8C#G(b*(N44Mj#P#M#CNmccmiP8wc8qjwCjG4b*#P4MMCcN#CCeN8j#mbPww#w(Gw*#wMbGCm4c( c8##j>#w(jm(j*wjm4GGCPe4bj(84cZbcw(jjb**PjN(wGwPjMGCcmH#bb(w4#*(c*(Nj4(GPPNM8*wP*cGU88V#*((wqNMbcwFPjMMCPm#c83N8*MGb(wvj*4(*CPM4*C#NjMwQP8##8bNw*jc(CwGM*MbGGmMc4W#8j#NbPmCj8(m**NP4CGGmbc(CM8M#(b#w#jN(j*m#8(NG*P8MCC*8bc4b4PGcC(#*MNNb*GmPmMwCjmGc8Nj8qj((48NNc4cGjPM8ZCPm8cwGc8G#GbE8C#844GbPcMbCjmNcPGm4m#8bPwGjC(B*mP((4G*mcc(Lj8M#PIww8#mbN*GNm4TG4m(c4DMPccebjw4jP(c*8j84**wP*MBC88(#bbMwcj#bcwrNP44G8NjM*CGmCMGCGw(#8(MwNN#4jGNPP*8C8mjc*0#8C#G(b*(Cb4MGbP#M4CNmMcm^8mm#*b8wCjG4bGbP44X#wmccjeNj*#mbmww#8bj*CN*MbG*m4cMfcmMc#bNwcjmb**wN*4GwCNmcbCG84c1bc8cjjTN*(Nm4#GwP*MGCNmQMbH(w4#C(c*bNj(+GPjm(CCwmNcGkm8&cC((wbjM4c*ZPj4cCPmmc8GwmC#GbPwyj84(*NPM44S4mjMDTPm+#8bww*jG8}*kN8M(G8mMc4?#PjvYbPwMj8(#**N84Cw{MPc(C*8McCb#w4jN_PN(N84#G*PNMCCN8bM(88wM#C(#*bNN(DGmj88cC*mNcC%mwbcG(48M(*4#*rPNMPCmmMcwG*###CbP*bj844*wPc(#PCmNc(_m8M#wZ*wGjCj*GbNGM4G*mcc#Lj8N#4bmwNjw(**GNG4-Cb4*c(iM8c#cbjwNjP(PwmNw4*GGPGMw b8(#4b#4#8*8#*jN(4mG8PwMCc(CGmm#PA*8w(48*N#4jGNP8wMM==M8jcL(Gwwjb(mC4N(4)JCPc4F:Mm8#4(N8cj#bPwP4bG(P4MMCcm#cjbNjm#Pbbwwj*(GGbC=NCM*X*mb#bCw8##(wNj4(8*wN*4_4PGPPwc#-(8mbMwbjj(N*PNwPbMNG*m#CGPC#bb(w4j#N&(G*jN#(OC(8wcMCM8#c>(Pwc#8(M*w4M*wPjMNCPmwwbcm>N80#Pb***Nw48P44_C#mjcNl8bb8C#8(#j*(P*EPbM(CcCb8bcmE(8(bN8Cj8(w**NA8cMNGm8wc8CCmw#m(bwh(NwGN84wG*P+wccNCm*w#NbNw#jC((*ENNGPNCMwC*mG#bNNBpwmj4bNGCN4M4*GPNMMmmMCf*8G#C(((CGNNb(CG#PC#cC4m*c_.C88bwwPjC(pGbPM8(MQCcmGH#8(#Pbmw8jGj#4mGmPbMPm(c4XM8c(PbjwNjP(mcLNw4*GGPCM&%b8(cb8PwMjc(jw*NP4mG8Nm4wCGm*c<.mw(j4(M8c#84jG#PPMNC8m4c*GGmw#fbC*(Nb4M*XP#(j*CmPcN^88m#*bbwCjKb8G(PbMMC(m#cj)N8Pc#b8w8j*(G*CN*MbGGbmc42c8#cbbNwNjmbPwcN*4NGCNCcb_(84MM8*w#jb(N*4Nm4bGwP*(wCCmP#bb(w4jM(c8#(C4NGbPmM#CwP*cG)Ccbjbbw*4jw4cGMPjM(m8mmcckwmw#GbGwpNb4(*C/8MMC#mjMjAP8P#8bNMMj*(C*Bj8M(C(mMM4GC8j#(bP8Pj8(w**#GGjGDP8c(C*8M#4b#wjc#(P*4N84wG*PGMC*%cP#(J8wM#0(#wjNN4PGjP8M#C*m#cCKCwb#ww(*MNM4#*GPNMNCmmPcw5P4c#Gb9*bjP44G4Pc4M*emNcNdm8c#wb*wGcCwGGbPbM4C4mcMwhjm#cCbmwPjw(#*GNC4k*bNGc4{(8c#Mbj8wjPbN*mNw4PGGP#MERb8(#4hewcjM(j*MNP4NG8jw4jCGm*c;qCw(#M(M8c#m4jG#PPMNC8PGc*GGqc#7bC*(Nb4M*NP#MjC(mPcN>88m#*bwwCc,((G(PbMMC4m#c4+NPP#4b8wmj*(w*CjVMb*6PwcMT(8###bNwPjm(8w(N*4*GCP*cbC?84cGCHw#j#(NP-Nm4mGwP*MGC8(jc;b(w448(c*cNj(#*(PmMmCwm(cG6C8>jbCg*4N(4cG#PjMNCPmmC*K88w#Gb*w/jG4(*C&8MMC#mj((7P8P#8bwm8jG(P*LNwM(C4mMM4GC8j#bbPw(j8(w**NGb*GpPPc(CG8M#cb#wjC#(P*4N84mG*PwMCC_NC#(/GwM#G(#*jNN(j*4P8McC*m8cC/;wbj(Cc*4jG4#G#PNMjCmmcPcv*8P#CGm*bNb44**PcM(#GmjcPUmNc#wbwwGjC84*ZNwM4C(mcc#vj8(FNbmwmjwJb*GNG4BGCm(MCj88M##bjPwjP(P*8NN8MG*PCMhwc8(#(bM84cC(j*jNP4jG8PwM*CGc8cC9Vw(j((M*cN#4jC4PPMPC8mwc*LG8C#%8w*bN44MGMP#MjCNmPM#Z88w#*b*wmj14bG(Pcm*cbG}mP<j8b#mb8wwjCjP4j*wNPM#GGmw7Mm8#jbNwPjwmb4M*#mNMjG8PNc#s*8wbcw#jj(N*PNm48CwcGM*CPmO#bb(wc8*Nb4b*NNkGNNGM8Cwm*caNcbN8mPw(N*NN#4CG(PuMNmPM8aw8*#G(b(#*Pj84(GNP#MmC#m(c(b#8mj#(cwN(GwGPbM(C4m#8FcG{M8P#*(M*jjc4cGjmP4PGCP*cCAm8*bc8#jN(P*mN*mjMcGGP*MjUP*4#828w*jj4R*wN(48C4M8CNmGcC{Ww4GbjC(M**4cGbPNMPCmm*mP#Pb(8m#mwhjc44GMPcMNcc9Gmjcc;wwcN8bP*4N#4cGbM(GCmcc#vj8m8Cj#b8*M(w*MNC4uCbmM8Pc(CE8N#bbc*cNM44N84bGGPCM6e4(m8(#wbc8mPb(cGcj14mG#MwCjmCcybbwMwjj4bC*GN(4bPNMcC8mwc*B;b#wM#p(8N((CGcP#MjCmCN8(M++c#wrGwCj%4bGMo4P(MDbCmCcc((8cjjbeG#Nm4mGbPPCbPwcMxc8##PNMbb*(jc(c*j4GGCPgcb8#84#Mbcw#Cw(N*PNm48GwP*MGG*c8cLb(w4#b(c*#Nj(#wwPmM8Cwm(cGAC8ycCbN*4N44c*PPjMNCPNmcPew8w#GbGw5jG4(*bN*McC4mjMmUP8m#8bw8wjG(G*,NGM(CbmM4cGw8j#jbPwPj8b6**#GP#GZP=c(i(8Mc#b#mj#*(P*PN848G*PNMCCkPm#(b(wMj4(#*jNN4P*8P8MwC*mGcCkGwb#GbX*MNc4#*cPNMNCmPPMcV*8P#Cb8*bN(44wM4*M#C(mNcMAmm8#wV88jjC(mGbjCM4CMmcc#Gc8N#(bmwjjw(**GNC4*CbP*c4C*8c#cbjw(bN(m*8Nw(UGGPGM0CC8(cCN8wMj#(jw8NP4PG8Pw*(CGmCcibbw(j4(Mw4*C4jGjPP4NC8mwc*Cwmc#UbC*(Nb4MGcP#4c*8mPcj78mC#*bGwCcZ(#G(NoMMC(m#cMqNmj#jb8wjj*(#*CN=MbC(PPcMq(8##(bNwjjmY8wCN*48GCP*cbGG84#M8jwcjc(N*jNm4NGwPPwcCGm?#bGbw4j4(cwM#/4NG4Pm4PCwm*cG=CPGjbb8*4jC4cG#PjMNm*mPc4^w8c#GbCw3j*mPG(PMMcwjmjcj PmNcMbww(jGb**HPbM(*4MwccCm8jcGbPwPj8(wPbN*4(GsPMc(u48M#bN*w#jN(Pm*N848G*N38GCxm*#(G#wMjM(#wNNN4c#bPmMwC*NbcCFCwbcy,w*Mjc4#G(PNMPCmN8OM_*mG#C+:*bj(44GMj4M#G#mNcPUm88#wb*mwjCbGGbNMM4CMmcc#7M8NcPbm8Pjw(w*GNP*CCbPjc4*G8c#cbjw#jP(#c(N84*GGjPMYCe8(c*84wc#L(j8#NP4PG8PmM*Cm(#cCbbw(cb(M*MN#4bNjPPMPC8NGc*9*8C#G(bwGCm44GcP#(PCNmNcmCPmc#*b*wCjc4bG(P44(*Gm#ccqN8(#mb8wwj*Nm*CNGMbCbm4cMtc8#c(bNwNjm(8*wNm4GG8bjM&E(84b*bcwcjjb#w(Nm4cGwPNMGCCm;Mb8mw4#G(cw:Nj(jGPPm(PCwm#cG1C8ojb((wb#*4c*GPj4CCPmmc8Gw#c#Gb#wxjw4(*PPMMcT(mjMx_P8b#8bww*jGP *TN8M(C4mMc4o#8bb(bPwMj8Gm**N*4CGCmbMGjm84#cb#NcjN(N*mNj84GwPGMC8P8b#bb48(cG(#*bNN4MGmP8Mw**c#cChmwb#w(4wMNc(Mw7PNM(CmPNcws*8G#CCG*bjm44*CPcM#CjmNc#Em8c#wbcwGjG(A*84bM4C4mcbGej8j#PbNw8jNmM**NC4W8Pm(c(2Mm4MCbjwjjPbj*8Nw4*GG((MCCK8(#bbMwcj#(jj4NN4mG8P8M*CGmCcHC8w(j4(M*MNb4jGNPPMw#m&Nm*##8G#8(b*(N44#4MGGNwMbmNMCR88w#*brMc*NjmMwG8NC4wCm8bcs8N#cb8wwj*(14cGwPbMmm(M80c8##jbmb(wNjm(M**PPMjG8MHCN84#MbcwN*hj!bG*4mwMNCNm#MSmC#bb(w4jM(Mw{Nj4NGPPww(MjuPmG#j8C#w((*4NM4j4*G8Pjc(mPcMew8*#G(bbmwmj*4jG4P8CcP*cNxP8m#*Pb(c*mjp(PG#8*#GbmcM2b8j#NbPww*bj#(cGP4GGjmbc(r48#C4mGbo_m8mj(GMwGGwPMMCCF8b#Mj*bw*bmb(CGMN444GcMwC*mGcCV-MbPmM4PMNM(wGjPNMPCwbbmmcNf^8P#*(**wN8G4N8M#CjmNc8jMb4wNPN(#*8jm(mbGM(GCmcc#oj8m0bj4c*em(w*cNC4BCbmMG8c*MjCjmC(b>88N*mNj4*GGPCc(#m;mmNc*wM#m(j*NNP4w#bCMP#jNBM8M#(b88Gjw(MNc4cGNPPMmC*4*c*qG8C#pGj*(N44M*4ccM#CNmPcN-88w#*yww#jI(-G(NCMMCcm#4jC88P#Pb8w8j*(8*CjG(mC(P{cMCc8##jbNwP#P(8*8N*48GCPGcbG(P8#MbMw#j#(Nw8Nmb8GMP*M*CCmC#bC*w4jMwj*cN#4NGjPmMPCwmP*caG8TjbG**4N44cw#4CMNCMmmcj%w8w#GCPN4Nb(*G4cCMcCcmjMjHP8#G(b8w*jGCm*kN=M(*4Mwccsb8j#MbP8Cj86wMMNG4mG,Pwc(C88MMcCGwjj4(P*cN84#G*jG4GC;mw#(iGwM#b(#8j#C4PGMP8MjC*m(cCCG84j(b8*MjN4#GjPN4jG4m8c4F*8j#Cb;*bN(wMGMNCM#GGmNcjimP8bMb*wjjC(wGbNjM4*MM*c#Cd8N#(bmw4jw:*N#NC4PCbP8c4CG8cM#8CwNj((m*MNw(PGGPC{MC.mm#4rwwcj#(jw#j(4mG(PwM4CGmCcnCb#mj4b8*cj*4j*CPPMm*Pmwc49G8P#0(b*(jbMbGcN8MjG(mPcm-88wCGbGw#j}(#G(PbMMGCcNcjCC8PMMb8w8j*(G*CNw8NCbm4cM*C8###bNmPc4(8*4N*4jGCPMcbGx8+#M.mw##M(N*PNm(PCPP*M(CCmP#bb(w4jM8#*#jG4N**PmMPCwm*4w+C8NjbbP*4NM4cG(,GMjCPmm(kyw8w#GCCmPNb(PG4N*McGmmjM#b#8mc!bw88jG(C*yjCMCC4PNccCC8j#NbPwmkw(w*MNG44G-PCc(l4P(#c/Gwj#C(P*mN8bww#PGM#C9mP#(FjwM#444*jj*4P*MP8MwC*Pw#wYW8cj(bw*MNc4#Gj(PMPCbm8Mr3*8w#CtG8mN((PGMNUM#CjmNcPGN88#bb*wcjC(dGbP(wbCMP8c# c8N#jbm8*(8(*wCNCU8Cbmbc4Cm8c#(NGwjjP(mm#Nw4wGGPC*4C/mG#4b(wcj#(j*((N4mG8PwMMCGmGch;Cw(#CP8*MN#4j*CPPMPC8mw4Cl*8C#x(b*(N44MGcbPM#CNmPcNT88w#*bG#mjC4bG(P(MMCcm#cjG#8P#mb8w8jN(G*CN%M4MNCCmMc*8c#(bNwPjm(*M8Cm8N4PPscbF(84#Mbcw#MPGN*PNm48GwP*MGCCw{((bb8*jM(c*#NPNb4jGjPPM#mwc(iC8Ijb(MMP*wjGc>GwPwMmJ4m##Mqw#*bjwBNb4(GcCCP*M#Ccmb#b&M#mYWw*jG(CG(?(NsM*C5m#j4tNwMc*((w#(8*4NG4CG&m4wwcNsXm;j((bwbNb(cNm(8G*PGMC:((#mm#4b,wMjM(8GbmM4NGPPc#mBmmmcP8n#P(4*MNc4NM3G+Pmc(CNmmcNEj#Gb4*bN(44G#CGPGMNC,m#cNV#8cPN(m*PN(*gj.M4CMmccNjjCw84#4(4wjNb(w*jNmNGbPmbMCxC8Gmbwj#M(m*8Nw4CcjCjP_MGY488NMLP8X#>({*MNG4PGMPj#*bw*mP*wb#M(M*cN#4Pc4CcmMc4b4G#j87m8Gjjb**8jG(CPc4*CNmPcmH*(wwPjMbG*Mjm(mGwPwCMP#cj_N8P#wjb(Mw#j*44GbPcMbG*P*#b1cwb#xb4jPbC*wN*4GCbvPPjcm1884jGbGwjjc(mG(4m*8P*MGCC8(*bc#{*8*j*(b*8N#4bGMGNj4C8mP#PbN#kbj*4NM4cGNr*P^M(bM84cj9Mw(jP(Njy(mG4PMMcCNbMmP#cCGw4#jbjj*(m*>PbM(Ccb48bc#BC#jbMwmj8(w*C*MP8MMGmcbCw8M#cb#wPwwjN(MG4Nj4#P*McCU8b#(bc(mw4jb(P*(N#M#CcmMCwmNcC)vwbjM#{(I*PNb4bPj4rCmm8cw!C(88*#m(cw8Nj4(GMMcGmmNcPTm8**S#wbcw*N(4PCwP84CGwmGc(8jcMbmw8jw(CMjGjNE4GC4m8jMCPmnc_b9wMjG(P*MNjc*_wwmNw8bcbbMwcj#(PM4GbNj4wGpmjcmCN8N#m(w8wj(b/G(N*4nPNM4C8mwc*l{4PGj#w(G*4NwGMNpMjCNmPcwcMbNwN#C(jjC(PG(P4MMCj((mNcP(N*jPc4#jw(j*CN7MbCMb*m(ccq#*Gj#wPjm(8*w444GGCP.4CG884#Mbc8Mjj(N*PNmwcGwP*MGCGmFcdb(8bc*(c*#Nj(jGPPmM8CwjCc*xC8r#U((*bNM(4PbP#MNCPNPc8gw8*cwbcwiNb4(wPPMMcC#PcM8JP8P#8b8w*jG(C89jjM(C(mMcM2#m4#NVj8ij8(P**jc4CGXmbc(G88M#Mb#wMjN(j*m#84#G*P*MCCC8bctb4mMMG(#*#NN4NGmPcMwC*8mcC+Cwb#n(4*MNc4#*(PNMPCmm8cw!88G#8PjwxN(44wqPcMcCjP#M(pm8##wC*wGjC(Hwb4mM4GCmccb;jPO#P>N8Mjw(j*G#G4yCbm(c4G(8ccCbjwMjP(m*8Nw4mGGPmM2Cm8(#(bM8Cbc(j*NNP(8G8P8M*CwmCcwNNwbj4(Mw#N#4#GNNj44C8mwc*CM8C#a(b8a#w4MGMP#(#CNmPcm-8cG#wbGwCjG4b*hP44X#wmccjDNPc#mbmwwc**#*CN8MbGGm44GvcN}PNbNwMjm&**wNw4G*wPJM*jP8(#MbcmNjj(j*PN#8(G8P*MG*em0cpb(8bNj(c*(Nj(mGPPmM8*wcccGym8Q#*((8*NM}CbjPjM4CPNjc8h88*#bbCwwCN4bG4PM((C#m#cN)c4b#mbww*cm(C*CPb(EI#mMcbH#Pm#NbPwmjcw8**NG4C*#mbcbA48(#cb(4Gjj(P*mjb4wGwPG4*GP8b#(b48Cjc(#*jj#((GmPmMw*AmGcC_rmbbm(4*4Nc4cGjNGMP*mc4cw}w8G#Gb;8(N(44*(PcM#Cjm#cP}P88cma#wGjC(DwmP(M4CMP4#4/j8j#Pb#w8jw(**Gj*4TCbm(cb;M8M##Tc8bjP(m*8#C4*GGPC(.mP8(#4bMwcj#b**N#PG(G8PwM*CGmCMcbbm-jM(M*MN#4#GNPPMm*8mNc*_*8C#C(b8*N4bMwCP#M#CNmNcm=48wM*bjwCjC4bGbP448CcN#4*xN8N#mbmwwj4(G8CNmMbCbm4c46cP8#jbN8Mjm(8*wN*4GGGP=4bmm84#Mbcw#jjbN*P#MNjGwP*MG8wm%cvb(8ujM(bM*N#4NGPcjM8C8m*MwCN8ljb((*(NM4cG#jjmCCPmmc8!w8*MqbCm,#w4(G4PMMcC#P=cNGP8(#8bww*jG(C8GPb((G#mMcc_#8j#NC*wm#P(j**Nw4CGbmbc(B4m(cwb#wMjNb**mN84wG*P8MCCB8bcCb4w4jcbM8YNN4PGmN*MwC*mG4C8Nwbj((4*MNc(wGjjNCbCmm8cwV*8GcMbT8CN444G4PcMcCjmNcPGm8P#wbwwGjG(_wwP((4Gcmccc?j8j#Pb(w8cw(b*GNG40Gqm(Mm&MPcMmbjwjjP(P*8N(4*wGNAMUCL8(#(bMmmj#(jw#NP4mG8PwM*C*mC4y8Pw(j4(M*cN#(jGNj444Cmmwc*8*8C#C(bwCN4(+cwPcMjCNcNcmVm8w#PPcwGj14bNPP4M4CcPM4%pN8P#mbmwwj*(G8CCjMbC(m4cMKcPN#jCNmtjm(8*wN*4GGNPR4bGP84#Mbcw#jjT#*P#m4jGwP*MGCCmxMcb(8b#j(c*MNj(PGPPmM8GmP8cGXw8&##((*4NM4cG4PjMNCPmjc8k88*#G8mwCNb4(G(PMMcC#mjcNEP8m#8bww*jG(C*GPbM(C4mMMFW#8j#NbPwmj8(w**(P4GG^mbcb248M#cbcm8jN(P*mN84wG*PGMCC3jbG4*4w4#N(#*jNN48cGGmP4M8CA8jjmbP8*#m(ww>4cG(PNMPCmm*8(#PqGwjbC8#N(44GMPjmmMcG;C###gw8jjc(m*NjMjG*0NPM4M(PCcwow848jbCwcNc(G(84CG8m(c4rM8jw*j4bPwbN(*mN(4*GGPCc(jPBwmw#(b(wjN4((*P4mG8PwM*CGmCc_bbN(j(JC*cN#4jGmENPNMMMP*cc*s*8Njj(jblm8(uC(P*MNEbmPcMJ##wbjwCj_4bGMa*P(McC#wG##8N#cb8wwj*(_(NGwN8MMm(Mwhc8##jbm4M*(j8(m*#P#4PPCMPK(84#Mbj44wNNMb*G(N#4#PwMPCCml#bbMoPwqjPbCNj4NGPPmM8Cwm*MmwC8CcM((*4NM4jMNC8P#MbMj8jc*1Nw#j8(PwcwC4b*mPMP4GXm*c*RMhN#Qb#*#jC#CCbMbGcmMcc_#8PGbjcbcw*wPcM*PP8M#Cbmmc(C*#MbbwjjN(P*w3MPN4#CmMGCM8b#(b4w#G#jM4bGMNmcjGwmNMbD#mmRC84j((4*MNjj>4c*kPm#ZC4m_c#bm8mP8bPw#4(*GPcM#Cjmm*McN!mwM#jwGjC(%GbP(M4CM8cbj0#m*#Pbmw8jGm44#*NmmMPG*PmcNQC8Gb#8GjP(m*8NG8M4PC8m#cbYm8(c*^Cjcb>*NNP4mG*<8P8Mjd48jccwb#M(M*cN#4PM(GGm(ccCG8jcwKj8C#m(#wwNw4cP#MjCNmPcm58jwCG*GwG#G4bG(P4M#c CGmMcP1*wMjjbc*cNjMP*PNC4*CCmmc*8##jbNwPjm(8cM*mCGGCP_cbQ(#c#Mbcw##cw(*PNm48GPP*MGCCNdMjb(w4jM(c*#jb4N*jP#M8Cmm*M4+C87jb((w4NM4cG#PcMNCjmm48CM8*#GbCwXNb(jG4jM4cC#mjcN{P8m#(bwm*#((C*-PbM(C4m(ccCMwM#Nbjwm#N(w**NG4C*(PhMCs484#cb#wjjN8m*mN84wGmPGM*C%N8bcb4wMjcbb*jNj4P*8P8MNjMm*cC-hmwj(((*Mj4bCGjPNMPG(m8cw *mwjwbIw=N((CGMPcM#Gc8ccP{N88cGb*wGjC(sCPP(M4CMm4c#<#8NcjC*w8jw(**MNC4&CbN(4-;M8c##bjwN#w(mwPPP4*G*PCM(Hb8(#4bM84j#(j*NNj4mGmPwM*PPmGc_bbwbj4(M*cjMb}GNPPMmCNmwc*6GPCbN(b*(N44MGcNmMj*NcbcmI88w#*bG8*jdbbNmP4MMCcm#cjCj8PMmw4wwj*(G*CNi(mC(N4CwBc8##jbNwPjc(88#*P4GGCPq(8v(8(#MCPw#j4PC*NNm48w#P*M*CCPGMmb(w4jMg**#Nj4N*jmjM8C8m*c#vC80jbZh*VNM44G#NPMNCPmmc8(M8*#GbCwGNb4bG4N((GC#mjcNCC8m#8bwm*jj(C*)PbM(C4PjccCMwM#NbNwmjM(w**NG4C*Gmbc(D48(#cbcwjjNwM*PN84wGwPGMCC^PCM8b4wMjc=**jNN4P*NmNMwCwmGMCREwbj(bbGbNc4MGjN4MPCmm8cwPG8G#CbowCN(4bGMNCGLCjmNcP**88#8b*w*jC(wcNPbM4CMjNc#u#8N#cPbwmjw(*PbNC4CCbN+4wnM8c##CGwNjP(mwPPP4*G*PCMm6b8(#4W(*(j#(c*N#C4mG8PwM*NCmCcibb8rj4((*cjiGPGNPPMmmGmwcwrG8C#?b*MPN(4MGcMPMjCjmPMNCM8w#*bG8#j)4bG(NbcbCcmccjCM8P#mb88mNm(G**ND4}C(m4cM0cMj#jbNwPjN(8*mN*4NmbPtcbH(###MbMw#jj(N*cXb4mGwP*FbCCmC#bComwjM(c*#NM4NGPPm(8#Pm*cGQC8Hjb{w*4j(b*G#PcMN*Gmmc8;w8*c#bCw-Nb(JG4P(Mc*#NicNOP8m#8bww(jGdCwCPbM(C4mMccC*8jMNbMwmj8(w**NG4*G2NCMN248(#cL4wjjN(P*m#*48GmPGMGCr8b#(b4b4jc(#*jNc4PGPP84mG*mGcCYa8Gj((4*M#c(#GjPNMPCmm8M#{*mw#8b!wCN(bNGMPcM#CjN<cPqm88#mb*wwjCk>*jP(M4CMmcc#Cw8NMPp#w8jw(**GNC4jCbN((w7M8c##bjwNjj(mwPPP4*GwPC4*ob8(#4bMw(j#(j*NNj4mGmPwM*PPmGchbbwbj4(M*cN#*(GjPPMmCmmwc*)G8CcC(b*(N444*8P#MjCNm8wjcwbN8bj#bmC#jP4#P(4CCcm#cjXm(Pw##Cb8jw(#*CN/MbCM/mmNMCRmw(#P(bjP(#*wN*4GCbGPm*Mwyc#4yCw#jj(N*8C4NC4wCcPPCGmw#bb(w4j#jM(Gw*4jGMPmM8CwmCmM#8bM8m(bw4NM4cG#PP8GcbC4wNc*bP8(jjb8w8P8(GGNmbMjmjcN-P8m#8bww*#GGC*GNiMbGGmMcc/#8P8Gjcbm*4(8*#NG4CG:m4wwjmCCwb##bCjj(4*mN84wGCGjP*M*CCmwb(8Njc(#*jNmmm4NCcmNMGb8mg#w%cwm#G*4j*4#GjPNM8#jCw8Ncbb#8m#mwOjw44GMPcMNjbCPm*#MI*#wb*wGjC(oGbP(M4CMmcc#Vj8NM(bmw8jwb8wjNC4)CbPGc4tM8cM#8CwNjP(m*8Nw4#GGPC((Cq8(#4b4wcjM(j*(444mG8PwMjCGmGcuVqw(#CP8*MN#4jG(PPMPC8mN*ML*8C#qC8*(N(4MGcj*M#CNmPcmW88w#*bNjPjZ4bG(NPMMCMm#c#LN8cGbbmwwj*(M*CNCMbGGbmc4dc8##jbNwNjmbPwcN*4GGCPccbd(84MM8*w#jj(N*PNm(wGwj*C#CCmy#bb(w4##(c8#(C4NGPPmM8CwmwcGGC#Njb((*4NM4cGMPj(Nmbmmc8Yw8*#GbmwV#b*mG4PMMcC#mjcc_PPMbGbww*jG(C*3N{M(GPmMcbj*8##NbPwmj8(8**jw(NGQmbc(C88M#cb#wjMm(N*mN848G*PwMCCm#4#(b4wMjc(#*#NN4PGmPjw4CwmGcC?}wbjb(4w(#G4#GjPN4wCmm8cwC8PN#CbC*bjm44GMPcM#G_mNcN-m8m#wb8wGcCbGGbPbM4C4mcMmXjm##MbmwPjw(b*GNC4.*bNNc4X(8c#Mbjw(jPbNwcNw4mGGNGMvFb8(cb:wwcj((jwCNP4mG8Nm4jCGmmcQDNw(j4(M*cjc4jG#PPMcC8mmc*3G8*#obQ*(N(4MG4P#MjG#mPcm<88m#*b*wC#GbmG(P4MMGcm#cj9N8PCMb8wwj*(**CNCMbGGbmc47c8##jbNwNjm(8jjNw4GGCPCcbe(84#MLGw#jj(N*Njh48GwP*MV#cCGmw#M1*wbNb(L*C4j*mPmM8CwmC*c#4ACwmPP(jwCjC(CbbP*M*C88MK8m{#GbCwAN4NYMPG(NSMjC6w#cMYGwb#Sbwj*(c*/PbM(Cc:Cm4MG,*8*8#4M*4NN*wNP4CGfmbcMcPkO8c#Gw##G(P*mN84GcGGwmPcwCm8##bb48C(cwwNN4PGmP*w(ccCjwP#N^w8Pjj(G**4#GjPNMPGPm8cwR*mwrPbO*bN((GGMPcM#*jP8cPRm88#wb*wjjCbG*8P(MbCMmMc#pj8N#P<kw8jw(**wNC4GCbN(4G7M8c##bjwNj#(m88N#4*GGPCM+Jbmw#4CM84j#(j*NNP4mGPPw48J8mCcGbb8Gj4(M*cN#wNGNPPMmCPmwc8DG8P(((b*(N4(#GcPcMjCNmPc#N(88#*bGwbj>(aG(P4(#CMm#cjej8P#mb8wwC3(**CN_4CC(m4cMdb(*##bNwP#m(8*8N*4G*bPCcbo(84#Mbcw#jjm8*NNm48GmP*MGCCmqCwbbw4jM(M*#Nj4NGPNCM8Cwm*c*3m82jb((*c*mPb4#GCMjCMmmc8{w8C8Mj8(Mwm4b*mPMMcC#mPw*cb;mwj#8b8*(NN*CN8M(C4mMcjNb{cwM#(bMjm(M**NG4CC(<Gm4cCCN8*#bbbjjbG*mN84wGC *P*cmp(8#ckRCw4jD(PNj(CGmP8MwCCbMm*c8b48w#_(J*CNGG#PMMPCmm8cGjjb(8NbCwjN(44GMPj8nMw7MmM##bc8cjcbPjG(8GbP(M4C#GG8(cbqm#NrGw8jw(**HCgNGM8CGmMjb_#w(c8bhwM(P*8Nw4*GPPCM&-b8bcNbMwcj#(Pc(GcNP#cGmPGMC<48P#Pwb#*(M*cN#4P4cCcPGM#C#cwCC8C#3(b*MCPNw(GTCPCM(J48(cmbcwP#*bNwm(h*PP4MMCcmN*(#MV4w(NN(NwNjj*GNwMbC(m4c#jPC<G4bNwPjm(8w*N*4GGCNG4m9(8b#Mb4w#jj(N8P#448GPP*MGCCm*#bb(wCjM((*#N44NGPPmM8Gjm*cw C82jbbG*4jQmwGcPjMNG*mmcm_wP*MjbCwPNb(wG4NCMcGM8McNCW8m#jbww*jG(CjbPb48C4P8cckM8j#(w4wmjM(w*(NG4GGKPKc(CC(8#Mb#wj#*(P*PN84N#MP*MCCdmc#(b(wM#cmP*jN(4PGPP8M8C*mNCG.28Cj(bG*MNM4#GcPNMcjbmmcw)*8P#CbC*bN(wGG4PcM#C#mNcPdm8PM#b*wGjCbGwmP(M4CMP8c#,j8NMPw(w8jw(**GNC4GCbm((c?48c##b#wNjj(m*c4#4*GGPCMm3b8b#4b4wcj(PG*jNP4mGcPwMwCGm8*jOkw(j4CC*cNc4j*#N(MmC8mwcj1G8C#{b8jwN44MGcNwMjCjmPcPk88NGMb*wCj1(jG(P(MMCbb*c#ON8P#mb8w8j*(w#NN_MbC(m4cMlc8##jC#wPjP(8*wN*4GGCNG4mt(8b#MbMw#jj(N8P4(48GmP*MwCCmP#bC(#8jM(4*#Nc4NGcPm4PGcm*c8;C8Cjb((*4#M**G#PMMNC#mmc#.wP*b#bCw*Nb(CG4NPMc*#MCcNE#8m#NbwwMjGxCPPN?4CC4mbccK48jMNb4wmjN(w*mNG4jGamb4Ca48b#cb4wjjN(P*mNc4wGwPGMwCDm/#(b4wbjc(c*jNN4PGmP84mG8mGc*tB8Xj((4*M#c(PGjP#MPCNm8cj-*PGPmbDwCN(4bGMNmM#*jm4cP1N88#mb*wcjCbG*PP(4;CMmMc#+j8NMPlbw8jP(**8NC48CbN(MG;M8(##bMwN#G(m88jm4*G8PCM*KbmP#4CM84j#(M*NN#4mGNPw(*G(mCc*bb8Cj4bw*cN#4bGNP#MmCNmwc*:G8C#*(b*bN44bGcPcMjCMbdcPW88w#*bGwGj24bj*P(MMCcmccj0N8P#mCGwwj*(G*GN#MbC(m4c##GX888#4((*NPc4MGP4*GNP1cb=(8c*GNwbb*4jN4bNP4(GwP*MG;b(cmP#(bCw4j4(m*I4j*wPmM8CwmC*N#MbNw8jMM8*4N*4#G8PKM4mmc8Rw8*#GbCwlNb4(G(NCMcC#mjcmMCb#8C#cww#w(C*hPbMM#*CPm*cSqP*w#(((w8mjMm,Nmm#8oGww#G84cPb#wjjN(8cc*PPN4#48wPcwC8m8#MbwjMbw*jNN4PGwYbPmMNCYmPc*b*wwj8*4j:4#GjPNM8#Pajmw#c8*#8b>*bN(4c44G*NwC#PmcP}m88#GP4bw*Nw#(8(C8*MP=bmjc8b(wbbPwjjw(**GPbmFM*GCc(Cw8c##bjwm*tN(4c*cN84P(PMg*MClw#(cbGwG8MPNNN(CG8PwM*C2(c8Ncm(ww8#Cbw*mPb4^PNMcC8mwc*FhSNww#8(MN((CGcP#MjCmCC8#c8bM#wbjwCj04bGMDNPwcbCjP1c*8Ncdb8wwj*(_cNGNNmMmC*P*cP{M8#bj8Mjm(8*wNCNPM4G*GGcsIj84#Gbb*4wcM(*cN4MM4mwcM*C88bb(Mw8#N#8wPNwNM(*mMmCbm*cGACw(*m#CM8*4jG4bC4Pjc4f(cmD(8*#GbC*(*PjG(8GNP(MmGpmQcP8N#8bwCwcwcMGjj4jc4HGMcMC*8j#NbPwwGcjM(**GN*4CCPP*;(mG#cb#wjjmj((N*NNm4jPGMCC>8b#(b4wMjcG#*jNN4PGmc4MwC*mGM*CPwbj((4w4Nc4#GjjNCbCmm8cw2*8G#PbK*bcM4(GMPcMcCjm#cP+M#c#wb*wGjP(I*HP(M(CMmbw*S#8N#PbMw8j8(**mW#4CCbm(LwiM8M##bjmCjN(m*8Nw4*GGPCMm848(#4bMwcj#(#*NNP4mGjb4MwCGmCcQbbwbj4b(8GN#4jGNPcMmC8mwM8b88C#C(b8*N44MGcP#wcCNmPcmIP8w#8bG8*#P4bGbP4M4Ccm#cj?(#8#mbmwwc#(G*GNFMbC(PCw8.M8##jCbwPjP(8wmj#4GGGP+4,y(84#MCc#Gjj(j*PNP48G#P*MGNPmAckb(w(jM(M*#NjbCGNPPM8C8m*cG1CP9bP((*bNM4cG#N*MNCPNwcmAP8*#GbCwINb4(wmP4MbC#mjcNFP8mMcM*w*jm(CwjPbMbC4N8cce((G#jbPwm#((w*wNG4CCGmbMGT48M#cb#wjjN?8*PNj4wGwPGMCCD8bcCb4w4jc((*jNj4PGMMcMwC*mGMbkD8uj(((*MNbm*G#PNMP*wm8c8H*8mG#bC*bN(44GMPMM#*jMfcPsP88#wb*w8jC0iNPP(M(CMmMc#CM8NM4*Cwmj8(*88NC4CCbP*c4C=(w#cbjwNc#(m*mNw4P#cPGM+2b8(#4b4wcj#nG*jNN4mG8PwM*CGNPb4bbwbj4bc*cNc4jwCPPM#j(m8c*uGmY#qbg*(jCm8GMP#MjCNmPcPv8mmc#bGwGjD(mG(P4MMG484cj>#8PcGb8wwj*(Gc*NB4KC(mbcMZ48##bw(wPjP(8mCN*4*GCPCcbCG(m#4bcw#Mm(N*NNm4j#4PwMGCCm3#bbbw4#(+G*#N#4N*(PmM8CwP8b4fC8GjbbM*4NM4cw#P4MNCjmmcP:w8(#G&*8NNb(CG4jmMcC#mjM#n#8m#jbw8GjG(C*2jC4bC4PCccGy8j#NbPwm#c(w*8NG4mGxmbc(q4m4#cbcwjjN(P*PN8(m*#PGMGC{m8#(b4wM#444*jN#4Pw*P8MwC*mGM*/k8Dj((b*MNM4#*cNbMPCPm8MMo*8G#C<G*GN(4bGMNPM#CjmNcPCN88#8b*wwjC(CGbjW(wCMmMc#G88N#Pbm8PlG(**wNC(GCbm(c4GMP.##bcwNjj(mw8Nw(8G4PCMwKbmP#4bMwcj#(#*NNj4mGjPwM8CGNCccbb8qj4((*cjP4jwNN*MmCPmwc8QG8j#D-b8*N44(GcPMMj**mP4m848w#8bGw*j)b*G(j4GwCcmMcjS#8P#Nb8ww#8(G*GNI4CC(m(cMob(*##bNwPjm(8*8N*4GNmPCcbi(8(#Mbcw#jjb**PNm48G8PNMGCCmL#4#NbCwMj**cjC4NGPPmM*#jKcmGc*2PwP#w*(jw4cG#PjMm##C88jM5bc8P#PwCjw4(G4PMMjjbGCm(cj8P#4bww*jG4bccG*Nw#GGwPCcM8##bbPwmj8(Gcj*wNC4SbNmKW(mc#cb#wjjmPh(G*mPc#MC(PmMmCm*w#NbNw#jC*#jG4PGmP8MGjjs488c8b*ww#w(wwK4c*cPNMPCmm*wj#cD88tjM(8*Gjw4wGGmZ4QC#mM##bbwMbww(jC(>GbPM8MM(CC8(cN(c8mj#IC*MjN**N(4vCbm(ccjNiMm*#cbm*bPM44*jNMM#GmMO5b8(#4R(wcj#(jw#j(4mG8PwMwCGmCcuCbc8j((M*cN#4jGcPP(mGXmwc*^G8C# bj*(#4(bGcP#MjCNmPc(O8Pw#MbGwCjZ4bG(NwMMG4N8cjt#8P#cb8wwj*(G*4NEMbC(mbcMr48##btPwPjm(8*(N*4*GCP{cbCG(m#4bcw##*(N*NNm4j#4PwMGCCPC#bbbw4#(/G*#Nj4NGNPmM8CwN*;#)C8Hjb((*4j84cw#4CMNCNmmc8-w88#GCCjNNb4bG4P4McG!mj4NG(8m#mbwwwjG(M*ZjCMCC4mbcc5(8j#NbPwmjN(w*wNG4wG/PZc(64MC#Mb#wjjj(P*mN84wwcPGMCC_mdc*b4wMjc(NMjGMN*4PPmMbC*mGcCb(4#wmjC(*((8bM4GmmbMcmmcNv*8G#C((Mb*GjYG4N4M#CjmNc8#b0C8jjcbjw*jN48GjPjM4GGmGc(_x84#4wmjj(**GNCM(4jCGmjM*8McNbjwNjP(wccGbPcMNCbw8MCCwm*NG(bwNjC*NNP4mG88w8*jGcGbEW 8bj4(M*cNNmw(rGPm#MmCm8b#j(m8G#Cb8G^Na({*CM#GCmPcmh88GGjjm(b*Nm((6GCP8Ccm#cj7N8P#mN84(4*(**PN{MbC(mcP*c4k48c#(wN#w(8*wN*4=cNGGPPcwuN*N#MvCwCj44b*MNMG8PMMGCCm?#4jCbb8GjPbC*8N#4NPP4aCwm*cGbb4#wP#84**wjX(*G8m(cbmmc8Hw8*dGMPP(8Mj(G4PMMcC#mjcNwPb8(8b88AjG(C*ZP48NM8G*8Gc4(#8Kjcbc*4j#(#N*4NGRmbc(lc(G*w#b(4wNNb*PNb4wG*PGcbjm/#8GcGb9wC#C(C*44NG(P8MwC*m,ww#bb*8#j8bCwC4#GjPNMPCm4WmcM#CG#*bCwDj#44GMPcMN#NC#84##3w*P#G(mw4NN(wPb4PCMmcc#ZPbG8j#cb*w#jm4mGPPNCbm(c4RM8c##bjwNjP(P*jNw4*GGmbPCcPCN#(5mwcj#(j*m_MNGMb^wmbMPCmmGcwwb#G(M*cN#4P4GCcPmc4m8c({G8C#X(4M8*bjw48G8GM#mC*mP#b88#jbGwCjo44(CG*PYM#Cjc#B48P#mb8wGw#Nm(PG(4FGjm4cMXc8NGbjMb8*(wNc(*cPm4mCPcbJ(84#M4cCMbtNNbPNm48GwP*#GCKCwm/*(w(#c(c*#Nj4m#4GNPPMG}b8#mw4m8wjG(mw*N*4bPjMNCPmmP8cwm4wCcCwCjc4(G4PMMj#sD4mm#bcj*N#j(bw*NP4NN24cC4mMcc/N4(wM#8bGwmN(jmCNNNMwCNmPW(mj#cb#wjjmm4(CG4P#4Cb#PGcNvb8##8!GjMbw*jNN4PGw&8mNc4C*84cP}Pw8j8*(Nc4#GjNCMPCmm8cmL*8*#mb{*bN(4c(*CbN,MPmjMNpm88#wbCM4wjj.4*GbPbMNCGwbcc_#8(Nj(jwjj#**jT43Cbm(ccj8lP8c#/4Cw*jc(c*c8jM4C4mbcm8bcmbMwcj#(PM**bNmMjG8P8c(%NcUbbw(j4(M*cN#4jGNPNMcC8mwc*S)Bcwwjcb8N((CGcP#MjCmbN8#c8bM#wbjwCjE4bGM7NPwcbCjPAc*8P#mb8wwcj(G*CN3(C*8m4cM;c8M#jbNwPcmNb*wN*4GGCP Mmg(84cGbcw#jj(j*PNP48GwN*MGCCm_#bb(w4jM(cwGNj4jGPPPM8Cwm*4GCj80#o((*(NM(*G#Pj4#CPmNc8Dw8*#GbCw)j84(*HPMM4C#mjcNG4#*#8bPw*j4(C*CPbMbC4Ppwwoc8j#N6Gwmjm(w*Psc4GG>mbM#}484#cb#*cjN(#*mN84wG*PGMCG(macCb4w4jc(#*jNNb*GmP8MwCmmGcG+hwb#c(4*MNc4cGjPNMP*mPMcwp*8G#Cb^w*N((bwCPcMMCjm4cP!m88#wu#wGjC(O*CP(MbCMPC4*>j8N#P^cw8j8(***NC4w#Nmbc42MPn##b#wNjcmb*mNw4*wPPCMC?b8(Mmb4wcj#(#*NNP4mw8jcM*CGmCc%bb8Gj4b(G(N#4cGNP#MmC8mwc*PC8C#s(bwvN44(GcNdCbCNmPcmGC8w#wbGwGj^(*cPP(MMCcNmcjVj8P##P(w8j*(G8mN/4}C(m448lM8##jbjwPjm(88w4c4GGCPucb,(mG#MCc#Gjj(N*PNm48G4P*(Nmcm0#bb(PGjM(M*#Nb4NGcbbMmCwm*4PsC8Cjb((8mN44cG#PcMNCPmm4c4*8*#GbCm8Nb4bG4P4McC(bGcj2P8mM#bwwwjG(8cjN{M(C4mMcc)c8j#N8MwPj8(w*wNG4CG2mbMP!48M#cb#wjjN(P*mN84wG*PGMGCb8b#(b4w#Gwjm(#GbmE4GG#P#M#(N8M#Mb(w8((w8Nc4#GjPm8GM(C88NcwFww4jPw^jb44GMPcMN#wGYmP##.m8mjb(jGmjG(C*8mtM_G}PCf#84#Pbmw8jGj#4m*PP(G&P8c4TM8c#NNwbv*cj8(MGb4wGPPCM::b8MmP#=bP8C(c*NNN4cG8PwM*C{bG8w#bbmj4(M*cN#2GGNPPMmGPPcc*lG8C#8(b*(N4bM48P#MjCNmPcm-M8w#*{bwCjd4bGbP4M4Ccm#4wZN8P#mb8wwj*(G*CjwMbCbm4c47c8##jCN8Njm(m*wNw4GG#P cbCm84#(bcwcjj(N*PNm(8GwPmMGC*m9#bb(P*(j(c*4Nj(*GPPPM8CMm*cmN#8Cjb((wNNM4MG#P48CCNmmc8CJ8*#*bCwsNC4(*oPMMcC#mjcNWPPw#mbPw*j*(C*_PbM(GgmMcc_#8M#NbNwmj8b4*wNG4CGCmbc(}4mGbjb#wjjN1b*mNm4wG*PGM8jjmF#(b4Pwjc(c*jNNb&GPP8MwCwmGcC:fmbM8(4*MNc4#GjP#MPGN8Ncwn88G#wbi*bN(44jcPcM#Cjm#cPYN88##wjwGjC(}wPP(M(CMmMc#v4(C#Nbmw8#M(***NC4w#Nmbc41MN*##b#wNjPbb*mNw4*G*PCMW-bP(4wbMwcj#(j*NNj4m*PmPM*CwmCcwbbw(j4(M##N#4jGNPjMmCPmwcj8N8C#p(b84N444GcPcMjCMb;cPy88wMGbGwGjE(*cPP(MMCcjGcj j8P#mZ(w8j*(G*GN:MbC(N4Cwrc8##jbNwPjj(88w4c4GGCPQcb%(m*#MGCN8j#(N*P#c48G8P*M*CCmw*Nbbw4jMCI*#N#4NGcbbMmCwm*4#^C8Cjb((8mN44cG#PcMNCPmm4c8C8*#GbCwvNb4bG4NwMcC(bGcjxP8m#8bwwwjG(Cj8N)M(C4m4ccS#8j#NPCwmj8(ww8jj4CGRmb44D48M#cC##CjN(P*mN84wGNPGMC*(mU#(b4w4jc(M*jN(G8GmP8MwNMmGcG+Iwbj(bCM8NM4#GjbCMPCPm8cwCM8*#Cb,*bN(44GM#CjjCjmNcPvb88#8b*8NjC(wcNPbM4CMPwc#2#8N#cPbwmjw(**GNC4CCbm(*N<M8c##b4wNjP(mwPPP4*G*PC(*!b8(#4_(*(j#(c*N#P4mG8Pw48Z8mCc*bbPwj4(M*cjMMMGNPcMmCPmwc*WG8CNm(b*(N4(EGcPcMjCN(Gcmhm8w#8bGwCj5bCGCP4M(CcNPcjHN8PcN(Nwwjm(G8mNpMbC(m4#Gsc8c#jbcwPjP(8wmj#4GG*PxM83(84#MbcPNj#(#*PNP48GmP*MN8bm cCb(jGjM(M*#Nj4NGcbbMmCwm*bP?C8CjbZ^8wNM44G#NcMNCPmm48P?8*#wbCwGNbbNG4N(4cC#mMcNGc8m#8bw88jc(C*wPbbDC4mMccCMmM#NbMwm#w(w**NG4CGjmbM/g4mC#cbMwjcNbm*mNP4wG8PGM(CiPC#4b4wbjc<m*jNN4PwmNwMwCmmGcw2vm*j(_4wcNc44GjPcMPG4m84wC#8G#wbEwGN(b%GMjc4MCjmccPOj88#Mb*mGjj(Z*GP(4aCMPNc#gjmw#PbNw8jm(**8NCbFPPm(cbeM84##GCwN#8w(*8N(4*wcPCMCIbml#4/f4wjc(j*Nc?4mGmPwMPjcmGc:bbNjj4(4*cjMbIGNPjMmCjmwc*EGm*cC(bwCN4bNGcP#Mj*NP(cmyN8w#mbG88jebbw#P4MbCcm4cjCb8PMm2mwwjm(G*wNT(GC(N4c(Hc84#jbcwPj((8wmjw4GG8PT4c}(84#MCc8#jj(M*PN#48*GP*4w_wm1c8b(m8jM(c*#NjwPGPP#M8C#m*cw%CPsbP((wCNM4bG#PMMN*Pc(c8JN8*#mbCwjNbb(8MPMMbC#m4cNGG8mM8^cw*jm(C*wPbMbC4NMM4?#84#Nbcwm#C(ww8j44CG8mb4P/48M#cb#mmjN(j*mN#4wGwPGM8CM8b#(b4wMjc(c*jj#((GmPPMwCjmGcC)kwbMM((*(Nc4cGjP#MPGNPMcwHm8Gcbb0*bN((**jPcM(CjmNcPIP88#Pb*wGMw(KGbP(M(CMmcc#<j#4#Pbmw8jm(**GNC4}8Gm(c43M8c##bjwNjPbN*8NP4*GwPCMC+b8(bPbMw4j#(j*NNP4mGjb4MwCGmCc<bbwbj4b(8GN#4cGNj(MmC8mwc*Gw8C#*(b*(N44MGcP#wcCNmjcmYP8w#8bGwP(m4b*TP4CPCcmccj_j8P##P(w8j*(GPMNE4 C(PCw8AM8##jw(wPjP(8wmj#4GG*Pf(m-(84#MbcmMjj(c*PNm48GwP*MGj*m2cCb(wbjM(4*#jc(bGPPjM8*Gm*cG&C8m#M((wCNM4MG#P#MNC#mmc8*P8*#GbCwCNb4(G4PMG C#mjcN<j8m#8bww*M8(C*kPbM(C4mMcc:#mc#Nb#wmjP(w*wNG4Cm#mbM{V48M#cb#wjjMPA*PN84wG*PGMGCJPCM8b4w(jcbM*jNN4Pwm(CMwC8mGc*,2mjj(bbwNNc44GjjjMPCmm8Mmn#8G#8b&wmN(44GMN44bCjm4cPCc88#wb*wG#w(E*CP(4GCMm4c#GjP;#PbNw8jm(**bNC(GC(m(M2rMPP##bjwNcPb:*8NP4*G8PC4w bP(cPbMw(j#(M*Nj(4mw8P(M*C8mCc*bbmCj4}MwPN#4MGNP#MmC4mw4*k48C#*(bwCN4(jGcP#(lCNmjcm;P8w#mbGmC(N4b*_P4M(CcjGcjCm(N#mX8ww;*(G*GNW4CC(PCw80M8##jmNwPjP(8wmj#4GG*PF4&_(84#Mk4j8jj(c*PjN48GwP*(GGmm}cGb(8VjM18*#jc(CGPP#M8*8m*cG)CmGc*((wGNM(GG#PjMNGjNGc8a#8*cPbCwfNb4(wCPMM(C#mbcN2P8m#8bMw*jw(C*SPbMbC4P-wwgc8j#NbPwmjm(ww8jj4CGGmbMjd48M#c9MjwjN(#*mjP4wG*PG(CCm8bcCb4wbjc?w*jj#(PGmPjMw*wmGcCLVmCcc(4wCNc(CGjPNMPGNPwcw1j8Gcmb-*bN(44G(PcM4Cjm(cPnm88#wbMwGj*(_GbP(M(CMmbw*V#8N#Pbmw8j8(**G(m4CCbm(c(fM8c##bjwMjP(m*8N84(GGPCM;+4bC8M#L1PwGj(M***N44cP8M4CGmCcib44*wMjD(G*Gmw4wG(PMCmm(c* G8Cj(P*(8*wmT(G*Cm4c(C8cmV88w#*bGwC42Gbm(P4MMCcm#Mw%N8P#mpP8cj*(G*CN*MbC(m4M(GG8###bNwjjm(8*wj8M8GCPGcbCG84#Mbcw#N4(N*NNm4PGwP*MGCCmm#bb(w4jM(c*cNj(#*(PmM8CwmmcG%C8IcC98*4N44cGcPjMNCPPN#NWw88#Gb8wtNb4(G4PBMcCcmjc#_P8m#8bwwjjG(C*<PbM(C(mMccmb8##NbPwPj8(w**NG44Gvmbc(048M#cb#wjjN(PGmMw48*wPGMCC:84**#Mb.wCjN4(*}Pc4cCM8jccCM88c8bmjbbb*MNc4#GP;4mbMjCwme#jbm8NjN(mGwjw4(*fm(M*CQcNec88#wb*wu*cNw4bGmM4CMmcc#.j8N#PbmN8j8(8*GNC42C4(*c(Cj8c##bjwmG*jP((*mNCM#,PmNMwCP88cCwMjb(j*NNP4w4((#*cNjmGcPbbw(j4(#MC*MNj4N><mNCmm(c*YG8Cj(Pb(#**jC44G/PwMwC#cme88w#*bGwCjB4bG(P(4wCcm#cj3m(Mw(#8bmw#N#(PNrMbC(m44Nuc8##jl#N*jm(8*wNP4GGCPL4bC-84#Mbcw#jj(c*P#m4MGwP*MGCCm,ccb(m4c1(c*#Nj4NGPPbM8*wPmcGJC8Fjb((wwNM(4*mPjM#CPmNc8Bw8*cwb8w_jG4(*PPMMcC#Pc#c P8##8b#w*jG(C*^((M(C4mMcb<#8c#N:j**j8(w**N#4CG/mb4DGw8M#cb#8CjN(P*m#c#*G*PGMCC(8b#bb4w4jc((MGNj4PGmN*MwCwmGc8Nj8ej((4wMNc4cGjPN(8CPm8cwpw8G#CbY*bBc4(GMPcMMCjmNcPCNmM#wb*wGjj(5GbP(b*mjmcc#Ljm4#PbPw8jb(**m_#4CCbm(4G=M8M##bjmmjN(m*8Nw4*GGPCMiNM8b#4bMw4j#(j*Njj(4G8PwM*C#mCc)bbPwmM(M*cN#bGGNPNMmC#mwcPNc8G#D(b8PN444GcP(8GCjmPcmGu8w#wbGwC#((.G(P4M4Ccm#cjxN4w#Pb8wwj8(G*CNKMbN*m(cMrc8c#jbNwPjm(8*wN*4GGCP-cbp(8b#Mbcw#jj(4*PNm48GwP*MGCCm)Cwbbw4jM(M*#Nj4NGNNPM8Cwm*c*_N8Qjb((*cCPN*M(GNPbMGmmc80w8*#GbCw1M*C(G(NCMcC#mjcmMCb#8C#cwwjP(C*9PbMM#GGwPCcM8##(bPwmj8(G4c*mNjMMGGcbC*8M#cb#wPwbjj(j*PN#GwPmMCC!8b#M#(bw88(cwGNN4PGmP*wbMcCG88cC/Cw#jw*4j#4#GjPNM8jbCCm8##4cw4#8b8w8m*4PGPPjMRmjc4Um88#wbC4G*jNb4PGmM(G4mcc#,j8m*G#(b8*Njw(wG4PPcwGhmbM*((w(#(bbjN(4*8Nw4*G1bPwjMw.G84#wwM#N(j*NNP4w#MCMP#c#9PmP#cbbwPPb4b*bj}GjP4MmC8mwcCcNXwww#j(bN((jGcP#MjCm(4mC#4b#8CP#bG*NNb4#G8NGCMmbcj>N8P#w#M(Nwjji*CNxMbC(m4cM7c8##jbjwPjm(8*cN*4GGCPCM8X(84#MbjMbw(jw(N*Q4mG4P*MGCC8(wGcBX*wN#G(m*cNjGNP4M8Cwm*cqNP4j8wjG(4*w4cG#PjMNCPmmj8Pjj*#*WGwvNb4(GcXPN*M#s4mjcjrGwMNjb8wwjNM*G*N*4wm4M={#8j#Nb84P*jjw4cNw4GGBmbc(r4mb#cb#wjjN7u*PN84wG*PGMCCqN8bcb4wMjcbM*jNj4PG4P8MNjMm*cCivmCj(((*Mj4bCGjPNMPCPm8cw,*8G4wbCwkN(4(GMPcM#*jPPcP7P88#8b*wNjC(x**P(MbCMmMc#{j8NMP</w8jm(**wNC48CbN(MPXM84##bcwNj#(m*8jj4*G8PCMC6b8(#4CM8*j#(M*NN#4mG#Pw(*m#mCc*bb8Cj4((*cN#5*GjPcMmCmmwc*BGPCcZ(bwGN4(.GcPbMj*Nm#cmUj8w#PbGw*je4b*4P4MbCcm4cjrM8PcNb(wwjP(G*8NfMbC(m4MG_c8##jbMwPjP(8*w(N4*GCPaM{B(84#MbcN#jj(N*PjN(MGwPmMGGamr#bb(w4c((c*(Nj4NGPPmM8Cw(8cG9w8s#C((*bNM(CPNPjMcCP#8c8988*#GbCwwCN4bG4PMn#C#m#cNCjm4#8bPw*#C(C*dPbM(*bmMcb%#8j#NbPwmj8mm**N84CGGmbM1V4m(MGb#w4jNbP*mN84ww*M#MCCw8bcGb48#jcbLwmNN4MGmP8MwCwmGc*B=wbb*(4*MNc4cGjPNMPCmc#cwQ*8G#wb)*bN(44*(PcM(Cjm#cPHP88cm2#wGj8(&*MP(M4CMmc4M!j84#Pbjw8jw(**Gd*4^G*m(cbgM84##bbj(jP(#*8jN4*G*PCMCFbmG*mb4wcj#b4*NNN4mGjb4MwCGmC((bbwbj4ZMj*N#44GNP#MmC4mw4*8#8C#w(bwGN444GcNN*CCNPNcmC(8w#wbGw8jU(*cPP(MMCcN*cj>j8P##P(w8j*(GmbNn4KC(Pb4*0c8(#j%NwPjm(88w4c4GG8PUM*%(md#MbcMVjj(M*PNP48G8P*4wGNmDc*b(8CjM(c*#Njw(GPP#M8C8m*c*9CmGcm((wCNM(;G#PjMNGj8jc81j8*#MbCw&Nb4(*bPMMbC#mccNLN8mcPYcw*jm(C*mPbM(C4NM*M{c8(#Nb#wm#5(w8*Nc4CG8mbM*v4mN#crMw(jN(4*mjC4wG*PG(CC48bcwb48GjcbC*jj#(wGmPMMwGwmGcC:7mC#N(4wwNc4MGjPNMPGNm(cw7M8GcGbf*bN(44jcPc4JCjPCcPhN88#wN8wGjm(>*wP(4*CMmcMMDj8M#PbNw8j8(**N4P4JGCm(bc,M8M##b#wNjcmb*mNw4*m5PCMCKbP(4wbMwbj#(M*NjR4m*PmPM*CNmCcNbbw(j4(M##N#44GNP4MmCPmwcj8=8C#w(bPGN444GcP#MjCMbicP 88w4PbGwGj+(*cPP(MMCc#Ncj%j8PMmCMwwjP(G*wNp4NC(Pb#bucm+#jx*wPjm(8*wbG4GG8PtM8/(8b#M?C#Fjj(M*PM148G8P*M*CCmw*Nbbw4jMG8*#N#4NGcbbMmCwm*b0iC8Cjb_(j8NM4bG#PMMNCbmm488M8*#mbCwwNb4bG4#G-mCcm4cNGp8m#mbw8wjG(8cjNoM(C4N8ccUc8j#NwCwmjN(w**NG4CGLmbG*/(8M#cbcwjjN(P*jjN4wG*PGMGCN8b#(b4w#G(jj44wwPb4cGcM8GwmGcCflw4Gj#8(MGbNc4cGwm(#cCPmmc#(8w8#8bmN(44GMPcM#CjmN#Pw88m#jb*wGjC4((jGGPj4*mMMwEj8N#Pbw48*NN4(*G4NP4PC8m8I4mw##bjwNj8Pj(P*#Pb4jC4PGMH8bcjbMwcj#(Pc(*GP#4mC(mc#NCN8wcmbmj4(M*cN#4jGNPPMmC8m8cNyG8C#^(4b8*CjG4jPcMbCNmPcm!*Lc88#8b*wm4bG(P4MMCcm#bj#PjP#Pb#wwj*(GGbG#P*M(C8cMJc8##jbNwPjm(4PwNw4(GCPLcbyM(M8(#C((wNPc(mG#jCMMGNM*CNmF#bb(wcGPj*4(*NNb4GPPM(Cwm*cGbb4c8Pj((C*4N44mGKMjGCmmc8_w8CGNjM(wwwNG4***P*Mbm#cb9P8m#8bGMjCcjm4wGbPmC4mMcc)#8j#NbPPw48(w**NG4Cwbmbc(y4m(MGb#w#jNb**mN84ww*M#MCCC8b#bb4w4jcn#jCNN4NGmPmMwGCmG4C8Nwbjb(4*4Nc(cGjjNCbCmmmcwFw8GcCb.8b(m44G4PcMcCjPPcPCw(m#wbcwGcM(h*FP(M(CMmbw*:#8N#PGCw8j8(*8G4j4lG>m(c4QMmC##_cwPjP(N*8j74*GGPC(=GC8(#bbMw4j#(#*N#P4#G8PmM*CwmCc(bbm(#M(M*4N#4cGNNNMm*8m#c*dw8C#G(bw,N4bMG4P#McCNmjcmfc8w#*bbwCjC4bGbP4M(CcN#CCQN8N#mbmwwjN(G*b(NMbGjm44BOc8c#jbjwPj#m(*8N*4G*8PaM!S(mC*8bMw#jjCm*PNP48*mmmMGCGmHcGb(w4jMb4G4Nj4#GPN*M8Cwm*Mwbw8S#G((wWNM4cG#P4*bCNmPc8G*8*#*bC8G#m4(*GPM4PC#mjcNGPwM#8bjw*jP(C*CPb((G4mMMkr#8(#N58wmc8bb**NP4CG8mbMb=4PMcPb#w(jN(M*mNP4w**N*MCC88bMWb4wMjc((M4NN4NGmN4MwCwmGM*CPwbjb(4w8Nc4#GjjNCbCmmmcwXw8G#8br*b^w44G4PcMcCjmjcPCNmM#wbwwGj4(QGbP((4Pwmccc3j8j#PbPw8cw*c*GNG49G,m(Mc-MPc1GbjwjjP(P*8j84*wGMjMZCT8(#(bM8cj#lj8bNP4PG8P8M*CjmCMGbGw(#X(Mw(N#4jGNPPMjC8m8c*+88C#C(bwGCm44GcP#bPCNmNcmCPmc#*b*wCj#4bG(P4MM*4m#cc2N8P#mb8wwj*bw*CNCMbGZm4c4_c8#l(bjwPjm(m*wN*4GGGPwcbH(84#4}mw#jj(N*8CuP44c_jm#MmCj8c#wb8j4bb*#Nj4NG8ybPCMjC#m##8bbGcjbb+wwjGc#C4PjccC684cj8w#PbCwJNb4M4PG/PcMGm#M8:P8m#8bG4j*#jG4PI4Pm4jbwPwcG0#8bbPwmj8(wwNNG4CGRNC48>484#cb4wjjN(P8m#M4wGwPGMGCWmU#(^b*bjc(4*jN#4PGmP8MwNGmGcGJs8Gj((b*M#cWCGjPjMPCPm8cNh*8GcbbCwGN(4(GMPcM#CjN#cP_#88#wb*wGjC(aw4Pb4GCMmcc#Lj8NcjX4w8j#(**8NC4}Cbm(M}UM8M##bbwNjN(mwPjc4*G*PCM*,b8(#4CMPGj#(#*NNN4mGmPw48)8mCc*bb8Hj4(M*cN#wNGNPNMmCNmwc8%GPCMP(b*bN444GcP(MjCNN8cPJN8w#*bGwCj>4b8YP44,Ccm#cjoN8P#mC*w8jN(G*GN/MbC(Pb4*;cm #jbcwPjm(8*wNm4GGGPdM8Y(8(#Mbc#bj#(N*PNP48GwP*M*CPmg#bb(w(#C(c*#Nj4m4CC#P8cMmwc4;C8ajb(M(P*0Nc4G(#88MjucwC#c8w#jbCwJNb4Mc(G(NGMmCGPw)Nm*#8bww*jyP4(G*PN*N1bjm4#b(8GbPw#jj8(w**NG4CGYmb4Gw484cCb#wjjN(8M**PPj#bCjMCCf8b#(hMwMjc(#8b8P4PGmP8MPC*m*cC:Gwb#GPm*4Nc4#GMPNMNCmmj*4!w8G#CbP*bNb44*(jGM#C#mNcNLm88#wC*j#jC(CGbPbM4GGmcc#Z(8N#Nbmw8jw(**GN88jGum(c4Cw8c#cbjwNjM(m*8Nw4*GGPCMgGCP8#4b4wcj4(j*NNP(NCNPwM8CGm8c}bbw(j4F8*MN44jGNPPMmC8mw*cD*8*# bC*(jn4M*4m4MjCcmPcc!88w#*bGwwjR(KG(NWMMCMm#cjm48N#mb8w8j*(G*CNC4cC(m4cMYM8(#jbNwPjwP84N*m4*GMPkcb.(8c*m#*HCGbja(M*bNCM#CcM*Gjm7#bb(wc8Cj&b8G4N(44C(PMMKv#GbP*MGCNmNcwyww(#Xb*wGj*4bcmBN8*#GbC*(CcjwcCP44#C#mjcNd8(Xw4#cM#*#jP4mGPPbMwC%mMMC&b#jb4wmj8(w*C*8P8MMGwPw9(mC#cb#wjjmjC4#*8PMGwPjMCCY8b#MN4bw8Cj8M8Gb4N**P8MwC*mhwCcM.888jj(GCPj^4NCMPNc4mmc4W*8G#C((Mb*mj*4PH(m(M(CbcNCS88#wb*wVGcjG(wGMN*Mb9bm!cC8jcwbmw8jw(C4NGMPNM8CM8bcM}P8bj4bG*b(m*8Nw4**4PCMfFbPSMwbMwcj#b8*NNP4mG8#GMwCGmCcCbb8Jj4bGNjN#4jGNjCMmCmmwc*ZG88Gjbe*(N4bmGcPcMjG#P(cms88w#jbGwCj>bCjwP4M4CcPCcj7N8PMm{*wwjw(G*GN:4CC(PbMwyc84#jy*wPjm(8*wjb4GGGPyMGr(8b#MCc84jj(j*PNP48G8P*(GC*mTcOb(w(jMbw*##j4jGPPPM8C8m*cPDC8Jj*((*(NM44G#PjMNCPPcc8<w8*#GbCwGNb(GcmP4McC#NCcN=N8mM8Ccw*jP(C*wPb4GC4P(#(i#mg#NkCwmj8(w**bC4CG8mbM8t48(#cSVjPjN(M*mj44wGwPGMCC5m**Pb(wMjcBG*jNj4PwmM4MwCNmGc8d>8Pj(C*NjNc4bGjjpMPCPm8cPx*8mG#bC*bN(b8GMPMM#Cj(8cN<#88#mb*wGjC(mjlP(M4CMP#c#&#8N#jbmwjC4(w*GNC4bCbmbc4JMM7#cbjwNjN(m*8Nw4*GGPCM3yb8(#4bMwcjM(j*NNP4mG#PwM*CGmCcdbbw(j48C*MN#4jGjPPMmC8m8cw-G8C#_biwwN44MGcPN8#M#bImN#b8w#*bGwCj*4bG(P44(*Gm#cj9N8N#mb8wwj*8N*CN^MbCbm4c4Hc8#k(bjwPjm(m*wN*4GGC9mcb7(84#46*w#jj(N*8CjNwMNGbm#MmCmcK/jw4jM(c*NC*N24(7Mm4MjCM8(#PbNjb*bgG8Nj#*jwx#c4mmPccnw8*#G(bb**8NG4MGcMcNP4wMcwP(#mC4cNGjGNC8jPm#4M1P##jMj8jc4PMG8jwGwT4cNNbGCNCc(h48M#jNobww+N4(wCCNcMcGGwm#*(8w*NG4bGCPb*##w4PGmP8MGjjCwmCc*b(wm#w(w*G*4c*G#P(Pjbc8N#Nb#8m8*48wNNb(CGGG(P4mNMGwM8(MwMmwCN jb*!NNM4CMmccNcbbMwMj(b#*cj8(w*m4)Cbm(c4kM8c##(jNPjN((*8Nw4*G<xPmMc8>M*4#WbMj#(j*NNP4mG8PwGM8GmGcNbbw(j4(#(G*MNc44C4P(MNmwPJNcwGjbPC#jPjCcGcbCCCwj#P8N*mPG(*b*8Gjv4bG(Pc8b4DCMw4M:bb8M#M4PwNjw4c*8PP4wG*cMwP#N4w8NmPGC#bbCNw4#GCPUcb6MbG8N#Cb8Gbj#(NNP(*GwP*MG^bbPmCcmb*wPPP(cw5N-4MC(PcMcm*C8PNwm*(mP*jPcC#G#PjMNCPmmc87w8*#GbCw/Nb4(G4PMMcG(#jcN88cMmcC*#cj(M4mbNF4*C4mMccoNC*wM#*b4j8jm#CNj4)CcCbMbwc84c8b#wjjN(84(*jNMMbG8m4MPBP8(b4N*jc(#CjJjj(cMc8Mw#*CPNC4b(w8#GbPMNcCwP(mmwP}cc4M8wC8*#cbr*bN(4ccGGmm(M(UM84c4b48jb*jG#*M#((mwmuG8GjccB48N#Pbmw*w8Nc(MNG48Cbm(c41#(G8M#cb4jPGjN?3NjGmZ*NCbM48(jjbNNCcjCc*GMwCmG8c(M#b4m.mwMboG44(Mwc4bMcmPMPjCNbG*c*4GM(MP%b**#4CMmjP#b8((c#8mmN844#cgwCUPP(8**4m*M#P4bjZNc8jP*m{wM(w#Cm*bMbCMNNjNG#wPb4NbumjP(j*wN*4GCbXIm*MC84m(jMbM8N#mC48cCwG8N8MGCCmt#4j*b8wbj#(mGbPM4(C(mM##C#mwcmbwwjjm*(jN4cG#PjMm#mCN8c#NiG*8#5(wwcNm(GP4MbC#mjcNF8(Mw4#cw*b44G8jPb8MGjC4bcocmS#NbPwmj*mb4cGmNs4PC#c(CjMb#cb#P(bCCbPwN8CPj#w#Mt4mPMbx*cwMb8mNmYNNcGbw8*N*CwmMcCSLwbjMPw((*4NbMtG#PbcMC3c8lN8G#Cbv*4C8NC(*CbM#cP#jb#+8cj}(NwNGjG(8GbP(M4C#bM8(cj_?#P8PKG#cm*bwG8(*4bmbM#ZM8c##bPM(wGN(4c*G8c4*CjPJccdmm*b484j#(j*NN8Pb4CGjmcMjC*mN#8bjwjj4bG*GN(4JG4P4C8b-#m*jbGj;8cMbM444*8P#MjCNm8wm#jb(8wj(bNwNNm4mP4##N4884Nw4%c(m**w8jc(G*CNxM4cPC8mGMGRM8(m(wP#m*#GmMGGG(M(#b(>(CnPCNmMj8*PcN(ww48*N(PmmPJjMbP*PfcjMM#GmO#PNMc*j8(8*m*M(cGmm*(8x((G/jcGcNJMNCPmmc*N#4M8Pj8bk*P4b*jPMMcC#mPwMcbb(8c#c4mwCN8(PGPNwC(PwccH#8j#mNM((w8jm(#G#NPGCPwc(x48M#jN*b8w4Nb*mN84wG*PGMCC_Pb((b4G4GxJjPj8mGGmmc*Mw4((#(PM1w(mm4wbcNcNC(j#GGPCm4cjjMG8*#PbQ*bN(4cccG*N*MCCPcP3wCGw!jG##8G4bmMPb4*CMmcc#2P(4wb#8bC*#(*bM#m4C*bcC##PMjj##Cc4j(bmm8c((cqmCPCGPwCcj{Mbb#PMPGP*jjG4mG8PwMC#8C18w#8bm*Gjw(#*mPbGNN(m8CPMwNbm*(G(Y(bGMNM4cG##G(Cm(#PcmMM44MccGcwwPGCmMP(4GCcm#cj.m(4w#j#(MwN(GG#8w4bbbPMj(jjjj##b(wPjm(8*GCMPm4:GNmPIbP4#Mbcw#jPNw(j*(*b4jCcG8j8Abmw#mbCw*#Pj4*wPM(^C(GN##2P8P#jx8ZGNwbP*(jJ4CPj4cj8&b8wCcGG*P*Cw<bbm4Cmjc*C*44NPmJN8##8bww*jpmP(N*GMbGPmMcc;#8PwG#jbcw*j#(mGmPPMNmbPP#mcwGcc**mm4Gm*Pjm4wG*PGcb#8_P8(#bO8w*Pj(CwCPb48{MPJM#CC8jiC8mj((4*MNjmP(CGjPCM8D4cwmCw*(GceP#bmMGmcPMMMCjmNcPxwB(#8g wGjC(gG4t#P(48C4mNcC((wb#cb(*MjN*G/*G88#m(PGwwjPmNbjmjNCGw*8G4MmcP*CMpGcNCMN*MbC!MbPPNNP8Mcwjml*b#GPC*c4wb#G(M*cN#4P4GCcPmc4mw#(cm8mmKCMcN4{j#Gcjbw*cc>mN#wm#b(CbGjG88#c(4NMj*b(#jcj*c4cPc4w8mcG(m(bNC4NC(m4cMSj4bw4j(b8wjNj4#*C4GmNcPm#m4#8c(*PaNj#bj*PNm48GGb(P#MC0wm?c3bjw*NO(M*cNbc#C#P#Mcmwcj>C8.jb(MM**(Nc4#&Gm#CNPCc85w8*#RPP(ww0mw4bGcP#MmC&mWiN8c#8bww*jijN4w*8PMC44jGmC4jj*Mc*G48w(8*MNG4CGem4wjM8KMwb#cbcwwN(*m44V*C(bC4#jbw#m4b(8*jc(#*jNm8(M(GcmMMNCjcGC(wbj((4*#GCP(M(GQPMPj(4mbcmb#8m#P#GGMmM(8(MG4N(4cG##mcNwGPNbwwPjmMbP((Na*PwC#(JwG*j*8w8mP#wGMMhCPGMCbb4o4mw##bjwNj8Pj(P*#Pb4jC4PGMZ8(T8GcwmCj}GMPPGC8G84m*#44NKM44jNc44(4wCN#4jGNP8P4MPCPm8cN8CGCmPjcwMQM8#GCNjCjm4cm)88w#CNjb*w8N84jP(4*Ccm#cjLm(Gw##m(cwGN#*C4cPNMbxMNmPccCmPb#wPjmGVGbc#bGwwPb#4w484dmPjPCjjM*a8mwCwGw#P8(#4PbPCMj#*4#(c8MC#*I#PjMGbbCGGcG88PNNCM4m#j4bOm#PjcM4#m(jm88w**PcCwyG(*P*bCMGjCPCjbNIPC84BPmwG*bwPMCcbMbGMmMccB#8P*C#*bP*Mm44b*PNP4Pb8mjcjuc8Gb#Mc4G(4CmbcCPH**CMCGA4wM4P4b=jjj#PjNNwGPM#MMwjGc8(Gc(wbj44jG;(#(P8CmCNmCm4*cwU*CGmG##4ww(4(wNPcM#CjmmwPcNb#!PNG(#*8NP4P***Dc#b#P*P#ccCcmccN*wwm42DmNG48Gw84_4m-##bjwNj8mc(4*jNwG*PNMYJb8(#cN4b48Cj8(Cw*4PG8PwM*CjmCc5bbwb#w(M*cN#4P#4GbP4MMCmmw5*8P#%(b*(Ncj*44G4PcM(mNc4588w#*bFMPCjjw4GG4PwCMPwcjAN8P#wPMbmw8jPMN*GNPMwCNcMxc8##jbNwPjm(4PwNw4jGCPLcb:M((8(cGbmwG#w*NjN48GwP*MO#NCGmP#wbNwNjM(w(Mmc4mC#PMcM4wG*PG86jb((*4jP4cG#Pj4#GGmPc8dw88#GbCwY#C(jG4P4McC(mjcN6P8mcMbwwwjG(G*_NCM(*4mbccBc8j#jbPwPj8:w*jNG4GG2P c(C?8M#cb(wjjN(P*NN848G*Nw4mCr8b#( *wMjc(#wcN44PGPP8McC*mGcCCGmMj((b*MjZ4#GjPNMPGmm8cwv*8w#CbC*bN(wGG4PcM#C#mNcPXm88w(b8wGjCbGwmP(M4CM(;c#rj8NMPw(w8jw(**GNC(#Cbm((c,48c##b#wNjj(m*c4G4*GGPCmjCC8b#4bMwcj(PG*jNP4mM(PmMwCGmCMjvow(j4(M*cN#4jG(M8MmC8mwc*)G8G#U(b*(jCm8GMP#MjCNmPcPi8mmc#bGwCj^w#G(P4MM*cMGcjgN8P#mb8w8j*EGNjN!MbC(m4cM*c8#Mj89wPjm(8*wN*<#GCj3CPs(84#Mbcw#(N(N8P4(48GwP*MGCCcc#bXMj(jMbj*#Nj4NGNPmM8CwmP*cDG89jb((*4N44c*Mj+MNCPmmc4Xw8*#G1***Nb4bG448McC#mjcNNj8m#8bww8jG(**ZN8GwC4mMccG{8j#jbPwPj8(NcMN*4CGsN8c(Z(8M#bN*w#jN(P8wN848G*PG4#CC8b#(b4wMjc(#8jV44NGmP8MwC*j*cC-+8bj((b*MNc4#GjPNMP*Gm8cwW*8w#CbC*b#5bNGMPcM##bmNcPWmmP##b*w*jC*MGbP(M4G(Pcc#Qc8Ncbbmw8jw(*wmNC4nCbPSc4U48ccMCQwNjP(mwtNw4*GGPC((C^8(#4b4wcjM(j*(444mG8PwGMCwmGcBHqw(#CP8*MN#4jjCPjMPC8PmM#?G8C#&8#*(N44Mwch#MjCNmPcm:88m#*_wwGjq(CG(44MMCcm#cj,48P#mb8wmj*(w*C#v4CC(m4cMYc8#4mbNmP#4(8*wN*4GGC4*cbG(Pv#Mbcw#jj(NPbNmb8GNP*MGCCmL#bGCw4cMw**#Nj4NGPPm*jCwmjS0,C8UjbGw*4N44cG#PjMM#3mPc82wNj#GbGwH#Cb8G4PMMc8CmjcNrP8m4*b8w*jG(G*SNCM(G*MGccE#8j4#bPwPj8(8**Nm8#GCmbc(*b8M#Mb#w4GC(N*mN84wG*P*MCGGPm#(b4wMjb(#*jNN4jj4P8M8C*mGcCsowbj(bb*MNc4#GcPNMNCmmj*40w8G#Cbd*bNb44*(jGM#CjmNMm_m88#wb*PfjG(KGbPbM4C(mcM<8b8N#PbmNIjw(w*GNG4-G*bPc(QM8c(8bjwjjP(#c(N84*GGmwMCCy8(cbC*wcj#(j#*NP4mG8jw8MCGmCcLbbw(MM(M8cj84jGNPPMmC8#4c*GG8(#f(b*(N44Mj(P#(j*8mPcm_88w#*8NwC#G(wG(PbMMG4m#cjSNmjMxb8wPj*bm*CN&MbC(4McMJc8##MbNwjjm<cv*N*4GGCMCM.Bb84M*bcw(GG(j*PNmGmG8PwMGG*PP#bb(w4{P(c*#NjbNM%PmM8Cwm*cG*n8Xcb(b*4NM4cG#PjCCCPNmM# w8*#GbCwxqG4(w4NwMcC#mjcNyPcM#8KmwNjG(**,jCM(C4mMM4CN8j#cbP8#j8(w**NGwBGvmbc(CH8M#4b#mbmP(P*mN8G8GwP*MCCM8bcGNmw4jc(#N#Nj4NGmNP4cC*mGcCkNwbj((4w(P(4#G#PNGmCmm8cwA*4w#Cbe*bj/44G(Pc4nmPmNcPRm###wbwwGjC(;**OPM(CMmcebEj8j#Pb#M(j8(**G*G4TGZm(MbG*8c##bjc*jP(m*8#wbMG*PCMAWb8(#(bMmc#M(j*NNP4mG8#wM**GmmcXbbw(j4(M8cN#bjwCPPMmC8mwc*Pw8CM%bj*(N44MGcP#wmCNPjMcF888#**jwCj_4bw(PbMMCMm#c#3NPj#mQPwcj*(w*C4mMbC(m4M(CM8##MbNPCjm(8*wj84*GCPwcbwO84#Mbc8Mj#(N*MNmGGGwP*MGG*P4#bqww4#b(c*#Nj(#*jPmMMCwN(cGLC8dcCAj*4jw4cP#PjMNCPPN#NJw8M#Gb4wJNb4(*bmbMcGwmjGPnP8m#8Bm*mjG(M*-(*M(C4mMM4b48jcwbPmPj8(w**jwMwGoPMc(8#8M#cb#wjb8(N*PN8(CG*PwMC*_Pm#(b(wMjM(#cmNN4P*CP8MwC*mGcC<Cwbc(hP*MNc4#GjPNxmCmNcMw!*8G#CNb*bNb44wwPcM(#GmjcPXmbw#wbwwG#*bPGbP(M4jMmcc#^jm#b4bPwmjwG#*GNC4L*bNmc4<48c#cbjm#jPbN*(Nw48GGb(M,yb8(cb^bwcj4(jwjNP4mG8NmM4CGm8caPcw(j4(Mw4#*4jG4PP8NC8mwc*Cw8##<b8*(414MGcP#4cCbmPc4a88P#*bGwC#Gb8G(N8MM*mm#cj.Nmjcwb8w4j*((*CNRMb*QPPcMC88#C*bNwPjmbPwMN*44GC4(cb,(84c(lGw##8(N8cNm48GwN8MbCCm4#bjAw4jM(c*#*M4NGNPm4GCwm*cG:C8mjb((*4NM4cGcPj4#G(mmc83wjr#GbCw7#CwMG4P4McN8mjcN)PPm#cbwwwjG(G*yNCM(GbPbcc)48j{NbPwmj8(wwwNG4GGFPGc(=b8MMckPwjjj(P*PN8oCG*jGMGCSm?#(b(wMCw(#8jjC4PGPP8M8C*MCcCCGmmj((b*Mbm4#GjPN(Pm(m8cmx*8w#CbC*b#(*8GMP4M#CcmN(P5mP8bMb*wwjC(GGbj(M4*MM*c#.c8N#jbmcPjwb8G8NC4*CbN8c49M8c##bMwNjP(m*NNw4wGGN*4P_b8(#4*jwcj#(jw#b84mGmPwG(CGmCctCb8bj4(4*cNc4jG#PP4NGPmwcmqGcC#T(b*(N4(aGcPcMjCcmPcNx8Pw#cbGwGju(QG(##MM*cPbcjSj8P#Pb8c4j*iG*cNS4.C(m(cMm#8#cchbwPjN(8jbN*4GGCj<CP:(8b#Mb4w#j#(N8P4(48GmP*MwCCjo#bC(#8jM(4*#Nc4NwPPm(8mMm*cw:C8Gjbmo*4j(M(G#PMMNG*mmc8iw8*#8bCwANb(CG4P4McC#M(cj_P8m#mbww*jGb*wPPbM(C4(MccH#8jc#w4wPjm(wP#NG4CG_NbM2x484#cbcwjc#(PwNj*4wG8PGCPCs8b#(Ub8wjc(4*jcG4PGmP84mCNmGc8qgNCj((4*Mj4(cGjP4MPm*m8cwg*mwc b-w8N(bIGMPcM#GcmbcPg488Mbb*wGjCbGwjP(48CMccc#7j8Ncj6Gw8j4(**(NC4ICbNIMcBMm8##mNwNjP(mwPjM4*G4PCGw&b8(#4>(m*j#b8*N#N4mG8Pw48GMmCc4bbjcj4(M*cN#NMGNPNMmGGmwc*QG8C#m(b*(N44MGcPcMjCMbKcPS88w#*bGwGjhbCw8P4MMCcNmcjZN8PcN(Nwwjw(GjKNaMbC(m4M(lc8##jb#wPjP(8wm(j4GGCPQG#+(84#MCc8bjj(N*PNm48GmP*4wGCmecCb(w(jM(c*#Nj(PGPPmM8Cmm*cw-CPf#4((*4NM4cG##jMN*PPNc8kw8*#GbCchNbb(w8PMMcC#mjcNj88mcP(Pw*jw(CNbPbM(C4mMG#T#8j#NbjwmjP(w*j4N4CG7mbP(7484#cbcwjjMP0*PN84w(*PGMGC-m**Pb(wMjccP*jNj4P*NNMMwC*mGCM59wbj(s4MMNc4#GjPNMPCNm8Mmob8G#*b^wWN(44GMPc4PCjmNcP N88#mb*mG#G()GbP(M4CMjcc#Gjmj#Pbmw8jw(*#GNCb{*Gm(c4_M8c##8NwNcP(j*8Nw4*GGPCw*RbP(4wbMwcj#(j*NC84m*PmPM*CwmCM8bbw(j4(M##N#4jGNPjMmCPmwcj8N8C#L(bG8N444GcPcMjCMbQcP!88wN#bGwGjEbCw8P4MMCc48cj1N8PMmNNwwj*(G*CN74CC(Pb4C+c8M#jbjwPjm(8*wj*4GGCP_MC&(8b#MCcw4jj(N*PNm488wP*(GC8me#bb(w4jM}c*##jb8GPPmM8Cwm*w{OCmGcN((*bNM*#G#PjMNCP48c8_w8*#wbCwGNb(wN*PMMcC#wGcN0N8m#mbwwPCc(G*iPb#PC4m4cc1((G#jbPwmN((w*wNG(**Pmbc()4MP#cb#wjcNPP*mN84wG*PGM*CSPC#bb4w(jc(c*jNN4PGmPNMwC*mGc*QQ8Cj(V4wbNc4#GjPNMPwmm84wCP8G#Cb<*bN(b4GMjc(8CjmNcP=m88f*b*mG#M(oGbP(M4CM((c#GjPb#Pbmw8jw(*MnNC(GCGm(cbOMPp##bjwNjP88*8Nw4*GwPCMGKbmwL*bMwcj#4a*NNN4mGmPwMPjcmGcBbb*8j4(4*cN(mGGjPPMmf(mwcwDGm*cP(b*(N48MGcP#MjG#c4cPRm8w(#bGwCjJbb*8P4M4CcmccjG#8PcNbjwwj8(GN(N=MbC(PbMblc84#jCmwPjm(8wmNj4GG8Pvs8n(84#Mo48Pjj(4*Pj!48GwP*4wGGmuc8b(c(jM(c*#jc4bGPP4M88mm*cGiCmG#C((w8NMwGG#PjMNGjPNc8/48*#(bCwxNbb!w8PM48C#PicN;P8mcPbPw*j4(C8PPbM(C4P(M# #m8#NGhwmj8(ww8jN4CG4mbMNg48M#cb#bMjN(N*mjG4wG*PGMCCm8b#(b4wMjc(c*jNMm2GPP8MwC*mGcG_UmCc8(4*MNcw8GjPNMP*mbNcw{*8G#CbewCN((bG4PcMMCjmjcP/m88#wBPwGjC(p*CP(MbCMNcMcTj8N#Pbmw8Mw(*8GjM4lCbm(c4DMMc##Cj8wjP(m*8Nw4*cOPC4GGc8(#bbM##j#(j*NNPw8G8PwM*CwmCcGbb8wb*(M*cN#4(GjPNMmCmmwcPNc8G#u(bw*N(44GcP(8GCjmPcmCP88#wbG8*#P4bG(P4*PCcm#cjGN(P#mb8wwj*(G**No(C*Pm4c(lc8c#jbNwPjmbJ*wN*4GG*PAMCu(P4MJbcw#jj(N*Pcm48wwNMMGCCmp#bb(c4jM6c*cNj4NGPPmM8P*m*4G1m8Tjb((*4NM8(G#jj(bCPmmc8uw8**ZbC8GNG4(GbPM(7C#mjcNQPM8#8bww*jw(C*GPb4wmcmMcc2#Nw#jbNwmj8(w*P%c4GG1mb(jH(84#cLMm6jN(P*mbQ4wG*PG(C#*8b#(b4wMjc(M*jj#(8GmPPMwCwmGcCk^wbcP(4*MNc4MGjP#MP*mP4cw:*8G#CbVmbN(b4wCPcM#CjmNcPGm88MwB4wGjC(RGbP(8cCMP4c4Bj8##P88w8jw(**Gb74<Cbm(cb:M84##bbj(jP(m*8#G4wG*PCMCebmG*mb4wcj#XP*jNN4mGjb4MwCGmCc1bbwbj4b(8GN#4jGN(GMmC8mw4*jG8C#F(b*(N44(GcNM4GCNmjcmqm8w#*bGwC#M4bG(P4M(CcmMcjGNm*#mb8wwj*(GmCNy(bG8m4cMJc8##jCNwPcmb8*wN*4GGCP%C(E(P4cNbcw#jj(N*P2j48wwj#MGCCmo#bb(4cjMb4G4Nj4#GPNcM8Cwm*cGP18njb((*bNM44G#PbC(CPmmc8gw8*#*bCwCNb(GcmP4McC#mjcNlN8mcP2cw*jG(CjcPbM(C4NMwcn#8j#NbPwmjP(ww8j44CGGmbcbX48M#cb#8GjN(P*mNP4wG8PG(CCG8b#(b4wMjcC#*j#N(8GmP8MwC*mG4CTRmb#C(4*MNc4#Gj(#MP*mmmcwX*8G#Cb5cMN((bm#PMMcCj#jcPRm88Mw&*wGjG(,*IP((bCMP44wFj8##PC*w8jw(*wwN84:GGm(CwUM8c##qc8MjP(#*8CP4*GGPCMKCC8(#(bMwbj#(c*NNP(*G8PwM*CGmCcCbbm(#;(M*cN#4jGNcmMmG*PGc*w48C(mb9*bN44MGcP(8GCjmPcmwc88#wbG8*#P4bG(P4wMCcm#cjC##G#mbmww4#(G*CNU(bG#m4c45c8c#jC#wP#N(P*wN84G*(P cb6(mbMGbcw4jj*b*PNm48*mNGMGC8m)wGb(w4jM(c8mNj4jGPP#M8Cwm*cG>88Fjb((*4NM4MG#P48CCNmmc8Rw8*#*bC8G#m4(G4PM*mC#mjcNGP(j#8bww*jG(C*GPb(&**mMc49#NN#NbPwmj83u**NG4CGGmbMlx4PMcmb#wjjN(P*mM(4ww*P(MCCX8b#(b4cbjcW#w8NN4PGmP8MwPjmGM*X8wb#3(4w(Nc4#GjN#c#CmmNcwC18G#CbA*bjC44GMPcM4CjmjcPY#4(#8b*wGjC(g*5P(4b**mcc#ojM*#Pbmw8cwPM*GNC4oCbm((MAMPcc*bjwNjP(m*8M44*wGN4MDHb8(#4bMc(j#DjwNNP4mG8PwM*PNmCMGh*w(jb(Mw4N#4jGNNj4*C8mPc*Cm8C#d(b*(bM4MGcP#MMCNmjcmGcG*#*bGwC(M(UGbP4(*Ccm(wGpj8P#m8Cw8jw(G*8>j4{C(m48*pM8c#jk#8(jm(8*wcb4GGCP:4CjP84#4bc#Mjj(N*PjN4cGwP8MG#8mH#bb(w4#*(c*cNj4#GPPmM8CwPwcG^C8-jb((*bNM(Cw*PjMNCPM#cm 88*#*bCwwCN4bG4PMGbCcm#cN-c4b#mbww*CP(G*CPb(:*wmMccn#j8#NbPwm#P4c**N*4CNGmbc(D4m(MCb#wcjNPc*mN84wG*NbMCCC8bcBb4wMjc(#w8NN4PGmP8MwC8mGM*CGwbj((4#CNc4#GjN#4(Cmm8cwPN8G#Cbr8bj44(GMPcM#CjNGcP.mm8#wb*wGjG(L*=P(M4*Cmcc#5j8j#Pbmw8#mbj*GNG4ONwm(c4sMPccSbjwjjP(P*8c(4*GGNmMuCC8(#4bMwcj#(j8GNP4jG8PwM*CGmC4mM(w(# (Mc%Nc4#GNbMMmCj(4cw_G8CC8by*bN44MC4P#MMCNmPcmg88w#*C0wGj*4bGbP4MMCcm#cM_N8P#mbNwwjw(Gw*jPMbC(m4GCOc8##jb(j4jm(8*wb(4*GGP%MJ,(mC*8bMw#jjm**NNP48GNbMM*CCms#bb(w(jMb48CNj4NGP4cM8Cwm*4G8j8Tjb((*4NM8GG#jjGWCPmmc8tw8*48bCmm(j4(G4PMMcC#m#cNC(8m#jP4wwjG(C*BPbMbC4mM4wYc8j#NbPwmj8(w8j8C4CGhmbwG%(84#cPbwjjMPU*PN84w#PP*MGCEm**Pb(wMjc8w*#Nj4PG#b(M8C*mGcC7)8Sj(bb8*Nc4#GjbNMPCmm8Mm8j8*#Gb,NmN(44GMjc4#CjmjcPTP88Mmb*8w#4(Z*CP(w(CMmcc#Cc8c#Pbjw8Mb(**GNC(G*Gm(MC5MNC##bjwN#jbG*8Nj4*8RPCMk:bP{MNbM8Cj#C8*NNP4m*PPcM*CjmC*mbbw(j4b(8gN#(CGNcMMmC8mwM8_w8C#j(b8wN44MGcNM(pCNPCcm8b8w#*bG8*jG4b*jP44GCcm#cjC#84#mYCwwq((G*CNn(C*#m4MjRccc#jbNwPjmjN*wNw4GG(P_cbe(84cGbcw#jj(N*PNP48GNbMM*CCma#bb(w(jMb48CNj4NGP(CM8Cwm*4Gj#8ujb((*4NM=#G#jjMMCPmmc8Zw8*(cbCma#C4(G4PMMcC#4McNGPm*#8bww*jG(CjmPb(VGPmMc4I#mc#NbPwm#P(j**N84C*wmbc(v48MC#b#wjjN(#*mNP4wwjcbMCCe8b#(b4w4jcbm*jNMmHGPP8MwC*mGcGlJmCc8(4*MNc(GGjPNMPGN8Ncwew8GbGb+*bN(44#(PcM#Cjm#cP>N88##wCwGjC(:4mPbM(CMmcc#o4(C#Nbmw8*c(w**NC4w#Nmbc4pM*j#cb#wN#jb4*8Nw4*N4PCM=xbP(*4bMwcj#(j*NNj4m*PNcM*CwmCcCbbw(j4(MwcN#4jGNPjMmCPmw4*Cb8C#&(b*(N45MGcj#M#CNmPcmO88wM*bGmC#j4bG(P4MMCc4McjGN8M#mb8wwj*(G#(NF(CPwm(c43c#C#jbNwPcm(m*wNw4GGGP3(C^(mbcGbcwMjjP**PNm48*mPMMGCwmyG(b(w4jMb4w4Nj4MGPVHM8Cwm*MwC#86#w((w4NM4cG#Nc48CPmMc8j88*#GbC8Gjm4(*wPMC(C#mjcNCj8(#8bMw*4((C*=Pb(<*amMMw6#m8#NbPwm#Pb(**NM4Cmwmbc(>4m(#Mb#8wjNP;*mN84w*8N8MCCM8b:mb4wMjcbMw8NN(wGmN8MwC*mGcCmbwbjb(4wjNc4MGjPNGGCmm8cwF*8G#Gb%8b(m44GMPcM#Cj#PcPCwc4#w*(wG8w(C*eP(M4CMmbw*B#8N#Pcjwmj8(**mf#4CCbm(jGV48M##?c8bjP(m*8dw4*GGPC4Gm88b#(bMjGj#(j*N#P(*G8P8M*C*mC4GbbmrcC(M*4N#mwGNPPMmGPm(c*.88CCb(b*(N4((wNP#M4CNbCcms88wc8O{wCj84b*(P4MMCcPMMtSN84#mNmwwj*(Gw*NPMbG8m4Ubsc8##jg#8Pjm(4*wMb4GGCPX4CG#84c8bc8mjj(N*PjNblGwP4MG88mD#bb(8b#G(cw8NjmCGPPmM8GmPPcGf48.bP((*4NM(4*bPj48CPPmc8dw8*#G#wwBjJ4(*#PMMcC#mjc(UP8m#8bww*j*(C*wQNMbC4mMccZ#8##N&j84j8(w**(44CGBmb4(#m8M#cb#wjjNCm*m#84cG*PGMCC 8bbPb4mMj4(#*jNN4PGm(NMw**m8cC;kwbj((4#GNc(MwGPNMjCmPPcwA*8Gc*bG*bjC44w3PcM#CjmNc#om88#wbmwGjG(9**^PM(CMmcc#=j8j#P}N8Mjw(**Gj44?Cbm(Mbbb8c#cbjjjjP(m*8Nw(8GGPCM>CC8(#(bM84cC(j*NNP8mG8PwM*GwcPcC)_w((w(M*cN#bjG4PPMPC8m8c*Gw8CcGrm*(Nb4Mj*P#MjCNPjccV88P#*CPwCj<4bwijPMMCbm#GGWN8P#m0P8jj*(P*CjjMbC(m4M(C88##bbNPcjm(8*wj84jGCPPcbj884#Mbc8Mc%(N*bNmwGGwP*MGG*PN#blPw4#N(c*#Nj(#wwPmMbCwMCcG?C8xcCb(*4jP4cmgPjMNCPPNMw_w8b#Gw*w)Nb4(*bj McGPmj4C^P8m#8bwbmjG(G*yNMM(C4mMccCf8j#NbPwmj8(8**Nm8#GCmbc(V48M#Mb#8c#b(P*mN84MG*PGMCGG8G#(b(wMC4(#*jNN4P#NP8MwC*mwcCxGwb#w*c*MNc4#GGPjMNCmm8cwlP4c#Gba*bNP4(G4PcM(#GmjcPKm8j#mbwwG#*bPGbP(M4jMmcc#Sjm#C8bmwmjww(*GNC4L*bPcc4H48c#cbjw#jPbN8hNw4mGG4CMpLb8(#4b(wcjc(j*cNP4NG8jw4*CGmGc)v}w(M#(M8cjc4jGjPPMPC8MPc*GG8M#nb9*(N(4M#4P#(jPYmPcPK888#**jwCj}bCG(P4MMC4m#c#HN8cGbbmwwj*(G*CNCMb*iNwcMoc8#M8bNwPjmbPGPN*4*GCbGcb%(84#M>4w#jj(N*jNm4mGwN8*^CCml#bmjw4jM(c8##*4NGPPmM8Cwm8cGC*mwjbb>*4N44cG#PjMNCjmmc8sw88#Gb*wu#b(jG4PMMcC#mj(NnPPmMqbww*jG(C* jbM(*4NwccZ#8j#NbPcNj8JwNcNG4CG3mbc(N#8Mc48Kw#jj(PP4N84wG*jGMNCJmI#(b(wMc4(#wcj*4PGNP8DGC*mGcCCG84j(b5*Mc84#GjPN4jCMm8cNv*4(#CbA*b#rbGGMN%M#mPmNcPlmmPc#b*wNjCmwGbP(M4G(PGc#CW8N#Mbmw8jwb8wcNC4NCb4#c4aM8ccMU(wN#>(mwCNw4*GGN*M8!bmN#4Nwwcj#(jw##*4m*aPw*jCGmCcRCC8Cj4bN*ccG4jGNPP4NCNmwM}DGjb#9(b*(N4*jGMPcMjG8mPcNT8PwcHbGwGja(FG(b#MMCcN*cjgN8P#mb8w8j*?GwwNuMbC(m4cMw#8#MbvMwPjm(8NcN84*GCNNcbCG(m#4bcw#b}(#*NNm(P*cP*MGCC(q#bb(w4#(wC*cN#4Nm(PmM8CwN*McLC8Cjb(b*4#(4c*MN*MNCjmm((tw8*#G/*w4Nb(CG4#mMcC#mjM#Gw8m#jbw4*jG(C*)jC4bC4PCccjj8j#NbP8NcG(w*jNGb_GKmbc(Cbm*#c;CwjCm(P*mN8(mGwPGMjC.jb#(b4wM#4)w*jjC4P*GP8MwC*PwM8uJ8jj(wC*MNc4#*cPMMPGCm8GM5*8G#C Gw#N((jGMcXM#CjmNMjCG88cCb*4CjC(dGbP(N>CMmMc#Cm8N#Pbmw8j#(**GNC4QCbmbc4C(E4##bjwN4w(m*8Nw(8GmPCMCRbMj#4bMwcc#(M*NNN4mGmPwMwCGNCM3bbwbj4(4*cc#4jwNNbMmCmmwcwXGPC#q3bw4N444GcPcMjj#mP4mTP8w#wbGwGjFmGG(Nb*#CcmMcjP*8P#mb8mw#C(G**N:4CC(mbcMC4m##jbMwPbm(8*wN*4GGMPiMC>(mC#Mb4w#cjbb*PNN48GmP*(bCCNdMcb(wbjM(4*#sG4NwPNGM8Cmm*cwuC(8jbk(j8NM44G#PcMNmCmmMPbP8*#8bC8PNb4(G4PMM(C#mjcNh#8m#mbw88ww(C*XPb_cC4mMccCMml#NbNwmKX(w**NGbC*#mbcb5484#cbcwjcNbj*mNm4wGwPGbCCuPbcMb4w4jc(c*j#N4PwmP(MwCwmGcGvI4Cj(348QNc4cGjPjMPjjm8MmPC8G#*bK##N(44GMjc4wCjm#cPnN88#mb*8w#w(F**P(G4CMmcc#Bjm*#PbNw8jN(**wNCbkG#m(cbvM84##GmwNcPbb*8Nm4*GwPC*jfbP(cNbMw4j#(c*NCM4mw8MMM*CwmCcGbbjNj4b(G(N#4MGNN*MmC8mwc*+88C#.(bwCN444GcP#G(CjmPcm)m8w#*bG8*#P4bG(P4wMCcm#cjC##4#Pbmww4#(G*CNR(bGMm4c4Qc8c#jC#wP#NbM*wN84G8bPqcba(mb#(bcw4jjCG*PNm48*mP(MGC8mp*cb(w4jMb4wwNj44GPMwM8Cwm*MwCj8}#8((MCNM4cG#NcMbCPm4c8sj8*#GbC8G#C4(*8PM*PC#mjcNCjmj#8b4w*j((C*5Pb(DGCmMM8Y#(C#NbPwm#Pb8**N44Cjmmbc(04m(#Mb#88jNfb*mN84w*8PmMCC48bbMb4wMjc(#(MNN4NGmNGMwC*mGcC&mwbj((4*MNc4cGjPM8sCPm8cw,*8G#Gb68C#844GMPcamCjmNcPCN4(#wbwwGb*(^GbP(4bCbmccMvj4G#Pbmw8jw(4*GNG4kGCm(c4VM8cMPbjwNjP(m*8Nm4*GNNMMr5b8(C(b(wMj#(#*NNc8bGmPwM*N*m*cCbb8GGm(4*cN#4jGNPNMmGPPcc*AG8C4M(b*(N4((GGP#M#CNMjcm>88wc8i#wCjG4b#NP4MMCcm#cMvN8N#mbPwwj*(G*CNmMbC(m4cMOc8M#jA#8jjm(8*w(N4GGCP.4CG884#Mbccbjj(N*P#m(wG8P*MGCCm1Mjb(w4#M(c*#Nj4jGPPPM8CwPccGEC8d#R((*4NM(4GcPjMjCPMcc8iw8*MGb*wgje4(G(PMu8C#mjMcEP8N#8bww*jG(C*yNCM(G_mMccf#8j#NC4j*j8(P**>w4*GCmbw*H4mQ*wbcwjjNmj*NNm4wGPbcMGCp8b*Cbbw4jc(#GcNN4#GmP8MwC*mGcCC(8F#C(4*4Nc4#GjPNc*Cmm8cwlm8G#Gb!8Cj844GMPc(wCjmNcPCNm4#wbwwG#j(uGbP(M4G#mcc#2j8##PbPw8#m(N*GNC4Jc8m(c4vMm4cPbjwjjP(b*8Nw4**wN8MXCC8(M8bMwcj#(j*cNP4mG8PmM*C*mCMGCmw(j4(M#rN#4jGNP4CwC8mwc*j#8*#C(b*(N4(gcwPcMjCNbbcNam8wc8YjwCjE4bj*P4MMCcN#CC2N8P#mb8wwI#(G8C4NMbC(m4cM/cN4#jC(#Cjm(8*wCc4wGGPW4mV(mC*8bMw#jjNT*jNP48GwNMM*CCmH#bb(w4jMCC;jNj4NGPa(MPC8m**PeC8wGN(b*4NMP*GMP#MNCc(bcmXw8*Cjb*wCNbb.wwPMMcC#M(cNrP8mM8wMw*jG(C*dPbw8C4NMC*u#8j#NbPwmMN(w8j4M4CGQmb8Mvb84#cCCwjjMPl*PN84wMCPwMGCUm**Pb(wMjc(#*jNj4P*NNMMwC*mGCMpXwbj(S4MbNc4#GjPNMPCNm8Mmq(8G#*b%m(N(44GMPc(PCjmNcPRN88#mb*mG#P(>GbP(M4CMcwc#GjmC#Pbmw8jw(*#8NCbTGMm(c43M8c##8bwN#jbj*8Nm4**wPCMZfbP<#,bMw(j#*(*NNP4mG8PPM*CGmCc*bbwbj4bXMwNc4jGNPPMmCmmwc*mP8G#+(b*bN44MGcP#48CNmPcmQm8c#*bGwCN(Nc4b**Pw4VGCc#2(8P#mb8wGwNNm44GPN8CbPNcM{c8##PNG(bw4Pc4M*NNcM4CmmPobm8#Mbcw#jPj44b*#N44qGNm#CGm=#bb(w4j4bC*#Nj4NG8kcmjMpq#mN6G8Gjb((*4N#*(GcNPMNCPmmc*#Nb#8cj8bC*8Nm4wCCmbMmCkm(}N8c#8bww*jpNc4wGbPmC(PGccy#8j#m##(#wCjj(jN*(*Gkmbc(+cbC8*#4bNwwN44#*MPMM#2NPNMGCw8G#PbwjMb_*jNN4PGwGMmNcNCC8jl+wbj((4mPNc4#GjPNwGCmm8cwQ*8G#Cbv8C#844G4PcM(CjmNcPCNmM#wb8wGj#(2GbP((4w*mccM;j8##Pbjw8#m4m*GN84+G#m(c4 M8cCjbjw#jP(#*8Nm4*wGMjMOCC8(#bbM8Cj#(jc#NP4PG8PmM*CwmC4d8Pw(j((M*MN#4cGNNj44C8mmc*3m8C#i(b8_#w4MG(P#4GCNmPcmG8Pc#*b8wCj*4b*CP44(h(m#c(nNmG#mb8wwj*8C*CN*MbG*m4c(<cP#OCbNw#jm(N*wNj4GGCbGcbCx84#(bcwMjjUNNbNm4PGwP8MGCjm1MCC8w4jb(cwwNj4NGPPmwvCwmPcGn*8Qjb((*4#(4cGbPjMjCPmmc8vwP8#GbPw0jC4(G4PMMc_umjcM2P8M#8b8w*jG*b*CNGM(CbmMMo-#84*CbNwmj8nc**N*4C*GNmc(C88Mc8b#wjjN(P8NN844G*PjMCCL8b#(8cw4#*(#*cNN(CGmPjw4CwmGcCG8wbjb(4mG8#4#*8PN(MCmmmcw}#8G#8Pjw9N(448CPcMcCjN(NmQmmC#wCNwGjG( *wP(4C#8mMc# jP4#PbPw8#mb#*GN(4gGcm(c40MPc>Gbj88jPb**8N84*GGj*MTC48(#4bMwcj#(j8#NP(8G8NqM*CGmCcf,Gw(##(Mw#N#4#GNP4GPC8mMc*C(8C#C(bwyN4(>cwPcMjCNN*cmxm8w#j8*wCj*4bwmP4M4CcmMcj M(Y#Pb8ww#c(G*GNdMbjcm(cMZc8M#jbNwPjmw#*8N*4GGGP{cbh(84M*bcw#jj(j*bNm48GwPCwPMjCM*j#mbC8C(M*bNj4NGPPwPMcNCjm0TG8Njb((*4N#P_4GGjP#M(x(mc288##GbCwxN4jw(w*CPPMcC*cjdM8m#8bwwCCjN8(PG*MbGGmMcc&#8PmGjcbGwM(8wNNG4CG!m4wwcN%w8C#NM4*(j*4(*mNcc8G*mj#mCm8GcwZw8C(#*jNN4PGmP8MwGP#GcG<mwbj((4*#CCN84CC(P8CPPCcwO*8GjbPbbC*wNC4cs(Pjc4Gw8bcc8m#cb*wGjC4(c8*DP4MMbw8M-#m##Pbmw8jGPN4#*wPbMcCwmCM*Q*8CNbbbwjjc4jG(PcG*PmM.ob8(#cc8MaHbm8*jN44mG8PwMC#cJ88bcPbmj(bC*cN#4jGm*k*cN#4bcw6M8C#R(b*MCmjCMbGwPjMuCNm4cc88#NbGwCj944(PbGwCj8mcMmsN8P#mb*M#*Pj*jwu8NP4#4Kwmc*b(8(bj8*jm(8*wNCm#4wC#PwcG{w8wjo((*bjU*NN(48GwP*Ml#w-b8*c#b88C#C*cjm4NGPPmM*#ACwmcc*b(wPNw(8wCjw4GG(MjCMmmc8Kw8Cwcj4bC*m4b*GPMMcC#mPmG#cAmw4bww*jG(CmwPbM(C4P(4G:#8j#Nbjwmj8(w8*4#4CG<mbc(V4mG#cb#PPjj(P*mNm4wG8PGMPmm8b#(b48Gjc(c*jNj4PG#b(M8C*mGcPq?8aj(bCM8NM4#Gj#cMPCPm8cwCM8*#CbX*bN(44GMNCG1CjmNcPCX88#8b*w*jC(wcNPbM4CMP8c#H#8N#cPbwmjw(*m^NC4CCbNq4w6M8c##nWwNjP(m*8bj4*GGPCMCKbm_#4R(8mj#(#*NNc4mG8Pw(*CmmCcCbbwbj4iG*cN#(bGNPjMmC8mwc*%Gm*#w(bwCN4((GcP#MjCNP#cm>m8w#mbGw*j=(8wNP4M4CcP(cjkj8P#Pb8wNCM(**CN (*C(m(cMFb(*##bNwPMw(8*8N*(w*NPyM}E(Pw#Mbcw#cjNC*PNP48G8P*M(CCNEMmb(w(jM(M*#NM4NwPjCM8C8m*c*kC8cjbT(8CNM4MG#P#MNGMmmMPCC8*#8bC8*Nb4(G4N(4GC#m4cNC;8m#8bww*MM(C*CPb4GC4mbccCMwm#Nb#wm#m(w**NG(*f4mbM%:4mc#cb#wj##4w*mNm4w*fPGMCCXPCM8b4w4jcbc*jNN4PGMMcMwCwmG4wR=8>j(((*MNbm*G#PNMP*jm8c8W*8mG#bC*bN(EcGMPMM#GcPbcPOP88ccb*wGjCOHNPP(M(CMmMc#C48NMPw(w8j8(***NC4#CbN(C86M8M##b#wNjM(m884M4*G*PCMCYbm(#4CM#*j#(#*NNN4m**Pw48GjmCcGbb8bj4(M*cjIwwGNPjMmw*mwcw&G8G#,b*MPN(4MGc#NMjCjmPMNCM8w#wbGwGjL4bG(P4wGCcmccjWj8P#Pb88m##(G*CNE4CC(m4cMGccG#jbNwPjm(8*#N*(wCwP%M?q(m8#Mbcw#jjb#*PNm48GmP*M*CCmw*Nbbw4jM(c*#N#4NGP4cMmCwm*c*ZC8Bjb((*(NM4cG#P#4mCPmmc8LG44w##NMwwMjm(GGw8*M#K(mYcM8m#8bww*jw(C*oPb(FQ#mMcc9#8##NbPwmj8wj*wNG4CGCmbc(%4844/b#wjjN(NwPN84wG*Pfw#cMC88jmW4G8qjGb*(cmPM(G8mjccCPcGCCwbj((4*#GGNG4NG}P#MNC#mcjjb#w8j8(P*Gj*(*PM4jCjmNcPkw4(8D#w(jC#NM(w*wNw#GCmmmcNbb#Nbcw8jw(**gCGPwMbCmcbaM8Mc*bjwNjP(wMY*MN*MmGGPGccf8#(^wwcj#(j*mC#NG4#CNPwc4Q8cGO_w(j4(M*cN#4jPNbcxmCmm(c*ZG8Cj(P8(j*CjCMbGYN!M3CMcPCC8w#*bG*bGPNP(**GP(4KGOmw#M3M8wbmw4j*(G*CP(8NM#G*mPj=ZMw4#bwN#C(8*wN*4;4PCNP<c8bbmG#jbmwNjP*NNM48GwP*Mg##Ew8(cmb8jM(c*#Nj4NGPb(PN8wmwc#iC8_jb(M4q*cPb(mGCP4M4mPcjWw8*#G(b4m*cj8G(N#McC#mjcmN4&Cw4j#bCGNNj4wkwPmMCGGPGycm8#NbPwmj*P44cG4P4MmC(mm#*6wwbcCw#jb(P*mN84G#(C#m8cbCm8jb(8mjc(#*jNmP44CC4m#MCXPm*#w6mj((4*MNc4#GjPNcP88m8cwh*8G#Cb/4*wbC4G4NeM#CjmNc8c4bj8##Cw*jm(EGbP(McMmlbm#cC8jcwbmw8jw(CcNGMPNM8CMw8c4)*8##8b>w4(m*8Nw4*GGPCMh1b8(#(_Gwcj#(j*m*4NjMjG(PwC*mPc9bbw(jc#*(4*4Nc4(PNMNC8mwc*J9X##Cb**(N44MGjGcPC4GmNc4588w#*bp4w*wjw4mG(N*CMPmcjgN8P#wNwbm*jNm(lC*P(MGGjmwMH8cc#bNwPjm(*cb*cNGM8GCPCc#YwwC#4bM8{Pc4c*cNMG8PNMGCCms#4cNbCwN#G*cNb4NGPPmM*##d(8mcmb(#-b8*4NM4cGNbb8CMMr#m8#M8*#GbCwSw#4(G4PM44*CmjcNyPm(#8bww*cG*j*dPbM(C4mM4(D#8j4mbNwmj8(8**Nw4CGmc4c(k48Mm8b#w#jN(P*mNj84GwPGMCM#8b#bb4wMcw(c*jNN4PGmP8MwCjcLcCg wbj((4*4Nc4#GjPM8QCPm8cwR*8G#Gbp8C#844GMPc(*CjmNcPGmP8#wb*wGjC(Q*bP((4Gjmcc#7j8N#PCPw8cwbM*GNC4/Cbm(MP1MPc#bbjwNjP(m*8N#4*wGNGM!Bb8(#4bM8Mj#>bwCNP4mG8N8M*C*mCcNbb8GGm(4*cN#(#GNPNMmCj(4cwRG8CcN(b*bN4((wGP#MjCNNscmA88wM*w#wCj!4bG(P44MCcN#CCTN8P#mb8wwcw(G8C4NMbC(m4cMacmw#jCNjbjm(8*wN*4GGPPJ(bwG8(#Mbc8cjj(4*PN#8(G8P*MGCCm;c<b(w4CP(c*#Nj44GPPmM8GmGCcGUG8y##((*4NM(4G(PjM#CPN#c8yw8*cw.NwUjG4(*wPMMcC#PcMPhP8##8gSw*jG(CwGN*M(GGmMcMZ#8j#NbPw4j8(w**NP4CGCmb4FGw8M#Mb#m*jN(P*mN8bmG*PwMCCX8b#(b4wMC4(#*#NN4jGmPPMwCjc^cCdCwb(j(4*4Nc4#GjPM8)CPm8cww(8G#GbH8C#844G4Pc(wCjmNcP_mPP#wb8wGjC(oGbP(M4j(mccc)j8##PbNw8#m4)*GNG4u*4m(c4RMm4MCbjwjjPb(*8Nw4*wGNJMCC^8(#(bMm(j#(jw(NP4PG8P8M*C*mCcuCEw(j((M*MN#4jGNNjMPC8mmc*G}8C#O(b8(N(4MG4P#McCNmccmI884#*b8wCj}4bG(P4MMGCm#c4?N8P#mb8wwcjGb*CNwMb8Cm4c4:c8b#jbM43jP(8*wcm4GGGPhM*jP8(#MbcP(jj(j*PNmMPGwPPMGCCmD#bb(w4c#(M*(Nj4jGPPmM8CwmmcG&G8/#*((*(NM(4wCPjMjCPNwc8ow8*#N*bwIj^4(G4PMMMC#mjcNec4b#mbww*jG(C*CPb(/*wmMcMy#PP#NbPwmc8xc**N*4CGCmbMCe4m(j(b#wMjN(4*mN84wG*(CMCCC8bcCb4w(jcb1NbNN4NGmc8MwCwmGcGrq8*GP((*MNcC#GjPjMPC#((c8I*8G#Cb3w2N((bw*PcMcCjNmcPpm88MwC#wGjG(O*^P(4%CMP4#4Tj8c#PCNw8jw(**Gb.4WG m(MIDM84##bbjmjP(P*8Nw4*G*PCM^%bmG*mb4wcj#(j*NNN4mG8N4MwC*mCc!bbw(j4CG.#N#4#GNMCMmCmmwcNSG88GjbS*(N4GmGcPcMjCMbYcP_88wMcbGwGj1(*cPP(MMCcm#cj+j8PcNUMwwjw(Gw*N_MbC(m4(#6M8c#jbjwPjN(8*#4j4GGGPVnbh(8(#MbMw#j4PC*NNm48PwP*M*CCmw*Nbbw4jMNN*#N#4N*jN4M8C8m*MwiC8Djb((mcN44MG#P#MNCjmmMPbC8*#*bC8(Nb4(G4N((GC#m#cNG#8m#8bww*tN(C*CPbMbC4m4ccCMPh#NbNwm#((w**NGbCPNmbcb^484#c1#wjcN*b*mNm4wGwPG(GCTPb_mb4w4jc(c*jjG4PwmM4MwCwmGcGYE88j(g4jwNc4cGjPjMPG#m8MGjw8GcNbI#8N(4(GMPMM#C4bCcNem88-#b*w*jCbGwmP(M(CMNPc#nj8Ncjo4w8jm(**wNC4 CbNe4wnM8(##CPwNjP(m*81m4*GwPCMGEbmE#4O(*(j#(M*Nj44mG8PwM*C8mCcCbb8Cj4(4*cjMbQGNPNMmGGmwc*VG8CCm(b*bN444GcPcMjCMbWcPU88wGPbGwGjhbCw8P4M4CcN*cjLN8PMmw4wwjw(G*GNL4bC(N4CwRc8c#jbjwPcP(88w4c4GGGP5Mnu(mP#MCc#Gjj(j*PNP48G#P*(Gmjm!c/b(w(jMbb*##b(bGNPPM8N*m*c*)C8bjbbGMmN44cG#(NMNCNmmcjN48w#GbCcMNb4bG4N((GC#m#cNGw8m#8bw88#j(C*GPb(MC4mMccG#4##jbjwmjP(w88NGbC*wmbMo-48(#cCbwj##bb*mNN4wwNPGMCC!PbM*b4wbjc(4*j#P4P*NNMMwCPmGMMd{wbj(bb8RNc4bGjNCMPCmm8MmCm8G#Pby8#N(44GMPc*jCjmccPdM88#mb*wGG*(:*CP(MbCMm(c#Jjm##PbPw8jm(***NC4w#Nmbc4tM4b##b#wN#jb4*8N84**(PCMvkbP_MwbMw4j#(c*NNP4m*PNcM*C8mCM(bbw(j4(Mc4N#4cGNPjMmCPmwM8b88C#*(b8wN44MGcP#MMCNmNcm,N8w#wbG8*#P4bGbP44jCcm#cjgNM4#mbmwwjw(G*GNx(C*8m4c4_cPN#jbNwPjM*c*wNw4G#jP+M7+(8(#Mbb4*j#(N*PD(48G8P*Mmj#mC#bb(w4jM(M*#jc(bGPPPM8*Gm*cGsCPObP((*(NM4MG#jjMNC4cMc8y88*GbbCwCNb4bG4Nf8wCcmjcNjw8m#mbwwPCc(G*,PbM(C4m4ccCMP #NbNwmc*(w**NGbCPNmbcbp484#cq(wjcN*b*mNm4wGwPGMbC,N8(jb(w4jcP4*jNj4PwCP8MNjMm*cCeH(Gj(((*MNbm*G#PNMPCmm8c8Q*mwcNb+whN((bGMPcM#CjjmcNZP88#8b*wwjC(mN8P(M(CM_*c#K#8N#NbmwjC4(w*GNCmNCbmbc4C;(w#cbjwNjP(m*mNw4**cPGMCsb8(#4bMwc#6*P*NNN4mMCPwMwCGmCc__*4Pj((M*cGm4jGjPPM#j(m8c*dG#w#>bh*(jCm8GMP#MjCNmPcP)8mmc#bGwGjUbjG(P4MMCcNMcj+#8P#mb8wwj*(Gc*N14aC(mbcM:48##bw(wPjP(84PN*4*GCPCcbCG(m#4bcw#*M(N*NNm4j#4PwMGCC?N#bbbw4#(3G*#N#4N*jPmM8Cwm*(SOG8Cjb(b*4N(4c*iMPMNCNmm84ew8w#GbCwHj*mPG(PMMcMGmjcjIP8#G(b8w*jG(C*uN7M(GbN*cc_c8jc4bPwmj8(wmCN*4GGDP1c(/b8McCwNwjjj(P*mN848G*PGMCCw(N#bb4wMjc(#*#NN(j*4P8M8C*PbcC_.wbcVZw*MN44#*(PNMPCmm8(GXw8w#CbC*bjg44wMbMMcCcmNcj%mmN#wC*wjjC(GGbN+M4wCmcMMCc8N##bmm#jw(**G#C(VCbPCc4{b8cMjbj8##G(m*jNw((GGPCMYGCPc#4uCwcch(j*NNP(N*#PwMjCGPMc2bbw(j48c*cN44jG(PPMNC8mww8qG8*#IbC*(jT4MGcNMMjCjmPcN7888#*bmM#jC4bG(P4MMCMm#cjm48N#mb8w8j*(G*CND(bC(m4cMtMmG#jbNwPjwP#4M**Nw4NCNP8-bm4#Mbcw#jPP44bG#PM(x4mwcM*C8CGj8rGwNNb(jN#(cGPPmM8CG(j8mcGc*Gw#mbj(bm84GC4P4P#^RmCccb(J8bCw:Nb4(G4PMMcG##jcNYP8m#8bww*jGb8PrN 4cC4mMcc_N(88jcpbNw*NMMjG#Nm4jCPP*f48M#cb#wjjN(P8#M848GbPGMCC984*4#bbG*bjjMM*PPc(GC4PjCwm4cCW}wbjM8)M8wqP(4*GNmbMPCMm#a*8G#Cb3*bN(44GMPcMcGymNcP,m8*G##8bGwCmj4CP(M4CMmcc#xj8Ncb*mwm#m(**GNCM(cwCmP?cc3P80j4bb*bN4Mc*cN84PC8m#cP8(#4bMwcj#(j*NPPC8GmN-M*CGmC#(jPLCwP#C4b*CNCc4CcmMc4m8MGvG8C#V(4MP*jN44GS*P8M4C4m4Ncbbwb#C(NjC(#G(P4MMCjbbmCcNbc8G#mb+wwNMjwNC4PC(m4cM0j(48NjM_**(j#(#Nw(#GCP.cbUMbj8(c*#4C4j44b(j8M4mGwm#PwbMmCcm&GbbN.4(GbNujNPP4jCwm*cGbbc*8m#*(C*NNM4mG#PGP#CM84c#9jw(#*bCw8wbG4PMMcC#mjcNsP8m(8b8wNjG(C*fP4PNMCCMm*S#8j#NbPwmj8(wwbMG4G*Bmbc(348#wpj((bw{P((cGjN84jCcP*M8yb8m#wwMjc(#*jNN4PGmj8DwCwPPcClBwbjM8bcGb#*4c#Gsmbc4MNwccNbmw4#Cb8bCm44(*!PGC#PMcPKm88#GNN(#w8jN4c**P8M*M(8Cc(bM8*#P#NGwj8(PGj4C*wm(c4 M8jwG#MbGwMN#4MGMNjN8CPPGcbCC8M#w>GwGj c8(#4mG8PwM*CGmCcW_PN(j(bm*cN#4jGmb4PCcjCj8P#NENwN#w*bj*4MGcP#MPj(CG8(#cBG#wCwwCjW4bGMCjP(4*M4mw#MC7w(8NTx*cjjjw*PNCNCCCmGcm7m8CcC(bbjNb(jGcPm4NGCmPMwC*#Mbcw#jj*8*PNm48*m*PMGCCmpM8b(w4jMRcw(Nj4NGPPmM8Gmm*4GtM8.jb((*4NM(*G#jj4(CPmmc87w8*M{bCm<j(4(G4PMMcC#PjcNCjmb#8bmw*##(C*lPbM(GmmMcc?#8c#Nbjwmjcbw**NG4CGcmbcb-484#cb(4Gjj(P*mjs4wGwPG4*V*8b#(b4mMjc(#*jNN8wGPP8MwC8mGcCV/wb(#((*MNc4MGjPNMPGN#Ccw9m8GcPbB*bN(b4wPPcM4CjmccPC*88Mw<(wGjw(e*GP(M(CMNc4 gj8c#Pbjw8jb(*8GNw41GGm(MR-MmC##2cmwjP(c*8j*4*GGPC4GGm8(c*bMm#j#(j*NNPCUG8PPM*CNmCc8bbw(cb(M*cN#4(GNPPMmC8Nmc*x*8C#w(b*(N44Mw4P#McCNm#cmp88wMj*bwCjG4bw#P4M4CcPNcj+M(Q#Pb8ww#b(G*GN>(CCCm4cbicP8#jbNwPjmmG*8Nm4GG*Prcbd(mC*8bMw#jjG8*PNP48w#wGMGC*m,4*b(w(jM0R*#N4mCGNPmM8*Nm*c*0CPm(M((*bNMbMG#P#MNCcmmcjN48w#GbCmCNb4bG4NV8wCcmjcNGc8m#mbwmjmC(C*GPbbGC4m4ccGC8j#MNrwPj8(w8PNG4GG&P*wPQ(8M#cGwwjjj(PwNPN4wGmPGMwCU8b#(b4m(jc((*jNN4PGmP84m=mmGcmqH8Nj((4*MNcmGG#PcMPCjm8cjd*8GC(bCwGN(4bGMPcM#C4bCcN^m88(Cb*w*jC{mPMP(MbCMj#c#s#8NMwbmwjC4(w*GNCbbCbmbc4C(w(##bMwNcG(m*8Nw4*jbPGM* bmU#4bMwcj(PG*jNP4mmGPwMwCGNPPbbb8:j4C(*cNc4jG4PPM#j(m8c*TGN*#6b6*(jCm8GMP#Mjw4mPcP%8mmjmbGwwjHbGG(P4MMCc(Pc#ec8P#Nb8wwj*(mc#NCMbC(##cMRM8#MbMPwPjN(8mMN*4*GCPMcbCG(m#4bcw#4C(N*NNm4j#4PwMGCCj4#bbbw4#(4(*#NM4Nw*PmM8CwN*(G?G8wjb(b*4#C4c*MmMMNCMmmMbXw8*#GbCMNjt(CG4PbMcCbmjcNNw8P#Nbww8jG(C*=#8j4C4m(cc8C8j#jbP8bj8(NcMN*4CG/cmc(X(8M4CMjwjj#(PPNN848G*PMMCCw(N#bb4wM44(#*#NN4c#bPmMwC*#PcCuCwbca(?*MN(4#GcPNMPCmm8*C/w88#CbG*bN(44*XBwMcCjmNb(lm8m#w;8*8jC(*Gbj(M4CMmcc#Nm8j##bmwPjw(**Gj*M*CbPCc4C48c##bj8Ni4(P*jNw4#GGPGM}GCm4#4OCwc#((j*NNP4mwSPwMmCGmwc^Tww(j4tw*cN44jG#PPMmC8mw4SsG8C#EbQ*(N44MGcP#MjCNmPcmQ88w#*bwwCjl4bG(NGMMCcm#cjBN8P#mb8#jjw(G*CNCMbC(m4c4CG8##jbNwPjm(8*wN*4GGC(lbb-bm*#Mbcw#pM8M#j(bw*NcPwMPCCm-#bPG#(b(8PjbNj4NGPPmM8Cwm*cGwC8Cjb((*4NM4MGcPjMNCPmwc8}w8*#GbCwoNbM(mMP4McC#mjcNWP8m#8bww*jG(C*mPbM(C4mM4wec8c#NbPwmj8(w**jc4GG*mbcbl48M#cb#mcjN(c*mNm4wG*PGMCjG8bcCb4w(jc(M*jNNbmGPPPMwC*mGcwZ1wbT*((*MNc4cGjPNMPCNj#cwn*8G#C;jw1Nb44GMPcM#CjmN4j7m8P#wb*wGjC(VGbflM4C4mccM j8##PCMCwjw(w*GNP4kGim(MJtM8b**b#wNjP(M*8N84*Gmb#MC=b8(c#bMwMj#(j8CNN4PG8P8M*CGmCcVGCw(jb(M*cN#4jGNP44*C8mPc*gG8C#C(bw9N44MNdP#MjCNmPcm!88w#*G8wCjW4b*QP4MMCcm#cMQN8N#mbNwwjw(G*8Uj47C(m4(b_c8c#jbNmJjP(m*wN*4GGCP&cb*/84#(bcw#jj(N*PNm8PGwPwMGC*m1cCb(P*mc(c*cNj(cGPPPM8Cmm*cmN#8Cjb((8KNM4MG#P48CCNmmc8*P8*#*bCw5G44(G(PMMcC#mjcNC8(P#8bcw*M8(C*CPbMbC4PAww-c8j#NG#wmjm(w**jc4GGCmbMCF48M#cb#mcjN(j*mN84wG*PG4*h*8bcCb48*jc(#*jj#M#GmPjMwC#mGcC5ywbF4(4*4Nc4(GjP#MP*M*wcwlw8Gcbb+w9N((*GMPb8*C#mNcPGw88#8b*wmC#(CGbP(rlCMmMc#Ccwc#PbPw8jj(**GNC(GCGm(cbWM8b##bjwNjPNw*8NP4*GGPCM2fbP5#2bMwbj#bi*NNP4mGj(cMwCwmC(Gbbwbj4(M84N#4bGNPNMmC8mwc*Cc8G#P(bwGN44MGcP#(GCjmbcm.j8w#*bGwC#j(d*PP4MbCcm#cj)NPj#mbbwwj*(G*CNIMbwpm4MPSc8b#jbNwPjm3P*wNb4GGmP{cb{(84Ccbc8*jjbw*PNN48GwbjM*CjmtcPb(8mjM(c8*N#(CGPPcM8Cwm*cGNN8O#P((w8NM(wG#jj#MCPm(c8}M8*#*bCwUC84b*wPM4GC#PCcNoP4(#mb8w*jN(C*PPb4GcCmMc4E#PM#NbNwmj8mC*wN*4CGGmbc(i48MGNbcwjjN(j*mN84wG*4PMGCH8b#bb4wMjc(cw#NN4PGmPm4BC*mGcCb(4jwm#wMG*mNm4NCbPMc(Cmc8J#8G#CbK*4*#jD49GPPbMbmjMO6m88#wbCM4wjj;4*GbPbMNCGccCd8N#Pbmw*wljw(NGjN84mm(c4rM8c##bjwNjP(m*mj#4*GGPCc(jm6#m*c*(bwcNb(3CLNc4PGwwjc4I8m8#*bw8wjwb^Nc(GGNPPMmC*bPm8cNb48PjcbD*(44*8P#MjCNm887cPpj8C#Nbw*wN84mP(4CCcm#cjpmqCw##8(Mjw(N*CNAMbCMGwm;cpyj8Cbjwbjm(8*wNCm84gCwPccmCGmGbM8mjj(N*PNwmw4mCjmmMWb*8(#G?jww#}*cN(4NGPPmM*#8DPmG#j8Cc8((*4NM4jc*G8Pjc((bmCcj.j8jPP(c*cN44w)(Pw#oCN8Mc4TM#mbcw*jG(CG(S#PmMCCcPGc88#cCbPwmj8(GMN*wN*4PIGmGMGC*#MY8wjjN(P*wFcPbMPGPm8cmCm8mcG)Gjc(#*jNN&cGmP8MwC*44cC^Cwbj((4*MNc(MNwPjMjCmmPcwO*8Gc*bc*bjC44*8PcM#CjNNMw>m8N#wbmwGjj(xwbj{M4Cbmcc4/jmj#PCmw4jw(m*GNw4=GSm(c4CP8c#4bjwMjP(m*8Nwb1GGP*Me{b8(cCbMwbG*(#*NNPemG8P8M**Gcjci:mw(#*(MwNN#(c*bPPM(C8m4c*RG8CM5wP*(j84M**P#4wCNNPF(d88M#*b#wCjM4bw(48MMG*m#MCWNmw#mbc)cj*(j*CjCMbCbm4Mw7c8(*GbjwPjmbm*wNw4GG8bjMa9(844Mbcwcjj((*PNP4MGwNjMGCGm_c8b(8CG8(M*#Nj((GPPPM8*wN#cGdN8s#8((wcNM(4C4Pj4CCPmjc8-w8*#GmFw<jm4(*mPMM4C#mb (hP84#804w*j*(C*CPb4G#mm4cck#PG#NbNwmjjm4*wNG4C8EmbcbU4PMF*b#8CjN((*mj84wGjMNMCCN8bMcb4w4jc(c*jNMm?GPP8Mw*SmGcGsv8*GP((*MNcR#GjPjMP*mc4cw/c8G#Nb_w(N((cjwPcMbCjNjcP^P88#Mb*wmC#(CGbP(((CMmMc#?4(C#Nbmw8Mw(***NC(G*mm(M8/Mmw##bjwNcPD#*mNM4*G#PCMclbP(MGbM8*j#bC*Nj*4mw8NMM*C#mCcNbb8wj40M8PN#(*GNP(MmG8mw4*Cc8C##(bwNN4(*GcP#MMCNmbcmJb8w#8bGwPjb4b*mP4bPCcmccj<N8P##P(w8j*(G8MNt4yC(PCw8 M8##jGNwPjP(8wmj#4GGjP_Mjn(84#MCc#GjjbW*PN(48GNP*MG**mucNb(w(jM(c*##j*2GPNKM8Ccm*MG,C8l#G((w8NM(8G#P#MNC4MPc8_m8*#cbCwCNb(1G4N_8wCcmjcNC}8m#mbww*-b(G*CPb4+C4mMccT#c(#jbPwmjm(w**NG4GGCmbc(_484cwb#wjjN(8M4*4Nj4wswPG#j4m#(b4wMjc(M*jNN4P*NmGMwC*mGcG;;wbj((4#CNM4#GjPjMPCmm8c83w8G#Cbxwhjw44GMPcMNMMA(8cc8xw#8b*wGjC(MGbP(M4C4P c#Oj8N#8Nm(jw!jw**N44DCbm(cc#Cbb8m#H4(wbjm(8*mNwjPPG4Gxb8(#4b#bwwmj((6G4N84CC#PCcj9jmP#Pbw8wj(b=Nc(8GNPPMmC*(jm8#mhN!*P8(Gw*j*4#GGM#GGmPcm788G*4#wbm*(j8(CGCPGM*mcM*yN8P#mb*4c*(N((mGPPCcwC8mOHM8(#jbNwPjwP84N*m4*GbP%cbW(8c*G##bm*bjmc(G(NMMMCjPjM*C8ci9jw4jM(c*NCbNVM4GNPmcc{8wN#jbw#_bc*4NM4cGNbbPwMM.Mmw#M4b8N#=(ww&N8G(N*McC#mjcmNMt(8M#cb8w*(G*8PbM(C4m#m8#(oj8,bPwmj8(w8yNG4CGeNC48S48M#cW*wjjN(P*M4c4wG*PGM8C+m5#(b(wMjbP**#NN4PG#P8M8C*mm*#iCwbj(bM*MNM4#*cNbMPCmm8cPO*8G#C)GN(Nb4(GMNPM#CjmN4PaP88#8b*w*jC(8Gbj(4MCMmMc#X#8N#(bmm8#C(***NC4CCbPNc4GMP*##b#wNjN(m*PNwb**4PCMCsb8b#4.Pwcc#(c*NNN4mGmPwMwCGNC!Nbbwbj4(4*cjG4jGNNjMmC8mwc82G8G#Fb*MPN(4MGcjmMjCjmPMNCM8w#*bGwPj24bG(N*C#Ccm#cjGw8P#Pb8wwj*(mc#NCMbC(NjcMxM8#ccVbwPjm(8*PN*4GGCNG)(nb8(#MiPw#jj(N8Pjj48G8P*M*CCm8#bC(mjjM(M*#N#4NG(Pm(8C8m*c*SC8CjbbG*4#MbwG#P#MNCNmmcPrwP*cNbCwCNb4bG4NPMc*#NmcNyN8m#mbwwwjG,CNNPbMbC4m4ccCG8j#NTjwmj8(w*8NG4GGrmbG*H(8M#cbcwjjN(P*mNj4wG*PG4*GP8b#(b4w4jc(#*jN#w(GmPmMwC*mGcC{/wbcW(4*MNc4MGjPjMPCmM#c8e*8G#Gbe*bN(44w8PcM#Cjmjc(.m88#wbCMN*MNN(8*8w*C4PGc#_j8N#8jMbZ*Mjj(j*P4C*dm(c4sM8j*8cCbN*cjP(P*qP#cPG*PGMmbC8CcCdGjcb3*NNP4mG*b#m(c#CPmPPwwb#*(M*cN#4P4bCcmcMw,Mcw6P8C#K(b*MC(N+4cGGM#GwmPcm^88G*G#w(P*wN(MCGMPr4PCGm(/jmm#mb8wwjCmN(a*GN8MmGww*cPC/mWjMbN*MN4*8Nb4GGCPUc4jNQ8m*NCb8w8jP4(*cP448PwMPCCmK#bbMbN8wj8(GN#(GGPPmM8CG(j84#8;8w*jwbw*wjIGcNYMNCPmmc*c#p#8Pj4bC*j4b*wPMMcC#mP*(j/Fcwj#w(cj*(c*3PbM(Cc,mm4cb.P8(##(#*cNM*wNM4CGLmbcMj4li88#cb8wbjb44G448G#PGMCC/848##(/Gw*jbbdNj(mGmP8MwCC(c84cCbmGPjjbCwCjC#bG*P*M8,Mc8?N8G#Cb2*4*NNC4MG*McGKmNcPIm8*G#j((#wPjP#*Pb4*CMmcc#aP4(8Gj(bcwc(w*PNC4lCbmMm4cKCG88b#w4jP(m*8NGPMM(GGmPCDmw#4bMwcjNjM4M**Nc4cP8McCGmCcWb4(CwMjibP*GN(4(PNMbC8mwc*da(w8G#8(#wwNN44GcMjCNmPcmPp8w#*bG8*bb(7G(P44(Ccm#cjGNmm#mb8wwj*(G*bNn(b*wm4cM.c8##j!jwP#N(j*wN84G*wPFcb:(84cGbcw#jj(#*PNN48G#NjMGCCmiM(b(w(jM(M*#N4mCGNPmM8**m*c*yCmGcm((*4NM(4G#PjMN*PCcc86w8*#GbCw(Nbb(*OPMMcC#mjcNCN8mcPL#w*jw(C*wPbM(C4mMc4k#8j#NbjwmjP(w*jjP4CG9mb441484#cbcwjjMPL*PN84wwGPGMGCgPCM8b4wMjcbM*jNN4PwmG#MwC*mGcCK.84j(a4wGNc4#GjPNMPGPm8MmC88G#*bY8GN(44GMPc4wCjmNcPnN88#mb*wN#P(7GbP((*CMmMc#n#8N#cPbwmjw(*wNNC4CCbPGwm.48c##CNwNjN(mwPjc4*GGPC4G>b8(#4CMu?j#(j*NNP4m**Pw(*G,mCc-bbw(j4b4*cjM4(GNPjMmCmmwc*)G8C#M(b*(N44(GcPMMjC(PFcmk88wMGbGwGj_(?G(NC88CMm#cjGP8P#Pb8ww4b(**CN_MbC(m4cMrc4P##bNwPjN(8*wN*(w*NPdcbY(PG#Mbcw#cjGb*PNm48GwP*MMCCPGcwb(w4jMb**#Nj4NGPPMM8Cwm*cGiC8=jbq%wjNM4cG#PcMNCPmmMPCj8*#GbC8PNb4(G4N(4bC#m#cNCj8m#8bwm*jM(C*CPbMbC4P#ccG#NA#NbNwmjm(w*MNG4CCwmbcbI48(#cb#wjjNbM*mN84wG*PGM*C0m**Pb(wMjcGG*jNj4P*NNMMwCNmGc4plwbj(p4jwNc4bGjP4MPGMm84w8c8G#Pb1w*N((*GMN4c4CjmbcPC#88#wb*wGf-(k*wP(4wCMm4c#:b#(#Pbcw8MP(***NC4CCbPGwm-48c##GMwNjN(m*j=44wGGPCbN0b8b#40(mGj#((*NNM4mG8Pw(*m#mCc8bb8*j4bM*cjMb GNP4MmCPmwc*)GPCbN(bw8N4(nGcNPMjCNm#cmp#8w##bGwGjl(8NbP4MMCcj8cjfj8P#Nb8wNCM(**CNkb#C(m(cMC4PC#jbNwP#4(8*wN*(w*NP<MkJ(8b#Mbcw#jjwm*NNm48GmP*MwCCmw*Nbbw4jM*b*#N#4NwPM(M8Cjm*cmvCmjjbyv*MNM(CG#NcMNCPmm48CP8*#NbCwmNbbmG4jMM4C#mbcN;48m#Mbwm*jN(C*mPb4wC4PPccG#8c#Nb4wmjc(w*mNGbC*8mbMw64mG#cC*wjjNbM*mN#4wGNPGMPC!PbImb48Cjc(b*jjP4P*NNMMwCjmGcjxSwbj(b*NbNc4bGjMMMPCPm8c#R*8mG#bC*bN(*CGMPMM#*jM}cP<c88#Nb*8cjCbGG(P(4*CMP4c#Xj8NMP,Cw8j#(**NNC(NCbN(4#UMmC##bbwNj((m88j44*GNPCMm.bmj#4CM8Mj#(b*NN44mGNPw(*C#mCcmbb8wj4K8*cN#44GNPMMmC#mwcj,GPCbN(bw*N4(CGcNjMjG#8wcms#8w#cbGwCjf(8NbP4MMCc#Ncj_j8P#Nb8wNCM(**CN{_4C(m(cMC4PC#jbNwP#4(8*wN*(w*NPrMsZ(8b#Mbcw#jjwm*NNm48GmP*MwCCmw*Nbbw4jM8**#N#4NwPM(M8Cjm*cm)CmjjbD-*MNM(CG#NcMNCPmm48GC8*#NbCwmNbbmG4jM(PC#mbcNT48m#Mbwm*#C(C*mPb4wC4PPccG#mC#Nb4wmjc(w*mNGbCGcmbMwv4mG#cC*wjjNb(*mN#4wGNPGMPCHPb^mb48Cjc(b*jjP4P*NNMMwCjmGcjV-wbj(b*wcNc4bGj4bMPCPm8c#3*8mG#bC*bN(wwGMPMM#C4bCcNAm88sMb*w*jC(&#MPb4CCMm4c#Lj8N#48Pw8jw(*NMNC4CCbPTc4CI(w#cbjwNbC(m*mNw4*NPPGMiKb8b#4bMwcj#(#*NNP4mGmNGM*CGmC#(Nbq58mjwMCG(Nj4bGj8mMPCmmwrG8C#E(bwCN44MGcNM(^CNmPcmdm8w#*bGwC+m4bG(P4M4CcmccjdNcM#Pb8wwjw(G*CNFMbC(m4cM:c8##jbNwPjN(8*wN*4GGmP?cbU(84#Mbcw#jjw4*NNm48G8P*MGCCmCccb(w4jM(c*#Nj4NNPGGscm(#*c*C*8pjb((*cGCN*44GNPwc4Z#mM#Mb#*N#NbGwwNG4PGwMMG#mjcNWP8w8#jMbPw#Nj(m*m8mM(G*P<#(>#w(jbwPj4(w**NGMbcjCPmwMwU(mtP5w#j4(P*mN84GM4CmPCcNmgcjb4wMjc(NM**yN(cMC4PjMM (8P#N87#c(4*MNc4Nc8GjNEMNC*8Mjjb#8m#j(Pw*44GMPcM#bj4wMb4*j8#8bcwGjC(gG4C*P8MMC4PCcCi(#Nb#w8jw(**t*GPN4jmbMw&M8c##bPM(wjjm(8=4P8GGPCMsVb4(8Cj#Gm4#(j*NNP4m*8PwM*CGP*Cmbbw(j4bC*cN#4jwNNNMmC8mwc*gG8P#1kC8jN44(GcPMMjCNmPcmIc8w#*bGw*jv(CG(j4(*Ccm#cj-N8P#bb8mw#c(G*CNKMbC(PNcMGcPG#jbNwPjm(8*cN*(ww8P_MC5(m #Mbcw##c((*PNj48GNP*MGCCN%:Pb(8xjM((*#j*4N*jmjM8CNm*c(?C8njbBx*SNM(KG#NCMNCPmmMPbP8*#NbCwCNb4(G4PMP(C#mMcN148m#8bww*jN(C*3PbM(C4m4ccY#c(#jbPwmjm(w**NG4C*Gmbc(=48M#cb#wjjN(PM#*mCwGwP#MCC}8b#Mjrbc*b#m(C*4N4GPP4MwC*mG#bNMa8w4jC(4*G*4G#NGMPCmm8cGj4fw8mj(b8wCNC4GG*McGmmNcP1m8*wmN4bwwmNb4mCKNGMNC8mmc#8jcmbmw8jw(CccG4NCMmbPmjMCCCmCPbb*w*j84MN84(GGPCMr&4(N88c*(CwGj(bC**PMM4P8MbCGmCcqb44Nw8#*MC*8N84PC(Pcc4C8cwC*8C#v(b*MCNjw4cC(P#M#C*84j#/m88#j4w*wjw(8P(4CCcm#cj2moCw##8(Mjw(m*CNvMbCMC4mNcM8c#(bNwPjm(*M8GPNGMjPCMj<(84#Mbj4LwwNM(MG#Pc4cCcPPCGmm#bb(w4j#j(4(*8N444PPMbCwm*cGbb(3w*jN((*NjG(GG.PTCNmbc80w8*#fNwbGw8N#(wGNP4Mcm#MGnP8m#8bG4GwwNP4w*mP#MbC4PC2cm8#NbPwmj*P*(8GNP8Mb?Gm4cCCN8*#bwjjN(P*m(G4wG*PG4*Pm8b#bb48mjc(#*j#Nb?GmPmMwCwmGcN{OmCc&(4*bNc4(GjPNMPCmm4cwyw8G#wbgwCN(b4*#PcMcCjmjcPdc88MwA(wGjG(/*uP(4(CMNcMGvj8j#PbPw8j#(*wwPw4aGGm(M1KM8c##bjm#jP(#*8Nw4*GGPCMOjP8bcrbMw(j#(4*NNPw8G8P8M*C8mCcGbb8wb*(M*MN#(PGNPNMmCmmwcPNc8G#>(bwMN444GcP(8GCjmPcmmC8w#wbG8*N*4bGbP4M4Ccm#cjC##M#Pbmwwj((G*CNu(C*Cm4c4XcmN#jbNwP#Nbw*wN84GGcPHcbK(P4cMbcwMjj(#*PN448*mPjMGC8mVc*b(w4jM(c8yNj4#GPP#M8Cmm*4Gfj8R#C((*bNM(6G#jjPCCPmNc8Im8*c*bCm6j#4(GbPMM4C#PCcNFPmw#8bmw*j8(C*YPbM(**mMcMO#8j#Nb#wmjjbC**NG4C8jmbcbU4PMq*b#wbjN(M*mjC4w*8m8MCCP8bcCb4wMjc(#8cNN4bGmP8MwC*mGcCNN8S#8(4w*Nc(GGjP(HqCPmccwG88G#Gb2wmN((Cc8PMM#CjN#cPxP88#NPMw*jC(SmNP(M(CMNcCG=j8(#Pbcw8#w(*wwN54yGmm(MPpM8c##Cj8#jP(4*8Nc4*GwPC(2G 8(cwbM8Gj#bc*N#PbGG8PcM*CjmCc4bbm(#C(MwGN#(HGNNIMm*8PGc*Uj8C#P(bw(N44MwWP#MbCNm4cmfM8wM*w#wCjm4b*wP44cCcPM49qN8(#m!Rwwj*(G*Pm(MbGwm4(cyc8c#jbbwPj#m(*8N*4G82P?Mis(mC*8bMw#jjGC*PNP48wwMcMGCPm7cwb(84jMb4*jNj4bGPN%M8Cwm*4Gpc83#m((wwNM44G#jj4bCPm4c8sc8*cwbCmXjM4(*wPM4GC#PmcNGP8N#8bcw*jj(C*jPb((*wmMMG{#mo#NQPwmj8bc**NN4CGmmbM8;4PMn*b#wbjN(4*mjw4w*88bMCCm8bcjb4wMjcb9j#NN4NGmjLMwCwmGc*J)8*GP((*MNcb8GjPjMPGNPMcwOw8G#bbv*bN((bjGPcMMCjPGcPRm88MwbwwGj*(r*CP(4wCMP4Mbfj8M#Pb#w8jw(**GNN4}GCm(MCJM84##Cj8(jP(N*8Nm4*GPPC(0GC8(#bbMw4j#b#*N#P(MG8PmM*CwmCcNbbw(jC(M*4N#4MGNPPMmC8Pjc*X*8C#h(bwCN4(xcwPcMjCNMCcmQm8wM*w#wCjm4b**P44NCcPM#M+N8(#mbNwwj*(G*C#GMbGmm4cMVc8##jbNMbjP(M*wN#4GGjPRM8wP8(cGbcjPjj(j*PN448GNbMM*CCmKbMb(w(jM(bM*N#4NGP4QM8C8m*4G8j8=#8((wGNM(cG#NcMPCPm4c81(8*#GbCmLjw4(*wPM4GC#mccNGPmP#8bcw*jj(CwGPb((GmmMMG3#m)#Newwmc8>v**Nj4CGPmbMP94PMMNb#8ajN((*mj84wG*NmMCCm8bcwb48*jc9#jCNN44GmPcMwGGmGM*CPwb#8(4wPNc4#GjP(*GCmmccw848G#GbOwmN((Cc8PMM#CjMGcP1P88#wPuw*jm(J*CP(M4CMPCCcKj8j#P*Mw8j8(**wNC4w#Nmbc4>M#C##b#wNjPwc*mNw4*G*PCM<&b8bcNbMwcj#(#wwNP4mG8PGw4c#CN*m##b#wMj*bF*GN#GjPcMmC8mwcCjGb88*bHwNN44MGcPNN*M#CMmwcc{PwPjN(jjC(wG(P4MMCjCw84cNbb#PbMwwj*(GGbCTPP4wCNwNcG8c#bbNwPjm(*(PGPP(4mGmMOGP84#MbcwNw(N4bGG#Nc4#CcPjc4%PGMPHcbC+8(#(:Cw(jc(#*Mjl4MG(eG84jb((*4N#mc(mGbPbM*KMwCc#,Gwm#G(PjE(GG4PMMcCNb8m(Nc8PcGbww*jG4b4mG#PmM*C#84c# 884jcbh*4(8*MNG4CGIm4w(c8CG8mN4(4w4j(*mN84wG*NMMCC28bM+CwwMjc(#w*NN4PGmP8bGCwmGcC_Cwb#p(4wG(C4#GjPNMMCmmmcwLw8G#8Pjw+N(44*CPcMcCjmMwiOP88#wTMwGjG(UwCj8M4CMmcMZ6j8N#P&N8Mjw(w*GN84_Cbm(44mw8c#cbjwjjP(j*8#wGcGGPGM_C^8(#bbMmcw*(j*jNP4PG8PMM**GmGcZ,)w(j((M*MN#4jw.PPMPC8mmc*KG8C#0bN*(N44MGcP#McCNmcMwh88w#*pjwCjC4bw(#wMMGxm#c4.Nmq#m;P*Pj*(j*CNcMbC(m4cMP#8##(bNw(jm(P*wNjG/GCP8cbG884#4bcw#jj(MMrNP48GwN#MGCGm7Mb8mw4#C(c*(Nj44GPjMCGCwmNcGCN81#<((wwNM4bc*P#MNCPP4c8388*#Gm(wCj*4(GbPMMcC#mbCjOP8m#8rGw*j*(C*GPb4G#mm4cci#mP#NbNwmj8wj*wNG4CGCmbc(J48M#(b#wjjN(N*MN84wG*P3Pwcm/*84#Mw4#B(#*jNN4844CjP#MCm*cm,5wbj((cbmGbNm(hPjMPCmm844.*8G#CbV*bN(44GMPcM#w4#NcNCN88#wb*wtGmNN(GG4PjMGnbPCcCbb*4#4bPwjNP4MGj4hwbGGjMNcGcP8w&NNjN(4*8Nw4*GgY(PGcbt*8j#wwc#P*4b(wm(8j(GjN*C*mPcsbbw(jc#*(4*4Nc4(PNM(C8mwc*,1(#wNj8b8*bjC#CPc4mCNmPcmY*(Y8w#cb**(NPMwG8NC4wCGm(}#8P#PDwwwj*(GGbZjPcMbCww8cPob8b#bM4wCjC(*G#4Gm*wCbcN(wGN8N*_#j#(M*PNm48GGGwm#McmCcCb(w4jM(jcfN#(GGPPmM8CG(PmC#PbcwPj((jwGjGGcPcMNCPmmc*PN8w#PbCwnNb4Mc(GSPcMGm#c4tP8m#8bG(4*mjC4NN!4mC4mMccsN((8_#PbNwMNM(jN*4mGLmbc(7cC*wbc>bPjj((*mN84wGCb4mjcw0(m8#Nw4#P(#*jNN48clC4PcjjD484#bbm8*j8(4NM(mGjPNMPCwbwmm#jbm8,N*((*Gjj4w* M#CjmNcPfm88#wb*wGjG(PGbP(M4C#bCmMcjVN*+jNwmjM(**GNCM(cGC4mCMN?*8b#bwj#_(m*8Nw4C#cG0PGMj_mmG8bcbjcbG*NNP4mG*b4PGMwCc8NcwcCCG(4w8N#4jGNP8mDMPCjmCcN_wwwj8(mN((*GcP#MjCm(4*bc#bN8*j#wGjG4bG(P4M#jHmcMw9N8P#mb*M(*cjjMPGNNw4PCjmGc*8c#(bNwPjm(*M#GbNbMjPCMCU(84#MbjX*j#b8*PNm48GGbjm4cj!m84Nmb(wwjc(m*CN(GNPbM8Cwm*cBNMRNwbjG((*(NP4CP#4CCPmmc8tG4M8C#*b#*Pj*jTbGMMGGmjcNpP8wG(#*b8wMNj(8b*MbG*mMcc+#8P8cjcbGw#j#*wNP4CG}mbcMMPfO8PcCw##C(P*mN84G#NCmmPc(CG8G#*b#jMbG*jNN4PGwb(P*M8CM8jc8Mwj((4*MNcPNGjPNMPCmP(c8W*8G#Cb5*bN((*P#PcM#CjH8cPlP88#wb*wmC#(CGbP(m#CMmMc#Ccmb#Pbmw8#8(**GNCbiPPm(c4HM8c##CGwNcP*(*8Nw4*GGPC4mrbP(7bbMwcj#(j*N#b4m*PP#M*C*mCMCbbw(j4aM8PN#4#GNPNMm*wmwM86#8C#*(bwUN44MGcP#M(CNmNcmyN8w#8bGmCjN4bGbP4M4CcPMcjGN8c#mbmwwjw(GwjNu(bw8m4c4=c8c#j<OwP#N4N*wNm4GGbP_cbR(mbjbbcw(jjbP*PNm48GwGwMGCGm%c*b(w(jMb4w+Nj4jGPNPM8Cwm*4GCw8H#A((*(NMb#G#Nc4*CPmjc8=m8*#GbCw3#84(G(PMM(C#mccNGPPG#8b8w*j*(CwGPb((GmmMcM/#8##NQbwmc8Rc**N*4CGCmbMm_4m(j(b#wMjNb8*mN84w*8m8MCCw8bMMb4wMjc(#8#Nj4NGmPjMwCwmG4C%4wbjb(4*MNc(wGjN#4CCmmNcwC(8G#Cbv*bj#44G4PcM4Cjm#cPuMmP#wbwwG(((9* P(M4CMmbw*t#8N#P8*w8j8(*8G#N4sGZm(c4eMm8##^c*cjP(j*8j(4*GGPCMZP(8(#(bMw(j#(c*NN4GwG8P8M*mNmCcCbbw(j4b2MwNc4jGNM4MmCmmwM8Cj8C#C(bwwN44MGcNMCwCNmjcmGG8w#*bGmC#44b*BP4M(CcPmcjC#8b#mbNwwjN(G*CNU(CG^m4MWyc84#jbNwP#NJU*wNN4GGMPScbp(84MwbcwMjj(4*PNm48GwN,MGCGmL#bb(w(jMb48CNj4jGPjNM8Cwm*Mwbw8f#C((wCNM4cG#Pjw#CPmPc89m8*#wbCwm444(G(PMG(C#m#cNKP8m#jP4wwjG(Cj*PbMbC4P(4G.#8##NCjwmj8(ww8P84CGGmbMG&48M#cb#McjN(N*mNP4wG8PG4*b48b#bb4m4jc(#*jj#((GmPmMwGmmGcCpOmb#4((*4Nc4cGjjbMPCmmmcwRw8G#Gb/wqN(44GbPcMcCjmjcPfm88cmb(wGj*(f8;P(M4CMNc4m{j8##PbNw8#w(**GjM4vGGm(c4yM8c##bj8mjP(#*8Nw4*GGPC(m8M8(cCbMNMj#(#*Nj24mGjb4MwCGmCbCbbwbj4bUMwNc4jGNcjMmCmmwc*bw8C#w(b*(N44MGcP#(PCjmccmkm8w#*bGwCj*4bGbP44nCcmccjC#m(#mbmwwcw(G*CN,48mMm4c4&cc4#jbjwPjm(8*N^M4*GCP6GG7(8(#M{4mCjj(j*P#P48GwP*(GmjmWc}b(w(jMp(*##j*>GPPPM8C8m*Mm=CPmbj((*(NM*(G#P#MNG(mmcjN48w#GbC#*Nb4bG4PM(wCcm#cNDP8m#8bwmj4b(C*CPbC(C4m4ccC*8j#MN)wPj8(wN*NG4GG=P*wP}(8M#c84wjjj(P8m#M4wGwPGMCC0mj#(Eb*bjc(4*j#M4PGmP8MwNGmGcGoK8Gj((b*MjCGNGjPjMPwMm8c8W*8G#CbwMNNb44GMcCM#C#mNccNb8m#wb*#8jC(CGbjD(wCMmMc#gb8N#Pbm8PM8(w*wNC(CCbm(c4GMP*##bcwNjj(m8CNwb**8PCMG_bm<#4GCwcc#b8*NNj4mGPPw(nCGmCMCbbwbj4((*cNc4jGMy%MPC8mwCmOG8G#&vC88N444GcNTMjCNmPMN*m88#8bG8Gjq4bG(j4(;CcmMcjJ#8PMGb8mwjm(G**NH4CC(jmcMGcmj#jb#wPjN(88CN*4G*jPIMaY(8b#MbMw#cj_b*PNP48GwP*MMCCPG#Gb(8{jM)8*#Nj4NGP(8M8C8m*c8ZC8Gjbbwj*NM4MG#(GMNCNmmcmow8PGcbGw{NbwPG4P4McC(bGcjhP8mGMbwwwjGBC8PPbMbC4mMccCw8jc#(#wmjN(ww(NG4CGYmbG4e484#cb4wjj#(P*M4*4wGwPGwNC1mx#(b4wMjbP**#NN4P#4P8M8C*NG4N!/8.j((4*Mj84#*cmcMPCjm84N_*8G#Cb&#(N(4(GMP(M#CcmNc48w88#8b*MjjC(CGbP(M4GZbwcc,j8NG(bmwmjwb8wjNC4CCbPbc4)M8cM#NMwNjN(m*mNwbGGGN*4CVbmC#4b(wcj#(j*NNN4mGmPwMmCGm*c>Cbm#j4(4*cNc4j*#PP(mG#mwcwqG8G#{6P*(#4(wGcPcMjCjmPc(_8mmc(bGwwjE(4G(P4MMG484cj?M8Pc8b8wwj*(G(GNA4kC(PCcMlM8#ccbcwPjP(8w8N*4GGCjxMCZ(8(#MbMw#cN(Nwjj*48GPP*MwCCm:#bb(8wjM(M*#NM4NGjPm(8Gmm*c*vC8CjbXD*4#MbCG#P#MNCNmmM4,wP*MjbCwCNb4bG4NwMcGM8McN6#8mc*bww*jGb*G*Pb4GC4Pjcc,#8j#Nb#wmjm(w*PNG4GGANC48B484#cG_wjjN(PwNjM4wG8PG4GCA8b#(C4b8jc(M*jN#4PwGP8(wCPmGc*IE8Cj(AG*MNc(4GjP#MPCjm8cwX*8G#(buwqN(44GMP(M#C4m4cP%m88*bb*w*jC.KNPP(4*CMPLc#Cj8NM4M8w8j#(*MmNC4CCbj*c4C&(w#cbjwNGc(m*mNwb*P#PCMm.bm*#4%MwcM<*m*NN44mMHPwMwCGN#cxR*4Pj((M*cG84jGjPP4NGMmwcjJG8N#5(b*(#4*NGcNoMjC(mPMG}8mmcMbGwNjZ(_G(P4MMG4PNcjC%8P#Pb8wwj*bw*(NE4NC(m(cMhc8##jp4wPjM(8*4N*4wGCN=McH(mG#MCcw#jb(N*4(P48G8P*80CCmC#by w4#iPw*cNj4Nc8PmMmCwm*CPYG8njb(b*4NM4cG#NmMNCPmmMPCc8*#GbCwGNb4(G4jMG*C#mjcNAP8m#Nbww*Mo(G*%PbMbC4m(ccCO#b#NbPwmjc(w*wNG4GGIP*wPU(8M#cd/wjjj(P*#q(48G*PGM4CymE#(}bm*jc(#*jNj4PGmP8M#GVmGcGx_wbj(((*MN44#Gj#cMPCmm8cwU*8G#Cb6PGN(44GMPMM#CjmNcPCN88#wb*wwjC(CGbNG8mC4mcc#Aj8N#Nbmw8bj(w*GNC4CCbm(c4YM8c##bjwNjP(m*8Nw48GGPCM^_bm*#4bMwcj#(j*NNP4mN#P8M*CGmGc!bbw(j(bm*cN#4jGjPMMmC8mwcCj*b88-jP*bj(4MGcP#MP#4obmmcP>4wcNC(jwjNP44CwPN4GCjmC{jm*#mb8wwjCmM4j*P88MjCjmccG.b8C#jwNjM(8*wN*4x4wCwmcM*C*#4K8w#jj(N*8CmNPMjajP8c8C#m/cww(#C(c*#Nj4m4CC#P8cMmwcM?C8fjb(M4P*(jL4NGbPccc.M84r88j#GbCwVN4j84CGCP#MGm#c#2P8m#8bGbCj*(N*KPbM(CcCNmMM!JC84#(wmj8(w**j(4CG_mb4HGN84#Mb#wcjN(P*mN8(8G*PwMCCF8b#(b4wMc (#*#NN4jGmPPMwC*mbcCQJwbjb(4*MNc4#*CPNMNCmm8cwT*8Gc*-4*bNb44*8PcM#CjP#CGOP8m#wbPwGjC(9wCjGM4C(mcMa?j8N#PCmw(jw(8*GN*4?Gmm(44CC8c#Mbjw#jP(c*8#w4jGGP*MKCC8(c>bMwcc*(j*#NP4jG8PwM*CGm*caJDw(j4(M*(N#44cCPNMmC8Pcc*S*8CMKwP*(j*4M*:P#M#CNm4(blm8##*%wwCjC4bG(P44v#wmccj_Nmj#mbmwwjPmc*GNJMb*8m4c4ecmMMEbNw4jm(4*wN*4GwCMNcbCw84cGbc8wjjb#w(Nm4MGwPMMGCCmJ#bG)w4#w(c*bNj4NGPPmMNCwmjcG2j87#^((w*(44cGcPj4mCPmPc8um8*#mP#wCNb4(*cPMMMC#PcMb P8P#8b4w*jG(C*rbMMbC(mMc4k#8j#NbP#cjm(w**N*4CGombcbIb8M#cb#w##m(P*mN84G#4C#PNjwCMmmcGbwG*j#4(*dNMGPPcMwC*mG#bc*b8wGjM(cNM4#GjPN4TCmm8cwUw8##Cb2*bNMPl4cCbNmMCC4m4RP8b#wb*wGNbP#(C**Pc4GC(8(#b H#Nbcw8jw(** CwPw4wG8c(C*8c##bjwmC4mb(#GNN*M#PGM82b8(#4b#b8*(jj(&NN(wG8PwM*Cq(jmW#wbm8GN*(**#NM4PCcP4c4m8Mw<G8C#y(4Mjw8NMMbGcPcMwD(wccPFm8#N8(8w8jmGbNjMMCcm#cPjP/jwMjjb*GmjC48*MPP4*m(Mmoc8##jbmM4wCNj(jGPPN4NCNPwh(84#Mbc8cjj(N*PjN(MGwP*MGCmm=#bb(m4bw(c*#Nj4NGPPNM8*wcccGWC82jb((w*NM(CPNPjMNCPPmc8f88*#GbCwwCN4bG4PM4cC#m#cNCjm4#8bww*jP(C*BPb((P8mMcc5#8j#NbNwmc8*M**NG4CGkmbMm:4PML*b#wjjN(P*mN(4ww*M#MCCK8b#(b48*jcbM8^NN4NGmP#MwC*mG4Cbmwbjb(4*4Nc4MGjjN4cCmmmcw6w8G#Pbs8bjG44G4PcMcCjmccPGmmc#wbwwGjG(9**P(44Cbmcc#fj8M#PbPw8jwwN**NC46GTm(c4oM8cc*bjwNjPbNwMNw4*GGPGMO.b8(c*8Gwcj#(j*MNP4PG8P8M*Cm(#cCbbw(#C(M*MN#44cCPNMmC8mMc*?*8CcG m*(N44MG4P#MjCNmjG4r888#*bGwCjn4bG(NbMMCcm#cc+N8N#mbjM4jw(G*CN_MbCbm4cMPS8c#jbNwNjm(8*wN*4GGCPtcbH(84#MbcwMjj(N*PNm4#GwP*MGCCmH#bb(w4QC(M*#Nj4jGPPmM8C8PCcGsC83#.b**4NM4cGNG*mMMPV(cm{j8*#GbC*(GGN44C*NMMGGmjcNEP8w8cjMbNwcN44mGPM(C4mMccu#8jNNmMNmjm((**NG4CC(bbmGcPs48PcCuC*bNb*PNM4wG*PGcbjmCw8m#Cy*w*(cw2NN4PGmP*8*cbC*8j#w2wjbbw*MNc4#GPb(8RMchjmw#c8*#4b?*bN(4ccwCbN%M8CjmCjMdMmS#G(#jG(4GbP(M4C#9GPwcCev8NNM(4wjjM4(GPPNGgPPc4gM8c#NNMb#w4jG(M*JN84*PGMw_b8(#4b#bMwG#**jjC4mG8PwMC#jCc8N#PbbGjj4(w*M4#G4PPMmC8mG*cc*hj8A(b*(N44MwjP#MjCNm4Lw 88m#*b8wCjC4bG(P44E#wmccj9N8##mbmwwjPmc*GNnMbGGm4c4:cmMjMbNwjjm(j*wN*4G**NPcbCC84#4bcw#jjeNcbNm4NGwPmMGCwmQMCCNw4#C(cwwNj4NGPPm4wCwmmcG2m8n#C((wbj*4cG(Pj48CPmmc8GwmN#Gb8wEj*4(*jPM(c*Cmjc4QP8m#8bbw*cGbw*AN8M(C(mMMmk#8jc8bPwcj8(j**NN4Cw}Nsc(CG8Mc^b#w(jN(PwBN84jG*PPMCCG8bM,CwwM#C(#wPNN4PGmj8CMC*mNcC_mwb#P(48M(*4#GbPNM4CmmMcwq*MC#Cbw*bjw44G(Pc(#w3mNcM<m8N#wbjwGjCgGGbN8M4C4mcc#Lj8N(MbPw4jw(P*GNC4TCbPcc4C88c##bjwjjPbm*cNw4MGGPjME2b8(#43Nwcjb(jwCNP4NG8PwMNCGmmc+bbw(j4(M*cN44jG4PPMmC8mwc*GG88#xbw*(jG4MG4P#MjG#mPcc=88m#*b*wCjSwwGbP4MMCMm#cj&N8##mb8wwj*(G*CNZMbGsm4cM^c8##(bNwPjm(8*wN*4GGC48M6A(84#4bcw#jj(j*NNm48GwPw4GCCm6#bbM(*wwj#(GGbNbcMC#mccMb#mP#4bww(((*4NM4cGMPjMNCPPN#Gfw8*#GbGw-Nb4(G4(CMMC#mjcjBP8m#8b8w*jG(C*vPbM(C4mMc4{#8j#NbPwcj8(w**NG4CGimbc(PG84#cb#w#jN(P*mNm48G*PGMCCCmN#(b4wMjjNCbC*4NNcNGm84NjmGcCT}wb#U(4*MNc(MCmPNMPCmmmcw,*8G#C88wLN(44G4PcM#Cjmjcc}m88#wbww(jC({GbPM8PMwGG*bcNCHwbNO(4*NjN**N#4UCbm(ccjC6#mG#C4G*bN#(#N84#GGPCMrJ4(w*mcC(bw#jC*jNb4mG8PwMC#jCc8N#Pbb8wj(*cN#4jGNNGMmC8mwM8Cj8C#.(b*bN44MGcP#bPCjmPcmOm8w#8bG8*P44bG(P4M(Ccm#cjC#m(#mb8wwj8(G*CN948mMm4cMacmw#jbjwPjm(8*NkM4*GCP1MjD(8(#M&4mCjj(N*PN#48GwP*4wGNm=cDb(wbjM(c*##j*LGPPPM8C8m*c8HC8VcC((*4NM44G#P#MNCPMccm3w8*#*bCw}Nb4(8bPMMcC#m#MmnP8m#8bG4*wwj#4Nl8PGM4G*m4j#ac8##NwP#8(w**NGMbcPGjmmc8K4mG#MM(wPjb4(QbPMMPGPMCCd8b#(b4wMjc(#PjNj4MGmP8MwCC0M88cJbPj((4*MNc4#GjPN4c8mmmM*K*8G#C((Mb*#jG(CG4PbPMbCmM##bc8cjPbCjGbPGbP(M4C#bmmmc*9*wb#MbMGPj84(*GNPcwCmmCcc(C**#((MwPN(*mNM4*GGPCc(#Go48CcNb*wbjb*jjP4mG8PwMCjNUM8N#8bM*wjw(c*4NN4.b(PNMPCjcw2(8C#h(b*MCPNw(GbbPN4tkbwD#4bN8Nb*wbjI4bG(Pcm8cbCjmPMw_M8Gj4#PC(N#(K*i4IG8m4cMWc8NGb##bPwmm(4mNw(CGCPacbhMbG8W#CbG*G8bM#*cNPM(GNm#MPCmcSkPw4jM(c*N,bN#4bG4PCM8Cc8#xGmCjb((*4N#PG(wGCP-MNb484cw=m8CjjMb*PNN4j**MMGwmjcN0P8wGcjb(PwPN84m*mPm4Gm4MMy#8j#Nb84PwPjcjmk#NG4GGPmNcNcb*PcCbCwNj4*PNM4wG*PGcb#CCCm8#jb88P(c*bNN4PGmP*wjcceM84cC8L#*(4*MNc4N(*CMP*M4m8cw!*8G#Cbl*bP(CMG4NmM#CjmNc8NMbj88Pjbww<Nb4cG8P8C4P*c#:j8N#8#M(4wjjM4(GPPNCbm(c4JM8c##bj8l4P(Pw8Nw4*GGmb8PMj3m88#4#(8CjcjcC(P(48GPPGc#mGc#bbw(j4(#McG(N*4jG*P4M4Lc8cX*8##^(b*(NcmC4#*GPC#GJb8#c#88cPbGwCjR44MPGjNC4GGG84cP(*8P#NbMw#PG48*CP*MNC8PChMm;#jbNwPjwjM(m*mNw4PPCMct(84#MbjbwwCjbcM*8N4MMb4m#c8C8#bjN(m*8Nw4*GGjCmmPPMcCwm*cGbba*w8jG(M*c4cG#PjMNCPmmc8bMjG#*b(wdNb4(GcC*Nuc(C#m(c#b#8#jMbw*Nj4*CNMM(C4mMcjjm^#mC#jbw*4P#4c*PN#MNGwcbC#8M#cb#wP*(jG4(GcNGM8GGm4M8.*8N#8w4#4(#*jNN48ccC4PPMGu(8P#wemwmjw4GwGNM4(CMPCc(mmcM>*8G#C((4w*mN44(*GPGMbmjMwvm88#wbC4N*jjC4mgMP84Nb*P*cCFj8(bPwMjw(**GPb8##*!8w*ja(M##bjwNjP(m*8NwbPmGPGMjXb8(#4b#4(wMjb(w*(NG4PG8MwCcmCc.bbwMG*j((MwCN84jGbm(CmP#c*-G8Cj(Ncb1w8wm(1GGGMM*!cmb#4cPwN#Cbj*NwG4NG8P}4kmcc(%N8P#mb*bc*PjN4bNC4CC(m4cMFjbC##A#wPjm(8*GljP4MjCmm4j#Cw8w#cMbGMm(MMvcmN##/NM*C4mS#bb(wcGcj4(XG4NPc#G8mj45)cmPVGmCjb((*4N#mm(GGjmMMNCNmC#c(N8w#*bPGGNG(G**MMGnmjcN_P8wGcjb(c*NNb*CPbM(C4PGccY#8j#N8*488P4j8cb(*cmBP MGI48M#cbNb#wi#C*PNM4wG*PGcbjm(Nm*#CbMw*(c8sNN4PGmP*wbcbFM8M#Na888NK((*PNc(X:4mbc#Cw*#NMOPw8#B(PN(44GMPcM#CjmNcP}m8mcjb*wGjC4((m*NP8MwCMPCccb#8G#G(b*bNc(N*NN*4CC#m(M*8c##bjwN#*(m*8Nw(8wNPCM!{bmw#4bMwcj#L**NNP4mGmPwM8CGNCMmbbw(j4(M*cN44j*#jwMmCmmwcmWG8C#L9bwmN444GcPcMjC#mPMNCC8w#8bGwmj>4bG(Nb4cCcm4cjHj8P#mb88m#M(G*8N?4wC(m4cMKc84#jbjwPj#(8*mN*4G*CPUcbJ(84#MbMw##c48*PNm48GNP*MGCCmvCwbbw4jM(M*#Nj4NGPP8M8Cwm*MwCN8Ijb((m#NM4cG#jjGpCPmmc8dw8*cmbCwYc44bG4PMMMC#mccN<4#w#8bww*ja(C*CPbM(C4PZwwyc8j#Nb8wmjm(w**jc4GGlmbc(}48M#cI)jPjN(P*mN84wGwPGMCCnm**Pb(wMjc(#*jNj4P*NNMMwC*mG(h<pwbj(bbGbNc4cGjP(MPCmm8cwN88G#Cb.wCN(4bGMNCCNCjmNcPCN88#8b*wGjC(wcNPbM4CMP4c#V#8Ncj!4w8jw(*mCNC4VCbN.c{%M8M##LwwNjP(m*8nm4*GGPCMGebmh#4&G#Cj#(j*Nj(4mGmPwMwCGm8*j>:w(j4E**cNc4j*#N(MmC8mwM81G8C#A:C*CN444GcNcMjCNmPMNbN8w#8bGm#j74bG(P4MbCcm#cj9#8P#Pb8wNCM(**CNpMbC(m(cMC4PC#jbNwPM8(8*wN*(wCwPyM3y(m*#Mbcw#jjm#*PNm48GmP*MwCCmm38b(w4jM_N*#N#4NGNPmMjj4mwcGUCm4jb(b*4j1mwGcPjMNCGmmcm1wm8cjbCwDNbr4G4PMMcGM8McN=N8mc bww*jG(CcGPbM(C4m(ccaM8j#(w8wmj8(wG(NG4GG&mbc(CC(8#Mb#wjj*(P*PN8(m*#PGMCC}m*#(b4wMccwG*jNN4PGmP8(jC*NG+j{Rwbj((4*McC4#wj4SMPCmm8cwR*8(#CC%mmN(44GMPcM#*MmNMjbj88#mb*wcjC(6GbP(*MCMmcc#&c8N#jbm8P45(***NC4wCbm(c4GM84##b#wNjN(m8#Nwb**wPCMC_b8b#4GGwcc#(c*NNN4mGmPwMbCGNCMMbbwbj4(4*c#44j*#jwMmCNmwMhhG8C#EUCwNN4(yGc#MMjCNmPcmPw8w#wbGw8jE(CG(#*CjCcmccjwN8P#Pb88jj*(mc#NCMbC(#4cMuM8#cc/bwPjN(8wmN*4GGCNGcG (m^#MS(w#jj(NwjPj48GNP*M8CCmK#bb(*8jM(4*#N44NGNPm4PG#m*cwSC8wjb((*4#M(jG#PcMNCjmm4#owP*4*bCwGNb(nG4#GMc*#m#cN+j8m#PbwwbjGICwNPb4&C4m(ccG48jc#C wmjj(wwRNG4CG/NCMwK4mC#cy4wjjN(P*mNN4wG8PGMmCJml#(^C48jM(#*jNN4PGPP8(#mOmGcGTXjNj(((*MN(4#G4RCMNCmm8b49*8*#ClG8mN(4bGMN4M#CjmNMjbj88#Pb*8cjC(qGbjuMWCMmbc#iM8N#Pbmw8jP(**wNC4wCbmbc4C(PG##bcwN#m(m*8Nw4*jNPCMGHb8b#4b4wcj(PG*jNP4mG8PwMwCGNPb4bbwbj4ww*cNc4jwOPPM#j(m8c*WG#j#_bA*(jbb*GcPMMjG#mPcmu8mmjmbGwwja(4G(P4MMG484cj2M8P#cb8wwj*(GCjNl4CC(PCcMoM8#ccb(wPjN(8*NN*4GGCjkM4o(8b#Mb4w#c((N8PcP48GmP*MwCCNm#bC(8jjM(4*#Nc4N**Pm(8Cbm*cwpC8GjbCC*4j((8G#P4MNGwmmc8Bwm8cNbCw8NbkjG4PMMcC#mMcNgj8m##bwwwjG(8cjN/M(C4mMccSc8j#(w8wmj8(wjcNG4GG3mbc(CC(8#Mb#wj!9(P*PN8(m*#PGM*C}m*#(b4wMcc8C*#N#4PGNP8(jC*NGMpE<8Cj((b*McC4#wjN8MPCNm8cm?*8(#CCe8jN(4bGMP4M#*MmNMjGC88#Nb*wcjC(KGbP(4GCMm4c#Z48N#jbmwcj8(**wNC*wCbmbc4xM8c#(NGwjjP(mjjNw4wGGP8wjCE8(#4(cwcjc(jw#j(4mGPPw(PCGmCcWbbPMj(((*cNc4jG#PPMMm*mwc8/Gwu#yb *(N44MGbx*M#CNmP#8h888#*/w8NjD(CG(NPMMCcm#cj*m8N#Nb8w8j*(w*CNmC4C(mbcMic8###bNwPjm(jc4Nw4GGCPecbfb84c(CGw#jc(N8PNm48GwP8*jCCm*#bb(w4jM(c*#N*4NGjPmMPCwmwcGC*mGjbb2*4##4cG#PjMNC4mmcPUw8w#Gb*wg#Cb*G4P(Mc*8mjcNpPmNc;bww8jGbM*yPbM(G*N/ccRM8jC(bPwPj8(8**Nm8#GCmbc(N*8M#Mb#w4GC(N*mN8mIG*P*MCGGPm#(bbwMcm(#*jNNbPP(P8MmC*mwcCCmwb#ww**MN44#c8PNMNCmmmcwrP4c#GbB*bC#44G4Pc4M*9mNcj_mPg#wb*wGcCcCGbN M4C(mc4M&jP(cCbmwPjwmb*GNG4<*wm(MCj88M##bj4wjP(P*8jm(#GGP*M3G*8(#4bMwcMC(#*#NP4PG8P8M*Gwm*c/vCw(jb(M*cN#4jw8PPMNC8m8c*}*8CcGb%*(Nb4MwjP#MjCNmPM#=88m#*b*wCjG4b*wjCMMC4m#w8QN8N#mb8wwjPmc*GN2Mb##m4c4IcmMMhbNwjjm.**wN*4GGC4OcbC/84#4bcwMjjEN8GNm4PGwP8MG**mO48CNw4j((cMmNj4jGPNcM8CN(Mc*;C8HGc((*(NM4bc*P#MNCP(wc8i88*cw,NwSjC4(*CPMMcC#Nj84UP8N#8bmw*cP(C8tN4M(CbmMc4v#Pb#NCP8Nj8(m**Nw4CGMmb4(Cb8M#4b#wcjN_#*mjP4(G*PmMCCj8b#(b4wM#4(#*cNN4cGmPPMwCjP<cC.Gwb*w(4*4Nc4cGjPM8hCPm8cwjj8G#Gbqw*CP4(GMPcmwCjmjcPCNmM#wb8wG#*(7GbP(4bYbmcc4BjNw#Pbmw8jwb8*GN*4xGCm(c(YM8b**b#wNjP(m*8N84**wNNM{CC8(MNbMwcj#(bN(NP4NG8CGM*C*mCcCbb8GGm(4*cN#PPGNPNMmCj(4cwJG8C#Q(b*bN4((wGP#McCNNGcm^88wM*M*wCjG4b*WP4((CcjlMcZN8j#mjNwwjw(GwmN}4*#Pm(cMucb4#jbjwPj#m(*8N*4GGCPTM{-(mbM*bcwMjj(b*PNm48G#MjMGC*m.8mb(w(jM(M*#N4mCGNPmM8ccm*c*BC8wGN(b*4NMj*G#P#MNGjP4c8_m8*#mbCwtNbb(8mP4M4C#mccNqb8mM8eNw*jw(C*GPbb(C4NM4w7#8c#Nbjwm#8(w8*j(4CGGmbM3y4N4#cC#8mjN(j*mNP4ww4PG4*GW8bcCb48*jc(#*j#Nb{GmPNMwCmmG4cWLwbbj(4*(Nc4MGjPcMP*mc4cw:88G#*b_8jN((cjwPcb*CjCMcPKP88#mb*wmC#(CGbP(NCCMmMc#g4(C#Nbmw8wM(***NC(G*mm(cb,MPN##bjwN#jb4*8NP4*GjPCM2Hb8(cbbMw4j#(c*NNN4mGjb4MwCGmCcHbbwbj4b(8GN#4cGNP(MmC8mwcj838C#G(b*(N444GcP#MjCMb<cP}88w#*bGwGjqbCw8P4M(Ccm(cjoN8PMmC(w8j8(G**Nr4PC(N4cb,c8M#jb#wPMm(88wN44GG*PgMC!(m4#MCcmmjj(#*PNN4888P*(GGPmfcCb(wbjMC8*#jc(BGPPjM8Ccm*cGYCP cP((w;NM4(G##*MNCPMCc8pm8*#wbCw*Nbb(N8PMM4C#mccNGC8mMcw(w*jw(CbNPbMbC4j8ccJ((G#jbPwm84(w*wNG48#jP,c(:48M#cbcwj##b(*mNP4w*PPGMCCs8b4Mb(w(jc(c*jN#4PGMMcMwC8mGP(Dd8fj(((*MNbm*G#PNMP(*m8c8T*8mG#bC*bN(44GMPMM#GcPbcPXN88#8b*wGjC(;#8P(MbCMmMc#o#8NcjjMw8jm(*wmNC4TCbNQM87M8(##CNwNjP(m*8jM4*GwPCMGFb8b#4p(m*j#(c*NNc4mG8Pw(*C(mCcGbb8Ej4f**cjMbGGNPcMm*Cmwc*gG8Cc#(bw{N4(%GcPMMj*NN(cm=P8w#8bGmNj24bwMP(4>Ccmccj N8PcN(NwwjN(G8bNeMbC(m44#^MmE#jbNwPjm(8wmj#4GGNPqM*u(84#Mbc*Gjj(#*PN448G8P*4wC4m,cCb(P#jM(c*##j(KGPPNM8Cmm*Mm;C8SC8((*bNM4MG#P#MNGjmGc8;m8*#mbCwsNbb(wCPMM4C#mccNC(8mcP #w*jm(CwMPbM(C4mM48B#8c#NbcwmjP(w8*NM4CGGmbM;k4N*#cb#8NjN(c*mN84wG*PG4*GG8bc*b4P#jc(#*jNNb8GPPcMwC*mGcC!RmCc8(4w*Nc4(GjPNMPCmw4cwi88G#Nbrw0N((b*4PcMMCjj8cPBm88MwK(wGj*(i*CP((CCMP4#4rj8c#PCPw8jw(**Gj*45GCm(cblM8M##b44CjN(m*8wM4*G*PCMwjN8b#4bMwcj#(#*Njj(4G8PmM*CmmCcybbm(Bw(4*4N#4cGNjMMm*8PCc*7w8C#G(bmwN4bMwmP#McCNmjcmCC8wM*TGwCjG4b*!P4(bCcPMMm>N8c#mb(wwj*(G*CNmMbG3m4MaYc8M#jb(w4jm(P*wN*4GGGPJcb}(mC*8bMw#jj(N*PNP48*mN#MGC*ma4Pb(w4jM(ccYNj4#GPPPM8C8m*cmN#8Cjb((*4NM4MG#Nc4bCPmmc8CN8*#GbCw2X84(G4PMMMC#m#cNYc4b#mbww*jG(C*CPbM(NGm4cc%#8##NbPwmj8(4**NG4CGCPwc(948M#j#w(4wNNb*PN(4wG*PGcb#*CCmw#jl*wPjM(#Nj(GGmP8MwCC(M8jcP(8wm#Gb8*PNp4CPj48Cmm8cw!C4N8j#8bw*mN((*sCm(MjC2mM##8m#cb*wGjC4(c8rPNGMdCcmGS#8M#Pbmw8jGjw4#*c4CGjm(c4{M8jmw#cb4w8jM(NGNPjM#PG4C>b8(#4b#48wG#gMN*jNN4mbcmbMPFj8mcmb#wbj4*Mj*4jGNPPMw#wCK84#4gNwM#5(NN44MGcP#4bCNmPcmCPmc#*bGwCjP4bG(P4(MP*m#cj.N8P#mbjww#8bj*CNCMbG*m4cM%cP#_CbNwNjm(m*wNj4G**NPcbC}84c*bcw#jjtNNbNm4PGwP8MGC8mlMb8mw4j((c*MNj44GPjmC4Cwm8cGE*8,#C((wb#*4cG4PjMjCPmmc8GwP##GbwwsjG4(*UPM44_4mjc4-P8b#8bww*jGm(*CNGM(GGmMc49#PjcPbPwjj8(P**N#4CG!PMc(Cq8M#4b#wcjNbjwsN84NG*PjMCCi8bM(+8wMjb(#*4NN4cGmj84#C*mmcC7wwb#*(48MNM4#G4PNMcCmmPcw{*8*#Cb**bjC44*)PcM#*GmNcNIm8N#wb8wG#CbwGbP(M4GCmccc=j8NXMbPw8jw(w*GNC4,CbP4c4eM8c#c9mwNjP(m**14NN4#C4PPj*r*8bcw3G}(Pj*jjj4mG8PwMC#P0jm*#(b#w*jFbG*GNgc(G(PNM#LN84##8G#4(b*(N44#48GGNk#wCNmb#4)88##wbmwM(F*jP4MMCcmN*(cPSjmC8NM4wNj#44*P4-Gcm4cM)c8N*8#jgnwNj*4MCjP#4mGjmPM*8(cCbcw#jj(m(CG#N8MMPwM#CCm=#bbM(Gwwjc(MwsNg44PPM#Cwm*cGbb(P8c#C(8N4(GG#PjMNC8CGmmc#bc8P#NwCjw4(G4PMMjMcCCP*c(8P##bww*jG4bMCG*P(M8m4MGo#8j#Nb8MMwPjw(*{cP*GCPwc(%48M#j#*b8wjN(*PNc4wG*PGcbMPH*8*#MbwjMb7*jNN4PGwGNmNcbCPmP=Twbj((4mGNc4#GjPNwGCmmmcwn*8G#Cbp8C#844G(Pc4jCjmNcPCNmM#wbmwGjG(EGbP(M4P#mMcM.j8##Pb#w8jNmM**NC4uGjm(c(.Mm4MCbjwbjPbw*8Nw4*wGMjM1Cm8(cwbM8wj#(j8#NP4(G8P8M*CGmCceGCw(#m(MwCN#4jGNPPMjC8mcc*Qc8C#C(bww((4MG4P#M(CNmNcm/P8w#PPcwGjg4b**P4M4CcPM4SBN8j#mbbwwj*(Gw*8jMbGCm4MGhc8##jCN8Pjm(N*wNm4GG*P)4bCi84#bbcw4jj(b*P#m(PGwPmMGCwm-ccb(m4#4(c*4Nj4cGPPcM8GmP8cGOm8D#G((*4NM4cwwPjMcCPmcc8eN8*#mpww6Nb4(wbPMMMC#NjCO9P84#8b#w*j#(C8mw(M(GwmM4w0#8##Nbcwmjjm4*wNG4C*jmbcbs4mZ*wbcwjjN>j*mNm4w*8NjMCCP8bcMb4wMjco#jCNN4(GmPMMwGpmGcCGGwb#m(4*4Nc4#GjjNCbCmm(cwJj8G#Mb:*bb444**Pc4*Cjm#cP3M#*#wb#wGcG(L*uP(M4CMmbw*3#8N#PCPw8j8(**m9#4CCbm(4bdM8M##Cj#AjP(m*8N#4*G4PCMmPX8(#bbMmFj#(#*NNj4mGjb4MwCGmCM8bbwbj4(McNNc4jGNPjMmC8mwc*mP8G#?(b*bN44MGcP#4GCNmPcmQ88w#*bGwCjUwjGmc4M4Gmm#cj9N88G##Mbww8jN(wGcPP4*C8c4Cw8##jbNw8G8jC4(G(NjM4GCmjobmw#Mbcw#jPPC(j*A8448C#M*C8m1#bb(wcGN#Cc(N#4(GPPmM8CGCm8m#4Q888(bw8NM4cG#PPwbcbCMmMcjB88(bGwbNb4(G4P#88MGG<*b#b5MwcjMbw*jN8(C*mNwC(PCccY#8j#m#C(#w8NM**NG4CGBNCc(p48Mc4CCwjjN(P*bN84wG*jGCjCd8b#(b4wMj((#mjcM4NGmP8MNC*m*cCCGmmj(((*MjC4#GjPN(P*4m8cm_*8G#CbN*bN(4CGMP4M#CMmNcPdm88cjb*w*jC(<GbNCM4G_bwcchj8Ncmbmwmjwq*8jNC4mCbP*c4CC8ccM(MwNjb(m*PNw4*GGPCGb>bmw#4ywwcjM(j*(484mGcPw4GCGmGcpbbw(#CP8*MN#4j*PPPMPC8Nw4#dG8P#Hbw*(jw4MGcNMMjC(mPcNr888#*bN#Gj6(+G(N8MMCMm#cc9N8cGbbmwwj*(#*CNCMbC(4Gc4Lc8###bNwPjm(8mjN*4GGCPCMm{(84#Mbj4,w(jL4c*4P4G8PcMGCCmI#4Nwbbw4jM(GGbNbGNP(M8Cwm*cXj#bNw8#8(bwC8CGcP(MNCPmmc*#(bP8GjjwCj*4(G4PMMjMcCCPG2NmC#8bww*j0mc4N*mmwM8GCPwcmbb8&bjwPjmb4**NG4CC(bjmmMw(bmB#MbMwAjM(4wC8#M(CmPGc#UP88j*bNw8jc44*P4PGmP8MwC*mGcCbLN(j((4*MNc4#GjPNMPCmmmc4d*8G#C((Mb*GjNc8G4PbcbCIcNYc88#wb*waGwNb4**#M4CMmcc#fj8N#PCNN8j8(N*GNC4}C4bmm(Mwsc#cb(wNjP(m**CPPP4PGNMCCj8(#4bMwj*C#*(%GbNPcCG8mMMwmGc8bbw(j4(#(mwGN*4nPPMmC8mwc*%G*CC8Gb*bj#4MGcP#MPj4Cj84MC(4wc#Cb**mNc(8*jM4Gwm#cjvN88*G#mb#w#Nm(GGmPPCbPmcMYc8##PNc(cwcjMMcGcNCMjPCMP/(84#Mbj(w*4jw((CCm#cPPwM(CCmp#bbM4Mw(jC4(*Nmc4mC#NCcMCNc*km8%jb((*cCPN*M(GAMjGwmmc8Yw8C*j#c(N*PNbM*GwN.4*C88(#b8PcZbww*jG4bMP*jPmM8C48Cc4HC8vj(wPj#(w**NGMb#cGCm4cw84cNb#wjjN(84tGjNO4#bcP*M8(88j#jbcwG(cw*NN4PGmP*w#M8CGmw#bbP88j8(*NM(wGjPNMPCw(c8b#PtPw8jmbm*mjGG4N#M#CjmNc8Nb!C88j#Mc*4j8(8*88*MPCPmjcZ8j#(bmw8jw(Cc4GjPwM(G8mNV4mN##bjwNj8P4(#GNNw4NGwmwMwfm8(#GePj#(j*NNP4mG8Pw(P8GmGc8bbw(j4(#(cG(jr4*PNMbC8mwc*ZS4M8Njb(G*(N(4PGCM#GCmPcmv88G*Mj#b_wGN84#*wNNCMPGcj?N8P#wNNb**Pj(4j*8N8G=m4c4Co8##jbNw8GMjCbCGc4*GNP_cbu(8c*Gjbbc*bjE(mNP4MGwP*MGdb(b8c#bb8we#9*cjG4NGPPmM*#PC8mN#4HPwc#3((N4(*G#PjMNC8(484c#B#8P#*bMjE(8G4PMMcCN(bwCcMb#88jMwwj((C*+PbMM#8CoPCcmr#8GN4b48Cj*4cN*4mGombc(Bc(4wb##bCjjbC*mN84wGC_Gm8c#C,8#cw.wwGjG*#jC4PGmP8MGjPC*8P#csC8*j8(*NM(*GjPNMPCw(Mm:cjujw8#C(8*m4(*4PcM#CjmmwGc(H8wN#wbw*4NPMw*oPb4*b(8(c(Zb#NYCw8jw(**kSPPw4?bwmbcc_#8m#EbvjN(c*8Nw4*GK,cmwccC8#(bMwcj#bC*NNP4mGmPMM*CGmC#(jjbGwj#*MmCbmMGjPMMmC8mwcCcjb88mj4*bj84MGcP#MP#cCm8#MCbM8N#NwGjM4bG(P4M###CM8b#MWm*j#w(NwbN#(mNAw#*GCc^*(M4wG4*PwNj4(8*wN*4i#PbjPwcGk48wbMwbjj(N*PNwNbMNCbPjCGm8#bb(w4j#j84(*jNlGPPmM8CwPGcG5C8,cC98*4NM4cGMPjMNCPNm24ow8*#GbCw<jm4(*bmbMcCcmjc47P8m#8bw88jG(C* NCM(C(mMM4GC8j#NbPwPj8(w**jw(NG.P:c(C88M#cb#mjb%(P*PN848G*P8MC*WcP#(b(wMjM(#*4NN4P#NP8MwC*mwcC<Gwb#w*c*MNc4#*PPNMNCmm8cwvP4c#Gb}*bjM44G4PcM#*GmjcN2m88#wb*wGcC*NGbPbM4C4mcMk;jmNGwbmw8jw(j*GNG4%Cb4*c(_M8c#cbjwNjP(mbGNw4*GGN*4P-b8b#4U_wcj#(j8N4b4mGmPwMwCGNPciCb#mj4(4*cNc4j*bPP(mm4mwcwlG8G#3o4*(#4*wGcPcMjCjmP4#h8PwbcbGwGj!(HG(j4MMGj4GcjCG8P#bb8w8j*(**CNw8NCbm4cMCw8###bNwcCb(m*wN*N(GCPCcbG,Pw#MbMw#j4(N*PNmb8MjP*M*CCmC#bGww4cMb(*#N#4NGNPm4MCwN*c4AC8Cjb(b*4##4cw#N*MNCNmmcmBwPG#GB*wGNb(CG4#bMcC#mjcNGG8m#mbwwmjG(**hN84cC4m4ccC48j#jbPwPj8(NcMN*4CG0NGc(7(8M#bN*w#jN(PbGN848G*jGCjCLm0#(b4wMMm(#wcNP4PGNP8MNC*mGcCG!mPj((b*MN44#wbPN(PCjm8cmv*8w#ChP*b#(4bGMP4M#CcmN48BmP8#8b*wwjC(GGbcCM4*MP*c#+c8N#jbmP6jw(*wMNC4CCbmbc40(8cM#8CwNjN(m*mNwT*GGN*#4tb8b#4G(wcj#(j*(484mG8Pw(*CGmGc5bbw(#CP8*MN#4jwNPPMPC8mN*Mv*8C#vC+*(N(4MGc4bM#CNmPcPE88w#*Ww8Njv(HG(#bMMCcm#4bmG8P#Pb8mjj*(**CjGMbGGbmc47c8#M(bNwNjm(jc4Nw4GGCjccb>b84c(CGw#j#(N*cNm48Gwj*cNCCmC#bbbw4MG(c8#jM4NGNPmMmCwP#cGGCm8jb(b*4N44cwNPj(NGcmmcm%w8w#GGwwtjb(bG4P4McwPmjcNBPmNcMbwwwjG(8*)PbM(*4l8ccac8j#jbPmMj81wwMNG4GGeP!c(Gw8MMcoPwjjj(P*PN8bGG*jG4MC7m-#(b(wMcP(#wcNM4PGjP8bPC*mGcCCGmMj(bC*MjN4#GjPNMPb(m8c8.*8m#CbC*b#?(jGMPMM#C4mNcP:mP8MCb*w*jC(CGb#wM4*MjMc#3#8N#Nbm8MjwT**(NC4CCbmbc4G#8cM#F(wNjN(m*mNw(bGGN*MN&bmC#4Cwwcj#(jw#jw4mGjPw47CGmCcqbb*mj4(4*cN(4jGjPP4N*GmwcwlG88#F(b*(#4(NGcPcMjCjmP4M38PwwNbGwGji(aG(jwMM*cm(cjij8P#Pb8mGj*yGwGNi4kC(m(cM*(8#MjC8wPjP(8*8N*bCGCNG4f_(m<#MCmw#jj(N*Pj(48G8P*M8CCmG#buwm*jM(M*#(#4NGNPmMmCwmP*c+G8_jbwb*4N44c*Mj3MNCNmmMjJw8*#GCCM*Nb4bG4P4McCbmjM#Cc8m#Pbw8mjG(C*1jC(cC4mbccs(8j#NbPmmjc(w*mNG4wG^j8c(G4PP#cb4wjjc(Pw4N8bwGjPGMwC,mG#(CcwMccb**jNc4PGjP8bPC*mG#Mkp86j(bu*MN44#8jP4MPCPm8(*R*m4#CZGwmN(4bGMP(M#CjmN4PG*88#mb*wwjC(8Gbj/4GCMm(c#GM8N#Pbmm8jP(**8NC4*CbPbc4C(mv##b4wNc#(m*8Nwb**8PCMw,bmG#4%4wc#M(4*NNM4mwNPwM*CGNCccbb8*j4bC*cjc4jGN(mMmCPmwcN%G8*# bbccN444GcN8MjC#mPMN%#88#8bGwwjL4bG(j448CcmMcjH#8P#cb88mjm(G*wNA4jC(m4cMC4mm#jbMwP#D(8*wN*(wGmP>Mwr(mP#Mbcw#jjbb*PNN48GjP*MwCCP=MNb(w(jMC<*#Nc4NGcbbMmCwm*C4YC8Cjb<v8wNM4MG#P4MNCPmm48C48*#*bCwCNb,wG4jM(*C#m#cN^N8mcMbwm*j4(C*CPbMbC4N#ccG#m:#NbNwmjm(wmmNGbC*4mbcbq484#cCjwj##0w*mNN4w*(PGMCC>8bMGb4w4jc(4*jN#4PwmjMMwCwmGcGHTPcj((4w(Nc4cGjP#MPCPm8MmC#8G#Gbaw*N(44GMjc*CC#mjcPtP88M#b*mG#N(;*aP(M(CMNGc#GjP8#PbPw8j8(*8;NCb1*wm(c(>M8M##CNwN#j(P*8NP4**PPCMKxb8(MjbMwMj#(M*NNj4mGcNCM*C*mCG8bbwbj4(M*cN(mGGjPPMmN#mwcw)G88Gjbf*(N4P*GcPcMjG#P(cmOm8wcPbGwCj.bbNmP4M4Ccmccj<48PcNCjwwj8(GwQNoMbC(PbMwkc84#jbMwPjm(88w4c4GGwPQMG,(N*#MCc#Gjj(c*PNj48*cP*(GmjmqcGb(8yjM>j*#NjwPGPPPM8CPm*cw2CmG#w(b*bNM4(G#PjMN*Pm(c8&m8*#wbCw8Nbbd*#PMM(C#NccNBP8mcPpbw*jm(C*jPbM(C4P(MCB#8(#NCjwmj8(w**NN4CGGmbM*B48(#cB#wcjN(N*m#44wG8PGbCC(mv#bb4Pcjcbb*jcN((GmPmMwwwmGcN3iPb#m(4*4NcbcGjNCMPwmPbcwfw8G48bZmmN((b**PcMMCjP(cPSm88cmbwwGjw(K**P(M4CMNcM8pj8c#Pbjw8c#(*8Gj44XGGm(MF0MPG##bjmGjP(N*8Nm4*GwPC(FCm8(#bbMw4j#Cm*NjP8*G8P8M**bmCcGbbm(Mw(M*4N#4#GNPbMmGP8Pc*Tm8CM4(b*(N44Mj#P#McCNmccm7P8wM*CjwCjG4b*tP4M(CcPnMmRN8c#mb8wwjw(G*GN2MbP*m4cMsc8c#jbNwPjm(N*wN84GG8P!M_F(84bmbcwcjj(N*PNm48GwNMM*CGm,#bb(w4jMbCjRNj4jGPCCM8C8m*c*gC8wGN(b*4NMPmG#P#MNCc(bcmEw8*webCwCNb4(wmP4MMC#mjcNuP8mM8Ccw*j*(C*CPbbPC4mMM41#8##Nbjwmjm(ww8jj4CGCmbMGg48M#cC#P%jN(N*mNm4wGjPG4*i*8bcCb4m8jc(#*jNNwmGmPmMwCmmGc*-VmbM8(4*4Nc4cGjPjMPGN#Cc8Em8G#8bl*bN(b4*GPcM4CjmccPGM88Mwb4wGjw(f*GP((wCMNccbSj8c#Pbjw8cG(*8GNP4kGGm(M&VMP2##^cmxjP(#*8jw4*GGPC(qC#8(cCbMwbj#((*Njjw#G8PjM*wwmCcHbbmEc*(MwCN#b*GNPPMmC8P4c*.P8C#8(bwwN4((GMP#MbCNP8cmS88wM*b8wCjm4b*wP4b#CcN#Mj<N84#mbcwwc4(G*CjCMbGGm4MGpc8M#jbN8Njm(#*wN*4GGGPiMbG884cCbcPPjj(N*PNm4cGwPwMGCmmxcCb(w4#C(c*cNj4NGPPmM8CwPMc*,G8=jb((*4NMbc8CPjMjCPmPc8C&8*#G9*w^j14(GbPMMMC#mj4CiN8P#8bww*jG(C8Y4PM(C(mMcMa#Pm#NCPm4j8(8**N*4C88mbc(Cb8M#Mb#wcjN(N*mN8*jGwPGMCCC8b#(b4w4c#(#*jNN4P8j(i(4**wbv/(N&(j((4*MNc4#GjPNcP88mmcM?*8G#C((4G*4NC(NG*PbMbmjMN&m88#wbCM4wjjZ4*GbPbMNCGwbcc>#8(Nj(jwjj#**Nb46Cbm(ccM*bbwb#Nb)GMN#4cGM8#4wG*P8C+m*#4bMwcjNj*4M*PP(GmP#M*CGmC#(cmK58)j(bCNc(*GNPPMmC*(#8(#m_mwwj8b8*8jCGMNCMjCNmPcwNc448NjmbC*N(H*#P4MMCcmNwNc#b4w##w4PwGNm(4GNNwC(G8#Gjj8Nws*M#G8m(m*NN*4GGCm(P_cmCP#408w#jj(N*8CmPjM(Gwm(MNCN8m#mw4#GNC(jwNC4j84Mi*Cwm*cGHC89jbG(4MMM4cMcMcc8*m(mN*(NCG#GNGG43cC4MmNc#P8#m#c(JP8m#8bG4M*mj=(NGPMbGGmMcc<#8PGbjcb4*j(wPc_bj(4bjbb4mGj##MZmwjjN(P*wCMN(McC#PG#PrP8(cKbcw*(cwGNN4PGmP*8PM8CN84cPbc8Dj(*4j54#GjPNM8#cdj8##c8*#mbd*bN(4c(mCbPm4=mN84x*G(#*(*CM48C(Gbww#*(MK#wbPPcM(8bPwPjw(**GPbPwGdPPc4_M8c#NPbb#wMjc(CGcN84PPG4*Zb8(#4b#(GwGjj(c*mP(cPC48#c(CC8NN84P8Gjh(c*G4j8c(G(b*88C_G(#j=#Wccc448jcwNN(jm8NmPcmE88wCPbGwCj)bC(}P4MMCcmbcj1N8PcNb#wwjw(G*PN.MbC(N4MOWc8c#jbjwPjj(88wjd4GGGPiMh%(mP#MCc88jj(j*PNP48*PP*(GG(m7cdb(w(jMlG*##j(mGPPPM8C8m*Mw,CmGjG((*bNMbPG#PjMNCP((cm/88*#*bCwGNb4(c*P4McC#mjcN.N8mcPj*w*jG(CwcPbM(C4P(4G0#8j#N+Owmj8(w8*NN4CGombc(_4mN#coM8^jN(N*mjm4wG*PG4*CG8bc;b4mcjc(#*jj#(cGmPNMwC(mGcCY1mCc*(4w1Nc(#GjPNMPGNP(cw_N8G#bba*bN((b*jPc4<CjmjcP-m88cmb8wGjN(kw*P(M4CMP4#4Ajme#PbNw8jw(*wwPw41GNm(4P3M8c##=c*cjPb_*8#G4*GGPC4GSG8(cNbMmwj#(j*NjjMjG8NeM*GGmCcgbbw(_M(M*cN#(8GNPjMmGP3*c*LG8Cc4(b*(N4((*NP#MjCNNwcm!88wM*2wwCjf4bG(P4(GCcPMcNxN8N#mbcwwj*(G8CjmMbCbm4c43c84#jCNw#jm(m*wNw4GGcP?4bG*84#4bcwcjjbh*P#m4#GwPwMGCGm,c*b(m4cf(c*cNj4jGPNMM8CwP4cGiC8?jb((*(NMbcNGPjMNCPmmc8CC8*cF8jwqj(4(88PMMMC#mjcN2c4b#mbww*c#(C*CPb4G#mm4ccT#MM#NbNwm#Pbc**NG4C*Nmbc(I48MGCb#wjjN(N*mNm4w*8NjMCCn8bMcb4wMjcY#jCNN4PGmP8MwGjmGM*bbwbjb(4wGNc4#GjjN4*Cmmmcw_w8G#wba8bjw44G4PcMcCjPGcPGmmj#wbwwGjG(<*PP((4G4mccc=j8j#Pb#w8cwbP*GNG4BG9m(4*.M8cc#bjwNjP(m*8N84*wGMjM+9b8(#4bM8Nj#bP#gNP(8G8#cM*C*mCcebb8GGm(4*cN#CnGNPNMmCj(4cw<G8C4j(b*bN4((wGP#MjCNPMcm-88w#*mNwCjy4bGbP4M4CcPM4olN8P#mCGwwj*(G8C4NMbC(m4cMEcP?#jX#wmjm(m*wNj4GGCP&4bC484#4bcwcjj(c*P#m((GwPwMGCGmAcjb(m4#4(c*cNj4jGPP(M8*wPbcGZG8>#,((wCNMbcwGPjMjCPmPc8C#8*#GWcwQNb4(G4PMMMC#NjCE<P8m#8bww*jb(C8mc#MbC4mM(*&#8##Nlmwmjjm4*wNG4CwNmbcbq4m(MGb#wjjNbb*mN84wG*(NMCC!8b#bb4w4jcbM8/NN4PGmjGMwC*mG4C8Nwbj((4*MNcb GjN#MmCmmmcwBj8G#CbD8b#P44G4PcMcCjmccPGm8c#wbwwGjG({*jP((4GPmcccaj8j#Pb(w8cw(P*GNG4uGEm(MCgMPcc8bjwjjP(P*8j#4*GGNwMD;b8(#4bMwMj#/jj<NP4mG8PwM*CbmCc(jhw(#M(Mj-N#4#GNPPMmCj(4cwQG8Cb8(b*bN4((wGP#MjCNPMcm>88w#*mNwCj&4bGbP4M4CcPM41%N8P#mCGwwj*(G8C4NMbC(m4cM!cPV#jo#wmjm(m*wNj4GGCPB4bCG84#4bcwcjj(c*P#mbGGwPwMGCGm1cjb(m4#m(c*cNj4jGPP(M8*wmmcG{G8k#_((wCNMbc*NPjMjCPmPc8C#8*#GI(w_Nb4(G4PMMMC#NjCf2P8m#8bww*jb(C8mc#MbC4mM1Z9#8##N-mwmjjm4*wNG4Cm8mbcbY4m(MGb#wjjN((*mN84w*8NjMCCC8bMjb4wMjc(#wcNN4PGmPPMwCwmGM*CPwbj((48jNc4#GjjNCbCmm8cwD*8GcPba8CN444G4Pc47CjmNcPGm8N#wbwwGjG(O*GP((4Gjmcccpj8j#PI2w8cw(c*GNG4VG7m(M81MPccbbjwjjP(P*8NN4*wGPwMrCL8(#(bMmCj#(jw4NP4mG8PwM*C*mC418Pw(j4(M*cN#(mGNj40CCmmwc*P88C#C(bw4N4(0cwPcMjCN4#cmpm8wc8sjwCj04b*8P4MMCcPM4e%N8N#mC0wwj*(G*CjGMbC(m4c(Fc8c#jbN#MjP(8*wNw4GGCP0cbGN84#Mbcwc#8(N*PNm4*c*G8mNc86bwG#4bC8Nj*(bN#(*GPPmM8CGbjmj#8Y88mj<4G*RNP4CP#48CPmmc8gG4b8*##bG*4NmM*GwN,4*CCm4&N8c#8bww*jhjN4w*8PMC(PGcct#8j#m#(bNwNjm(jN*4PG0mbc(<cb*8P##bCw4(N*cN84wG*PfPccwRcm8b(8mjc(#*jNmm84GGwP*c8(mmjc8b*j((4*MNc4#GjPNC88mmmcc<*8G#C((M8wkN44MIwmMC#mMcPym88#G#w(#wc(C*mP(M4CMmjwujG14wc#m(4j8(N*GNC4<C4b(mCcN-M#cb(wNjP(m**G(PP4GCjMCGC8(#4bMwj*qjM(yG4NGMjG*Gm#GY48mcw=fw*jP(P*44#*GPPMmC8mGwmcCb88MjPb*CPjw4PPc4CCNmPcm/*(P8Gjmb4*Njw(wPbM4CMPCcjBN8P#wNc(MwGN#4P*PMbC(m4cMZc8##jbNwPjP(4*wN*4GCb;8mPc(6bm*#*Y0j#bs*PNm48GG1Mm(MP2M8w#4b8j4bj*#Nj4NG8Gfm4Mcbw8#cM5PGc#w(M*!NM4CP#4CCPmmc8?G(Nwmj4(Pw8mb(fGGMMGMmjcN^P8w*#jMbmwCN44mG*N8M8C*8CMC c84jcbO*4(8w8NG4CG7m4wwcN_w8C#N48wbNb(mJ#mP#jfPwm#*(8w*b4wMjc(#PwNN4PGmNP4cC*mGcC5wwbj((48M(*4#GjPNMPCmmMcwU*N:#GbF*bNb44G(Pc4 mbmNcPVm8c#wbwwGjG(r**,PM(CMmcMfRj8j#Pb#M(j8(**Gcc4DG m(c4G88M##bjwNjP(m*8N#GjGGPCMeCj8(#(bMwMj#(4MCNN4mG8P(M*C*mCcwNNwbj4(M*cN#4#GNNj44C8mwc*CM8C#9(b8ANy4MGMP#4NCNmPcm.84m#*bGwCjG4b*RP44GPCm#cjgNmP#mbmwwjw(G*89j4>C(m4MMoc8c#jbM4ijP(8*wjm4GGGP94CG884#MbcwMjj(N*PNmwcGwP*MGCGmRcgb(8CG8(M*#Nj4NGPPPM8GmP#cGSC8qcm((*4NM4c8NP#MNCPmPc8em8*#N*bwXNb4(84PMMMC#mjcNnc4b#mbww*MG(C*CPb(q*wmMcc^#mP#NbPwmc8*M**NG4CGUmbMbS4PMMcb#wjjN(P*mNm4ww*NPMCCr8b#(b48Mjc1#8GNN4PGmP8MwGYmG4CYMwbj((4*MNc(sGjjN4CCmm8cwu*8GcPb5m8#P44GMPc(cCjmjcPCN88#NPMw*jC(!8-P(M(CMmbw*R#8N#PGmw8j8(*wwjN4^Cbm(MGFM8c##ucm(jP(P*8jc4*GGPCM9CC8(#(bMwMj#(c*N#P4(G8P8M*C*mCcMbbm/cj(M*4N#(8GNPPMm*8Pbc*Hw8C#G(bwjN4((*NP#MMCNPccmA88wc8W#wCjw4b*PP4MMCcPMMNRN8M#mQjwwj*(G*CNNMbG_m4MCgc8M#jbNw(jm(m*wNw4GG*P_cbGe84#MbcwMjj(j*PjN(MGwP*MGCjm_#bb(w4CG(c*#Nj4jGPPPM8CN(Mc*5C82jb((*(NM(4wCPjMNCPPwc8)w8*MGN#wANb4(G4PM(wC#NjM*3P8m#8bww*#P(C8Uj*M(C4mMccp#m*#NCPw4j8(w**NG4CG*mb4ZCm8M#4b#mCjN(P*mjP4NG*P8MCG*8b#(b4wMcw(c*4NN4NGmP8MwC*m8cCUYwb#G(4*4Nc4(cGPjMPCmm8cwtw8G#C88wRN(44G4PcM#CjmNMj:m88#wbwwMjC(:GbPMmPM(G<mNcb=cwcjM(4j8(P*GNC4UC4Cbm8Mm8MccbjwNjP(wMa*MN*MmGGPGccX8wG#(b48CPM4M*MN4GmN_M*CGmC#(N(_Ww*j0(#C4NNMM**m(M#m8cNsG8C#6(4(N*CNM4*Pc4wCNmPcm^*4#w(jmbm*wN8(8G8NC4Cm#cjBN8P#mb8NwgGGG*GNNMbC(m4c#j(7jw4cw(bwcjc*8N84GGCP%c4MP84#Mbcw#bjmMwGmGC8GwP*MGCCm-4cwwjc8M(MwNNj4NGPPwwMcMC#8##PtPwcjb(PCbPb4b*sMjC4mmc8%w8C88j8(MwwjwG(NNMcC#mjcmjCb(8MP#((*(jh4P*wPmM(m4MPt#8j#Nb84l*4jcc#G(NP4PC*mbc*7w#M/CwjjN(P*w,c844NCmPCcNmIc*b4wMjc(NM#GMNPM(P8MwC*mGcCMNmGmcG4*MNc4#Gj#wMPCmm8Mm.j8*#Cb_wbN(44GMjc(*CjmNcPAm88#mb*8wjM(A*qP(4PCMmcc#Ccmm#PbNw8#m(**GNC(GGPm(MXTMmm##bjwNjPb#*8Nw4*G8PCMGLbPJaNb4wMj#bm*NNP4m*PNmM*CwmCc8bbw(j4.MwcN#4cGNPjMmCmmw4*Cm8C#G(bwuN4(GGcj#4wCNmjcmEP8wcCbGwCjw4b* P4MbCcm#cjAN8##mbmwwj*(G*wN14*#Pm(cMUcN*#jbjwP#NbM*wNj4GG4PJcbg(84M(bc8Cjj(4*PNm48Gwb8MGCPm/cCb(wbjMbCNNNj4(GPjbM8C8m*cG,C8wGN(b*4NMKwG#P#MN*Pc(c8?#8*#PbC8CNbbSwwPM4GC#m(cN P8mM8wMw*jj(C*PPb4mC4NMC*q#mu#Nb(wmjj(w8*4#4CGPmbM8B4m4#c+FCnjN(4*m#L4wGwPGMNC_m**Pb(wMjci8*jNj4PG#b(M8C*mG4#+_8vj(bb8*Nc(BGjNPMPCmm8MmP48G#Nb,wNN(44GMjc4MCjmbcP6488#Pb*8w#p(+*PP(44CMmcc#GjmG#Pb(w8jM(**wNC(G*Gm(MmLMm8##bjwN#jbc*8N(4**wPCMW<bP;MwbM8mj#bw*NNP4mG8GPM*C#mCccbbw(j4(MM#N#4bGNPPMmCPmw4j8M8C#m(bmmN444GcNCMjCMb>cP%88wMcbGwGjA(*cPP(MMCcj*cjej8P#mPGw8jN(G**N^MbC(P*C4Lc8c#jImwPjP(8*mN*4m##PCcbr(mc#MbMw#jjw4*NNm48G8P*MGCCmK4mb(w4jM(c*#Nj4NGPPmn8#*#*c* c80jb((*cCMNP4ZG(P#c4CCmCcP8wcbbCw0Nb4Mcb*CPGMGC(Cc#8(88(m8#mYm8m#NbGm(N%+#8:#(:8wb8#McwPj#(jGG4GG8mbc(n48#m8j(b8wb(Nw*N84wG*PYwPccoP8w#c4wwMjG(j*wPb4MPmMMC*mGcCb((wwmj4((wGNG4bPjMMCmm8cwpC(Gw8jMb.Nb(wGMPcM#CP(4mbc4ZM8m#ww*jm(/GbP(Mc4*DbPicP8jcjbmw8jw(C4cG4N8MPCwmMcNJC8N#yb1w(N(4c*cN84PPGMcfb8(#4b#4CwMj((B(#8c4#CNmbM*mGcPbbw(j4(#MC*MNj4N0imNCmPCc*QG8Cj(P8(#wGNG4#GG88M(Cm8#cmbc#8bGwGj44bG(P4M##CC8mC#(38wNPcA=*Njw(mG#4_G#m4cM2c8N*N##(4*#jwMP*GPm44CNPwKbm8#Mbcw#jPPc(mG#jCMMGNPNCGmw#bb(w4j#PZbGw84j*8PmM8CwmC*NcxbMw8jMMw*wjG4GCbPbMjCcc8?w8*#GbCwxNb4(m4P44NC#mjcN38(G8m#4b8w,NjMmGPN*4mCwPDRcm##NbPwmj*Pj4c*GN*4jCPw4c8C88*#j( wwj((8G448GjPGMCCJ84*w#NbwwCjN*#j#4PGmP8MG#NR#mw#bbcwwjCb***NCcbGbPjMcLj8(#c8*cIbV*bN(4ccGGmPGcbCm*Mc8LPw##C48*8j8(mPb4NCMmcc#_P(4wc#G(MG#jc(G*CNG4YmbMC,M8c##bP4N*cjj*mNb4*GGPCc(jj.mmwjGb*wb#G(wG4P(GmP(M*CGmC#(jjgH8Gj#bC*4P4M(CbMPCcmwc*xGwb*jj*(4w8NwGMPbMjCNmPcwjmbN8*j#wGj84bG(P4M#M8v(mjcB8Ncwb8wwj*(dcP*MPw4AGGmm#G&bw4#wbN*(j#*8N(4GGCP6c4j*C8mNj44?88N4(j*cPbG8N8MGCCme#4NwbNwwjC(NC8NbMbGmw##P(jwPNm(*G8N**(jm4cG#PjMm#eCc8j#(9*w##GbPw84b*GPMMcC#mP*b#cx4wjb8w(jG(C*<P48*48GNwCc8J88cNm(#wb(8*(NG4CG}m4wwcCi4*C#MbNwPj*44G44wG*PGMCcG8b#(b48(cG(#*jNN(hGmP8Mw**c#cC+Zwbj((4wDNc4#8PPjMPCmmmcwq88G#P*(*bN(44M4PcMcCjmNcPu#4(#8b*wG*G(R*_P(M4*8mMc#tj8N#Pbmw8j#*j*GNC4IGNm(c(LM8M##b44CjN(m*8N44*G*PCMwjN8b#4bMwcj#(#*Njj(4G8PwM**GmCc-bbm(*m(M*cN#4jGNNbMm*8P(c*aG8C#r(bwwN4bMG4P#MjCNmPcmCC8wM*b4wCj{4bG(P4(CCcPMc(>N8j#mCmwwj*(Gw*jNMbGCm44*!c8##jbNcmjm(8*wNm4GG*P;4C#484#Mbc8jjj(N*PjNbgGwP*MG*Cm #bb(m4#j(c*#Nj4NGPN(M8*wjwcG2C83jb((w*NMbc*mPjMNCPmmc8CQ8*MGtmwLNb4(G4PM(!C#PcM4-P8N#8C8w*jG(CwGjwM(GEmMM4s#8j#NbPc8j8(w**N84CGGmb4yb#8M#cb#mcjN(P*mjP(cG*PGMCCb8b#(b4PG(N(#*jNNbmGmPmMwGPmGc8Nj8Hj((48cNc4cGjPM8qCPm8cw#w8G#GbX8C#844GMPc4jCjmNcPUM#*#wb*wGcw(i*uP(M4CMmbw*g#8N#PCjw8j8(**mB#4CCbm(c4TM8M##yc8bjP(m*8#w4*GGPC(.jb8(#4bMwcj#=8*Njj4#G8PmM*GbmCcrbbw(cj(M*cN#4cGNPjMm*8PNc*eG8C#k(b8jN4bM*PP#MjCNmPcmCG8wM*bwwCji4bG(P4(mCcN#MbxN8P#mb8wwjc(G8C4NMbC(m4cM cmC#jCNjbjm(8*wN*4G*wPl4bmm84#Mbcw#jjib*PNMGcGwP*MGwwmSc,b(w(jM(bM*N#4NGP#jM8C8m*MwCN8hjb((8bNM4cG#Pjw8CNmmc8{m8*#GbCwwCN4bG4PMMcC#m#cNCjm4#8bww*c8(C*yPb(pCamMcMU#mw#NbPwmj8mm**NG4CGGmbM6n4mGbjb#wjjNGM*mNm4wG*PGM8jjmd#(b4jCjc(c*jj#((GmP8MwC4mGcC0OmC M(4*4Ncb#GjPNMP*mPwcw<w8G#GbQ8cN((b*MPcM4CjN8cPum88#w-jwGjG(.*GP(MbCMNcc4Bj8j#PbPw8#b(*8GN#4SG3m(c(IMmN##Cj8#jP(P*8N84**MPC(9bC8(#(bMwMj#bC*N#P44G8P8M*C*mCcPbbm(cN(M*MN#4#GNN#MmC8mNc*3G8C#G(b*bN4(u*wP#MjCNmPcm{m8wc8hjwCj{4bw(P4MMCcN#8(dN8P#mb8ww#c(G8CNPMbC(m4cMxcm-#jCN8jjm(8*wN*4GG4Pu4bGP84#Mbcw#jjb4*PjN4PGwP8MGG#me#bb(w4c*(c*#Nj4#GPPNM8C#P*cGKC8A((((*(NM4MG#P48CCNmmc88*8*#*bCwwCN4bG4PMCcC#m#cN=c4b#mbww*jG(C*CPb(%*wmMccf#Pj#NbPwmc8Nj**NG4CG;mb4m=4PMc8b#wjjN(P*mNc4ww*NjMCC&8b#(b48NjcD#wGNN4PGmP8MwGNmGM*C4wb#6(488Nc4#GjPN44Cmm8cw_88G#*b<w8jP44GMPcGwCjmjcPdP88#NPMw*jC(tNjP(M(CMmbw*i#8N#PN#w8j8(*wwjN4_Cbm(MG1M8c##Ic4CjP(P*8j#4*GGPC4GGm8(#bbMw(j#(j*NNP(CG8P8M*CwmCc3bbw(jb(M*cN#4jGNPjMmCcmbc*KG8CHG(b*bN444GcP(8GCjmPcmmP8w#wbGw8Cj(HG(P4*4CcmccjC#m(#mb8wwjN(G*CNE(C*8m4c4ycP=#jbNwP#N4N*wN84GGwP;cbs(84#6bcwcjj(#*PNm48GwFGMGCCm+#bb(wbjM(c8*N#4jGPPPM8Cwm*4G8j82#C((*4NMb#G#Pj(mCNmjc8Tw8*#GbCw)#N4b*CPMMcC#mjcNG4G8#8bNw*vE(C*CPb4MC4PgwwHc8j#Nm8wmjm(w**Pw4CGwmbc(Q48M#cb#mPjj(c*mNm4wG*PGMCC*8b#bb48Kjc(c*jNMm:GPP8MwC*mGcG_)mCc8(4*MNcb4GjPNMPGN8NcwEw8G#*bE*bN(44#(PcM#Cjm#cPlN88##wjwGjC(ecCP(M(CMmMc#}4(C#Nbmw8Cm(***NC(G*mm(c4?MPc##bjwNcP*(*8Nw4*GGPC4C5bP(38bMwcj#(j*NjP4mw8MMM*CGmCcgbbP*j4_Mj*N#4jGNPPMm*jmw4*8#8C#)(b*(N4b#GcNN8wCNmNcmNw8w#wbGwCjA(*cPP(MMCc(jcjKj8P##P(w8j*(Gc*N:4iC(Pb4*Xc8##jC(wPjm(8*wbj4GGCP,MsA(8(#Mbb4*j#(N*PNm48G8P*4wGNm+#bb(PijM(c*#jcMcGPPPM8Cmm*cG_C83GC((*4NM44G#PcMNC4cwc8nw8*#GbCwCNb4(G4N78wCcmjcN.P8m#mbw88#j(C*!Pb4NC4mMccCMMP#NbNwmc8(w**NGbC*mmbcb<484#cCmwj##bb*mNN4wwhPGMCCD8bM#b4w4jc(4*jN#4PwmNPMwCwmGcG,6m#j(B4w4Nc4cGjPjMPG*m84wCj8G#Gb^wrN(bPGMjc#MCjmjcP P88#Mb*mG#C(<*BP(M(CMPGc#Gj8c#PbPw8j8(*w8NC49*Pm(c4DM84##b#wNjcbN*8Nw4*GGPCMC0bPKMwbMwcj#b**NNP4m*P(GM*C*mC4Tbbw(j4yMwAN#4#GNPNMm*CmwM8y48C#*(b8cN44MGcP#44CNmNcm)N8w#8bGmCjc4bGbP4M4CcN8cjGN8j#mbmwwjw(G*(NY(bGGm4c46c8c#jCGwPcmMP*wNw4GGGP<MPT(P4cCbcwcjj(j*PN448wwNNMGCGmocdb(m7jM(cwjNj4NGPPNM8C8m*cmSb8Hjb((*4NM4MG#PjG4CNmmc8n88*#GbCw-j24(G4PMMMGNmjcN.P8w*M#((c*#jGc8G(NmM8bmm*#( (#NbPwmj8(M**NG4CGrPwc(+48M#cb#wjjN(PwbNm48G*PGMCCB8bcw8*wMjM(#*(NN4NGmPmMwCP(ccG>!wb#*(4*4Nc4(cGPjMPCmmMcw,w8Gc*/P*bNb44G4PcM#CjmNG4)m8m#wbwwGjG(iGb(*M(CMmccc!j8N#PbPwjjw(**GNG48Cbm(c4l#C8w(#8bbjN(c*8Nw4*GoGNmwM82M#4bMwcj#(j*NNPCbm8P8MjCGmCc^b4ZCw*jn(#*j4#GNPPMmCMmwc*}G8G#8(b*(N44#cMC(PjM^mNMG<88w#*bqMc*NjmcwGNPNM#CCm(cl=N#Pxmwwj*(GGbC8PPM(CbP8c*(j8CcC(bw8PM(e*#NCMjPCM8!(84#Mbjb4*4jw(M*M4mG(P*MGCC8(*bc^bG*Gj(4(w*Nj44PPM#Cwm*cGbbb#w*j((8N4(8G#PjMNC8GDmPcjeC8N#w(w*8NmG4PMMcC#PNcNJP8mcPwbwwjG(C*wPbM(C4P(4ND#8##Nb4wmj8(w8*NN4CGCmbcb54m*#cC#mCjN(N*mNm4wGNPG(CGG8b#bb4w4jc(M*jNN(cGmPmMwC8mGcCXywbcm(4*MNc4#GjP#MPC#((c8S*8G#4b-w%N((bw*PcMbCjmccP+m88MwwcwGjP(k**P(M(CMmc*M>j84#PbNw8jm(*wGb(4pG*m(c(1MmZ##bb#jjP(m*8NM4*G*PCMG}bmG*mb4wcj#bC*NNN4mG84jMwCGmCcCbbw(j4(Mw#N#4jGNNj44C8mwc*yw8C#i(b8((84MGcP#MjCNmNcm08NG#wbGwCjC4b*gP44GPCm#cjsN84#mbmwwjw(G*8;j4uC(m4MGOc8c#jbM49jP(8*wjC4GGGPq4CG884#Mbcw(jj(N*PNNwMGwPwMGCCm)#bb(w4#((c*#Nj4#GPPPM8GmP#cG!C8f#C((*4NMbcNGPjMNCPmmc8Q88*cw(wwKjy4(* PMMcC#mjM#sP8m#8bmw*j*(C*wVNMbC4mMccl#8##NbP#cjm(w**N*4CGDmbc(Cw8M#cb#w#j((P*mN84G#jGwPCMV(P#bFGwMjc(#*P*GPc4mC4M8CcmGcC3Ww4**j8(M*4jC4CG(MNGNm8cw{*8-*mjNbG*4Nj4GCbNCMCSbw4c4DP8jjP(M*j(C*#P(M4CMmjw*c8_4wbNM(4wjjM4#*m4CG#m(c4VM8j*w#CbbG4N((#*4PbMNCjMCC*8(#4bMwjGNjC(jNP4mG8PwM(CGmCc7CCcwj4(M*cNM4jGNPP(mCPmwc*DG8C#:b8*(jbbwGcPMMjCMmPcmy88w#NbGwCj.(CG(PbMM*cP(cj?N8P#mb8wPj*RGw4NhMbC(m4cMrM8#MjvPwPjm(8*wN*4PGCNGcG6(8b#M,Gw#jj(N*P#w4mGPP*M*CCmL#bb(8xjM(c*#NM4NGNPmM8PjmwcG}C8Cjb((*4NM(*G#PjMNCNmcc8Jw8*#xjc(w*bNmG(NGMcC#mjcmc#b#8C#jbjj*(c*iPbM(CcbGmm#(7(wMj4b4*4jj*wN(4CG<mbcMjM{(8Cj(bNGcjm4#wCPM4NP*M#Ca8b#(bc4C*bjQ(P*cPcMMG*M8CNmGcChUw4wwjN(C*(4c*CPNMPCmm*wPcGbm84jNbwww4(*cPcM#CjmmwDcG:mwcPM((wmjm(m}wPNMNC#mCRj8N#Pbmm9jw(**GNCwcCbmbc4J(8c##bj8##((m*PNw4wGGPCM<GbPc#4b(wcjM(j*bNPbm*MPwM8CGm*ckE*w(c4bj*cNM4jG#PPMjC8PmM(?G8w#eba*(N44MwcN(MjCcmPcjp88c#*CGjjjS(GG(NRMMCbm#4jmL8P#jb8wPj*(P*CN5c8C(m(cMO(8###bN8jN*(8*8N*4NGCP-cbGOPw#MbMw#jc(N*PNm(P*cP*MwCCmm#bb(w4jMwj*cN#4NGjPmMNCwmP*c!G85jbVm*4N44cw##LMNC4mmc#sw8c#GbCmGNb(mG4PMMcC#mjcNPm8m#cbwwcjG(**UN8CMC4PGccGG8j#jbPwmj8(NcMN*4CGQNPc(I(8MMcGCwjj((P*cN84MG*PG(*C.mP#(b4wMjc(#*jc#4PGMP8MMC*mGcC&!wwj(b**MNc4#GjPNM4PPm8c8u*mC#CbC*bjB44*BdwMcCjmNMm+m8m#wb*#PjG(JGbPbM4CMmcccCP8N#Pbmwmjj(**GNCM(MjCGm4cw8MMCbjwNjP(wMc*MN*4GG*PCPG(M8Cc*(bb4P(()*PP#4mG2PwcM4(C*)t8Mj4(M*cNN8b4*CbmMM*(jm8cNBPGmj*(M*844*GP#MjCNm8mMcM9jwb#*(cjCb8G(P4MMCj(bmcc(A4!jPjb*wNN#48GPNcNCo*mb#bCw8##e((b#(m*#N*4GGCm(mbcGCw8G#mwc#c(N*PNm4*##CPPFcjb*mw##b(wGj*4Z*MPM(CGPm4MjmwM4vC8=jb(M4*wwNc4#GcPjP#bw8jccbP=8Nm(N*bNG4(GNPMMw(mCcjNLN8mjMwwjm(C*^PbMMN8C*Gj+cmK#NbPwmj*m#(8*GNC#jCCcbCm8M#cb#wPwbjj(P*4NwMNC#PmCCmM#(b4wMjjPm(#wCNj4wC48#ccCPm##Nhwjbb8*MNc4#GPa4mbMmCPmc#cqN#GSG*bN(44G#CrPGMMCPm*#Mbj8cjc(jGPjP(C**PCMmC*c#Wj8N#PCmw8jw(*ww#m4CCbm(MNdM8c##Zc8jjP(P*8NN4*GGPC( GM8(#(bMwMj#(b*Njj(jG8PmM*C*mCc.bbm(#C(M*4N#4cGNN8Mm*8m#c*Zw8C#G(bwcN4bM*8P#McCNmjcmLb8wM*f#wGjG4b*VP44NCcPMcc:N8c#mbMwwj*(G*CNcMbG*m4c4pc8##jbN8Pjm(P*wNN4GG*PY4CCC84#bbc8*jj(N*PNm4jGwPwMGCwm3#bb(w4##(c*#Nj4NGPPNM8C#P4cGaC82cw((*(NM4cG#P48CCNmmc8Cj8*#*bC8GNG4(G(PMM4C#mjcN,PPN#8bmw*jG(C*3PbM(#8m4cM/#8##Nbjwmj8mC*wN*4CGGmbc(q4ma*wbcwjjN)m*mNm4w*8NjMCCC8bcCb4wMjc(#mPNj4NGmPmMwC8mGcP8mwbjb(48mNc4cGjPjMPC#((c8_*8GccbKw,N((Cc8PMM#CjN8cP>P88cm(mwGjG(X*wP(M4CMmc*P.#8j#PbNw8jw(**m<#4CCbm(4M+M8M##Uc*cjP(P*8NM4*GGPCMoNM8b#(bMw4j#(j*NNP*cGmPwM*C*mCc_bbw(Mj(M*cN#4#*CPPMmC8mGm#cwWP8P#w(#*(NmGMN#MjCNmPcwNjV88bPjM#CMj^c*GCPGMjC484#(x8#Pb#wwj*(GGbG#P*M(C8c4CC8##jbNw8w4jP(P*8NNGGPMcbT(84##j8bGw#jP(jGMN*4cG8mmcNmCcjb(w4jM(jMZ*wN&M4Gw8#cNJj8#DGPPjb((*4N#PP4M*CGcc(CNmmm(h#;8jM(wwNNmjW*CmbMFCCCcMaMcUNjj(c*NN8(N*8PmNQGNm4MGM*84jb#jjm(c**NG4CC(bMmmMG?w8ccmw##N(P*mN84G#4C#PN#CDP8GcGbw8C#Ccb**Pb4MGMM8C8mGcCoLw48P((w*Nc4#GjPm8 c#CGmkc#bm#GbN*bN(44G#dGPmc4CNmjcPbM#8bmwGjC(JG4CPw*C4PGc#%j8N#8PMbPwwj*ccG*4CG8m(c4BM8j8*#(6hw*j4*mNb4*GGPCc(jj?mmwjGb*wb#G(wG4P(GmNSM*CGmC#(jwbmw4jK(P*cN84jGCw*PNm8cNyG8C#!(4b8*CjG4jPc48CNmPcmL*(M8mNccPGCjCM8*PPwM*Ccc#5b8P#mb8wGGwjw(NGMPN4#m(M#xc8##jbm4M*#Nc4M(mmN4NCwPmMmC*Gj8(w#jj(N*PNm48GwNPDGCGm8#bb(w4j#jw(m*#PbGNNNM8Cwm*cXjmbN8Gj4(j*GPb(CGCmb#4C4mPcjbPwMjjwCjM4(G4PMMj#YCwmQ#40wG4#8(cwGN44N*8MbG*mMccJ#8P8cj4(#wwj**wNb4CG^mbcMj*Kcwb#mbjGMjb4(*cNccM(NMGCN8b#(b4w#*}jG(j*#N(M(GcM8C(mGcCqaw4Gwjbbw*MjC#bG*mbMMCMcwK*8G#Cby*bN(CcmMPcM#CjmNcPLm88jw*Gw*#u(rGbP(McMmC*PCjGk48b#GbMCcjc(wG4ww#bmbMGBM8c##bP_G*cjG(MN84NGGPCMra4u#8(#8b4jc(M*NNP4mG*F4*#C*mcc+bbw(jcPc(4G(NJcCGMP(MCCccwOb8C#=(b*MCjN4(wGMPPM;b48(c#!4wc#PwGjm4bG(P4M##CC8mCc(&(#Pbbwwj*(GGbBmNcM*CbPCc8c4wGm4wNj((8*wN*45cCCMPgcMMqw8P&wc#5(N*PNm4*4#G#PPc4CC8jbb8mjM(c*#NPm*4bGmmjM8MmwcPm8Ccj((*4NM4jcqGcPNM#C884ccbcwj8w4NwGNN(GG)PGMGMMw4#cbMw48P4MLN(G*NPbM(C4m#wccmE#8m8#4bIc(8**NG4CGPmbc(+484cBb#wjjN(8bZGjNs4#PwMCCCmN#(b4wMjjP8bC*NPc4PGPPOc#m*cm9uwbj((cb*GbjW4PPjMMCmm8cwnC(*w8#<(PNb(MGMPcM#CPbCm*cPbMG4jbbPwPjPc8GjPjMcCGcc3c8N#Pbmw*w4(**GNC4)wCm(c4>Mm4MCbjwNjP(#*8Nw4*wGN0MCWb8(#4bMwMj#(j*4NP4mG8P8M*C*mCc5_Pw(j4(M*cN#4jGNNj(CC8m8c*=j8C#Y(b8(j#4MGMP#M#CNmMcm?884#*bwwCj+4bG(P4MMGMm#cM/N8N#mb8wwcjcC*CN*MbGjm4c46c8M#jbM4EjP(8*wN(4GGGPgcbk384#bbcw#jj(N*PNmb*G8PmMGCGm!#bb(w4jb(c*#Nj4cGPPPM8GmP#cGeC82#m((*4NM(CNEPjMNCPPPc8r88*#*bCwwCN4bG4PM4MC#m#cNkc4b#mbww*c*(C*CPb(A*wmMccH#mU#NbPwmc8,c**NG4CGEmbMw24m(j(b#wcjN(#*mN84wG*(CMCCW8bcZb4w(jcbJNPNN4PGmjmMwCwmGcCa}8*GP((*MNcbcGjPjMPGNPMcwZ*8G#Nbl*bN(b48*PcM#CjmNcPvM88cm(mwGj*(9*GP(M4CMmcGjvj8N#PbNw8jm(**NMb4 Cbm(4(QM8M##bjwNjcmb*mNw4*w*PCMC b8(Mmb4wcj#(#*NNP4mwcw*M*CGmC4Cbbwbj4((*cN(mGGjPPMm*mmwcw5G88Gjb?*(N44MGcPcMjCNMMcP^88w#wbGwCj:4bMGP4MMCcPM4DiN8P#m3Pwwj*(G8C4NMbC(m4cMkcPc#jbNP8jP(8*wNw4GG*P3M8mw84#Mbc8Rjj(j*PNP48GNbMM*CCmhc8b(w(jM(bM*N#4NGPajM8C8m*cGC#8Cjb((*4NM4cG#PbCmCPmmc8Yw8*#*bCw{Nb(GcmP4McC#mjcNKN8mcPkcw*jG(C*mPbM(C4mM(jEc8j#NbNwmjP(w**NP4CG<mbcbq48M#cb#mGjj(P*mNm4wG*PG(P848b#(b4PCjc(c*jcG4PG#b(M8C*mG4mh/83j(bb8*Nc4#Gjj*MPCmm8cwPj8G#Cb6wiN(4(GMPcw8CjmNcPTj88#wb*8wNw(i*&P(4jCMmcc#Ccwc#PbNw8jb(**GNC(GCGm(M3{Mm*##bjwNjPMM*8Nw4*G8PCMC,bPaMwbMwMj#rG*NNP4mG8jmM*CwmCcSbbw(j4(Mc4N#4#GNPjMmCPmwcj8R8C#C(bcPN444GcP#MjCMb7cPK88wCMbGwGj{bCw8P4M4CcN*cjSN8P#mCPwwj8(G*CN}MbC(m4*(^c8c#jb#wPjN(8wmPn4GGGP%Mjv(84#Mu4mCjj(j*P#g48GwP*MNC(m cCb(w4jM(M*#Nc4NGP#jM8Cwm*cwnC8^jb((PBNM4cG#PjMNCPmmc8Cm8*#*bCwGNb4bG4N98wCcmjcNNV8m#mbww*#c(G*TPbMbC4mMcc*-#m#NbPwm4c(w*wNGbNGeP*wPy(8M#cw0wjjj(PwNjM4wG*PGM*CZ8b#(b4P#jM(#*jNj4PGNP8M#mCmGcCLUPMj(((*MNc4#G4QCMNCmm8(CQ*8*#CbwMNNb44GMbwM#C#mNMjC488#wb*8wjC(0Gbj(44C4mcc#xj8NMNbmw8#*(**GNC4CCbmbc4C(mb##bjwNcP(m*8Nw4*G8PCM97b8b#4b(wc#Mbb*NNP4m*wPwM*CGP*Mebbw(j4bc*cN#4jG(PMMmC8mw(#!G8G#2b/*(jCm8GMP#MjwbmPcP088NGMb*wCjvG/G(P(MMG4NCcj2N8P#jb8wwj*vGMwN{MbC(m4cMCc8#ccb#wPjN(8wMN*4GGCP14V}(84#Mb4w#jc(N8P#G48GwP*MGCCPM#bC(8wjM(c*#Nj4N*8Pm(8*<m*cGYC8/jbC**4j(b3G#PcMN*cmmc8awm8cjbCw*Nb(4G4PMMcC#mMcN&P8m#NbwwwjGb*wPPbM(C4m(cck#8j#NG8wPj8(w*wNG4*G{P8hMU48M#cGPwjjj(P*mN84N#MP*MCCkNM#(b(wMjbP**#NN4PjbP8M8C*mGM#6Cwbj(((*MNc4#wbM8MPCmm8G4{*8*#CCN*bjGmmG4PcM#jGmNcNammPccb*wGjCbcGbP(M4CM(Cc#ej8N#Nbmwmjwb8wjNC4YCbPPc4sM8c##GPwjjP(m*mNw48GGPPn(Qb8(#4P8wcjc(j*NNP4##(P8M*CG4#ck7rw(j4l8*MNc4jGjPPMmC8N#NGxG8G#.mN*(N(4M8PP#M4#CmNcmV8M4#*b*wC#GbmG(P(MMCbm#cj!N8PMNb8wmj*(G*CN}MbC(PbcMWM8##cbNwNjmbPwcN*4*GCN4cbU(84MMjGw#j#(N*NNmbwGwN8#bCCmC#bCcw4jM(cwM#p4NGNPm4jCwm*cGC*Pwjbbr*4j44cG#Pj4#GwmmcNdwP+#GbCwSjbC*G(PbMc*Nmjcc0PmN#MbwwPjGFP*xPbM(C4PPccZM8j##bPw#j8bm*mNG4wGHN8c(=48M#cb(wjjj(P*jN848G*NwM8Cum_#(C#wMjc(#wPjw4PwwP8GNC*m*cCpCwb#GPm*4Nc4#N4PNMNCmmj*4+w8G#Cmj*bNb44*(jGM#C#mNM#?m88#wb*cNjC(CGbPbM4C4mcMMG98N#Nbm8jjw(**Gj*M*CbP1c4*P8c##bj8#N#(m*NNw(jGGPCMXJbmC#4b4wcj4(j*jNP(N*MPwMwCGP8c3bbw(#bCI*cNM4j*4PPMmC8Pmc#SG8w#Wb%*(N44M*4cmMjCMmPcj+88w#*CGwNjo(*G(NCMM**m#4jCP8P##b8wNj*b(*C#R4CC(PCcM9b8#cPbNmP#m(8*NN*4mGCj8cbGVPN#M3Cw#j((N*PNm(P*wP*MjCCNG#bb(w4jMj(*#N44NG(PmM8Cwm*wCnC8*jb((*4N(4cG#YCMjCjmmcP%w8m#Gl***Nb(CG4jGMcC#mjcN9#8m#mbwwmjG(G*+jC(8C4mMcc**8j#NbPmm(4(w**NG4CGqNmc(!4P8#Mbcwjjj(P*mN8(mCmPGM*CqmM#(b4wMjc8j*jNN4PGNP8MmC*mNbb}:wbj(m(*MNM4#GjPNMcjbmmcw!*4*#CbC*bjGmmG4PcM##GmNcN=mmPccb*wGjCEjGbP(M4*MM*c#>j8N#Pbm8Mjw(*wcNG4CCbmbc4fM8ccM(MwNjj(m8NNw4*GGPCGb1b8(#4b(wcjM(j*(444mG8PwwMCGmGcFiJw(#CP8*MN#4jcCPPMPC8mN*M?*8C#i(b*(N(4MGcjNM#CNmPcm-88w#*bGwmjR4bG(P4MMCcm#McCb8P#mb88Nj*(G*CjGb*C(m(cMCG8##jbN8j#j(8*mN*4NGCP!cbL(Nc#4b4w#j#(N*jNm48#MPwM*CCmC#b> w4#(4(*#Nc4N*4PmM8Cwm*c8-C8&jbbr*4N44cG(lGMjCPmmc8;w8w#GbC#8jO4(G4P4McC#mjcNC48m#8bww*G*M(#Mc(mPGMwNbcE##C*8Mw?8M8G*NNM54GGjmbc(;48#*(#Mbbwwj((G*PN8G*PGMCCZ8b#(b4*M4#(#mMb*: wmmGC*bc#CcGgMwbj((4*#C#NMMbCMPm#jCw8Ncbb#8mbCwmN(44GMPj8L#GC48ccmb4#wGm#4c#V6CMM4c84cmMMw+j8N#PbwMc*bNP(PG8Pm4mCmPG&MC*j;NPwmG(G#j}ww4*GGPCMRib8(m4N(Ncj#Nb*8m_48C8w(>P89mGc8bbw(j4(#(8G(Nj4sPPMM#cC*PGwPcbymG4*(8*cGbcCj8(NmMcbwS8GsGG*#OH#4b*bcc4M4G*m#cj-N88*j#w(NwbN#(m*m4eGGm4cM-c8N8##s?CjmNmNmP?bC#C*(#*M48(c4bcw#jj(mMG*(N8MNGwPwc4+Pwwcfbb8*P(4(*(NbGNN M8Cwm*cyjCbwwjjb(jw*j*4CGCMjG*mmc8pw8C*j#c(N*PNbMwGwPcM4CNm2,P8m#8bwmbjG(C*ljCGwC(mMccCC8j#NbPmm#m(w**NG4CGHNCc(Cb84#cbcwjjj(P*mN8(mG#PGM*CEmb#(b4wM#4b**jNc4P*VP8MwC*Pwcjyv8*j(:^*MNc4#*cNbMPCcm8MG<*8G#C9GwmN((*GMN*M#CjmNMjC888#cb*wwjC(QGbjH(jCMP*c#f48N#Pbm8Pj((**cNC4bCbm(c4C(mP##a*wNjM(m*8Nw(8*cPCMc-bm##4bMwc#Muk*Nj*4m*NPwM*CGmCCbbbw(j4bN*cNM4jwNMbMmCmmwc*9G8w#!TC*4N44(GcNPMjCNmP4m6M8w#8bGw*j7b_G(j44wCcmMcjW#8P#Mb8mwjb(G**Nu4CC(PmcMGcP,#jb#wPjN(8wNN*bGGcPxMC (8b#Mb(w#jjY8*PNP48G8P*MwCCN BPb(w(jM(M*#j(4N*84(M8Cbm*M4oC8Cjb(b*4jtmwGcPjMN*Gmmcm>w8PGcbGwZNbbcG4P4McGMNOcN>N8mccbww*jG(C#mPbMbC4m4ccIc8jMNwbwmjm(w**NG4wGENCc4:48(#cKPwjjN(P8mNP4wG8PGM*C)P.#(C48bjc(M*jN#4PGMP8(wGcmGc*2R8Cj(bm*M#cbPGjP#MPCNm8MN^*PGc4bWwCN(4bGMP(M#CjmccPxP88#8b*wwjC{qNPP(M(CMmMc#C(8Nc88(w8jb(*8cNC4CCbmbc4C!(w#cbjwNM6(m*mNw4P#cPGMIHbNj#4b4wc#M-r*NNN4m*cPwM*CGmCGmbbwbj4(4*cNc4jGN4MMPC8mwcw!G8C#0(bwwN44MGcPcM(CNmPcmY*b(wP#G(jjC(wG(P4MMCjbc84cNbb#Pbbwwj*(GGbCoNCM*0*mb#bCw8##(wN#;(8*wN*4kccGGPwcMC*8bjbb.wC(jw*Nm48GwPCwMcjCP*8#jbjwcjG(b*CNjGNPMM8Cwm*cQcwbwwc#*b*NM4cG#Pj4NCPmmc8Cm#(#*bGwuj84(G4PM44GPmjc#QP8P#8bww*cGbw*QNCM(CbmMcbB#PjccbPwNj8(m**N84CwaPNc(hb8M#4b#w(jN(PwcN84mG*P8MCC^8b#(C8wMjM(#*jNN4#GmPjw4CwmGcCX4wbjb(48M(*4#GbPNMMCmmPcw+jNc#Gbm*bj#44G4PcM#CjmMw>kP88#wbbwGjG(t**)PM(CMmcMP:j8j#PbmMGj8(N*GN*4RCbm(M*m48c#cbj8LjP(P*8Nm4*Gmb#MC b8(c8bMwMj#(jj4NN4mG8P8M*CGmCcC7ww(j4(M*MjP4jGNPPMw#8Gxmjcjb4wmPcbw*MNk4MGCM#CMmPcmS88G**jmbwjC(jG(P4MMCjGwmcc4_88M#N(N*jN#*GNbMbC(m4c#jwFm8#jb42wGj#(#*#8NMMCMm(c88(cCbcw#jj(m(CG#N8MMP*MGCCmUc(b(w4jMb4NGNj4NGPPcM8Cwm*4G%m8>jb((*4NM4(G#jj4#CPmmc82w8*#wbCmojG4(G4PMMcC#m4cNCjm##8bmw*j*(C*,PbM(*8mMccH#8c#Nbjwmjc(j**NG4CGjmbcbJ484#cb(4Gjj(P*mN(4wGwPGM8jjm0#(b48Njc(c*jNNb8GPP8MwCwmGcCSkwbCc((*MNc4MGjPNMPC#((c8a*8G#bb1wXN(44PNPMM#CjmNcPKm88#wP=w*jC(;*CP(M4CMmcCbW#8N#PbPw8jw(**GNm4!Cbm(c(CC8c##bjwm8CN#(C*c4wGPPCMVDb8Mmw# <CwN(#wmNP4mG8PGwjM#Cmm8#Pbb8wjcbPC*P44(G(MPC4mwc*2Gwbw#jPb8*PNw4M**M#C(mPcm288G8mjN(8*bN(GbP4MMCcP(cjBN8P#P1}wwj*(GGb{wNP48Cb8Cc4CCw4#b(bjm(8*wN*4GGCPVcbw(8(cCbcw#jj(m(CG#N8MMPwMmCCm&#bbMb(ww#8*#Nj4NGPPmM8Cwm*cGYG8Mjb((*4N#Pw4mG(PbMb)#mwjMxjw##mwCjN4(G4PMMjM8GCmN#cuP8P#J(#jG(C*vPbM(C4mMbbw#8#c*bPwmj8(G4M*wPP4NG88wMw?Rm)cCw##j(P*mN84G4#C(PCcNbmmsN(bw8m#Cc4*bN(M#CcPGC8m*cG_#wbj((4*#*PNcMbG4mbMmr4m8c#8*#4bu*bN(4ccC**NC4_C#mNP#4M8m#4b*jG(#GbP(M4C#b9PGMOdb8j#PcjGMjm**NM4KCbm(ccjGC*8bcGbLGhjc4j*wPcG*PMMi;b8(#cNmb*8CPb(<*MNb4CC#mcC*mjcEbbw(jcN8(**Ij-4#GM*cCmPwc*-G8Cj(j#(#wwNC44*88jcMCCmPcC0c8cjj(jjCbOG(P4MMCj<(8bcbB*8bj4M#w8j*(N*8NCM4CMmwMX8##jbNwPjm(8*wP*jCGCPscb=(PN#Mbcw##cbb*PNm48**P*MGCCN&OPb(w4jM(c*#jM4N8P##MmCwm*cMZCmwjbC(PCN44cG#NGMNCMmm(8*N8w#GbC8GNb(mG4jMG*C#m#cNYP8m#MbwP*Mm(G*CPbMbC4PPcc*#N4#jbPwm#C(w*8NG(**Pmbcb;48b#cb#wjcNT(*mNm4wGwPG4CCkPC#Cb4wbjcb:*jNN4PGm(wMwCwmGcw<a8Cj({4m*Nc4cGjPjMPG*m8MmC#8G#wb=8?N(44GMjcGGCjmccPsj88#Nb*wG*8(.*GP(M(CMmcc#yj8(#PbPw8jw(***NC(G*mm(c(_M8(##bjwNcPs4*8N84*G*PC4xnbPH#IbMw(j#(b*NNP4mG8(*M*C*mCc*bb8>j4<MmGN#4#GNPNMmG*mwM8Cj8C#*(bwbN44MGcj#GCCNm#cmBN8w#PbGwC*w4b*CP4M4Ccm#cj_N84#mbmwwj*(G*GNIMbN*m(cM_c8c#jbNwPjmb8*wN*4G**NPcb<(84#(bcw#jj{NNbNm48GwP*MGCGmA#bGMw(jM(c*cNj4#GPPMC*Cwm*cGC28)#x((*4NM4bc*P#MNCPP8c8<88*cwHNw-Nb4(*CPMMcC#mj(m_N8m#8b8w*jw(C8J4PM(C4mMcc6#8M#Nb4jMj8(w**N44CGCmbcb14mp*wbcwjjNbG*mNm4wGPbcMGC38b#(b4w4jcbM8HNN4PGmP#MwC*mGc*PPwbjb(4*MNc4#GjPN4jCmm8cwL88G#GbXw*CP4(GMPcM#CjmjcPrmc##8b*wGjG(LGbP(M4*Pmcc#6j8j#Mbmw8jw(CM*G8NaMPmbMGoM8c##bPbG*cjm44N844GGPCMag4(48b#G(b8Cj8(#*NNMGmN*M*CGmC#(NNb#w(j*Mw*mN(4(G(wMM.ClmG#j8G#c(b*(N44#c8GGNg#(Sbmcc(!%wjj#wCjh4bG(P4MMCcm#cj,jmK#mb8wwjCP8(**mPc48Cjm(cM8cc*bNwPjm(*M#GcPm#mCNm*MwCwmGbM8#jj(N*PNwmm4mG#G8j#CGmP#bbwbbNG(b*8PM4mPP4GCwm*cGbb4jwc#w(N*MPb4cC3P4M*2#mw_88N#GbCw_N4Nb48*PNGCcPNcN1P8m#*NcbN*(N84b(GNaMmMb88#(CW8a#MwPjM(w**NGMb4mGmP*cjf488bc8*jN(P*mN*mwMPCMPGcMCmmm#wbwjMbP*jNN4PGwCP8(M8CPm_#P(C8*jj(m*PNcG#NwMPCmm8cGN4b#8NPm(#*#NM4**%PGM#mNcPgm88#wb*wG#8Gv*sN8M4CMmccNj#R#8(#G((8d(w*MNC4vCbmM8Pc(C18N#bbc*cNM44N8(wGGPCMK;4(jm8#M(bwcjc(wG(mc4PGmP##8A8m8cmwb#m(M*cN#4Pc(Cbm#j#HM8PcNXN#Cb**(N44MGjg#m4McmNcM!88w#*b}4#*wN((mG8MMCcm#cj9N8PCmNMNwjw(b*CNAMbCMbmmNMC:88jjMbNGjjw4NGjP#GGPPcbe(84##NmbG*4jP((*C4mGjP*MGCC8(8N##b(w*(c*#Nj4Nm8PmM8CwP8b#5C8hjbbe*4NM4cw#j*MNCPmmc8Twmm#GCCwjNb4(G4PMMc*umj4NCM8m#8bww*jG(8*1jC4(C4m(ccCw8j#NbPwm#M(w**NG4*G-PCc(C*8b#cb#wj#w(P*PN848G*Pmw#CC8b#(BjwMjM(#wcjb4PGmP84mC*mGcCCGwGj(((*Mjw4#GjPN4jZjm8cm/*m*#Cbq*bN((?GMPcM#CcmNcN2mmPccb*wGjC(GGbP(M4*Mb(c#xj8N#Pbmw#jwb8w4NC4GCbNCc4HM8c##0*wNjP(m*PNw48GGjCMCJb8(#4bMwc#j(j8Nj>4mG8PwM*CGmwc=Cb8mj4(M*cN#4jGMPP4NG*mwc8gG84#a(b*(N4wcGcP#MjC#mPcN+8mmj!bGwCj;bNG(P4MMG4NCcj<N8Pcbb8wwj*(NPbNTMbC(##cMxM8##jbNwcCb(m*wN*WbGCPCcbGqPw#Mbcw##w(N*PNm(PNPP*M*CCmG#bb(w4cMrm*#N#4NGNPm4NCwN*M*pC8Cjb(b*4jw4cw#N*MNCNmmcm&wm*#GbCwMNb4bG4P(McCMmjcMCN8m#8bwP(jG(G*njC(8C4PCccCP8j#NbPmm(4(w*NNG4mGyN#c(G4cw#c&UwjjM(P*PN8(mCmPGMNCrPw#(b4wMjc8j*jN44PG4P8MmC*mN>PrE8wj(C8*MNM4#G#PNMcjbmmcwT*P##CbC*bjGmmG4PcM#8wmNcNBmP8Mcb*wPjC(wGbNGM4G(8(c#Cv8Nccbmw8jw(*#CNC48CbP8c4^(8cc_wbwNjM(mm*Nw4wGGPGM>C*(P#(bMwcMN(j*jNP4##(P8M*CGjMcLg?w(c4ww*cNb4jGMPP4#C8Nw?cfG8m#ibw*(jw4M*4jCMjC(mPM&X88w#*CGjjj%(8G(N*MMGGm#cjm*8P#cb8wjj*(N*C#fGPC(PGcMCK8#cPbNm44C(m*jN*t4GCPCcbGm84cLNwwcjj(NPGNm4mGwj*C#CCm8#b?Gw4cm(c8#(C4NGMPmM#CwP#cGZb(Cjbbw*4MP4cGcPjM4CPm#*(R88*#GGMwJjI4(G4bjMMC(mjc#JP8m#8b##wjG(C*sjbM(C(mMc4s#84*CbNwmj8_w**N*4CGH4wcb648M#Mb#wjjN(PwMN84wG*P*M4C_8b#(bc(mw*jc(N*#P44wGMPmcPZjcGCGwbj((4*#G+NG4MGPP*cMnjmc#cbj*P#PbCw*NC4mG*McGCmNcP=m8**P#G(mw4NN(w*wM(GNmcc#Zj8m*m#N(c*NjGM8*nPw4cCmPG;4m*##bjwNj8Pc44*wN84jCjPmqb8(#4bMwcj#(j*NwP4PGjPwM*CG8bC*jNM*j(bC*cN#4jGmb(m#MM1Ncw.m8C#6(b*Mb_P8#GPc4wCNmPcmn*4(wc#j4P*Njw(PGjPGM*mccc=N8P#mb*cNjw(m*CN2MbCM4 88NC8ccmbNwPjm(*M?*wNc4*C(mP#wQ8mCcwbGw((jwCNm48GwPCwNcMUwmw#Gb*8*j*(bN#44GPPmM8CG.48mcCbN# b8*4NM4cGNbbP#MPCm*(#m8w#mbCwxNb4MjWC8*bCcm(cN&P8m#*Nj(P*NNj*CN8M(C4mMcj#*b48P#b((jmbw**NG4CC(0wmGc*qwwG#b(4wjj44b*PNj4*C#mNCCmj#(b4wMjjm((NG(NGM(G8P-MjCjcGubwbj((4*#CwNm4#Cb8OMGC#m#c#4NwMjM((*844GMPcM#m8mNcPJmmP(Vb*wGjC(bGbP(M4*MP(c#?j8N#PbmwPjwA**cNC4-Cbm(c4CC8cM#XcwNjP(m*8Nw(*GGjC4wEb8(#4bMwc#P(jw##G4mGPPwMwCGmCcnCC8Gj4(b*cj84jGNPPMmNwmwc*=G8w#qbC*(jbCNGcPcMjGPmPcm<8Pw#8bGwGjJ(2G(PbMM*cP4cjOj8P#Pb8wjj*&GwCNH4^C(m(cMCc8#Mjy(wPjP(8*8N*4bGCNG4PV(mO#MCaw#jj(NwjN448GNP*M4CCmS#bb(cMjM(M*#N44NGjPm4PGcm*cwRC8bjb((*4#MwGGcPcMNCjmmcN6wP*#wbCwGNb(eG4N-Mc*#PNcNhj8m#Pbw8CjGsC*mPb4DC4m(ccG)8jc#bjwmjj(wwPNG4CGLmbMcO48(#cb(wjj#(P*MNP4wG8PG(8C&mD#(b4wMjbP**#NN4Pw#P8M8C*PwMNRl8Cj(bM*MNc4#wjaNMPCNm8cm5*8M#COGwcN((CGMP(M#CjmNcPCP88#mb*wmjC(GGbj(4cCMm4c#yc8N#cbmm8#F(**wNC4GCbPmc4GMmN##bcwNjj(mwPNwb*G(PCMGFbm}#4hbwc#M4M*NN#4mG(PwM*CGmC*NHx8:j4((*cN44jGNbwMPCPmwc8_G8C#AC8i4N44MGc#CMjCjmPcMk88NGMb*wCj.umG(P(MMCbb*c#XN8P4Nb8w8j*bwwNNy4CC(PMcM.c8#MjNNwPjN(8*mN*4MGCNGMNp(mC#Mb(w#jj(N*Pj(48GmP*MmCCmG#bC(8NjM(4*#Nc4NGcPm(8C4m*cwAC8Gjbbm*4#Mb8G#PcMNCjmmMPUwP*#mbCwGNb(0G4NbMcGM8McNv#8mcCbww*jG(CcNN94%C4m(cc148j#NPwwPjP(w*8NG4CGFj8N4n484#cGbwjjj(P*MN84N#MP*MCC%jw#(b(wMjbP**#NN4PmmP8M8C*PwMNE68Cj(bM*MNc4#wjLNMPCNm8cmo*8M#CVG8mN((CGMP(M#CjmNcPXc88#mb*wmjC(GGbj(4UCMm4c#<c8N#cbmm8jM(**wNC4GCbPmc4GMmc##bcwNjj(mwPNwb*GcPCMG^bm^#4ybwc#M4M*NN#4mGMPwM*CGmC*NI+8{j4((*cN44jGNbwMPCPmwc8EG8C#_QC88N44(GcNjMjCNmP4mj88w#8bGw*jJ(jG(Nb4PCcm(cjFc8P#mb8ww#*(G**Nd4*C(mbcMGcm8#jb#wPjN(8*NN*bGG4PeMCW(8b#MI*w#cj((*PNN48GmP*4wCCN1M*b(wbjM(4*#jM4N*jmjM8CPm*M*_C8Hjb((M8N444G#PcMNC#mmc8NC8w#wbCwGNb4(G4PM*ICcmjcN&N8m#8bww*#*(C*UPbMbG#mMcc)#8Pw_#N((wjjM4b*8mN4GGCm4M*84c*b#wjjN(8Mj*wPN4bC#PmMmmVcNb4wMjc(Ncb**Pc4cCjm#M#y#mmFC8Nj((4*MNj8bM4C(P8MjOj8#cC8*c+b7*bN(4ccGGmm(M( M84c4b48jPP(j*NNN4mPb48CMmcc#HP(b8j#NbwGcNb(8NG4bCbm(c4h#(PmBN!bWw4NM44*8P#MmGGPP#CuP#(3mwcj#(j*mqbN#44G?Pm#jC*mG#(wb#j(M*cN#4PcGCbP4jcqb8bcCbN88jP(bN((GGcP#MjCmC#8#cC.j8jb*wmjQ4bG(Pcm*M4CMmNvjmT#mb8wwjCm4(j*0P*MbCbmNcG8c#4bNwPjm(*M6*j8mGGNmcbA(84##Nwbmw#NbM0*GN#4#G#wNcMJM8(#84bw8PC(jG4N(44PPM#Cwm*cGbbb#w*j((8N4(PG#PjMNC8b8mP##bP8CNw(b**j#48*CMMCbmjcNOP8w*bjN(bwj(C*IPbM(8*mMcc9#mccbbPwPj8b***NG4CwtMPc(_(8M#Mb#wcjNEPN(N848G*P*MCG.8bM{CwwMj4(#wNNN4PGmj8CMC*mwcCIGwb#s(48M(*4#GcPNMjCmP8cwG*###CbG*bjy44GbPc4vmPmNcjXm8b#wbwwGjC(D**WPM(CMmcMw;j8j#Pb#M(j8(**GjC4fGSm(MbG*8c#Mbj8PjP(m*8#w((GGP*MnCC8(#bbMmc#M(j*#NP4NG8NwM**GPGc fCw(jb(Mw:N#bjwwPPMNC8mmc*C*8C#H_m*(Nb4MG4P#McCNPjM4n88P#*bMwCj_4bw(GmMMCbm#c#7N8c#mC8mEj*(m*CNwMbGPm4cMCn8##4bNwMjm(8*wN*(4GCP*cbX(84cCbcw(cw(N*PNm9mGwPwMG*CNP#b,mw4#*(cwPNj(#C#PmMbCwm(cGIC8ijb84*4jw4c*wPjM#CPmMHcYw8c#GY4w9j 4(G(PMMb#*m#cNgPPG#8b8w*jmm#*CPbM(w(mMcMU#PjfKbPw(j8(c**NN4CGm#NcbC88MMcb#w#jN(P*mNj84GwPGMC*&8b#bb48KGw(c*jNN!NGmPmMw**NjcChNwb#&(4w#Nc(MCMPN4CCmPCcw:*8G#C8b*bjm44*mPcMMCjm(Y8Bm84#wGwwGjG(RGbP(4C#8mMc#ljNj#PbPw8cw0#*GN#4lGPm(MwKM8cMMbj8*jP(4*8Nw4*GG(<MlCN8(cNbMw4j#(bN(NP4bG8#8M*C*mCcCbb8GGm(4*cN#%#GNPNMm*8Ncc*_c8C#N(b*bN44MP8Pc4GCNmjcmsm8wM*UMwCjj4b*mP44wCcm#M#UNmG#mbMwwj*(G*CNCMbGPm4MP=c8c#jbN8wjm((*wNw4GGCPocbGG84c8bcwMjj(N*PNM*mGwPmMGGPmoc-b(wbjM(bM*N#4NGPNMM8C8m*cGCb8C#G((*4NM4cG#Pjw8CNmjc8Tm8*#GbCw2bw4bG4PMMMC#mjcN.N8P#8bww*j*bN*IPbM(Cci*P8cGAC8j#(bNCcjM(N*PPj4CGm8*cC7G8*NCbcw#jM*mN84wG*P8MCCI8bM0CwwMjc(#*#NN4PGmP8*#C*mGcCWCwbjb(4*Mb&4cGjPNMNCmm8cwf*8N#CbZ*bNb(#GMPcM#CPC(8bc4bc8*jbb8*mjG4***PwC4PGc#Hj8N#8NPbPwcNb4c*44CG8m(c4gM8j*P#c(4G*N4*8Nw4*GGPCMT<bPG(4b48#j#(j*NN88M4PGPmbc#:NC*NMZ_wGPN(G((*4GjPMMmC8mwcC#Mb88UjP*(N44MGcN*MjCNmPMNCM8w#*bGwGj,4bG(Nb(*Ccmccj1(8P#mb8mw(c(G*GNK4oC(PscMecmM#jbNwPjN(8*8N*(w*NP:cb (8b#Mbcw##c4c*PNP48GjP*MGCCPG#Gb(wbjM(b*#Nj4NGPPjM8Cwm*cw/C8Cjb((#GN44cG#P#MNCPmmc8_N8*#GbCwC#J4(G4PMMj#8GCmN#cdP8P#-(#GPj*(G*mmCMCGCPG/cmw#NbPwmj*m#4(G(N+MPb*m8cw1w8Gbc8CjN(P*mN*8#48G*PGcN;8m8b(8jjc(#*jNmPCM#GCPcjMCwmmNmb#w#jM(*NM4#GjPN4CCmm8cwUw8c#Cb)*bNMm44r*m8*McC484#(8mcCb*wGjC4(cw*IPw4NpwmGcNe#w4#GbM8e(**GNC4,Cbm(c4qM8c#chCwNjP(m**C4PcMNGNPGMw4w#(b(wcj#(j*mC#4PGjPwM*CG8bmC#P3Nj(b2*cN#4jGmH*PMjjm8cM}G8C#H(4M**bN*(PIwN8M4CjcPCG8w#*bG*bC8jC48*j8bM4Gxm8cbI*8N#mw8j4(G*CN0M4#(CCPP#GnM8(#Mbb*((8*wN*4GwGPhcb-(P44*bcwcjj(N*PN448*mmmMGCwmUcCb(w4jM(c#jNj4jGPPjM8Cmm*cN8P8e#I((wPNM4MG#P#MNCc(bcmiw8*#MbCwCNbb(8wPMMMC#mjcN?(8mcP(Pw*j8(C*jPbM(C4mMG#o#8##Nb#wmjP(w*j4;4CGCmb4C%484#cb#wjjMP+*PN84w*mPGMGCLPCM8b4w4jc((*jNN4Pwm4CMwCwmGcGE.88j(bb*(Nc4MGjPcMPCmm8MmCP8G#wbTwGN(44GMN448CjmMcP=j88#wb*wG##(J* P(4CCMm4c#CjmC#Pbmw8j8(***NC_{8*mbc4QMmh##bMwNjcmb*mNw4*wGPCMCobP(4wbMwMj#(j*NN(4m*PmPM*C8mCcNbbw(j4(M##N#4#GNP#MmCPmwcj8-8C#C(b8(N444GcP#MjCMb>cP:88wM*bGwGjo)bmGP(MMCcmbcj c8PcNb#w8jw(G*8N)MbC(N4MNIc8c#jbjwPjM(8wm#f4GG*P^MGA(84#M_488jj(c*PNj48GwP*4wCbmAc*b(8sjM(c*#Nj(mGPPPM8CNm*cw0Cm c8((*4NM(8G#P#MNCPMccm2w8*#*bCwQNb4b*cPMMcC#NjC<;P8P#8bww*j*(C*m48M(C(mMMCs#8##NbNwmjjm4*wNG4CGmmbcbI4PM4Gb#w#jN(P*mNj4w*8m8MCC*8b#bb4wMjc(##NNN4NGmPNMwC8mGcP8mwbjb(4w8Nc4cGjPjMPC#((c8I*8G##bFwZN(44jCPMM#CjmjcPQm88MwwcwGj*(^*,P(MbCMNc(Cvj8##PbNw8jP(**wbN4/G*m(c4qM8c##bjwcjP(N*8NN4*G*PCM Pw8b#4bMwMj#(j*NNN4PG8PwM*C*mMc0bbw(jcPAb*wCNccCCcPcM8b*mMSG8C#p(bwKN44MGcNMcmCNmPcm;m8w#*bGwCb8({G(P4M4Ccm#cjojmc#mb8wwjw(4*CNtMbCMbGmcc4C8hMNCbMw(jC(cNw4#GCPTcb%Mbw8(#4bj*/jw(#NP4(GwP*MGpb(88*#wbcwbNb(=*P4j*CPmM8CwmC*#c8INwc#C4w*(N44jP#4JCPmmc8 G(m8Cj8bM*Pj*(*P44CC#mjcNX8Ujwj#YbNwN(G*mPbM(C4m#wccGgN8}jbwPj#(w**NGMbcPGCPacM84cbb#wjjN(8Mb*CNj4#G#m8cb(c8bcQvw8GP#44*jPc4HC4PjCwmMcCQlwbjMP*(PGbNbM4C(P(c(C#c8-N8G#Cbq*4*NNC4MG*McC(mNcPIm8*8(jP((wN(C**P(M4CMmjwmcb4M#Pbmw8jw(**GNCcA8(mbMCZM8c##bP4GwbjP*mN44*GGPCc(j#Cm84#BbMwMj84bNN(CG8PwM*C (c8Ncm(ww8#Cbw*mPb4_PN4GC8mwc*%R(58Gj8(G*Mmb4#C(N8MICMcP_c8w#*bG*bGmjj()*GP*CMPmcj5N8P#wPb(Mw#mN4MGMP(M8GGmwcM8M#jbNwPjc(8*wN*4GGCP3cb!(84GM8jN#j#(4*PNm48GGG4mmc4CP#bjN(m*8Nw4*GG#CmmPmM8Cwm*cG%CCWbPG(*4NM4cG#PjMNCPMwb8Hw8*#GbC8*Nb4(G4PM(wCcmjcNpP8m#8bw88N8(C*CPbMbC4mMccv#C(#NbPwmjP(w*wNG(**Nmbc(v48(#cb#wj##eC*mNm4wGmPGMCCA8bcIb4wMjc(M*jNj4PGmNPMwC*mGcC_+wbj(bbwGNc4cGjP4MPCmm8cwCb8G#CbhwCN(4(GMN4(CCjmNcP)N88#wb*8wNw(y*nP(4YCMmcc#:jm##Pbmw8jm(***NC4g*Nmbc4tM8c##bjwN#j4j*8N84*GmPCM,eb8(cbbMwcj#(c*NNN4m*PNcM*CGmCcGbbw(j4b(G(N#4#GNP#MmC8mwc*Cw8C#t(bwLN444GcP#G(CjmPcm=m8w#*bGwCj*4bG(P4M4G8m#cj/N88GM#&(NwNNm4P*PPP4*m(MjKc8##jbm44*(jm4cCCP#44bNPNcmD(m*bM8cjj(N*PNwm;4MG*mmMGCG8c#8(Gw(j4bCCMPM4MG4M8Cwm*cGCw8%jb((*4bj4MGcPjMNCPmmc8Gwmc#GbGwYj)4(GbPMMc*GmjccgP8P#8bww*jG(b*XN*M(C4mMccF#8j#4bPwcj8(w**NG4CGtN*c(C*8M#Mb#wjjN=PwCN84#G*PNMCCC8bM(0*wM#C(#*bNN4#GmP8M#C*m*cCUmwbjb(4*Mj#4#G#PNMPCmm8cwG*Pj#CbC*bNb44G(PcM#4MmNc#!m88#wb*wGjC((GbNGM4CMmcc#xj8Ncjbmw#jw(**GNC40CbNjc4CG8c#cbjwNjPem*mNw4jGGPPM Cp8(M4W#wc#,(j*(NP4jG8PwMwCGmGchV8w(j((M*c#m4jGNPPMPC8mwc*1*N4#!(b*(jb8wGMP#MjG*mPcmO8Pw#8bGwCj{4bG(NGMM*cPmcj7N8P#mb88mj*FG*MND4}C(m4cM^(8#MjENwPjN(8*wN*4MGCjFMw=(8b#Mb4w##j(NwjjN48GPP*M4CCmL#bC(PwjM((*#NM4N*NPm4PwMm*cPZC8jjb((*4NMb*G#PMMNCMmmcP?wm8c#bCwwNb(wG4PMMc*#m4cNpM8m#mbw8PjG(C*MPb4*C4PGcc,#8j#N;4wmjj(w**NG4PGtP*MMH48M#cGpwjjj(P8m#M4wGMPGMjCZmM#(,b*bjcb8*jj&4PGmP8MwNGmGc#WF8#j((b*MjC*qGjNCMPGcm8c81*8*#CbwMNNb44GMjLM#C#mNccNb8m#wb*mNjC(CGbj(G8CMPwc#CC8N#jbmmcm*(**cNCb*Cbmbc4C*8c#(NGwjjP(m8NNw4wGGjCCNDbmP#4vwwcjM(j8(8m4mG(Pw(mCGmGc_h<w(#CP8*MN#4jwcPPMPC8Nw,c3G8##,bP*(Nb4M8CMPMjGCmP48<888#*u8wCjwmNGbP4MM*#m#c#5N8cGbbmwwj* 8*CNCMb*(M8cMCw8#cCbNwjjmhc6*N*4cGCj*cbHb84ccbcw(GG(j*PNmbNGwPwMGC8(jc>b(w4MG(c*cNjbNw(PmM(Cwm8cG{88=jbCx*4jP4c*GPjMNCPmmcNWw8M#GbMw+jh4(**44McC(mjMPEP8P#8bmw*jmm#*CPbM(GMmMcM%#8bc8bPw#j8(8**N*4CGGmbc(mG8M#cb#wMjN(P*mN8GjG*PGMCC_8b#(b48G#N(#*(NN4PGmPmMwCwmGcC88wbj((4wENc4#GjPNm#CmmccwvN8G#Cb%*bjP44*GPcMcCjmjcP?mmC#wbjwGjm(YGbP(M4GPmcMIYj8j#PbPw8#mbj*GNP4HGcm(c4aMm4MCbjwbjPbw*8Nw4*GGN*MrC88(#bbMwMj#(jcMNP4MG8PjM*CGmCc5Cjw(#*(M*MN#4#GNNj4!C8m#c*J(8C#D(b8_jM4M*GP#4PCNmPcmV88P#*bNwCjG4bGbP4MMG(m#cbhN8M#mb8wwj*b**CNmMbCbm4c42c8#cbbNwPjm(m*wN*4GGCPCcb&(84#47Cw#jj(N*8*jPcMNGGPCCGmF#bb(8MjM(c*#N#(*GPPmM8CGb#m8Nj,C8m#*(C*4NC4GP#4GCPmmc8JG(*wmjcbC*cj8(8G*P*C#mjcNvPjmmjjc(c8G(G*#PbM(C4m#wCc8b484jc(MwMNM(NN*4jG{mbc(Oc(b8#j(^8w+jM(MN84wG*PGGC4mGCmCc4w4#D(#*jNN484%CjPwccmGcCd,wbC(GM(wb(C#G#NjMPCmm8cGN(5#8CjwbJwUNj4*CHPMMcCbw###k#8cbww#jC(oGbPMmmMwCCPCccE4C4bmw8jw(**GNCcBMw#(c(CN8c##bjwmGmjN4cGNNGc8GFmwMcQmmGb4wbj#(j*NN8NPM4G(MwC#mCc.bbwM*GjwbC*Gj.cbI#MPC(mwc*tGwb**#Cbw*jj*4PGMP#CNmPcms8PC#*bGwC#G(8GbP4MMG8m#cjpNPPcGb8wwj*(G*CN4Mb*ZmbcM!M8##bbNwPjmbPw*N*4wGCPNcbY(84c(Cww#jM(N*#Nm48GwP*M(CCml#bZCw4j((cwMNN4NGNPmMMCwm*cGGC8mjb(b*4N44cGbPj(NGcmmcmBw8w#Gb4wq#bbPG4P4McCcmjcMUPPm#jbwwwjG(G*/NNM(*4P*ccnc8j#jbP88j8(wwbNG4CG=mbc(,(8MMc8GwjjN(P*mN84mG*N+8GC_m##(CmwMjM(#*jNN4c#bPmMwC*PccC;CwbcJ=w*MNc4#G#PNMPCmPPbbq*8*#Cb#*bN(44wMP4M#C#mNcNVmmG#w 88(jC(GGbNwM4CMmcMMG88N##bmw4jw(**Gj*4CCbPGc4qb8c##bjwN#P(m*mNw4PGGPCMqQbmm#4bMwcj#(j*jNP4##(P8M*CGP4c5F9w(#bI**cN#4j*mPPMmC8mwMMy*8G#1(b*(N44MGcNMMjCNmPcNA888#*bG#mjC4bG(P(MMCcm#cj}48P#mb88m##(G*GN!4uC(m4cMCCmP#jb#wPjm(8*8N*4*GCPOCw9(84#Mbcw#jj(N*PjN48G8P*MwCCmC#bb(cGj4(c*#N#4NGPPmMm*(m*cG-C8gjb((*4NM4cG#mj5PCNmcc8gw8*#vjc(w*bNmG(NwMcC#mjcmjMb(8cjMb#GjPw*CNwM(C4mMcjMwb48w#(wmj8(w**NG4CGRmbc( (m8#cb#wjjmP#(N*cN+4#C(P*MC8b#(b4wM*cGCm8##CPGmP8MwC*mGcC}njN4(((w(Nc4#GjPm8Mc(CNm*#bbNw8#P(P*8P*(*G4Pbc4CG8bUPmG#wb*wGNbmM(<*PPbM#C*8}cCE4mxj(b#jw(**GNC49Cbm(bCwM8M#bbjwNjP(w4G*mNwM#PGMcnb8(#4b#4MwMNb(P**Nj4#GmmjMUmCcsbbw(c4mPMCmCCjGNPPMmC8mwc*wG(9(LbswNN44MGcPNmbM*Wb8Mc*bj88jmbNjC(PG(P4MMCj(bPCMw4M8Njjbcjw(#*CNXMbCMLGmwccyMm.#Tb4jm(8*wN*CG(CCPN(M(8(cmbcw#jj(mc4*CPj4jCPmNMNyNmwbb8*jM(c*#NPNb4jGjPPM#mwccOC87jb(MMNwwNcM(G#P#M*+4cmpM8*#GbC*(GGN44C*NP*MbCbcjCN8m#8bwwCC4jj(DG*PbMbCNmGjb9c8##(4j*jjj(#N*4NGkmbc(+c(G84##bjGCNj*PjC4wG*PGcb#PCj8m#8b4G4Nb(m*)P444P8MwC*mG8Cgm*bP4#4*MNc4#GjCNGjMN(GbwLwmC#Cbq*bNMN*4PG*PxMPL#mMcNX4w(j(bN*jNw*7N#M4CMmccNjNy#w4j#bwGPjG4m*4PN4wmbM8SM8c##bP(C*bNM(M*mNNjNPGM8^b8(#4b#XG*(jb(mNj4PGmPNM*CGmC#(j8b#8w(4w8N#4jGNP88mcjO(mw#(YN8Njm(mN((bGcP#MjCmb#mGc#bN8#j#Mcw8N*4bGw8C4pCmm*#Mb(w(b8wwj*(GPC4M(MwP#4c4_b8##jbNw8wPN4((Nw44GCPQcbHM(P8wcG(LwCj4b}*GPcMMP*MGCCmn#bb(N4^cGc*cj84NGPPmM*#4uc84#4bmw(jm4**wPb(CP#MbCPmmc8OG4jGc#m(w*bNmG4PMMcC#bMcNLP8mcPFcw*jG(C8aPbM(C4NMC*g#8j#NbPwmjj(w**c!4GGBmbcbh48(#cd7jPjN(P*mCP4wGwPGMCCsm**Pb(wMjcPM*jNj4PGmN(M8C*mGcCHuwbj(b*jGNc4#GjNCMPCPm8c8/*8mG#bC*bN((mGMPMM#C4bCcN m88#wb*w*jCbGwmP(M4CMj8c#tj8NMPCww8jw(**GNCbmCbN/MM^M8M##CwwNjP(mwPjH4*GwPC(8xb8(#4J(mNj#(M*Nj84mG8PwM*GymCc/bb8Cj4((*cjM4(GNPPMmGCmwc*ZGm*cP(b*(N4(3GcP#MjCNCwcm-88w#wbGwGj>bC*(P4MMCcNjcj)N8PMmbMwwj*(G*CN1b8C(PbM*Jc8c#jncwPjm(8wmN(4GG*PvMm5(84#M748jjj(c*P#G48GwP*MGGNm0#bb(8FjM(4*#jc4PGPPPM8Cmm*cG+CPy#M((*(NM4MG#jvMN*PNGc8a88*#*bC8(Nbb(wwPMMMC#m#cNCc8mM8bcw*j*(C*CPb(mC4NMM#Y#8##NbNwmjc(w**jj4CGambc(E484#cC##CjN(P*mN84wwmPGMb#C8bcjb4PPjc(c*jNN4PG#b(M8C*mG4MJu8>j(bb8*Nc4#GjN4MPCmm8Mmw(8G#Gb2mjN(44GMjc(mCjmjcP3P88M#b*8wjb(W*CP((QCMmcc#Cc8M#Pbjw8jc(**GNC(G*Gm(MC!MPP##bjwNjPbb*8N84*GmPCMq)b8(MwbMwcj#(j*NNN4mGjb4MwCGmC(8bbwbj4b(8GN#4jGNPjMmC8mw4*j88C#n(b*(N4A*GcNMM(CNmjcma(8w#*bGwC#84bG(P4M(CcmMcjGN8b#mb8wwj*(Gw*N?(bGcm4cM,c8##jCCwPcmbC*wN*4GGCPfMjE(mb#4bcwMjjbj*PNm48*mmmMGCwm)4*b(w4jM(c*4Nj4NGPPjM8C8m*MwCN8-jb((w4NM4cG#PjbmCNmmc8l88*#wbCwm444(G4PMwCC#m#cN^P8m#jP4wwjG(C#mPbMbC4P(4G_#8j#NCwwmj8(w**c,4GGImbcb748(#c&QjbjN(P*mbc4wGwPGMGCQm**Pb(wMjcmA*jNj4P*NNMMwC*mGMCvowbj((4m#NM4#GjPjMPCNm84wNw8*#Cb}*bN(imGMjc(^CjmNcPlm88##b*8wjG(R*eP((MCMmcc#GjPw#PbPw8j8(*8NNC(GG#m(cb)Mm(##bjwN#jbw*8NP4*GjPCM-QbPSc#bMwbj#=8*NNP4mG8(*M*C*mCcwbb8hj4(MjmN#4jGNPPMmCmmw4*8#8C#J(b*(N4bbGcNN8#CNmbcmm*8w#wbGwCjV(*cPP(MMCcMNcjTj8PcNXMwwj*(G**N-MbC(N4wM)c8##jbNwPc4(8wmjM4GG*P-4m.(84#Mbc8Pjj(N*PNN48GmP*(GGPmL#bb(w4jMSj*##j(7GPPmM8Cwm*MmVCP_#j((*4NM4cG#NbMN*PPNc8pw8*#GbCmGNbnwP#PMMcC#MPcN,N8mMmbwwPCc(G*lPbGMC4m4ccCMP1#NbPwm#b(w**NG(**Pmbcb04mN#cb#wj##b(*mNP4w**PGMCC98b4Mb(w(jc(c*jN#4PwmM4MwC8mGc*!FPNj(bbGbNc44Gj#IMPCmm8cwWm8G#CbDwGN(4(GMPc(NC#mNcPYP88#wb*8wP((UGbP(4#CMmcc#Ccmb#Pbmw8jm(**GNCbt#bm(c4SM8c##G:wN#jb#*8Nm4**jPCMTAb8(cjbMwcj#(c*NNj4mw8N4M*CGmCc<bbmMj4EM*(N#4jGNPPMmGjmw4*C88C#n(b*(N4bGGcj#4CCNmPcm)88wM8bGwP4(4bG(P4*8CcmccjAN8P##P(w8j*(Gj#Nq4KC(PCw8FM8##jm(wPjP(8wmj#4GGCP+4wE(84#MB4mCjj(j*Pjm48GwP*MG*bmCckb(w(jM(4*##j8jGNPPM8C8m*4cqCP5cw((*(NM4MG##*MNGjmMc8nm8*MMbCwoNbb(GbPMM4C#mccNG48mcPb(w*j8(C*8PbM(C4P(4w^#84#NbNwmj8(ww8N#4CG8mbM*}48M#cb#cNjN(j*mN#4wG8PGMC#G8b#bb4w4jc(M*jNN(jGmP8MwC8mGcGDnmCc8(4*MNc4MGjPNMP*mN(c8D*8G#Cb!8mN(b4*cPcM#CjmNcPGw88MwCLwGjC(:GbP((CCMNc48yj8N#Pbmw8#M(*8GN842Cbm(c43MmC##vc8bjP(P*8#*4*GGPC(dCj8(#(bMwMj#Bb*NjjMjG8PmM*G8mCcdbbmJjt(M*(N#(TGNPPMmGP8Pc*+m8CcM(b*(N44Mj#P#M#CNmccmWP8w#*w4wCj=4bG(P4M4CcN#CCHN8P#mb8wwcm(G*bCCMbG4m4w#fc8c#jbNwPj#m(*8N*4G#bPqMYQ(mbM*bcw#jj(c*PNm48*mc(MGCGmsM(b(w4jMgc8mNj4jGPPPM8*#m*MwC#8>#C((8lNM4cG#Nc(CCPmjc8fc8*#GbC8GjC4(*CPM(PC#mjcNLPmC#8b8w*jm(C*7PbM(CbmMcch#8j#NbNwmj8b4*wNG4CGWmbc(!4mGxCb#wjjNbP*mNm4wGwPGM8jjm5#(b48Mjc(c*jNMm1GPP8MwC*mGcGy{wbE*((*MNc4cGjPNMPCmPNcwZ*8G#Gb8*bN(44G#GMPG4wCbcNF(88#wb*w6CNNN(8*8NGM(GPccC88N#Pbmw*C(Nc(jtPPcMcC4mwMCh*8cb#8GjP(m*8NGm44wGmm(M8CC8C#Gb*jc((*NNP4mG*5PmPMPCNcC98w(j4(M*jCqNN4#GNm(Cmm(c*9G8Cj(PbbX*GPG4(C(N*MjC4cPf#8w#*bG*bGCN*4(G8M4GCm#cj:N888jjjbvwNjN*GNbMbC(m4c#jwym8#jb4JwGj#(#*#8NMMCMm(c88(cCbcw#jj(m(CG#N8MMPw4*CCmY#bbM4N8wjc4(*#N#4*C48#MmC8mjjwbw8w#8*(j*4cG#PjMmj4(bm##N<*w#bGwPNb4(G4P#8cMMi(wj#bCn#mbNw*jG(CG(*pPm4Pm4cb3#8j#Nb84GwcmN*wNj4CG.mbcM#!Igm2#Gb#wb(N*MN84wG*Ph8CMGFm8m#Mw4#w(#*jNN48cGGmP#M#immG#mbPj((4*MNcC#GjPNMPGNwbcw7*8G#GbE*bN((b**PcMcCjP*cPHm88MwbbwGjG(L*QP(4CCMNccb<j8j#PbPw8jc(*8GNj4?G3m(c(fM8(##bj8(jP(P*8Nm4*GwPCMwC48(#4bM8wj#(#*N#Pb4G8PjM*CmmCcGbbw(#b(MweN#4cGNPNMmCcM8c*hG8C#P(b*bN44(GcP(8GCjmPcmyM8w#wbG8*#P4bG(P448Ccm#cj%NPe#Pbmwwj*(G*CNZMbPMm(cMpc8M#jb#wPj#m(*8N*4G8(PqM>l(m*yGbcw(jjb#*PNP48G8P*Mmj#mC#bb(8bjM(M*#N4mCGNPmM88Cm*c*}CPrMm((wGNM4bG#NjMNGj8jc8)c8*cwbCw%Nb4(jMPM4ZC#PvcN?j8m#cwGw*jP(C8bPbMbC4mMcc-((G#jbPwmMw(w*wNGbCwPmbM*J4m}#cpwwj##4#*mNM4wGbPGMCC&8bC4b48CjcbC*jN#4PGMMcMwCNmGM(O<80j(((*MNbm*G#PNMP**m8c8o*8mG#bC*bN(!MGMPMM#GcPbcPWc88cPb*wGjC:lNPP(4GCMP_c#CN8Ncj(jw8j#(**PNC4WCbm(*bDMm5##bcwNjj(mwPG*4*GPPCM(qb8(#45(8mj#((*Nj84mG8Pw(*GCmCcmbb8Gj4bN*c##4PGNP4MmCcmwMk&GmC#4(bw*N4(jGcN7MjG#Pmcmh#8wcCbGwCjtbb*#P44GCcm(cjCq8Pcm1CwwjN(G*jNQ48C(Pb4Gdc8b#j.mwPjm(8wmjc4GGPPSM#/(84#MCcwcjj((*PNM48GNP*(GG*m}c8b(8*jMbG*#jj(PGPPcM8G8m*cN1C8wGN(b*4NMCNG#P#MN*PN4c8ij8*#mbC8-NbbUGEPM4GC#m(cN{P8m#8m*w*jP(C*PPb4UC4PGCCX#8(#NGMwmjm(w*wNG48#jP-c(e4jC#cbcwjjMPW*PN84wmIPGMGCBPb48b48Cjc((*jN(4PGmbPMwCNmGc*.08Cj(bbGjNc4bGjNmMPCmm8MmC#8G#mbdw4N(44GMN4(CCjm(cPCC88#wb*mG(j(R*8P(4*CMmbc#GjcK#PbMw8j#(**jNC(^jMm(MGZMmM##bbwNj4wP*8Nw4**CPCMCFbmq#4<+4wjc(j*Njm4mGmPwM*PPmGchbbwbj4(M*cN#4jGNPPMmC8mwc*?G8*#q(b*(N4(CGcP#MjCNmPcm+88w9Nb*wCjF(5G(P4MMCMP*cjDN8P#Pb#wwj*(GGbG#P*M(C8c4C.8##jbNw8w4Nj(#*C4*GmPKcb,(8cmmjbbm83(jw*Nm48GwPC8NM*CN8(mC4P8wjPbCG4N4GNNNM8Cwm*c NPbcwPjw(cCNjG4GGjw4##(Mw#Nj(mGNNmwCjP4(G4PMMj#4CN8M#4b(*Cjcw*jG(Cm.PyGy44mPbMAcmP#NbPwmj*mN(c*jN*MGn*Pmc8CGmGjM4bGG(NwGN84wG*PQw8MNCmmZjb4mw*#C4cC(mCGmP8MwC*PMcCX%wbcTyw*MNc4#GcPNMPCmN81M7*8G#Cb-*bjC44GM#jMcCjmNcNnm8P#wbjjNjC(-GbNwM4C4mcccrj8M*gbPw8jw(j*GNG4{G*bPc(hM8cM*bjwjjP(mw(N84*GGPCM7ob8(c*w#wcj#(j*NNP4PG8PwM*Cm(#cCbbw(j4(M*MN#(c*bPPMmC8mjc*_G8CcG(G*(N(4MGbP#MjCNmP*N%88w#*bwwCjG4b*w4*MMCcm#Mb?N8N#mbmwwjPmc*GNKMb*wm4c4kcmMM5bNwPjm(m*wN*4GwCwCcb/(84#Mbc8Jjjr(w*Nm48GwNmMGCGm cmb(8CG8(M*#Nj(cGPPPM8CN(Mc*,C8sjb((*(NM(4wCPjMNCPm(c8Ow8*#GmPwvNb4(G(PMMMC#m4wCHN8m#8bww*j*(CwGjmM(C4mMMw1#8j#NbPcMj8(w**N*4CGCmbMGjm84#cb#wjjN(N*mN8*jGwPGMCCC8b#(b4wMjM(#*jNN4N*CP8MwC*muwNc#bPwmj(4G*(NG4CCbMPCmm8cw?88G#Cbh8CPc44GMPcMcCjmNcP9mc##8b*wGjG(UGbP(M(*mmcc#kj8N#Pbmw8jw(**GPC.bG!PGc41M8c#NNcM(G((P*PNw4*GGmbw8!b8(#4bMwcj#GjMPMP4PGPPwM*CG8b*(V^8Gj4(M*cNNNM4#*CMPC#mwc*%Gwb8lj*b8*N44GbP#MjCNm8wM#3(c#wbPwCj%4bGM>w8*#*b_c#Tc8P#mb8wGGPmj*GNmMbC(m4c#c#nM8*mMc#jP(j*wN*4GCbG>mccb8(c_bcw#jj(mc(e(8cG8PjMGCCmF#4#PbMw(j4(bNj4NGPPmM8Cwm*4mwC8C#*((*4NM4jcc_c8jCPmmc8iw8*#GbCwNMb4bGbPMMcC#mPwbfN8c#8bww*juPPcNCGm8C(P8cc5#8j#m#(bNwcjc(NG(NGM#P^MCs48M#cbN44Gb(N*4N84wG*P1m#MGCw8(#Cg*jMbq*jNN4PGw44P7PcCNCbyC8mj((4*MNjj0( G4P*MP?bc8RN8G#Cb=*4Gmmwcw;CMcCcmNcPOm8**wb*wGjC(LmwP(M4CMmc*8vj8j#P5*w8jw(*wwNN4&GCm(MG>M8c##.cw(jP(j*8j(4*GGPC4GG*8(cCbMw(j#(j*Njj((G8PjM*GwmCcybbmE#4(MwCN#(*GNPPMmGPmcc*/j8Cc8(b*(N4((w8P#4CCNmbcm>88wc88jwCjj4bwCP4MMCcPM4y9NmC#mbPwwj*(Gw*NGMbGjm4MMsc8##jH#8MjmbC*wjV4GGCPl4CCG84cjbcm*jj(N*PjN4#GwNCMGC#mh#bb(w4#b(c*cNj(mGPPPM8*#P#c*,C8!cC((*(NM4bG#P48CCNmmc8Cm8*#*bCwwCN4bG4PM(CC#m#cNCjm4#8bmw*#m(C*VPbM(*bmMc(h#8j#NbPwmj8Cm**Nw4CG*mbc(n48M#Xb#wcjN(P*mN84w*8NjMCCG8bc8b4wMjcT##GNj4jGmPPMwGCmGM*XGwb#C(4w*Nc4#GjjNMjCmmNcwrm8G#Mb-*b#+44*>PcM#CjmNcP mmj#wbmwGj8(0GbP(M4*PmccMJj8N#PbNw8cw(M*GN*4.GCm(c(sMm4jcbjwcjP(4*8Nw4*wGNPMDCG8(cibM8Pj#(jw*NP4#G8P8M*CGmCMGCww(#G(MwGN#4jGNjPM#C8mjc*&P8C#((b8(jP4M*CP#McCNmNcmG88P#*bNwCjm4b*bP4MMG*m#c(WN84#mb8wwj*(M*CN*MbC(m4c(ncmMCcbjwcjm(M*wN*4GwCPccbCG84ckbc8}jjb#*MNm4#GwNGMGCCmdMbCNw4#G(c*4Nj(jGPPmMMCwmPcGOP89#C((*4Nb4cG(PjMNCPm#c8Cmm*#Gbmw9#P4(G4PM(cbCmjc41P8c#8+#w*#w(G*DN8M(*wmMccd#8jMGbPw4j8(N**NG4CG^N#c(C88M#Mb#wMjN(P*#N84jG*P#MCCE8b#(INwM#9(#*jNN4PGmP84mC*mGcCfCwbj((4*4jm4#GjPNMNGGm8cwp*8eGcjNbmCwNN4NG#PCM(C?mNDP8##wb*wGNbPC4*G(P8C4Pqc#^j8N#8#5(jwwNc**NN4WCbm(ccMGCG8b#8bjwC(P*#Nw4*GGmbmjccOb8wb48Cj#(j*NN8NjMjG)PNMNmGcmbbw(j4(#Mw*bjC4wG(MPCbmwc*{GwbGmj#(GwGNS4C*CPCM4mNMGy88w#*b 4;wGN84GGM8bM#T(P8cR-M#Pb4wwj*(GGbC*P(MGGjmwMKCY##&CwPjm(8*G,NPmMPC(PGcG-*8#bcw#jj(NmCNm48GwN84jCCmK#baww4jM(cwM#Z4NGNPmMNCwm*cGGC#Njb(b*4N44c*wPj(Nmbmmcmnw8w#Gb#wk#bNPG4P4McCcmjM*RPPmc8bwwwjG(G*tNKM(C4PmccIc8j##bPwmj8(wwcNG4CGRmbc(Sb8M#b7NwjjN(PwNN848G*Nw4NCTmw#(UCwMjc(#8j(y4PGcP8MjC*mPcCGg#Pj(b**MNb4#GcPN4jZjm8ccu*8j#CbT*bN(wMGMN&M#G_mNcjim8cbGb*wPjCbGGbPbM4CMmcc(jG8j#Pbm8Pjw(w*GNC((GUP*c4=48c##bjwNCw(P*#Nw48GGPCM+C8cb#4bMwc#*(j*jNP4NG8PNwMC*mCcS-Nw(j((Mw4#C4jGNPPMMC8mwc*CwmN#gbH*(j,4MGcP#(jPSmPcPO888#*bMwCcg*PG(P(MMCMm#MGhNPPwbb8w8j*(**CNNMb*(NwcMtM8###bNwNjm(8*#N*4*GCPGcbl(84#MY*w#jj(N*PNm4PGwPP4MCCmx#bG8w4j4(cwM#&4NGMPmMjCwm*cGGC#Njbb**4jC4cGbPj(Nmbmmcc:w8P#Gb*wa#C4CG4N*McGCmjcNkP8mCwbwwNjG(N*nNCM(G*MGcctb8jM4bPwPj8(8**Nm8#GCmbc(*G8M#Mb#w4GC(N*mN8bcG*P*MCCKP4#b{GwMjM(#*jNN4P#*PmMjC*mwcCO:wb#ww(*MNc4#wmPNMNCmmPcwhP4c#GbJ*b#c44G4PcM#P(mjcP>m8m#wb*wGjC(hGbP(M4CMmcc#dj8##Pbmw8jw(N*GNC4rCbm(c4tM8cabb#wNjP(P*8Nw4*G*P#M-/b8(#(Swwcj#(j*mCMP(48GmP#c#CPcCCCw(j4(M*jCbNC4cGmPGccANm###bN*m#mbFwGN}48GGM#C4mPcm:88G*wjmbC*N(K**P4MMCcmNm#c)CG84bm8Cj*(G*CP(8cMbGmm(cj9G*b#/bMwbN4(jNw4bGCPycbsM<P8wcG4mw##C4b*PNM4mGNP(CGm8#bb(w4j#j84(*jN)GNPMM8Cwm*chNPnG8PjbbwN4(GG#PjMNC8(MmPcwU*Gcj*wENb4(G4jGMcC#mjM#C(8m#PbwwPjG(C*EjC#PC4mbccCC8j#NbPmm#c(w*mNG4wG)PCc(G4mw#cb4wjjc(P*PN8bwGPPGMwCdmG#(hmwMcc-P*jNc4PGjP8MjC*PwMj9{8wj(b**MNc4#GjNjMPCjm8cj1*8m#Cbww(N(44GMNMM#C#mN4P8(88#cb*wNjC(*GbNwjwCMPGc#C#8N#Nbmw8jw(PccNG41CbPbc4248cM#8CwNj((m*cNw4cGGPPGcab8b#4u4wcjc(j*bNP4##(P8M*CGPGceq)w(j4n#*MjC4jGjPPMmC8mw*V^*8N#tbC*(N44M*C4cMjC#mPcbv888#*bwwCjwmNGbP4MMGwm#c#YN8PMwbmwmj*(G*CNgMbC((#c4=48##cbNwPjm(8jjNw4GGCPCcbs(84#(R#w#jj(N*Nj748GwP*MsjPAc8*c*bCwG#G(G*(4j**PmM8CwmCwCc*bmw*j44a*cPb(mGCP4CPmmc8!w8*#GbC8SMb4(G4PMMcC#mjcNCcjm#8bww*jG(C*}Pbc(8Mm4M*)#8j#Nb84jwwNN(bG#Nm4mP_MN!48M#cbN4j*MjC(P*CNc4cCjmjCL8b#(b4wMjc(#*jMN4N**P8MwC*mL*4cm4c8wjM(O*MNCc(CMP*c4mmc#^*8G#C((bG*GNj(C*CMcGGmNcPOm8**P#8bN*4jP4c*_P(CMmcc#-j8N#PN#bm4w(**GNC4,Cbm(c4Cwjc#cb(wNjP(m**G(PP4GCjMCGO8(#4bMwjG8#C(NGcNP4PGYm##PC*mGcm(CwC#CbGN#4jGNPP(cC8mwc*Cwjj#C(b*(jP4MGcP#Mj*GmPcP<88j#*bGwC#GbMG(PbMMCbm#cjVNmjc8b8wPj*(8*CN5Mb*Om(cMLb8#cmbNwPjmbPw(N*4PGCPNcbr(84c(bbw#jb(N*MNm48GwP*#NCCmC#bLww4j4(c*#(P4jGPPmMPCwm8cGp84j#q((*4#(4cGcPj4#G(mmc#:w8M#GbCweNb; G4NGMcC(mjcN=P8mGPbwwNjG(**%NCM(G*c#cc%b8jM#bPwPj8(w**Nm8#GCmbc(Gb8M#Mb#8c#b(P*cN844G*PGMCClNC#(V*wMjb(#*jNN4P#NP8MjC*mwcChGwbc(w8*MjQ4#G(PN4GCmPPc*T*8N#Cb(*bN(44wMPMM#CbmNc4xm8c#wC*8MjC(mGbNwM4C(mc4#CP8N#4bmwcjw(w*G#C(PCbPwc4CG8ccjbjmN#((m*cNw4jGGPMMWvb8b#4hCwcjb(j*(NPbmP4PwMNCGmmc-rmw(M*wm*cNb4jwmPPMPC8P c*Am4##C(b*(#c4MGMP#M4#CmNcmV8Pm#*b*wC#GbmG(NGMMGwm#cjSN8PMNb8w#j*(m*CNaMbC(jbcMCd8##bbNwPjm(8GjN*4PGCP-cbL(84cG8Mw#jj(NwCNm4mGwP8MGC8(jcWb(w4#m(c*cNj4NNMPPM8CwmwcGkC89jb(b*4NM4cGcNwMNCPmmc*jc)4w#jjbCG8jC48GwPGC#mjcNFP8N#8bww*#wM(*7PbM(C(mMccZ#8j_4bNwmj8(8**NG4CGCmbc(^48M#cb#wjjN(j*mN84wG*PPMCCF8b#(b4wMjc(#j(Nj4PGmPmMwC*mGcGKLwbj((4*MNc4#GjP#MPCmm8cwBN8G#Cb;*bN(44GMPcGbC#mNcP^P88#wb*w*jN(RGbP(M(GPmcc#yj8mG4j#bmC#j8(C*XPMMmCmc(CC8c##bjwmCMj((#*84wGmPCM91b8M*4#Kb(jc((*NNP4mG*lPmPMPCNcCVjw(j4(M*jwwNc44G8PMMNpN8j##8G#P(b*(N44#cGGGPbMXCMm40P8w#*bGwCjK(MG(P4MMG4NCcjDN8P#cb8wwj*EGNjNsMbC(m4cM%(8#Mj8ZwPjm(8*wN*4NGCjeCPg(84#Mbcw#jc(N8P4(48GwP*MGCCmw#bC(#8jM(c*#Nj4NGNPm(cmCm*cGxC8jjb(b*4j*4cG(OGMjCPmmc(ew8w#Gb8Mjj_4(G4NmMcCcmjcNbj8m#8bww*jG(C*BPb(MC(mMccdc8j#NbPwmCG(8**NG4*G)mbc(X4MC#Mb#wjjj(P*mN84wGbPGMCCVm&cMb4wMjc(NMM*PPc(GC4Pj#j!Nmm#MdG88#**4jR4#GjPNM8M0}jmw#c8*#Mbp*bN(4ccmG*NC#bCEmMcbBCw#jcw*#C(oGbP(McMPCPPC#(=#mGNm(j*(jw4(*NNNMmCmc(Cj8c##bjwm*CN#(C*c8M4wGmwmc# #8M#*wM#m(j*NNP4wcwGmmjcmCtw*#(bG8jjwbHNc(CGNPPMmC*Cj8ccm}jwM#w(mN((MGcP#MjCm(4mNc8bjwP#jM#w8N*4(G8NmM4CbmPrN8P#mb8wwj*(G*CMF4KGbm4cM2c8Nw4j(b(wGj(4MhjNw4GGPPwMQ)M8c#*bbj#bw*PNm48GGC4m#MNCNmGcPbCwc#*(G*b4jGbPmM8CwmCw8c{bw8cjmbGwG4cG#PjMNGNmmc8Qwm8wjbCwCNb(jG4PMMcGMN*cNQj8m#Mbww*jGb*wSPb4CC4m(ccp#8jMNfmwmjN(w*mNG4wGsNC4G:4mC#c%mwjjN(P*mNM4wGmPGMmCumC#(C4mmjc(4*jNc4PGMP8(wmcmGcw}H8Gj(((*M#c{CGjPcMPCjm8cjI*mwjwbswwN((8GMPcM#CjCccPKj88#jb*wGjC(LNPPbMbCMmcc#?j8N#PN8w8j8(**GNC4GCbN(C8uM8M##b#wN#>(m884M4*GwPCMC7bmN#4EMMNj#(c*NNc4mG8PwM*PPmGcgbbwbj4(M*cNc(CGNPPMmCmmcc*fG8Cj(Nub.wwNN4w*mM#CNmPcmk888#(bGwCj_44Mw*8PC#CCMm#cbbb8P#Mw8jM(G*CN9M4#8G8PC#bCC88##bNjP(c*wN*4GCb%PmcM8%M8wbM8Gjj(N*PNw8c4mGwPjcjCCmmbb8mjM(c*#NPNb4jGMPMMjvbm*#c8Ccm((*4NM4jMkGCmMP#bCm4#jcmCG8w4CwCj84jG8PPM;=4mbc*<N8mbww*jG(C*4PbM(C4P(4G3#8c#Nb(wmj8(w**#w4CG*mbc(n48M#cb#McjN(j*mNP4wG8PGMC*G8b#(b4w(jc(#*jNNbZGPPPMwC*mGcC.9mbM8(4*(Nc4MGjPjMPCm(?cwRP8G#CbZw*N(94mHPMM(Cjm4cPV(88cwPxwGj8()*8P(M4CMjc((2#8M#Pbjw8jm(*wGb(40G*m(MCfM8M##bjwcjP(N*8NN4*G*PCM6Pw8b#4bMwMj#(j*NNj4#G8PwM*C*PGcIbbw(jcPPb**#P44jGjPGcMbjm8cw?N**j*b*ww4MGcP#MjCNmPcmGPjw#wbbwCjT4bGMCPPqMPGCwGc#7MGM#WbgwGNj*GN#MbC(m4c#jC28w4#4(c*MjM4M*N4GGCPAcbCj84#Mbc8-(P(N*PNm4NGwPwMGCCm c*NPw(jM(c*4Nj4jGPP#w(C8m*cGQ88U#d((*4bC4MG#PjMjCPmmc8Gw#c#GbGw<Nb4(*CPM(cwXm#cjWP8P#8bPw*#w(8*INGM(C(mMccr#mccMbPw#j8(m**NG4CG6NCc(k(8M#bb#wjjN(P8&N848G*PGMCCx8b#( jwMjc(#*#NN4PGmPm4GC*mGcCZC88j((4*MNjjCM4C4Pmc(mmccu*8G#C((M#*mNC4c*GP8C#P#cPDm88#GNN(#wwNb4cGwPC4*C*mCjblb8j#c(j*(Nc**Nb4{Cbm(ccj*{*mC#C((w(jG(mG(mmMmGmPPC5m##4bMwcjNP*(%*(8M4YGfPGcjCm8Nc^wb#G(M*cN#4P4CG*PPcMm8cNlG8C#v(4(N*CNM4*PcMbCNmPcm&*,PwPj(bmwm4bG(P4MMCcm#cj:N8P#Pb#wwj*(GGb*PNc4CC8c4Cw8##jbNw8GCj4(wGPN*4*CMmmxbm8#Mbcw#jPP{(NG(N84YCcPNCGm8#bb(w4j#PM4(*jN-GNNRM8Cwm*cpjcDG8wjMb**bPb4kGCMNCPmmc88N8*#GbCwm(84(G(PMM(C#m#cN+N8m#jP4wwjG(C**PbMbC4mM4j_c8##NbPwmj8(ww8jj4CGGmbMmn48M#cOMm_jN(#*mNM4wG*PG(CmN8bcCb4wbjcbN*j#NNpGmPNMwCmmGc4)?mb#M(4*bNc44GjP4MPCmNxcwYm8G#8bY*bN(44w8PcMMCjmNcP{#88#N)4wGjC(2mrP(M(CMP44C!j8b#P&ow8jw(**G#*4.GPm(c4uM8c##bjM#jP(4*8Nm4*GwPC(m4(8(cwbM8Mj#(#*NNN4mGjb4MwCGmCMCbbwbj4bHMwNc4jGNjcMmCmmwM8Cj8C#P(b*bN44MGcj#GCCNm(cmXM8w#jbGwCcG4b*mP4MMCcm#cjGN#b#mb(wwjj(G*(NgMbN4m4M*Scm*#jb#wPjM***wN#4G8GPJMu?(84#Mbb4*j#(N*PcP48G8P*4wGNmvcmb(8CjM(c*#Njb#GPP(M8C#m*cGdC8IGC((wwNM44G#PcMNC4cwc8Kc8*4*bCwCNb4(G4NQ8wCcmjcN*N8m#mbwm*(#(C*PPb4wC4PPccG#cC#Nb(wmjM(w*8NG4bNNmbMPF4P(#cbcwjjb(P*#a(48G*PG(*CUmu#(UC48jM(#*jcj4PGPP8MwjKm*cP<p8Cj((4*MNbm*G#PNMPwPm8c8U*PGbjb1wmN((*GMNNM#CbGbcP{48848b*w*jC({GbNG8mC4mcc#*#8N#Nbm8P#c(**jNC4wCbm(c4dMP4##3CwNj4(m*8Nw4*#wPCMPrbmd#4b(wc#!*P*NN(4m8mPwMwCGmCc!5*4Pj((M*ccc4jGjPP(mm4mwc#oG8P#fb#*(#4*wGcNCMjCbmPcNQ8mG*wbGw#jBC7G(P(MMGGm#c4jC8N#mb8P8j*(**CNQwMCbP*cM+48##jbNw4bP(8*mN*44GCPCcbC:84cXNwwcjj(NwGNm4mGwPjCICCmC#b8Cw4j4(c*#Nj4McEPPM8CwcmcGQG8_cC.8*4N(4c*GPjMNCPPNMM5w8m#GbNwfNb4(w4G8McC4mjccTP8j#8Cw8GjG(w*KNGM(GGmMccCP8j#cbPw#j8(w**NG(4G,PCc(l48M#bb#w4jM(P*mN8G8G*P*MCGGPm#(lwwM#8(#*jNN4PwNP8MMC*mGcCfBwbj(mb*MjG4#GcPNMjCmNcN*_*8j#C*G*bNb44G4PcM(#GmjcPKmjP#wbwwGj8mj*%P(M4mNmcccnjm#c(bmwMjw(w*GNC4f*bMmc4C*8ccCbjw(jP(m8PNw4cGGPCMI2b8(M48wwc#*(j*(NP(*G8Pw*GCGmNcnANw(jb(MwC(H4jGbPPCEC8m8c*d*8C#wPN*bN44MP8P#M#CNmc*b9m8w#*w*wCjC4bG(b#M4GCm#ccyN8P#mbjM4jw(G*C4CMbCbm44Mm*8#cXbNw4jmbG*wNjncGGPPcb8(84#4bcw#jj(MM&NP48GwM*MGCGm!c*NPw(jM(cNcNj4jGPPmwGC8mjcGF*8ljb((w*(44cGMPj!wCPmPc83m8*#mP#wCNb4(mjPMMMC#mjC4SN8m#8b8w*jG(C*GN2M(C4mMcMCC8j#NbPwwCjjM(#*wmPc8mbc(:48M#4b#wjjNbjG*N84wG*P*MCCl8b#(mGw4jc(#*#NN4PGmPmMcC*mGcC^Vwbj((4*MNc4#GjPNMNC4m8cw%*8%GPPjbw*GN44wPM4UCjmNcP)w<M8m#mbwwP(C**P(M4CMmjmccCCG#NDcw8jw(**_*NN#MPCmm(M*e4wM#wbwwCjC44*#N#48G*mMMfC8#48N4#8M4(m0T*wRm8P84SCGmCcqb44jwjjm(m*GNb4b&#PNMCC8m#)G8C#Q(b8DN44MGcNM(:CNmPcmq#8w#*bGwCc((/G(P4M4CcmMcjC#ww#mb8wwj#(G*CNr(C*8m4cMtcmC#jbNwPjM***wN*4G*GPIMX3(84#Mbb4*j#(N*PjP48G8P*4wGNm:#bb(8ZjM(c*#jc8GGPPPM8Ccm*cG<CP^cM((*(NM4MG#PcMNGjm(c8Em8*#wbCw3Nbb(w*PMM4C#mccN^c8mcPCCw*j8(C*CPbM(C4P(4Cx#84#Nb4wmj8(ww8jc4CG8mbcbS48M#cb#cNjN(j*mN#4wG8PGMC#G8b#bb4w4jc(M*jNN(jGmP8MwC8mGcG-7wbS*((*MNc4cGjPNMPCmm4cwQ*8G#Gb8*bN(44G#Gcm(4UC*cNY488#wb*wOwmNw(7G8PbMMmMMC%j8N#PbwMcC4jN4m*CPNCbm(c4hM8c##bjNM4P(P*jNw4*GGmbPCcPCN#4bMwcj#(j*NNPCwm8PwM*CGmCcebbw(MCGM*cN#4jGNPPMmC8c4b*AG8C#D(b8CN44MGcNM(kCNmNcm&m8w#*bGmC(N4bGbP4M4CcmMcjC#w##mbPwwjj(G*CNS(CCCm4cbxcmG#jbNwPjm8w*wNw4GGwPgMCS(mbM*bcwMjj(j*PNm48wwMcMGC*m}cCb(wbjMb4G4Nj4cGPP4M8Cwm*Mwbw8A#*((wCNM4cG#Pj*PCPmNc8SN8*#wbC8G#m4(*;PMM(C#mjcNGP#(#8bPw*j8(C*8PbM(*bmMcbt#8##NbPwm#P4P**NP4CGmmbc(-48MM4b#wbjN(j*mN84wG*(CMCC*8bcwb4w(jc(#McNN4#GmP8MwCmmGcCP48Z#C(4*(Nc4#GjPNGMCPm8cw3w8G#CbowJjb44GMPcMcGGmNcPHm8*Gb#cbG*8jC(CG#PwC4P8c#Qj8N#8jBbPwjjC(N*wPwM8Cmc(CP8c##bjwmGCN((MC#Pc4PG#mMc8km#(INwcj#(j*mCCP(4Mb#m(c(C.8Pcwbmw((4wCN#4jGNP88mMP!c8ccC8C#&(b*(N44MGcP#MjCjPmcmi88w#CPc(4wCNmcPGjNC4CGC*bc*T*88jMw8jP(G*CNZM4##G*wh3MmG#jbNwPjwPN(*GPN(MjG8P8vbmG#Mbcw#jPPj4c*mP4G8PbMGCCmp#4N4bbwGNb(jCMNPMc*Gm4MjmwccLC8Wjb(Mbw*(jC(CG(PwMNCacmn#8*#GbC*(GNNG4M*wP*CcmbcNeP8m#*Pjb8*mjN(mNq4wC4mMcc5N(cmG#N((w#(8*NNG4CG^m4mbc8CPmGbcw(jN(P*mN*P(MPGGmjCe8b#(b4PPjc(#*jj#CNGPP8MwG*mGcCY;mC#G(4*4Nc(cGjPNMP*mm4cwpw8G#Gb9wGN((b*PPcM4Cjm#cPTm88#wLbwGjG(_*GP(MbCMNc4CWj8j#PbPw8#G(*8GjC4fGOm(c(iM8b##bj#mjN(P*8Nm4*GwPCMwjN8b#4bMPCj#(#*N#Pb4G8PjM*CmmCcNbbm-jE(MwGN#4(GNPPMmC84*c*xP8C#P(bw9N4(GNCP#M(CNPmcmsm8w#wbGw8Cj(3G(P44cCcmccj=M(t#Pb8wwcj(G*GN=(bw8m4MC:c8(#jbbwP#N4N*wN#4G*FPHcbp(84Ccbcwbjj(b*PNN48G#MCMGCmm!48b(w(jM(c*#N4mCGNPmM8*#m*c*ACmGcm((wGNM(PG#PjMN*Pc(c8R#8*#mbCwbNbb(N8PM4CC#mbcNCw8m#8Pmw*jP(C*GPb4gC4P(4GX#8b#N7Nwmj8(w8*#j4CGmmbMwE48b#cIM*MjN(b*mN(4wG*PGMCPb8bcwb48wjc(M*j#NGbGmPcMwCjmGcMXJmbbm(4wGNc(%GjNGMPCMj(c8ON8GMGbBwSN((*GMPb8*C#mNcPGP88#8b*wmC#(CGbP(b*CMmMc#Gjcd#Pbcw8jN(***NCbXPPm(MGDMmp##;mwN#8PP*8N#4*wNPCMCLbm*#4yv4wjc(j*N#44mGmPwM*NbmGcwbb87j4(M*cj3*#GNPPMmC(mwcwlG8*#5b*MPN(4MGcN*MjCjmPcmG*88#*bGwCj64bG(P4wjCMm#cjh#8P#mb8wwbN(**CN>4<C(m4cMtc8##jbNwPjm(8*wN*4wGCP{cbn(mG#Mbcw#jj(N*PNm48NjPwMGCCmC#bb(w4j4bN*#Nj4NGNP(M8Cwm*c0NjvCwPj((j*wjCGcNcMNCPmmc*jjbc88#=(M*8NG(wGwPGc7GJm#cMb#wbjMw*jG(C*^PbM(C4mMccoc8b#NbPwmj*jP4PG(Nm4mP6MP_48M#cbN4w8ijP4#*mNmMbCjMGCM8b#(b4w#GCN((P*-*#cjG#PHMwHN8jAC8jj((4*MNjPw4cG4P8MMCN8N#jb##Gbc*bN(44G#EGPM4CCGmGmj(*8O#w(MjG(8GbP(M4C#C88(cjUo#N!ww8jw(**S3NPN4mCmm*M*5P8c#*4c*cjc(MN84#GGPCMaL4(j88#nb#8Cjw*jj*4mG8PwMCjM3jmPN8bjwjjc(G*bNC4jPNMcC8mwc*D1(Gwwjb(mN44MGcP#bmCNmPcmCP#b#wbGwCjw4bG(P44(*Gm#c#tNmF#mb8wwc*(#*CNCMbCbm4M*!cP##cbNwNjm(m*wNw4GwCN*cbQb84#4bc8mjj(Nw*Nm4mGwP8MGCCm{#bqbw4jM(c*#Nj4#GPP#w(C8m*cGCc8V#l((84(w4cGbPjMMCPP*c8G##U#GbmwHjc4(G(PM4CC#m4wC2N8m#8U+w*j*(C*wRNMbC4mM4wT#8##NCPj(j8(j**Nm4CG4mb(w8#8Mcyb#m*jN(N*mN44wGPbcMGCp8bMNb4w4jcbM8YNN4MGmPbMwC*mGcCGGwb#w(4wXNc4#GjPNwjCmm#cwW88G#*bAw8(w44*CPc4bCjmjcP+P88#NPMw*jC(WwwP(M(CMmbw*B#8N#PCWw8j8(*8G4j4kGwm(MCaMm,##Cj#1jP(c*8Nj4*G4PCM(#f8(cBbMm8j#(#*NNM4mGjb4MwCGmCM#bbwbj4(McNNc44GNPjMmC8mwcjm*8C#O(bwmN444GcPMMjCMbecPi88w#cbGwGj<bCw8P4MMCcm(cj9N8PcNTMwwjw(G*#NTMbC(N4m8Vc8c#jbjwPjN(88wj(4GGGPTM:y(mj#Mbc8Gjj(j*PNN48GwP*MGGNm1#bb(w4jM(4*#N4(MGPPmM8*(m*c*<CPubP((wGNM4bG#NmMN*4*8c8lj8*McbCwCNb(wG4N-8wCcmjcN*D8m#mbwm*(#(C*8Pb4GC4Pjcc*F#m#NbMwmcb(w*wNG4jGtP*wPg(8M#cGwwjjj(P*m>G48GPPGM*Cn8b#(u*#4jc(#*j#c4PGPP8MmC*mm*#vCwbj(Cn*MNM4#Gj44MNCmm8c8y*8G#Cb2w8N(44GMPM4jCjmNcP;wcNAM#m4P*8NM4m(C8GM(GCP%PC!c#Nouw8jw(**}(w*N4Gb*mbMGCCCG#MwjjP(m*8Nw4wGPPCMOab8M8PcGK**b(#w8NP4mG8PGGmP#Cw*bcNcbOx8w(GbNwC4cPNMbC8mwc*?%/N8G#8b8wGNN4MGwMjCNmPcmCN8w#*bG8*mu4bGbP44GCcm#cjC#8j#mbPwwjj(G*CNTMb*wm4cbTc8##jbNwPjm(j*wN84GG*P!MCI(P4#4bcwMjj(#*PN#48*mNjMGC8mIcwb(w4jMb4wcNj44GPPjM8Cwm*cGGb8y#C((wGNM44G#jj4CCPmNc8Qm8*#mbC8G#84(*CPMMMC#mjcNCj8b#8bjw*j8(C*^PbM(GGmMc4x#8(#Nbjwmc8(j**Nw4CGGmbMG_4m(cMb#w4jN(j*mN84w*8N#MCC88bcCb4wMjc(#w#NN4jGmP#MwC*mGcCC#wbjb(4*MNc4#GjPNcMCmmmcw0*8G#Cb&*bb*4(GMPcMcCjmNcPeP8##wb*wGjG(4GbP(M4C#,CmGc#bb*8j(=CCMjM4#*GNPGLP*c4.M8c#N#*(MwPN(*mNb4*GGPCc(jjWmmwjGb*wb#G(wG4P(GmNNM*CGmC#(jNb#8G#*b*G(NNcwGNPjM4Ccw*#mYGwwjj(mwG44*PP#MjCNm8w8#4b48#PNb*wCjm(*GbPcCcm#cj3NmM#mb8ww#84(*CNBMbGom4cM,cP#cGbNwPjm(8*wNm4G**P(cbC=84c2bcw#jj(NwbNm48GwP8MGC*mXMbCmw4jM(c*#Nj4jGPPmMNCwm8cG{G8fjb((wbj64cG4PjM4CPmmc8pwPC#*b8wRNb4(G4PM44*Cmjc4OP8N#8bww*jG(w*9PbM(GGmMcMu#mc#wbPwmj8(m**NG4Cw!Pmc(>48M#cb#wMjNbj*MN84mG*PmMCCZ8b#(CjwMjc(#*cNN4jGmj84VC*mGcCL&wbjb(4*Mjj4#GcPNMPCmm8cwC88M#Cb**bj*44GMPcM#*Pmjccom88#wb*wG#*bPGbN*M4C(mcc#1j8N##bmw8jw(N*GNG4xCb4*c(xM8c#cbjwNjP(m8yNw4*GGPGM47b8(#4b#48wG#nMb*#mPM4CNPNc#CPmPn?8wj4(M*cNNj;4#G#PNMcm8MCWG8C#g(4M4*jj84PGcP*PcgwmNc8bjwbj#wGj84bG(P4M#M8^(mjcI8Ncmb8wwj*(pMmGNPw4IGGm4m(b{8P#Tbm*(jM(m*w4*GcP_cbh(8c*Mjbbww#jw((*(PMMMPwMjCCm9#bbM4*G8#X4(*jNeGPPmM8Cwm*(QN8c84b(bwjNM4cG#PP8PMjYM8jc*(m8Cj8bM*Pj*G4PMMcC#mj4mjNCNm8bww*jG(C*VPb.(cM#Mcco#8j#NbPwmj8(w**NG4CG<mbP(G{wCmG*#w##C(P*mN84G#(G#PCcwCkm{#jb*jMbN*jNN4PGwbMmMM#V#8PcPbcwbjPMbGbNb(=Pj4mCmm8cwXC(88*#m(Pwwj*4wGGG4#jG-mPcmCC#8bcwGjC(HG4CCPMMXGPmGc(,(#NkPw8jw(**IHMNNMbCGm(c(7P8CN(b#wjj4MNGNNN4jPGM#/b8(#4b#4Cw8N4(4GcPM4MCMPNC*m(crbbw(jcP*(**#Nc4jG*mMPNb#m8c#oa#CbM*(N44MGjBUPwMQ^4mwN4i8wc#G(4*Nj8GbNGMMCcm#cPcbbc8M#*w8jj(G*CNBM44CC*mIc#9j##bbwPjm(8*Ga(P#M8CbPmcj8(c8bcw#jj(mM#*NNc4pG#m(M*CCc:_*w4jM(c*Nw*PM4*G4MmCNm*cGWCw(8RjmbPN44cG#Pj4CCPmmc8y88M#GbCw/N4mj(8GMmbMcCcmw#(8Pcmbww*jG4bcc*PP(MCC4m4cm7r*4#jbNwMPP4P*PNNGCP(c(Q48M#jN*b8wjN(cb*CNj4jGjwPccDc84#ww4#G(#*jNN48cCC4mNMGCj8M<C8wj((4*MNjjCM4G(P8CPm#cw=*8GjbNC(**(N8G(PcMcC(mNcPvm8*8(jP((wN(<GbP(M4CMmcc#pj8N#Pbmw8jwO4*GNC4H*CN8c4%M8c#bbjwNjPOm4bNw4*GGPCMHCP8(#4C*wcj#(j*jNP4PG8Pw4*CGmCcdbbw(j4(M*cjM4jGjPPMPC8mwc*GGmG#lbl*(N(4M*CP#MjGMmPcNd888#*bGwCjlbPG(N?MMC4m#cjONP4b*b8wPj*(4*CNCMbG8m4Mejw8c#jbN8Gjm(m*wNP8cGGP5cbC#84#4bcw#Nc(N*#Nm48GwP*MGCCP(citCw4j4(c*#Nj4NG#PmM8CwmmcG?G8djbSP*(NM4cGcPjMNCPmMSc,w8*#GL*w)js4(G(PMMb#*m#cN%PmN#8b8w*jmm#*CPbM(wmmMcM #8jMCbNwmj8(8**NG4CwXjmc(^48M#cb#wMjNbjGjN84mG*P*MCCD8b#(mMwMjc(#*cNN4jGmPcC#C*mGcCCjwbjb(4*4Nc4(cGPjMPCmP(cwEw8G#8Pjw_N(4488PcMcCjmN4qYP88#wbwwGjC(Iwb#8M4CMmcc#Bj8c#PqN*Njw(8*GN*4!Cbm(c4Pc8c##bjw#jP(N*8N#GjGGPCMHGb8(#(bMwMj#(4MCNN4mG8jwM*C*mCcwNNwbj4(MmwN#4#GNPP4bCmmwc*%*8C#<(b8((84MGcP#MjCNmNcmG8#M#*bGwCj?4b*GP4bG8mmccjRNP4#mbmwwjM(G*87j4iC(m4(GRc8c#jbM4hjP(8*w#M4GGGP:cbGP8(#MbcwMjj(N*P#MGGGwP*MGCCm7cib(8wjM(bM*N#4NGPPmM8C8m*cGmm8Cjb((*(NM4cG#PjC#CPmmc8Cmm##GbCwR#84(G4PM(cPGmjcNiP8m#8O(w*jG^b*CPbM(C(mMc4f#8bb(bPwmj8(#**N*4CGCmbMGjm84#cb#wbjN(N*mNj84GwPGMCmC8b#bb4wMcw(c*jNN4PGmP8MwCjcNcCg wb#N(4*4Nc4cGjPM8+CPm8cwR48G#Gb^w*CP4(GMPcM#CjmjcPHm4X#wb*wGj8(UGbP(4bAbmccc{j84#Pbmw8#m4m*GN*4QGGm(c4DMm4j4bjwcjPb#*8Nw4**wmwM2C*8(c4bMwcj#(jC(NP4mG8PNM*C*mCMGCmw(j((M8AN#4jGNPP(NC8mmc*xG8C#7(b*(Eb4MGMP#McCNmjcmec###*b*wC#m4bGbP4M4Ccm(wGLj8P#mBcwwjw(G*8>j4UC(m4(#Ec8c#jD#8(jm(m*wjN4GGCP}cb*U84#(bcw#jj(N*PNm8PGwPwMGC*m2cCb(8*bG(c*cNjbwGPPPM8C8m*cmN#8Cjb((8jNM4MG#P48CCNmmc8*J8*#*bC8G#m4(GbPM4#C#mjcNKPPN#8bPw*j*(C*tPbM(jbmMc4p#8c#Nbjwmjc*#**Nw4CwGmbcbd484#cb(4Gjj(P*m#P4wGwPGM8jjmx#(b4PNjc(c*j#NGbGmPPMwCwmGcbyombbm(4*(Nc4MGjj_MPGwbmcwxb8GM4bhw=N(4bGMPb8*C#mNcP*G88#8b*8w#N(i*CP((wCMmcc#kbm8#Pbjw8jw(***NC4*Cbm(bo)M8c##b#wNjP(m*84j4*GGPCMCib8(#4bMP(j#(j*NNP4mG8PwM*GwmCcGbb8&j4(4*cN#G*GNPNMmC8mwc*_G88Gjbl*(N44MGcPcMjG#P(cmsm8w##bGwCj?bbj#P4M4CcmccjG*8PcNbPwwj8(G*cNqMbC(Pb4C0c84#j5 wPjm(8wm#54GG8PnMM&(84#Mbc8Njj(j*PN#48GmP*(GGcmKcrb(w(jMJw*#jc4PGPPNM8CNm*cGlCPL#4((*bNM44G#N#MN*PP(c87m8*#wbCwjNbb(*8PMM4C#mccNC#8mM8,*w*jw(C*GPb(TC4NMM8Z#8c#Nbjwm#((w**Nw4CGCmbcb648(#cC##CjN(N*mNm4wGjPGMb#C8bcjb4jwjc(c*jNj4PG#b(M8C*mGbjp-8Qj(bb8*Nc4cGjPjMPCmm8Mmw(8G#*bXwmN(44GMjc4(Cjm#cP!N88cbb*8wjG(r*GP(4PCMmcc#Ccm(#Pb#w8jM(**GNC(GG*m(MGfMmN##bjwNjP(b*8Nm4*GPPCMsEb8(MCbMwMj#(j*NNN4mGjb4MwCGmCcBbbwbj4b(8GN#4#GNPjMmC8mwM8w48C#G(bw8N44MGcj#(mCNmjcmVP8wc(bG8*jb4b*CP44mCcm#cjC#Po#mbjwwjc(G*CN/(C*Nm4MC2cmP#jbNwPjm(#*wN84GGmPlcb_(84MGbcwcjj(N*PNP48GNbMM*CCm=#bb(w(jM(cjbN#4NGPPPM8Cwm*cGCE8tjb((*(j84cG#PjMmM(CNmccctNw(#G(#js(*G4PMMcCNC*8McPb(#mb#w*jG(CG(f8PjM8CGmj%cmc#NbPwmj*Pj4c*8NEMMC8mGMwrw8Gji?Hw#jM4#GbPMGwPPMCCV8b#Mcwby8CjN*#jk4PGmP8MG#ja#mNNPbP8wj**4jG4#GjPNM8jMCPmwc*4cw*bCwMN(44GMPj8mM#GCmjcwb4*#jcbPw#NN(wPb4bCMmcc#KP4(8Gj((cwGN8MN*jN?MbGSm(#((Cw(#PbvjNb#*8Nw4*G<54PGMPC*CnjC(bw_jCjcG+P(4#G#mbMwCGG4mGwb#((M*cN#4P#4GjPPc4MP*bc*Z#wN#Sb8*bjC(PbPGMCjm4cm_88w#CPPb*wCNP(wP(4wCcm#cj9m(Mw(#8bmw#N#(PNC4jC(m4cMdj(s8w#O(4wwP#4NGjP#GGP8cb (84##c8((w8jb*PNm48GwjPMGCCm)MCC8w4jM(c*bNj4NGPjmC4Cwm*cGlC8O#(((*4c#4MG#PjMjCPmNc8f##C#GbCwUcG4(G(PMMcC#m4wC!N8m#8CPw*j*(C*<jNMbC4mMcc6#8j#NCPm4j8(w**NG4CGmmb4;Gw8M#4b#w#jN(P*mjP(cG*P8MCCj8b#(b4wM*b(#*MNN4NGmP8MwC*c#cGIGwbj((4*MNc4#GbPNMPCmm8cwOw8G#CEjw?N(44G4PcM#CjNN4(Xm88#wb*wGjP(kwC#GM4C(mcM8Wj8N#PdN88jw(m*GNG4XCbm(MbwN8c#(bjw#jP(m*8#w(NGGP8M7C*8(cCbMmc#W(j*MNP4#G8NCM**GP-c&%*w(#C(MwGN#bj*4PPM#C8mNc*2#8CcGbj*(j*4M*PP#MjCNPjMwf88c#*b8wCjQ4bG(MVMMCbm#MV6N8P#mb88Gj*(8*CNdMbG)m4cMGw8##cbNwjjm(N*wN*4(GCP}cbCu84#4bcw#jM(N*PNm4PGwP*MG*Cm4#bb(w4jM(cwFNj(#wcPmMPCwm4cG_C8<cCbj*4Nb4c*NPjMNCPmm(*!88m#GbGw3jC4(G45wMMCMmjc#;P8j#8bwwmjG(C*BNCM(C(mMcbj*8##NbPwmj8(8**NG*mGCmbc(f(8M#cb#wjj4(P*mN848G4PGMCC,84wGc8bw8C#CMKGMN(M#PmMjC*mGcCb(4mwG#w(-NM(jGjPNMPCw(c8b#cbNwbPP(*w8NCMQ**PGMbCbcN2c88#wb*w GNNw(8GMM(GCmcc#xj8m8Nj(h%wc(**GNC4Z*pm(c49Mm4MCbjwjjP(j*8Nw4*GGjbMCCq8(#(bMw4j#(bN(NP4PG8PjM*C*mCcCbb8GGm(4*cN#4(GNPNMmCj(4cw2G8C#b(b*bN4((wGP#M#CNmMcmY88w#*GbwCjG4bG(P4MMCcN#ccYN8j#mbPwwj8(G8CN8MbG m4c(6c8c#jCNwNjm(P*wN84GG8P5cbCC84#bbcw4jj(N*PN#(wGwP*MGC(mpc0b(w4c((c*#Nj4MGPPmM8C#MwcGXG8B#c((*(NM44G#P48CCNmmc8CA8*#*bCwleM4bG4PMM4C#mjcN/Pcc#mbww*j*(C*sPbM(GVmMcch#8##4bPwmj8(G(wG#NM4PPDMNq48M#cbN448?Nb(M*M8cMPGjm8CCmw#(b4wMjjPC44*bPcGmP8MwC*PCcCJ_wbcoyw*MNc4#G#PNMPCmm8M4{w8*#Cbv*bN(44wM4*M#C#mNcNBm8N#wb*N(jG(GGbNdM4CMmcc(jG8j#Pbmwbjw(w*G#PjbCbPCc4Cw8c#cbjw#jP(#c(N84*GGPjM&CL8(cCN8wMj#(jwGNP4PG8Pw(CC*mmctA6w(j4(M*cTP4#G4PPMNC8mwc*)NcG#R(b*(jG4MGMP#McCNmc*bkm8w#*bPwCjC4bG(jcM4Ccm#cj3N8P#mb8MCjw(G*CNGMbC(m4cMP;8c#jbNwNjm(8*wN*4wGCP<cbTbm*#Mbcw#jPj((#G#Nb48PwMPCCmf#bbMhww-#C(NN#4NGPPm4CCwm*cGpG8Njb((*4N#N84G*tPGcbCPm({88j#GbCwuN4jw(1GDN8Mcm#c4IP8m#8bGb#*mjP4(N34*C4mMccqNvjwM#(bCj8P(MMCcm#cjJNPPwM84cyb#wjjN(8(4*CP#4CP*MbCl8b#(bc4G8*jb((*fNN44GwN9jM_mmPcP8Cjb((wGNc4#GjPmm4M8xjmwcm8*#Mb<*bN(4cci*GNCc4q(m8NbO488jjwGjC( GbP(M4CM8cbjt#84#Pbmw8jGj44mG4NPCbm(c4VMP###bjwN#jb4*8Nw4*G8PCM;{bP(W8bMwcj#(j*Nj*4mG8#GMwCGmCcCbb8pj4bGjCN#4jGNP4MmCmmwcwSG88Gjbu*(N4(GGcPcMjCMbkcPl88wMCbGwGjJbCw8P4MMCcPxcj,N8P#m!bwwj*(G*GNY4CC(m4MPIc8c#jbNwPjm(8*wNP4GGCPgcbu(8(#M14mPjj(j*PN#48GwP*(GGjmqcIb(w(jMbw*#NjbCGPPNM8C8m*cG_CmG#P((w{NM(AG#PjMNGjPuc8,N8*#4bCw.Nb4(*PPMMMC#m4cNhj8m#cK(w*j*(Cw*PbMbC4mMccK((G#jbPwm#N(w*wNG48#jP9c(t48M#cbcwj##b(*mN84wGmPGMCCaPbpmb4wMjc(#*jN#4P*NNMMwCwmGcc owbj((4w(Nc4#GjP#MPCPm8MmC#8G#CbiweN(44GMPcbNC#mNcPyP88#mb*PGM8(CGbP(4wCMP*c#Ccmb#Pbmw8j#(**GNC4kw4mbc4EM8M##bcwNjP(c*8Nw4*GGPCM.qbmG*mb4wcj#(j*NNN4mG84jMwCGmCcCbbw(j4(MwGN#4jGNNj44C8mwc*dw8C#S(b8((84MGcP#MjCNmNcm}cmC#*b*wCjx4bGbP4M(Ccm#(MvN8P#mb8wwj*(G*Cc*MbC(m4c4pc8##jbN8jjm(8*wN84GGGP-cbP*8(#Mbcwcjj(N*PNmbmGwP*MGCC4cM*#MjwP4m8c(MN4NGPPmM8Cwm*cGbCNb#Sbj*4NM4cGNGbP1M(C(mNc4bP8C#j(Nj7(*G4PMMcCNbMmP#cCG#mbNw*jG(CG(G#P#4wm4Mmn#8j#Nb8MbwCjj4cCNPj48GNmmMG84cYb#wjjN(8(mGjNcM(P*MPCR8b#(bcb&wMjm(j*(4PGmP8MwC*cN(8Gmjajbb**MNc4#GPGCPmMNCPmjBw8M#CbY*bNMPm4gG#PmMaZMm(cN_##wb*wGjC(rGbP((C8MmMM4Qj8N#Pbw(cwMjN(PGjNC4m1Nm8c_!(8M##4NwjN444**4wGjPCMlfb8M8Cc*tG*(Nb(mNP4mG8PwM*jMc(4Nw0w(j4(M*cN#4jGNNb+mCmmjc*BG8Cj(jj(G*4NwGMNMMjCNmPcwj#bM8m#C(4*mN*(8G8P*cCGCmcc4bc8Hj4w8j((G*CNFM4MNC8P*M*J4mGjMbmw(N4*8NM4GGCP1c4cGd(8N#c((8Fj#(MNP4cGwP*MGJb288*cwbjwG(M*bNj4NGPPw8mcNC*8#VG84jb((*4N#j84GC4PcMjCP*c#bbP8*jc(NNb4(G4PMMcC#mjcN<P8m#8bww*jG(C*6jc5(C4mMcc,#8j#NbP8m48(8**NG4CG^mbc(L48MNcbjwNEPGN*PN(4wG*PGcbcNC*mm#jbbw(jG(_Nj4bGmP8MwCCbP8jcE_C88j8bGNM(4GjPNMPCwb#m;#44N8*#Cbmw*Nb4cG#PGM(b6Ph#(Qm8cb*wGjC(tGbP(M4NM#4ccC#8N#Pbmw**NNj(jG4NjMPbwmbc4CG8b#cbPwmN((#Nw4*GGPCGNob8(#4bMmwjc(#*NNP4mG8Pw(*m#mCcCbbwbj4-4*cjZGPGNPNMmPMmwcwZG8C#;b*MPN(4MGc(CMjCjmP4m848w#8bGwGjJbMG(N*C#CcmMcjmb8P#Pb8wwj*(mc#NCMbC(4wcMTM8##jjmwPjN(8*wN*4GGCP(80s(P8#MmGw#j#(N*jNm4j#4PwMGCCMP#bbbw4#(_G*#Nc4N*#PmM8CwN*>#-C8*jb(b*4j#4c*MmMMNCcmmMCow8*#GbC#bNb(sG4NvMcCMmjM#C(8m#Nbw8mjG(C*}jbGmC4P!ccfc8jcmbP8NNN(w*NNG(CG:mbc(&4Mc#cb4wjj4(P*NN8(m*#PGM8C5PG#(b4wMccwG*jN44PGPP84GC*Pw#ws588j(:P*MNc4#Gj(PMPC#m8c#u*8w#C)G8mN((GGMN(M#CjmN4P8(88##b*w*jC((GbjRM!CMPGc#GG8N#Pbmw8f*(**PNC4PCbP&c4GMcN##bbwNjj(mwwNwb*PbPCMPDbmG#4f8wcj#Pu*NN44mGcPwM#CGmCjbbb8wj4bG*cN44jwN4wMmCMmwcPnGm&#R(b4.N4(wGcN<MjCcmPcmNM8w#cbGwjj3(mG(j4q*CMPTcjC68PMmb88m#8(G*jN?4mC(m4cMGcm8#jp_wPj((8*(N*4G*GPVMNi(m*#Mb(w#jjbM*PN(48GmP*MwCCmOMCb(wbjMb**#Nj4NGPNmM8CMm*cw3C8*jb((wmNM4bG#PbMNCbmm48C*8*#PbCw8Nb()G4N(4pC#PCcN%#8m#8bwm*dP(G*jPbMbC4P#ccCMmC#NDCwm#C(w**NG4C*MmbMj948(#cb#wjjNbP*mN44wG(PGMGC}PCc&b48wjc(4*jNN4PwmPjMwCMmGcGBR84j(bb88Nc(wGjNNMPCmm8cwG88G#MbtwGN(44GMPccGCjPqcPCC88#8b*8w#N(!*PP(4BCMmcc#Gjmj#Pbbw8j8(*wKNC(GCGm(MP9MP8##bjwNjPFN*8Nb4*GmPCMV)b8(j8bM8*j#bw*NNN4m*PPbM*C#mCc*bbw(j4LMw4N#(GGNPNMmG*mwM8(G8C##(b8PN44MGcP#4cCNPGcm<#8w#*bGwC#*4b*mP44PCcmccjGN8b#mb4wwjw(G*(N,48Gmm4Mw/cjM#jbjwPjP(8*NlM4*GCP_sC (8(#Mbb4*j#(N*P(448G8P*4wGNmScNb(8(jM(c*##j*)GPPbM8C4m*MwqCPIbP((wmNM(wG#jNMN*PN4c8D48*#cbCwmNbb<GVPM4mC#NUcNKP8mM8wMw*j((C*NPb(wC4mMc(=#mG#N;*wmjm(w8*4#4CGjmbcbH4Pg#cC#(GjNb<*mN(4wGcPG(CGZ8bcPb488jcbb*j#NbCGmP(MwCMmGc*lTmbcP(4w8Nc(*GjPMMPGNPwcw{(8G#Gb0*bN((b*?Pc4mCjmjcPvm88cm(mwGj((t*eP(M4CMmc#GljmC#P0*w8j8(*wwNN4nGNm(M( M8c##Cj8jjP(b*8N44**wPC(q*C8bcmbM8wj#-P*N#P(wG8P4M*CcmCccbbm(c#(MwwN#(GGNP4MmGPNCc*E48C#P(b*(N4bMwOP#4wCNPGcmYb8wM*h*wCjM4b*wP4(MCcN#c(9Nm*#mkCww#b(G*CN4MbGjm4c(:c8M#jbNmJjmbC*wNN4GGCP,cbbm84c8bc8mjj(j*PjN4PGwPMMGGGmK#bb(m4#4(cw*Nj(CGPNNM8*wcccGu#83#N((8MNMbc8CPj4CCPmbc8i#8*cw(ww0j#4(*GPMMcC#mj4#kPmG#8bww*jG(CwGPGM(G#mMc4S#8j#N7j*jj8bG**j44CGOmbc(CS8Mcwb#8PjN(N*mN8*jGwPGMCCC8b#(b4w4#P(#*jNN4NGbP8MwC*mhmNcG_888#G(N*MNwGjPNMPCmm8cwa*m((CbCwwN(44GMPjPwc4CN8bxPmP#wb*wGNbm4(CGbPjM4CPmcc*cc*w#N(#bPmbcjb(**G=Pjc4DM8c#NN*bDw(PM44*jNMM(CPmNCRm(#4bMwcjNNc4#C4P(4#G4mcMP(mm8cCBN8*jwb-Nc(cGNPPMmC*bj8cc8IowMj8(GwwNw4GC<NKM#CM8##bbM#wbbwCjS4bGMqjP44wCMmPcf(4w(##b4*cjP*GNPMbC(m4c#jMIMmg#wbu8G(m*jN*4GGCm(PjcGXjm*bcw#jj(N*PNm48CwcGM*C#mV#bb(wc8*j*(j*CNc4jGcPMCwm*cGVCmPjb((*4j(bGG#PjMNGOmmc8awm8MmbCwCNb(GG4PMMcGMm(cN/j8m#mbww*jG(CwjNX4CC4mMccy#8j#NPjwmjP(w*8NG4*Gtmbwm-(84#cbcwjj#(PwNPN4wG8PGM*CA8b#(b4wbjc(#*jN#4PGPP84mcjmGcC>-8jj((4*Mj44(GjPjMPGCm8cwv*8G#cb_*bN(4bGMPMM#Gcm4cPtm88#Pb*wGjC6t*bP(M4CMmcc#A(8NcjVGw8jm(**jNC4UCbm(MP/M8c##bcwNjj(m884M4*GGPCMhBbmw#4CMPGj#(j*NNP4mG4Pw48*mmCcGbb8#j4(M*cjMb*GNP#MmCmmwc*EG8CcjbdwGN44MGcP#MjCN8ccmkN8w#PbGwCjU4b*wP4MMCcm#cjHj8P#m8#w8j*(G*GN{MbC(m4cb:c8##jbj89jm(8*wNC844jG/m*cbsb8N#Gwc#N(N*PNm4*#4CbP*cN(j8cc*,*8*PC(8*8NPM(PP4mCwm*cGbb4c8Pj((C*4N44mGF84MjCNmMjPbP8P#Nw1Nb4(G4NNMcC#mjc(=P8P#mbww4jG(G*0PbM(GCb8cM2#8jcGbPwPj8.w8#NG4GGEmbc(gb8Mc4(4wjjc(P*jN84wG*PG*)CpmD#(aKwMj4(#*b4m4PGPP8M(C*m*cC_Rwb#GPm*4Nc4#**PNMNCmN84c2*8*#Cbr*bj}44*(m(M#CMmNcNSm88#wb*cCjC(CGbNCM4C(mcc#Nm8j#NbmwPjw(**GNC*8GBm(c4_48c##bjwj#G(m*8Nw4wG(PCMQ;b8M*M#(bC*(jNMc*mP#(CCMPNC*mbc6bbw(jcjm(*wCm#41*GP4#CC#mG#mKGwPbtw*N44MGcPN8jcMC*mPDm8j#*bGwCN(Nj4GG4PwCMP8cjkN8P#wjc(b*cNN4b*8P*M#Cw*C>Mmw#jbNwPjwPN(*GPN(MjG8wjMmOj#49*w#jj(N*8CbNC4#CbmPMLWNckrjw4jM(c*NGbN*MbCMP*MjlP8(#NMw#C(b*(jw4cG#PjMm##C88jMrbc8P#PwCj84(G4PMMjcCC8mN#bDc#8bww*jGbj*!PbM(GbcccM5#8j#MbPwmj8Iww#NG4CGTmbc(CP8MMcTCwjjN(P*mN848G*jGM(C)8b#(b4wM#C(#8jj(4PGmP8MwC*m8cCG;8cj((4*MNc4#*wPN(PG4m8cw?*8G#CbP*bcw#MGMPcM#G*mNcN&m8(#wbPMcjG(qGbNNM4C4mcc#bc8N#Pbmw8jw(**GNC((G_m(c4/48c##bj8#Nw(m*8Nw4cGGPCMoGCP8#4bMwcjM(j*NNP4m8*P8M*CGmGcyACw(#b4j*cN#4jG4PPMmC8PmM#7G8C#ubP*(N44M*C43MjCNmPMj^888#*b*wCjwmNGbP4MMG(m#c# N8cGbbmwwj*bP*CNCMb*UNwcM%c8#cCbNwPjm(8cCNw4GGCPGcb=(84c(CGw#jj(N*MNm48GwP**bCGm1#b>?w4jM(c*#((4jGPPmMmCwm*cGIC8Cjb((*4N4(mG#PjMNC8bPmP##)Gw(#wb8wCNw4cPMMcC#mjc#qP8m#8Rm*fjG(C*&N0M(C4mMccmb8##NbPwPj8(w**N*bCGhmbc({(m*#cb#wjjmmc((*MNmcjSPMGCM8b#(b4w#G#jM4bGMNmcjGwmNMba#mm.C8Mj((4*MNjmO4wGlm4Mw(4m8#c3Gw4jNb8N(44GMPcM#CjmNcP)m8mc8b*wGjC4(c#*mP4MvCMmMc8bb*M#NbPwcPm4m*mNPGYP4c4QM8c#NNw(MwbjP(MGMP#N8bPmwM8C88M#ww4jc(#*4NP4mG8PGP4cm94mPbbw(j4(M*cN#4j8McPMPCjmwc*gGwb8CjPbNN((NGcP#MjCmb4mNc4<*{mNP(j*wjG4m*GMMCcm#cj(N#wCPcmdwjwbC*CN6MbCMbNm7c#Uj8ccG##C(jc(#GcN*MPCNMCr(8(cCbcw#jj(mMNG#N8MMPwMMCCm9#bbM(Pw(#:(N*bNcMcCMm4C8m#cGpC8Uj4PwMmwCPb4#GCMjC4mmc8Kw8C8j#*b*wCjwG(N(McC#mjcmc^dG8#jMb#wwjj4mG#P#M(G*m*cbrC8(#(wPjj(w**NGMbcFC*PCa(mm#cb#wjjmm4(CGjNjMPCNPNcNCw#(b4wMjcG#PG*#N(mmPmM(C*mGcCb(4mwm#w(w*CjC48G#PNCPP*cw/*8GjbNPbCwmN*4P5PPc4/C,mM#(hc8cbwwPjC(1GbPMPPM^CcmGl#84#Pbmw8jGj#4m*PP(Cbm(c4OMjcGUCm##4P(PwPNw4*GGmbwmc#,m8*##4P8CjC(NXMmj#cnjwN#8(Pw8aD88j4(M*cNNmw4/CcP8MMWbcwHc8C#<(b*MCNjw4cC(P#M#C*84&mmx#*bGwCN(mj4m*w8*MPGiPg#M_NwMj4w8jc(G*CNtM4cCCMm.MPnG8(#(wPjm(8*w484GGCP_4CG884#Mbcmwjj(N*P#mG4GwP*MGCCmvcPb(w4M#(M*#Nj4jGPPNM8C#cjcG%C8.#8((*(NM4MG#P48CCNmmc8{#8*#*bCwwCN4bG4PMCMC#m#cNCjm4#8bww*j*(C*pPbbw(MmMcc1#m*#NbNwmjM(w*PXc4GGambMNf484#cb(4Gjj(P*mN84wGwPG4*GP8b#(b4wbjc(#*jj#M#GmPmMwC(mGcCaAwbG}(4*MNc4MGjP#MPCMcccwH*8GcCb)wHN(4(GMPb8*C#mNcPCm88#8b*wmC#(CGbP(bPCMmMc#Ccmb#Pbmw8jP(**GNC(GCGm(c(0Mmm##bjwNjPmN*8Nw4*GwPCMGibPRMwbMwMj#J**NNP4mw8##M*C*mCcCbb8mj4(MwwN#4#GNPNMmCmmwc*}#8C#C(b*(N44MGcj#(*CNmjcm}88wcGbGwCjj4b*CP4MMCcm#cjC#PC#mbjwwjw(G*CN^b8GMm4Md!cPP#jbjwP#w(8*NpM4*GCP&4M;(8(#Mbb4*j#(N*P#w48G8P*MGD*m+c*b(w4jM(c*#NjbmGNP#M8C8m*cG,C8&#G((*(NM4bG#P#MNC4cwc8aw8*#GbCwCNb4(G4NS8wCcmjcN{P8m#mbwm*(#(C*CPbM(C4N#ccG#cC#NbNwmjm(w8-NGbPP#mbcb^48M#cbcwjjM(P*#K(48G*PGMCC3mW#(xbm*jc(c*jNj4PGmP8(#mBmGcGkUmGj(((*Mjj4#G45CMNCmm8MP,*8*#CbwMNNb44GMPcM#C#mNMjC488#wb*8(jC(3GbjoMKCMmMc#Cm8N#Pbmw8Cm(**GNC4GCbPAc4CG#j##bjwNjP(m*mNw4*GGP8wjCg8(#4bMwcjc(jw#j(4mG8Pw48CGmCcACCjjj4(4*cjc4jGNPP(mC#mwcw_G8G#vbj*(jb(CGcPMMjGwmPcmO8mm#bbGwwj;b#G(P4MMG4PGcjAM8PcMb8wwj*(G*bNR4uC(PCcMXc8##jbjwPjm(8*wN*4*GCNG4mR(84#MC#w#jj(Nwjj448G8P*4*CCm3#bC(#8jM(M*#N#4N*CPm4P5Pm*cwHC8Mjb((*4j(M(G#PMMN*Gmmc8awm8j8bCwwNbbwG4PMMcC#CMcNJN8m#jbww*jG(CcbPbM(C4mMccgM8jM(8Cwmj8(wP8NG4GGkPNc(CC(8#Mb#wj4#(P*PN84N#MP*MCCV8b#(b(wM#4:C*jNN4P*jP8MwC*Pw(4)C8Rj(rm*MNc4#wjNPMPCPm8c82*PG#CCuwPN(4(GMPMM#CcmN4PCj88#8b*w*jCb8Gbj(4jCMmMc#y#8N#Mbm8Pj((**wNC(jCbm(c4GMP*##bcwNjj(mw8Nwb*P#PCMGDbml#4Clwcc#CN*NNj4mGPPwMjCGNCcNbb8&j4((*c#C4jwNN#MmCPmwc8yGmj#JECwcN44bGcP(MjCNmPcmG:8w#*bGwwjY(fG(NCMbCcm#cj6N8P#Pb8wwbN(**CN;47C(m4cM<c8##jbNwPjm(8*wN*4wGCPpcbf(mG#Mbcw#jj(N*PNm48NjPwMGCCmC#bb(w4j4bm*#Nj4NGPCa8(#4bMwcj#Gj4((bwGNM4cG#PPNGccCGmMn88M#GbCw;N4m*4CGGPjM4d48(c88P#(bww*jG4bcc*PP(MCC4m4cmAV#jrCwmj8(w*CINPMMwGwmGc*C*8*#bw##P(P*mN84G#MC(PGcP(N8#cGXG8GP&(w*wNmM4PmM(C*mGcCb(4P8G#8(N*(PC4cG#PmCPm#cwK*8Gjbj#(**(N8G4NGM#CjmNc8j4FP8m#G4N*j(C*PP(M4CMmjw4cNbMm*j(b#w#(w*(NC4)CbmMwMc(=Cw(#N4cwmN#bCGMNNGGPCMUVbPb#4bMwc#y*P*NNP4mGNPwMwCGmCcsx*4Pj((M*cN44jGjPPM#j(m8c*vG88#ubQ*(N4wCGMP#MjCjmPcmY8mmj}bGwCjS(NG(P4MMG4N7c#7j8P#(b8wwj*2GwwNY4fC(m(cMC88#MjCCwPjP(8*8N*44GCjt4N+(8(#MbMw#jM(N8P#*48G8P*M*CCmm#bC?mNjM((*#jG4NGPPmM8CMm*c*OC8*jbb7*4jG(*G#P#MN*Pmmcm^w8*#Gb8Mjj34(G4jMMcCcmjM#C(8m#mbwwcjG(C*}jbwjC(m4ccKc8jcGbPmm#w(w*wNG4GG<P#c(G4mc#cbcwjjj(P*jN8bwG4PGMGC9m!#(e*wM#4nw*jNc4PGbP8MwC*mGc*0_8rj(bA*MN44#*cN*MPCNm8cm)*8G#CQGwbN((&GMPMM#CjmNcP^488#mb*wwjC(CGbjK(-CMm4c#CC8N#Pbmm8(M(**wNC4GCbPNc4GMc*##bcwNjj(mw9Nwb*P#PCMG,bm<#47Cwcc#wC*NNj4mGPPwMPCGNC4Pbb8Bj4((*cjC4jGNjjMmCjmwcwLG8C#F(bwCN44(GcP(MjCjmPcmm#88#*bGwGj94bG(P(MMCcm#cj2N8P#mb8wmj*(G*CNa4wC(m4cMAc8##jbNwPbc(m*wN*4*GCP&cb-bMG#Mbcw#j#(#*PNm48GGGMMGCCmg#bb(w4jM4cPjN#(jGPPmM8CG((m#cCbw8^#!(j**PS4MGcPb##f#m#cc8w#(bCw&Nb4McMG(PCc(CNwccmb#mCjMbNjG4Cc#8bw4(NwM8ww#8#cGbPwmj8(GM*GmPc4CCcP8M8E*8*b#8cNjmGPmM#ck8*cGMGCj8b#(b4w#Gb#G(C*(N(cjGPP#Cwm4cCRkwbjMN*b*GbNb(7}MPbc(Ccmc%w84#Cb,*bNMPC(wG*NT4obbm*c46wwMb*cPM4wmMb4I*8#b#cc#84QcPjCw4PCjPGPCNCG(CC8GbM88jMbM*jwNN(#bNmiwPc884G-Web8(#4bMwcj#GjcPMP4P*mPwM*CG8bw8#Pb(wb#8(*CjNC(CCbP8#MC=m#cCbj#:(b*(N44MGcwGm*8NmNMNy88w#*b04m*NjG44GjPGcbGCmC#b(484#Pbj*PNM4jNsj8#*P 44_ww*w8cNwPNGw(ccwG4Nm8%#bb+bm8#Mbcw#jPNC(**MNCMjGGm#CCNwc#jmi4#j8N4mwj4Nw88PPjbwGN(Cj4C;#_b8*4NM4cGNGbPbMMCGmm#(8w#8bCw{Nb4MMmb7McC#mjcN%P8m88jU:*jG(C*9PbM(c4w*88w#8##(bPwmj8(GM#G(NNMbCPc(MNPFCM8jC((m8#bCNm4#G*PGMCZ(CmmVc=b(8C(#Nom(mNm8N4Cm#4#GcC<Hwbj((4*MNcq{mjPjMMCmm8cw,C(*w8#=(PNb(#GMPcM#CPbwmNcboP8Gjc4N*jj8(NGmNGC4PGc#Fj8N#8#(bmwPNP4NGb4CG#m(c40M8j*w#CbbG4N((#*4PbMNCjMCC*8(#4bMwjwcjCbGNN(GG8PwM*C}bPmP#*D*8wPGMw*bP44NCbMmC4m>(4#G8Njb4(P4N4#CNZ4b#NM4((wmw88w(GcPcGPe*w(M(b%MCc7b*Mb44m4w(N4(4*(G#jjj4(C(4*(C8Cj###b4wPjm(8*GGMP(4GCPMhCj84#MbcwNGbj!44*NNmMcC88NcjYwcsXNw4jM(c*NCMNPMc*Gm4Mj(4m##48C#w((*4NM4j(CC4P(M8mPcN&w8*#G(b4j9m4(G4PMMcC#mjcNHPjm#mbjw*jG(CG(GjPGM4CwcMCG8j#NbPwwG#NM(**wNNMNG8cbCP8M#cb#wPC(jG4#*#PNMjGjmjM8mqcCb4wMjc(NcCbc4NGbP8MwC*mfwwcG18w##w(N*4NcGjM4*CEM#84b*j(bmCbCwPN(44GMPjwbc4C4m(cG7w8mbww8jC(kGbPMmmjGmcc#+j8N#Pbmw8jMG**GbCbTm*w( (*cM((8bjjMw#cN8*Cm8NcC*^MlWCGmPc8joGbbwNb*NPNG4GwMGG#NcMwc*bwb##(M*cN#4P#4CcPcMMC9mGcw(88NjPbwww44*GP#MjCNm8*MN(+jwP#G(jjC(wG(P4MMCjb#84cw,N#PL4wwj*(GGbS4PP4*C8mMMPc4wPNP;:hPwN#bbcw8MC4*84j*ubmGcC(#j#(4*PNm48GGq#m#MMCPcayww4jM(c*N*MP(McG8PwCmmwc*0j8djb((*cCbN#M(*8P>MMCMc8#MPw4mPGMj4j*(mNPM#cwPbj8N4bucwCcww*#*8*I(P(j8CmjcbcKcmm#NbPwmj*mj4P*PNNMMC(PeMwCm8*#Gb#jNbPj*48c**8MN844Y8b#(b4wMjc(#*jmNCmGPNcMwC*mG#bjmKjwGj(jbC(Nm4(CMP(c(MN8GjG+cCG8*cjZN88MMPM4*CjmNcP)w(%8M#*(mwGjG4cG8M4bb#C4wMjj*cCj*U8jwb#(j8G4!j4Pj8#MM8cwM(9r*jPNmj>#(C*G*P(M>{b8(#cNGbmwGNb(mabNPM4Gwmbc#CPc}wGCmCm(c8#GCtmmNPPC;PC4LcGPC4&42Gb*bjw4MGcP#MPj(Cjmmc844w8bGM(cwM8GM)MNwwN##c#CN8P#mb8wGG#jP48*jPPM4bwPCc*Ce8b#4bjwMNj*8N44GGCPgc4jw.N8w#CbNG(NM44G(4mGjP*MGCC8(mj#Gbj8*(c4(C8jyGP##8jww#*cGC(CjNwG4#C#MPP(#P#44CPmmc8XG4Nwm#mbP*cN44bCkN*MGCbmbj#7c8Pj(bN*#jP(mN,4cC4mMcc_N(bmGjcbPbNPP4b*PP84PCPPwkb8M#cj8NC8CMm4PUj8u(*P*MNC98b#(bc4Pw*N((N*bNGGPPcMwC*mG#bjw,Pwm#*b*NM(wGjPNMPCw(cmmcwXjw8jMbs*mjGGM8wbmmmmNmcmmNN(wb*wGjC(qGbP(M4CMmcc#*CNwjNPm8P8wP4PGNG4qCbm(Mc^M8c##b#8wjP(m*8NGmG4wCPmwc(bC8M#epPwGj(*jNM4mG8PwMCMj-8mm#4wb#8(M*cN#4PccGmm#4CeMmNcN8G#N(b*(N44#MwGmPbMwgMm8#488#jbGwCjo44MG*8Pw4CGCc#CC8P#mb8wGC(j#(CGwNT4)Cjm*qc8##jbNwPjm(8*wN*4*GmPrcb.(8c*4jbb#wC(jwCNm48GwPC88MZ_wmc#mOGGm#*(mNc4NGNPcM8Cwm*cdjCbwwcjb*(jC4cG#PjMm4Cs#mCcc8w#PbCwlNb4M4PG=PcMGm#cbYP8m#8bGM(*#N84b*mPjC4mMccr#P4#NbPwm#Pbc**NG4CGGmbc(O4PM88b#wjjN(P*mjC4wG*NMMCCQ8b#bb4w4jc(#wGNN4PGmP8MwC*mGcCCNwbjb(4*4Nc4#GjjNMNCmmmcw&w8G#jbl*bjN44G(PcM#CjmNcP}mmG#wbmwGj*(QGbP(b*mjmcc4?jm*#PbPw8j((**m%#4CCbm(MNQM8M##b44CjN(m*8jo4*G*PCM)-C8(cWbMwcj#(j*NNPbwGmPPM*C*mCc3bbw(#{(M*cN#4MGNPNMmC8P4cwFG8C#C(b*(N4(GPjP#MjCNN#cmhm8w#*bGw8Cj(tG(P4(bCcmccjZNP:#Pb8wwjw(G*CNi(bPmm4cMEc8##jb(wPcm*4*wN*4GGCP:M4&(N*<mbcw#jjSc*PNP48GcP*Mmj#mC#bb(P&jM(M*#NjbCGNPmM8Cmm*cGXCPmm(((*4NMb(G#P#MNGCmmcjN48w#GbCm*Nb4bG4N((GC#mjcNCw8m#8bwm*(#(C*&PbM(C4mbccG#Pj#NbPwmj8(w*wNGbC*jmbc(D48M#cQ*wjcNb(*mN84wG*PGMMCIPbMcb4wMjc(#*jN44PwmjCMwC*mGcCZ:8*j(C**(Nc4#GjjcMPCPm8c(o*8mG#bC*bN(!EGMPMM#C4bCcNDm88#wb*w*jC(ljwPbM4CMmMc#}j8N#Pm#wmjw(*wwjN4ICbm((MVM8c##Cj#WjP(m*8Nw4*PcPCM>*48b#4bMwMj#(c*NN4GMG8PwM*CNmCcCbbwbj4bdMwNc4jGNP4MmCmmwcPNc8G#6(bcCN(44GcP#(GCjmPcmp88w#*bGwP(m4bG(P44mCcmccjZj8P##P(w8j*(G*cNS4!C(PCw85M8##jjjwPjP(8wmj#4GGCP7CPy(84#Mbcc#jj(N*PNP48GmP*MGG(mO#bb(w(jM(c*#jc(MGPPmM8GMm*cG,CP6cc((*4NM4cG##8MNCPPwc8E88*#*bCw Nbbs*cPMM4C##GcNkP8m#8SPw*jG(C*GPb43C4PGM;&#8j#NGGwmjm(w*wNG48#jP)c(f4NP#cbcwj##b(*mN84w*cPGMCCoPbRmb4wMjc(#*jcw4PGmN(M8CwmGcG)twbj(bbGbNc4MGj#NMPCmm8cwPG8G#CbrwCN(4bGMNCGVCjmNcP*C88#8b*w*jC(wcNPbM4CMjmc#>#8Ncj+4w8jw(*8bNC4RCbPwC*OM8c##GwwNjN(m*mNw4P#cPGM13bNj#4b4wcj#mw*NNP4mG8PwMwCGjCTM_vw(j4((*c(C4j*#j*MmCmmw(8eG8C#25b8KN444GcPcMj*MmPMNf#8w#mbG8*js4bG(P44cCcmccjec8P#Nb8mw#C(G*GN14rC(#gcMGcPE#jbjwPjP(8NjN*bGwNPkM k(8(#MC4w##cbb*PNj48wPP*MGCCmR4Cb(8CjM(c*#Nj4NGPm#M8CPm*cmBC8Sjb((w*NM4MG#PjMNCNmmMPCc8*#GbC8NNb4(G4jMG*C#mjcN7P8m4Cbww*#c(G*CPbMbC4mMccCMwM#Nbjwm#((w**NG4CNbmbc(148(#cbMwjj(*4*mN84w8mPGMGC_m%#(=C48jM(#*jcc4PGPP8MNjMm*cCTH4Pj(((*Mj4bCGjPNMPwNm8cwv*PG*wby*bN(44GMjbM#GcN*cPQN88cmb*wGjC(5w*P(M4CMm4c#Wc8NMP34w8jw(**GNCn*CbN(48LM8c##bjwN(M(m88N84*GGPCMU}bNU#40(wbj#(c*N(*4mG8Pw48<8mCc*bbNmj4(M*cN#wNGNPPMmCNmwc8pGPPmb(b*(N4CMGcPcMjPMmPc#N(88#*bGNCjI(;G(NC88CMm#cjNm8P#Pb88m##(G*CN7(PC(m4cMGccG#jbNwPjm(8mWN*(wPVPCM-_(Nb#Mbcw#cjQ**PNP48G8P*<NCCNIM#b(w(jM(M*#N44NwPj*M8C8m*c*0CP(jb)(wPNM4MG#P#MN8Nmm48Gn8*#*bCwCNb*bG4jM(*C#m#cN:N8mRPbwm*(#(C*CPbMbC4PmccG#cC#NbNwmjm(wwbNGbCPNmbcb 484#c*4wj##4#*mNP4wNFPGMCCg8bC4b4wMjc(M*jN#4PGMMcMwC*mGHGYt8ej(((*MNbm*G#PNMPmPm8c8<*8mG#bC*bN(44GMPMM#GcPbcP5m88cMb*wGjCF7NPP(M4CMmcc#*88Ncjw8wmj8(*mwNC4>CbN(M>%M8M##b#wN44(m88jN4*G*PCMC9bmG#4CM8mj#(#*NNN4m8*Pw(*GMmCcCbbwbj4G4*c##(mGNPNMmCmmwCw+GPC#N(b*bN444Gc4MMj*NcbcmRm8w#wbGwcj%bbNmP4M4CcmccjGw8PMmw4wwjw(G*GNnCGC(Pb#bFc8M#jG4wPjm(8*wbG4GGCP2MC+(8b#MaCjNjj(N*PNm48G8P*MGCCmw*Nbbw4jM(c*#N#4N*jN4M8Cwm*(wrC8Fjb}(j8NM4cG#PjMN84mm488M8*#GbCw:Nb(GG4jMG*C#mjcNkP8m4*bwm*(#(C*>PbM(C4#4ccG#cC#NbPwmj8(wjwNGbCPNmbc(348M#cFbwjc(*w*mN84wG*PGMGCX#w#(WC48jM(#*jNN4PGPP84mG#mGcC6U#Cj((4*Mj4bCGjPjMPGmm8cwh*mwjwbuwCN(G#GMPcM#Cj8McPEP88#mb*wGjC(Ec(P(M4CMmcc#5c8N#4www8jw(**GNC4CCbm(c4Cx(w#cbjwNjP(m*mNw(8*jPCM51bc=#4bMwc#M#b*NNN4m*8PwM*CGP*c(bb8Fj4*j*cN#4jGNj*MmCmmwc8:G8C#&(b8PN44MGcP#MjC#mPMNGC8w#wbGN8jA4bG(N*4jCcmMcj/N8P#Pb8wPj*(GmwN!MbC(mbcMJc8##jw4wPjm(8*wN*4GGCP2bG0(84#Mbcw#jj(N*PjN48G8P*MwCCmC#bb(jPjM(c*#Nj4NGPPmMjj4mwcGvC8Wjb(b*4j(bGG#PjMN*8mmc8owm8MMbCwCNbC(G4PMMc*#mMcNpN8m#mbwmNjGb*wMPb4rC4jwcc;#8jc#C*wmjN(wwCNG4CGDNC4cu4m}#c08wjjN(P*mNj4wGwPGM8C18b#(b4mNjc(#*jNN4PGNP84mG*mGcC E8Pj((4*MNb4bGjPNMPCmm8c8Y*mwcNb=*bN(bcGMPcM#GcPbcPgP88(wb*wGjC)HNPP(M(CMmMc#G(8Ncj(jw8jm(*jCNC41CbNacdoM8(##:mwNjP(mwPPP4*GmPC(j^b8(#4bMb(j#(#*NNc4mG8PwM*#CmCcObbw(j4((*cjMMmGNPPMm8bmwc*KG8CCc(b*(N44MGcP4MjwNjccPA88w#8bGw#j6sbmGP(MMCcjccjwP8P4m8Cw8j*(GmcNR4CC(PbM(tc8c#jG#wPjm(88wNN4GGGPUMKZ(NC#M348*jj(c*PjN48GwP*MGGwmXchb(82jM(4*##j4MGPPPM8C8m*(82CPRcP((*(NM4MG#M(MN*P4Pc8)88*#*bCmGNbb-*GPMM(C#NMcNUP8m#83cw*jm(C*0PbM(C4mMMM=#8M#Nbcwmj8(w**Nj4CGCmbc(t484#cb(8mjN(P*mN84wGwPG4*GP8b#(b4P(jc(#*j#Nm#GmP8MwC*mG48Y:mCcw(4*(Nc(MGjPNMPCmP*cwa*8G#*b;wCN(b4*#PcM#CjmNcP*j88MwtMwGjC(LGbP(GGCMNc48Bj8N#Pbmw8cm(*wwjm4BGCm(CjtM8c##Rc*cjP(j*8cM4*GGPCMTP(8(#4bMw(j#(c*N#4#8G8PwM*M?mCcCbb8Fj4baMwNc4jGNG8MmCmmwcPNc8G#O(bC8N444GcNM(-CNmPcm8P8w#*bG8*#P4bGbP44MCcm#cjC#w##mbPww48(G*CNEMbCGm4c4=c8M#jbNwPjmPw*wN*4GGCPOMCE(m*b#bcw#jj(N*PNP48GwP*Mmj#mC#bb(w4jM(M*#jc(bGPPmM8mmm*cG%CmGjm((*(NM(cG#PjMNGjPEc8ym8*(wbCw1Nb4(*NPMMMC#mccN%P8m#8CLw*jG(C*JPb4OC4P(c(R#8j#NbNwmj8(ww8jj4CG?mb(4>48M#cC#8Njj(P*mN84wPMPGMCGj8b#(b4w4jc(c*jNNb*GmP8MwC8mGcC^BmC#n(4*4Nc4cGjPNMP*mP(cwrw8G#Gbqm N(44wPPcMMCjmNcPTm88#w0cwGjw(,GbP(M4CMjC-P:j8c#PcMw8j8(*j{NC4w#Nmbc4iMGC##b#wNjcmb*mNw4*(jPCMC/b8(jbbMw(j#(j*NNP4mG8jGMwC8mCcCbbw(j4(M*(N#4jGNP#MmCmmwM8Cj8C#d(b*bN44MGcNRCPCNmPcm4G8w#wbGwCj9(*cPP(MMCc*Pcjfj8P##P(w8j*(G0wN54iC(Pb4*Yc8##jbjwPjm(88w4c4GGCPncbv(#c#MCc#Gjj(N*PNm48NwP*(NwMmC#bb(G3jM(M*#(44NGcbbMmCwm*N8&C8CjbbGMmN44cG#PjMNCNmmc8C48w#GbCwsNb4(G4#GCNC#mjcNMG8m#mbw#CjG(8cjNiM(C4GPccSc8j#MN;wPj8(w**NG4GGtNC48p48M#cGMwjjN(P8mCN4wG*PGMCCEN*#(Lbw(jc(M*jj#4PGmP8MwGCmGcC?18Cj((b*M#c(4GjPNMPCmm8(Pu*PG#bbu*bN(44GM4QM#*jP4cP-m88#wb*mwjCbGw#P(MbCMMPc#:j8Ncj(jw8jP(*m#NC4=Cbm(GMJM8c##bMwNjj(m8c4C4*GGPCG*CH8b#4G4wcj(PG*jNP4mNNP8MwCGP*MPbbw(j4GM*cN#4jwNbmMmC8mwc*)GPm#L:C8CN444GcMGMjCNmPMNC88w#8bGmMji4bG(Nb4bCcm4cjR48P#mb88m#m(G*8N7bmC(m4cMC4m*#jb4wP4*(8*wN*(w*#PTM8o(jj#Mbcw##c#E*PN448mcP*MGCCPGc*b(88jM(4*#Nj4N*jPjM8C4m*(4XC8_jbkfwMNM(8G#N8MNCPmmMPCm8*#4bC84Nb4(G4N((wC#P8cNG(8m#8bww*jb(C*1Pb4#C4m(ccCMbN#NbPwmcc(w**NG(**cmbc(74N(#cb#wjcNs**mN84wG*PGXPCkPbGnb4wMjc(#*jNM4PwmPbMwC*mGcC;BN*j(?48PNc4#GjPNMPCjm84wCM8G#CbR*bN(C*GMN4(CCjmjcPGM88#wb*mG#C(X*6P(M(CM#Cc#fjmb#Pbmw8jw(***NCbl**m(c4>M8c##bbwN#8((*8j*4*GGPGMC>b8(#4r74wjc(j*NNP4PGmPwMPjcmGcvbb8Gj((4*cjMb<GNPPMm**mwc*/Gm*cP(b*bN4KGGcP#MjCNPjcmO88w#8bGwGj)(*cPP(MMCcm#cjqj8PcN^Mwwj*(Gm*NOMbC(N4bMIc8##jbNwPc#(8wmjG4GG*P,/8%(84#Mbcmwjj(N*PNN48GmP*(GGcm=#bb(w4jM(b*##j4MGPPmM8Cwm*(mTCP?#c((*4NM4cG#PMMNGjPPc8y88*(GbCw7Nbb(N8PMMMC#m#cNGM8mcP(Pw*jw(Cw#PbM(C4P(#(5#8M#NCPwmj8(ww8b(4CGwmbMbi48M#cb#8wjN(N*mNj4wG8PG4CGj8b#(b4NMjc(c*jj#(mGmPmMwmMmGcC_EmCc8(4*(NcGmGjPNMPCmPHcw}w8G#*b9w6N((b*fPcMcCj#NcPem88MwwcwGjG(r*_P(bGCMP4#4Kj8##Pdjw8jw(*wwPw4gGGm(J(dM8c##scMwjP(#*8MG4*GGPCMUG88(#(bMwbj#(c*NjPbCG8PwM*8GmCcCbbmYjb(M*MN#*GGNPPMmGPmmc*Hw8C#G(b*(N44MwNP#M#CNmjcmOm8wc8KmwCjC4bm(P4MMCcN#CCON8N#mbmwwcN(Gw*P*MbG-m4YM^c8##j<#*#jm(N*w(m4GGCPV4CN#84c=bc#bjj(N*PNm(jGwPwMGC8mScCb(84#*(c*#NjCNGPPPM8GmPCcGFG86bN((*4NM(4w/PjM#CPmNc8=w8*#G.cwvj.4(GbPMMMC#PcMNaP8P#8*ww*jG(C8.4PM(C(mMcME#P(#NEj*jj8(m**jj4CGOmb4;FV8M#(b##*jN(P*mjP8,G*PmMCw(8b#(b4wMj((#*#NN4cGmPPMwG*m4cCSIwb4((4*4Nc(M*mPNMNCmc(cwi*8Gc*bw*bjO44G(PcM#CjmNMPqm8m#wb8wGjG(owCPbM4C4mcb#Bj8N#PCmj4jw(w*GNG4Owwm(Mbbb8c#MbjjPjP(m*8jmMmGGPwMKCm8(#4bM84Cm(j*MNPZuG8PwM*CGP#cH9ew(#C(M*4N#(jGjPPMmC8#wc*u*8CcGn8*(N(4MNwP#MjCNPjc(T88m#*bwwCjO4bG(jjMMCMm#ccJN8N#m+Pwbj*(**CM^MbC(m44Mm*8###bNwNjmY#*wj8M8GCPGcbw884#Mbc8MNM(N*#NmC(GwP*MGG*4M#baGw4cu(c*#Nj4N*8PmMmCwmPcGv*8 #bbj*4NM4cm#PjMjCPPNM#Jw8w#Gw#w2Nb4(*bjGMcCMmjc#rP8m#8bw8bjG(G*0NCM(C(mMM4Cj8j#jbPNmj8(w**#GGjGJP<c(y(8M4Ob#8cNc(P*NN8GbG*PGMCGG8G#(qQwM(b(#*jNN(j#GP8MNC*NCcCYfwbj(IN*MNM4#G4PNMjCmP8Mxv*8G#C*g*bNb44*(NgM#C#mNCgum88#wx88(jC(GGbNpM4CMmcc#CC8N#NbmwPjw(w*Gj*(cCbmbc4wM8c##bjmN(b(m*mNw4wGGjmM&GC8C#4b(wccl(j*NNP(NCNPwMmCGcwc2bbw(#bmN*cN(4jw*PPMmC8mwMP3G8G#Tb**(Nb4M*cNmMjCNmPbm2888#*>wwMji(eG(4mMMCcm#McCP8P#Nb8wmj*(G*CNr41C(m(cMe48###bN8jjN(8*8N*CGGCPqcbG(cj#MbMw#j#(N8MNm(P*cP*MwCC#c#bb(w4#(Xm*#NM4NP4PmM8CwP8M4XC8wjbCN*4NM4cG#NPMNCNmmcjxw88#GKCw4Nb4(G4cMMcCcmjcMj78P#8bww*jG(G*kjC(8C4mMcc*M8j#NbPmmGN(w**NG4CGnj*c(Cbm##cbMwj##(P*mN84wGmPGMCCFmC#(bbwMccb(*jNN4PGmP8bPC*NGM#0%wbj((4*M(>4#wjPMMPCmm8cwt*Pw#C0GwCN(4bGM4PM#CjmNMjbj88#Pb*P#jC(iGbP(*MCMmcc#nM8N#jbmmcm*(**GNCwRGumbc4wm8c#(NGwjjP(m#8N84wGGP8wjC58(#4bMwcjc(j*N#84PG8PwM*CGmCc bb8*j4(M*cN#4jGNPPM#j(m8c*1G8C#+b+*(N4wCGMP#MjCjmPcm&88w#*bGwCj94bG(P4MMC4m#cj,N8P#cb8wwj*(G*CN9MbC(4Gc4{c8###bNwPjm(m*8N*4GGCPCMNk(84#Mbj448CjbMw*NP#4fC#MGCCm;#bkTw4jM(cwMPm4NGPPmMmCwm*cGtCc8#v((*4N44cG#PjMj*PmMc8Bwm8cjbCw_Nbw4G(PMMcG<cbcN^P8m#jbwwwjG(G*uN*8PC(mMcc<(8j#jbPw#C((8**NG:CGZP&c(T44P#cb#wjjN(P*mN84w#*PGMGCq8b#(b4wMjc{4*#NN4PGmP8M8C*NGRj=Owbj((4*Mj#4#*cjMMPCPm8(m+w8G#C,G8MN(4bGM(#McCjmNc4C*88#Pb*P#jC(CGbPbM4CMM6c#1j8N#Nbmw8jw(*wwNC4GCbPqc4x48ccMC>wNjj(mcCNw4*GGN*4P}bmC#4(Mwcj#(j8N4b4mGNPwMmCGblcCCCm8j4bF*cC84#GNPP(mm4mwcP G88#v*q*bjbb*GcPbMjhNmPcm18PwbcbGwmjO(wG(jRM4G4NCcj (8Pjmb8wwj*SGNjNI48C(P*cM8G8##jP*wPj4(8*wN*4GGCNGcGV(m8#MG4wcjj(NwjPj48G4P*NbCCmO#bCEw-jMb8*#jN4NGPPmMjNcmwc#6CPCjb(b*4NMb4G#N8MNCMmmc83w8*MwbCw4Nb(jG4PMMcC#(ccNC*8m#Pbww8jG(CwbN948C4PPccCm8j#NCmwPjM(w*bNG4MG:P*8Gs4mw#cC8wjjj(P*m4C48GcPGMjC 8b#(5*8jjcbG*jMj4PGPP8M#C*mGZm5^wbj((b*MNc4#GjM4MPCmm8cNK*8G#Cb2jwN(44GMN*M#CjmNcP8c88#wb*w8jC(yGbP(GGCMmcc#CR8N#Pbmw8(j(**GNC4CCbm(c43Mmc##1GwNjb(m*8Nw4**wPCM#%b8(#4bMwcj#bC*Nj=4mGPPwM8CGmCMNbbw(j4b8*cN#4jGNNCMmC8mwc8VG8C#t(bwGN44MGcP#MjCNmPc#C88w#*bGmijm(KG(Nb(*Ccm#cjmm8P#mb8mw(c(G*CN_MbC(PMcMC4bj#jbNwPwC(8*wN*(wGNPxcb+(cc#Mbcw#cjbb*PNm48GwP*mmCCPG.mbbw4jMC8*#Nj4NGPN4M8Cwm*c*VC8{jb)dw4NM4cG#NGMjCPmmMPC*8*#GbCM4Nb4(G4#G44C#mjcNw*8m#mbwc#j*(8cjN=M(C4#Nccpc8j#MNIwPj8(wPiNG4GG,mbG*6(8M#cbcwjjN(PwNjM4wG*PGlPC.8b#(b4P#jM(#*jNj4PGNP8bwwPm*cCLkcGjbNN*Mj4bCGjPNMPm#mmcwO*8G8#bs*bN(4(GMPMM#GcPMcPdm88x#b*wGjC! wCP(M4CMmcc#jP8j#PsPw8jw(**wNC4GCbPw4G0M8c##wCwNjN(m*mNw4P#cPGM,Db#m#4b4wcj(PG*jNP4mm8PwMwCGP*MPbbw(j4Cb*cN#4jwN?CMmC8mwc*_G#8#C(bwcN44MGcPcMjCjmPMNCM8w#*bG#Pj_4bG(j44(Ccm#cjhN8P#cb8w#jj(G*CNXCbC(m(cMOM8##4NCwNjm(8NwN*4*GCPwwNib84#Mw*w#j#(Nwjj448GwP*b8CCm!#bC(#8jM(c*#Nj4NPcPPM8N#m*cGuC8Cjb(b*4j(bGG#PjMNP4mmc8nwP*b#bCwdNb4(G4NCMc*#MCcNtP8m#8bw#Mj*(PNmPbM(C4M8cc)c8j#jbPw#C((8**NGG#G!P<c(CC(8#Mb#wj(N(P*PN8(m*#PGMCCfjG#(b4wMccwG*jNN4PGmP8CNCwmGGPO:wbj(((*MNM4#*cMUMPCmm8C#:*8G#CC+8*N(44GMPcM#C(mN4PC488#wb*wGjCwj*_j(48CMmcc#gj8N(Nbm8P#G(**wNCw#GQm(c4AMmP##bjwNjj(m*PNw4jGcPCM-pbM*#4b4wcjc(j*MCY4PG8PwGNCGmGcA%*4Pj((M*c(*4jGjPP4NGMmwc*FGNw#V(b*(#4*wGcP#MjCNmP,#om8wCjbGwCjF(;G(P(MMG4NCcjvN8PoMb8wwj*KGjNNCMbC(m4cMCW8#Mjb4wPjm(8*wN**cGGj}M*O(84#Mbcw#C*(j8PN#48GwP*MGCC#C#bC!mwjM(4*#Cm4jGPPmM8C4m*cGrC8Gjbb,*4jG(cG#PjMNPMmmcmxw8*#Gb8MjjO4(G4(CMcCcmjM#C(8m#8bw#jjG(C*Hjbc8C4mMccE#8jPwbP8Nj((w*8NG4mGEmbc(T4PC#cb#wjj#(P*NN8bw*NPGMCCv8b#(mmw4ccbN*jNN4PGmP8*(CwNGcmI;wbj((4*MCN4cwjNmMPCmm8cw=*j*#C}G8#N(4bGMP(M#CjmNcPCj88#wb*wwjC(GGbNw4bCMmcc#NP8N#Nbmwmjw(PccNG4KCb(Mc4R48c#(NGwjjP(mGZNw4wGGN*4P&b8(#4Gbwcj#(j8N4j4mG8PwM*CGc8cCbb8(j4(M*cNc4jGjPP4NG(mwc*gGcP#?(b*(#4((GcP#MjCNmPNG98mmcwbGw*jW(wG(P4MMCcN*cj&N8P#Nb8wmj*AG*NNiMbC(m4cMPw8cMj8FwPjm(8*wN*wMGGjeww,(84#Mbcw#P#(Nwjj(48GmP*wbCGm<#bb(m*jM(c*#Nc4NGjPm(8C8m*cGfC8WjbbC*4#M4MG#PjMNCPmmcP6wPjcMbCw7Nbm4G4P4McwlmjcMj98P#8bw4GjG(G*rN*8PC(mMcc(N8j#jbP8N#M(w**NGCPGTmbc(h4cM#cb#wjjj(P*NN8bw*aPGMCCZ8b#(m2w4MCbj*jNN4PccP8M8C*b4cCiw4Njb(4*MGd4#G#PNMcjbmmcwo*tM#CbC*b#:bwGMPcM#*wmNcPnmmPccb*w*jCGG*?P(M4G(4jc#Ec8N.4bmw8jwJ**(NC4GCbP+c44N8ccMejwNjc(m*#Nw4*GGPCMcrbmQ#4dawcjM(j8NN(4mGPPwM8CGM#cCCbmCj4((*cNM4j#GPN(mGwmwc8fG8*#rPM*b#4*wGcPMMjC#mPcj<8PwbcbGw*jE(CG(PPMM*cMGcjU#8P#Nb84bj*IGNjNr4CC(mbcM4m8#Mj8,wPjN(8*mN*8(GGjECP{(8b#Mb4w#48(N*PP#48G8P*MwCCmF#bb(mGjM(c*#Nj4NGjPmMjj4mwcG%CnPjb(b*4j(bGG#P(MN*Gmmc8;wm8cjbCwmNbGvG(PMMcGMNEcNA(8mBcbww*jG>C8PPb48C4P*cc4m8jc#(#wmj((w#CNG4CG7mbG4J4m*#cY*wjj#(P8m444wG#PGMNCpCi#(b4wWjcbI*jNb4PGmP8MwGNmGcm;!wbj(bw*MNbm*G#PNMPMjm8c8Z*PGMNb,wjN((mGMjCMcCjP#cPC.88#mb*w*jC(mj=P(4GCMCMc#%#8N#jbmwjC4(w*GNCNCCbmbc4GMc*##b(wNjc(m4*Nw4*jNPCM8/b8b#4b4wc#rw#*NNP4mMMPwMwCGm*cqW*4Pj((M*c*C4jGjPPM#j(m8c*oGGb#LbB*(jbb*GcP#Mj**mPcmy8mmc#bGwGjhGCGbP4MMG44Ncj!#8P6Mb8wwj*/GwMN,4CC(mbcM4P8#ccCwwPj#(8*jN*4GGCP3Mw,(8b#Mbbw#jc(N8Pj*48GmP*MwCCMjcuC(mNjM(4*#Nc4N#CPP(8G#m*cwdC8GjbPc*(#M**G#PcMNCjmmcNUwP*b#bCwGNb(TG4PmMc*#MCcNIj8m#Pbwm8jGpCNNPb4%C4m(cc488jMNwbwmjP(w*8NG84GCNbCm=48(#cbMwj4w(P*mPj4wGwPGM*C>8b#(b4mCjc(#*jNN4PGNP8MNjMm*cC?0Gcj(((*Mj4bCGjP4MP*Cm8cw *mwcNbOw8N(CbG4PcM#GcPbcPW488f#b*wGjCU:8mP(4wCMPGc#488Ncj(jw8j4(*#^NC4 Cbm(GMFMmG##=GwNjj(m884M4*GjPCMPlb0b#4bM*bj#(b*NN(4mG8PwM*GPmCc8bbw(j4b**cN(mGGjPPMm(4mwcwWGPCMP(bwNN4(8GcjrM#CNPjcmib8w#8bGwGj>(8NbP44CCcwgcj!j8P#Nb8wNCM(**CNt#8C(m(cMGccG#jb4wPj#(84GN*4GjPPQMwY(8(#MbMw#jbwj*PNm48bTP*M*CCmG#b1G4mj4(c*#884NGNPm4PGcm*cGKCcmjb((*4#M**G#PjMNCPmmc#dwP*b#bCwRNb4(G4(8MM*#MCcNYP8m#8bw#mj*dPP4PbM(C48CccLc8j(MbNw#C((8**NGcmG1Pdc(CC(8#Mb#wjCm(P*PN8(m*#PGMCCoM8#(b4wMccCC*jNN4PGmP88GCwmG**_iwbj((b*MN44#GbM(MPCmm8jbK*8*#CbC*bjGmmG4PcM#ywmNcN+m8jG4bwwGjC8(GbPbM4G(NGc#:j8Nl4bmw8jwq*3*NC4,Cbm(c4*P8c4Rq#wNjP(mG8Nw4wGGw(M.C*(P#(bMwcN#(j*jNP4##(P8M*CG8wcf5fw(j4f#*MN#4jGjPPMmC8Pm#dUG8C#7jN*(N44MGb!*M#CNmPcbdm88#*Lw8NjO4bG((*MMCcm#4j4j8P#mb8wwj*U4*C#m(*C(m4cM-*8###bN8wjP(jc4Nw4GGCmNcb;b84c2Nwwcjj(N*GNm4mGwP*(YCGmE#bbbw4jM(cwMPm4NGPPm(jC8m*cGR84j#H((*4j84MGcPj4#G(mmc8Iwcj#GbCw2#b#bG4PMMcC#mj(*fPPM#4bww*jG(C*CNiM(*Pm4cbj*8##NbPwmjm(8**Nm8#GCmbc(CF84#Mb#wjcm(N*mN848G*PGMCGGwM#(b4wMcm(c*jNN4c#bPmMwC*mccG1Cwbcrdw*MNc4#NbPNMPCmN8UM3*8G#Cba*bj*44wM4*M#CjmNcPOmc(#8C*mjjC(0GbP(M4jCmcMMbM8N#jbmbNjw(**GNC4*Cbm(c4>(8c#cbj8##((m*8Nw*#GGPCMSGC(N#(b4wc0v(j*NNPbm*(PwMwCGmGctP*w(c4bG*cNc4jGjPP4cC8mwcP0G8C#obC*(Nb4MGcPMMjCjmPc#O88w#*pwwbjY(CG(nPM4Ccm#McGC8P#jb8#Njw(G*CjG(wC(PCcMjV8c#jbN8jjj(8*jN*8jGGP1cbV(m4#MbMw#j((N*NNm4c*CP*MwCCmM#bbbw4j((c*#4(4NGPPmM8Cwm*cG{C#8jb((*4N44cG#PjM#N(mmcN w8m#GbCwi#C4cG4PbMcmwmjcNAPmNMSbwwmjGwN*IPbM(GbP8cc}(8jS(bPwmj8{w*8NG48G0P*c(NC8MMcbcwjjM(P*#N8(jG*PGM4C-mG#(bbwMj4(#wcjP4PG#P8GcC*mGcCCGmjj(bG*MbC4#GjPN(P**m8cj_*8P#Cmw*b#((NGMNgM#C(mNjNymmPjPb*wjjCNMGbP(M4CMC(c#t(8N#(bmw8jw(*MCNC4wCbm(c4F(8ccB:mwNjM(mMwNw4wGGPGM0Obc*#4bMwcj((j*NNP(NCGPwMNCGM*cFbbw(#*bj*cNb4jcmPPMPC8m8c*lG#m#:(b*(jC4MGcP#4cZ8mPccd848#*bGwCjm(MG(NGMM*Pm#c#WN8j#mb8jjj*(G*CNGMbC(m4cMmp8##jbNw#jm(8*wj8cbGCP8cbj(84#MbcwMC3(N*MNm(GGwP*MGG*w4#bh*w4#P(M*#Nj4#j(PmM#CwPPcGKC8<cC4c*4jC4cCPPjMNCPPN#NLw8N#Gm*wCNb4(Gbb*McGHmj*#aP8m#8km*sjG(P*hcjMbC4mMcc8m8##(bPwMj8(w**NN4(GQPmc(mP8M#Mb#w#jN(PNcN84wG*PNMCC!8bM1(#wM#G(#wbNN4PGmPP*cC*mjcC*bwbj((4w(PN4#*ePN#(Cmm8cwC84N#CbP*b#b44GMPc4MG4mNcbhmcc#wb*wGcC(PGbNmM4Gwmc*N?jm#c8bmwbjwbw*GNC40CbNNc4Cw8ccwbjwNjP(mw4Nw4#GGPCMOCC8(#4R4wc#C(j*jNP4NG8NmwjCGmjc?G3w(j4(Mw4#C4j*CPPGMC8mwc*GG8m#xbN*(jm4M#jP#4c*AmPMC&8Cc#*bGwCjE(jG(NmMMGmm#cjXN8P#cb8wMj*(G*CNGMbC(P*cMC*8###bNwjjmbPc#N*4cGCjCcbI(84c(b4w##*(Nj4Nm48Gwj*M#CCm##b7Nw4C#(cwMjC4N**Pm4#C8m*cGZCm4jbbN*4jN4cG#PjMN*wmmc(1w8*#Gb*wKNb4bG4N8McCcmjc#dPPmC4bww4jG(N*uPbMbC4PjccCm8j#NbPw4j8bmwmNG4(Gk4#c()48Mc4C*wj#m(PwbN84wG*PG4jCamM#(a#wM#j(#wjNj4P*GP8M4C*mbcC*68Mj(bj*M(#4cwNPNbPCNm8Mse*c(#G(M*b#,(>GMNNM#w4mjcP)mP8#bb*wbjC(4GbP4M4G(8(c#CP8NmCbmw8jwb8G8NC4bCb(#c(fM8c##mNwN#w(mwwNw48GGNC*4hbm##4*NwM#P(jmNcc4P*CPwb*CGNPcoGbNGj(bN*c(#4#*#PN4NGMmwM vGj8#f(b*(#4*wGcNPMjG8mP*cO8PwbcbGw(j:(MG((wM4Gc(PcjCw8PjNb88Cj*(G#eN-4jC(PjcM_48##bu8wP#C(8c8N*4*GCPCcbV(cG#Mbcw##Z(N*PNm(P+*P*M4CCjG#bb(w4jMbU*#jw4NGPPmM4CwN*c*-C8MjbbN*4bb4MG#P(MNG8mmc85w88#GGCw8Nb(MG4N8Mc#Pm#(NCj8mc*bwbjjGwM*CPb48C4PNccCN8j##bP8mj#(w*(NG8(GCPcc(G4mC#clmwj#G(P#jNm4w*PPGMbCD8b#(bbwMMcGC*jjm4PGbP8d*C*jGc(!784j(#**MKN4cGjN4MPGGm8MG^*8w#Cf.8mN((NGMc#M#G8mN4PCP88cvb*wMjC8**<P((wCMPjc#yj8N#jbmP8cC(*wdNC4jCb(Pc(*Mmb##%PwNw4(m8*N84**PPCMMebmM#4b(wc##(c*NjG4m8jPwMbCGNC4Pbb8#j4bm*cb44#GNbGMmG*mwc*KG8*#dCbP8N4(#GcN*MjN8mP(mCm8wcCbGbPjI*iG(P4(NCcPmcjCm8P#Nb88wjM(G*MNVCGC(PjcMGcmj#jqwwP#%(8#PNw4G*8PqM43(84#Mb4w#Mj((*Pjw48G4P*cmCCjWc#b(8cjM#C*#P(4NGPNRM8GUm*M6rC8Gjbb(*(NM(mG#j#MjG*mm48Gc8*#(bCw#Nb8CG(PMwmC#PPcN_P8m#PbwP*Mj(C*(Pb4PC4PGcM*#PH#NF8wmwc(wCNNG4C**mbM#Y4m##cbMwj#NbM*mj54w*mPGM4CBPbcjb48Njcbw*jbc4NGmN4MwGCmGcCgI8Cj(C48mNc(NGjNCMPjNm8(wHN8G#bbub8N(GjGMPc(wCjPwcPCw88#mb*8Gj4(V*#P(wbCMPPc#GjN*#PpGw8j((*#8NG45Gjm(McvM8c##bcwNMPbc*8jG4*GcPCGMrbN(cPbM8jj#jb*N2c4mG8PmM*C(mCc(bb8,j4bMwbN#(wGN*mMmGCmw4*CP8C#M(bwjN4mjGMj#m*CNP*cmCC8w4wbG8*#w4b*MP4bjCcm#cjKNm##m<wwwj*(G**N5bb**m4Mcecm*#jb#wNMmbM*wjG4G(wPdM#l(84Mwbc8mjjbP*PNN48wwP8MGC(mhccb(4*j4(4cCNj(PGP(8M8Cwm*cGyw8,#M((wMNM4MG#Pc*bCPP*c8N#8*#GbC8GPM4(*#PMbPCcmjcNYjM4#8UCw*CM(C*kPb(fcMmMMNA#(w#NbPwm#PbC**Nb4CNmmbc(34PM#4b#8mjNbw*mN#4ww*M#MCC48bccb4c8jMbM4NNN(wGmG*MwC*mGM*C#wb#c(4#GNc4#GjjNM4CmPGcwCX8Gt*bC8bc844*jPc4PCj#jcPCNwN#wpGwGj4(&GbP(M4NcmcMPsjmP#PbNw8j#*j*GN(4_4*mbc(lM8M##b44CjN(m*8*N4wG*PCMwjN8b#4bM64jc(#*Njj(4G8NCM*G4mCc=bbm2cw(MwjN#*bGNPPMm*8!4c*Cd8C#((b#LN(bMwNP#4PCNP8cmmN8w#*bPwCj(4b*4P4MMCcm#ccRNmw#mb8ww#G(G*8N(MbC(m4PM3M8c#jCNjbjmbP*wjw4G*CPC(88c84c(bcn#j#(j*PjG48GNbMM*CCm:mbbbw(jM1cmCNj(#GPNPM8Gwm*cGC*8YcC((*bNM4MG#PbGjCPP*c8cb8w#*bCwGNb(GcmP4McC#Gwcj>N8mcPJcw*jb(C*wN1M(C4NMC*0#mm#NvwwmGM(ww8P84CG(mbCGs48M#cb#McjNbw*mNP4wG8PG4*GP8bcMb4cGjc(#*j#NGbGmN*MwGCmGC*dC8bCc(4wjNcPbGjNmMPwmjjc8Cg8GcCbCwcN(4b#*Pc4NCjmbcPqm88cmjGwGjb(ic#P(M4CMP4cM/jmm#PGjw8jw(*8GNG4pG4m(MchMc8#cbccbjPb8*8(w4*GGPCMKGC8(ccbMw4j#(#*NNjw4G8NGM**PmCcSbbmJN#(MwjN#w(GjPPMmGPPcc*C>8CC8be*(N44M8jPc4PCNmNcmxP8w#jbbwCjb4b#CP4M4Ccmccj_N#M#mb8ww#C(G*CNp(Cgcm4Mc=c(*#jbNwP#NbM*wjG4G##Pocb7(84GGbc8jjj(j*PNP48Gm(#MGGFm<C8b(w4jMb4GPNj(PGPCNM8Cwm*cwPN8!#(((N#NM4cG#Ncc8CPP8c8C(8*#GbCwG?m4(*MPMbjC#mjcNCjw*#8{*w*wC(C*6Pb4LjwmMM#p#c##NbPwm#P4C**jC4Ccbmbc(=48(GGb#8NjN8G*mN84w*88bMCCb8b*8b4wMjc(Mc?NN(mGm#jMwC*mGM*(4wb#4(4PPNc4#GjP#*(CmPwcwPw8G#CbU8CPc44*cPcjjCjmNcPZNMM#wrGwGbb(_GbP(4bccmcMjRjc(#Nbmw8#mb#*Gj14QN8m(c4eMPc#(bj8PjPb8*8w}4*wGMjM2C(8(cMbM8jj#/jjTNP(8G8N*M*4GmC4+Gmw(#M(Mw#N#8<GNNj44C8P8c*wb8C#}(b*(jr4M*#P#4#CNmNcmlcmC#*DCwC(f4bGbP4M4Ccm#p(DN8P#mbcwwj*(Gw*m4MbG4m4?4&M8##jb#c(jmbw*w<*4GGCP&4Cbc84ccbcC#jj(N*PNNwMGwNGMG*GmW#bb(8bNj(cwjNj(GGNPmM8Cm4#cGCH8HGG((*4NM(4CPPj4PCP4#cmow8*#wmNwej(4(MkPMMcC#Pc#8 Pm8#8G(w*jG(C*GbmM(GMmM((E#8j#Nbjc4j8bw**NG4CG)mb4eb#8Mccb#j*jj(P*mNPwcG*NGMCjj8b#(b48(NN(#wjNN4NGmP8MwC84jcCC<wb4*(4*MNc(MCmPN4PCmCPcw^*8G#*mP*bj(448gPcM#CjP##w>mm8#w*#w*jC(BwCj8M4GMmcCw=#8N#PbM8Gjwbw*G#*4tG:m(c(uM8cbbbjwNjPb8*8Nw4*GGN*MgCb8(#bbMwMj#bcwbNP(mG8NbMwCGmCcmw4w(#4(MmjNM4#GNPPMmCj(4cwqG8CM(bC*bN4bMN*P#4jCNPGcmjG88M*NMwC#r4b*(P4b4CcPMMG)Nmj#mCMwwj*(G*CjmMb*Cm4cM_c8M#jGNmCjmbN*wNM4GG8P^(bC#84cbbc)4jjb**PNm4bGwN*MGGwm.cCb(m4cG(cwcNj(NGPbMMmC#P<cGCw8D*m((*(NM4MG#PjC4CPmmc8Cw8*#GbCw9PP4(*(PM4(C#m#cNCjm*#8+8w*M8(C*_Pb((GwmMMMp#m##N8CwPjcbC**jw4C#Mmbcb548(#cb#j(jN(P*mj84wG*PGMCm88b#(b48cjc(#*jNNNPGmNmMwC8mGcG2Embcc(4w4Nc(8Gj=8MN*mPPcwCw8GcGb>P!N((bw*Pc44CjjmcN+m88#wbmwG#8(/GbP(MbCMjc4P1jmM#Pbbw8*((*mGj,4&**m(N,nMmm##bjcPjPbP*8jN4*GwPC(:*m8(cbbM8Mj#mb*jN4(*G8NNM*jBmCcCbbwbj4(MjSN#4jGNNNMmC8mwc*(#8CcG(b8GN444GcNM4*CNPjcm*N8w#*bGmCj*4bwnP44(CcMwc#R(mw#m^NwwMG(G*GND4CC(m4CCSc8##jXjwPjm(8*w4N4GGCPkM(+(84#Mbc8Mjjb#*PNN48G8P*MG8cm?cbb(w4jM(c*##j*YGPNmM8Cbm*bCfCPs*j((w4NM(cG###MNGjPwc8Cm8*5cbCw=Nb4(wjPM4(C#mjcN?j8m48xCw*#8(C*jPbcGC4jM486#mM#Nc#wm#O(w**j44C*omb4C}48(#cC#wbjNbN*mj84w#jP*M*NP8bMCb4#ljc(#*jNN4#GmNmMwGmmGcG lmbbm(4w4Nc(8GjcPMP*mbbcwCw8GcGboPEN((b*MPc44CjN#cNUm88#w9bwG#8(iGbP(MbCMjccc2jmM#Pbbw8b*(*mGjw4{**m(Na_Mmm##bjm*jPbP*8jN4*GwPC(pC(8(cbbM8Mj#mb*jNjw4G8NNM*88mCcfbbw(#i(Mw4N#(4GNPNMmGPPcc*Cw8Cb#bX*(N44(#GP#4MCNmjcm088w#*#GwC#G4b*lP4M4CcN#MPDNmj#mn+ww4G(G8CN*Mb*Vm4M(9cNc#jW#w4jmbj*wPw4GGCPEcbGN84MCbcw#jj(#*Pcm4jGwNNMGC#mW!(b(P4#m(cwbNjjcGPNCM8Cw4GcGC*8ycw((*bNMbc8CPj4cCPPNc8N#8w#Nb(wp#w4(*PPMMMC#m#cNWP#c#8bww*#w(C*}PbM(}8mMM(^#m(#NbNwm#PbG**j84C8*mbc()4PMMNb#8MjNb#*m4b48GjPbMCGw8bMcb4w4jc(c*jNNGMGmP8MwG8mGcCvQwbci(4wbNc4MGjPjMP*mc4cwCm8G#MbOP(N(b48*Pc44CjPccPc488#wm(wG#m(tGbP(MbCMjc((e#m4#Pbbw8j#(*mGc84C*wm(cmKMM4#cbjwcjPbj*8jj4*G*PC(5mP8(M?bM8mj#GN*N#Pb4G8NPM*G8mCb*=emRj9(M8+N#CCGNPPMmC84bc*CN8C#A(bw8N43Mj*Pc4bCNPacm#m8w4*b#wC#m4bwPP(*(CMj#c#=Nm4#mcNwwmM(GmCNCMb*wm4N4>cb*#jGN8(jmbc*w8C4G8jPC(bwG8(MGbcC)jjbP*PNNwMGwN#MGN4m9#bb(84Cj(c8JNj*4GNN4M8Cw4GcGCw8}c8((*bNMbc8CPj4MCPPjc8N#8w#wmNw)#84(#*PMMcC#mjcc&Pm##80#w*j*(C8+4PM(*CmMMm<#jN#NCP(;j8bN**jm4C8Cmb4DG#8MMCb#*MjN(P*mN8(wG*NjMCC18bcYb4PM#w(#89NN(QGmmcMww*m4cCCPwbmC(4wPNc4#*PPN4cCmPMcw<88GMC/R*b#*44wYPc86C#m(MwTmmM#wmPwGjG(_*_P(M4PCmcc#,jmM#Pbmw8jwMc*Gjm4h*mm(c(gMm4cmbj84jPCj*8Nw4*wGNmM;Gw8(MGbM#8jc(bw8NP(MG8PNM*C*mCcCbbw(bG(M*cN#(4GNPPMmC8Cwc*CP8C#G(b*bN4bM*PP#4(CNPGcm*j8wM*b4wC#84bw*P4b4CcPMM*dNm(#mC8w8j*(G*CNCMb*mm4cM:c8M#jGN8mjmb4*wNM4G(jPK(bCG84Mwbcy4jjb**PNmwwGwNNMGGjm5cCb(m4M*(c82Nj(4GPbMMmCm4#cGCj8:G*((*4NM4cG4Pj4(CPP(c8<88*#wmNw_#84(NbPMMcC#Pc#8/PmM#8Cww*jG(C*GbmM(**mM48O#8j#Nvj(8j8b#**w!4CGrmb4vC*8MMCb#PMjN(P*m#8(*G*NNMCGm8bSNb(8G#N(#86NNm4GmPmMwCwmGcC88wbj((4wcNc4#GjPNPPCmPccwq88G#Gb)8b#844wGPc48CjjMcPGm8N#wXjwG#P(amBP(4bCbmc4G_jM##Pbmw8jwb(*Gj#4)Cbm(cbDMNcc4bjmCjP(b*8bw4w8GNcM-GN8(P+bM8mj#(j#PNP(MG8N4M*CwmC4RGmw(cw(M8CN#8bGjP44*C8P4c*G#8C#C(b*bN44MN;P#MjCNP4cmQ88w#*4#wC#P4bwPP4M4CcPMM*DNm(#mGNwwj*(G8CNmMb*8m44*Dccw##b(8wjmb4*wcL4GGGP)MCB(84/Cbcw#jjb(*PNm48GwMNMGCCmvc(b(w4jM(c(#Nj(bGPPNM8C8m*4G/88Lcm((wNNM;bG#jj(8CPP4c8Cc8*4*bC8G#c4(wmPM((C#mjcNIP8j#8y(w*jG(C*GPbb(*PmM48_#mG#NccwmM8(b**jM4C(*mbMj948MC#b#mgjN6C*mNP4ww*jjMCGN8bM8b44GjMb^wmNNbCGm#PMwCwmGcG<7wbb*(4*MNcbCGjPNMPCmmNcwCc8GccbowSN((**jPc(GCjPNcP=P88#mb*wG(m(TGbP(4MCMmcc#Sj#4#Pbmw8#c(**GNC(GSMm(48AMj4##bjwNjj84*8jM4*jMPCMq?bPJj#bMm*j#m**NNP4mGP(cM*G#mC4jbbw(j4b(4#N#bCGN*iMmC8mwM8hb8CcN(bPCN44MGcj#MMCNPbcmC48wb4b*wPj44bwPP4wCCcmccjOj8P#mw#wwj*(GwNN.MbC(m4mMfcPG#jb#wPjP(88wN#4G*jPiM#<(jC#MCc8Gjj=>*Pj(4888P*4wCPmRMjb(jMjM(c*#Njb8GPjCM8Cwm*cwHCNl#4((8NNM(wG#PPMNwPm#c8Cb8*m8bCwcNb4(jMPM(*C#NwcNhj8mM8Ccw*#c(CwNPb8wC(PGMNH#Pw#NjGwmjm(w*wNG4CP8mbc(=4Pw#cb#wjjN(#*mj(4w*(PGMGCrmCG8b4m8jcCC*jNN4P*NCwMwGMmGtP !wbj(bbwCNcb*Gj#cMPCmm84wL(8Gc#bO8NN(*PG4NC4PCjNGcP8M88#8b*w*jC(qNwP(M4CMN*c#=j8N#P#mw8#4(**wNC4CCbN(MjaMPw##+wwNMc(m88N44**cPC4j&bNb#4%(mNj#ew*NGC4mG8PwM*G#mCMMbbw(j4((*cc#(jGNj*MmC(mwGj>GNCcc(b8#N4jbGcN8MjCN4mcmC(8wcbbGw*jibb88P4(mCcN*cjN(8N#M5Gww#b(GcjNV4XC(m(cMpc#b#jbNwP#b(8*wN*4GGwPs4jB(Pj#MbMw#jc8b*P# 4888P*MGCCPGw(b(mPjMGw*cNj4N*jNGM8G(m*(8pC8njb>(8*NMb8G#j*MNPCmPccCC8*c4bCj(Nb4bG4P(McC#c(cNxP8mc(bww*jG(CN8PbM(C4Pcccp#8j#N#Pwm#b(w*8NG4GG_NbMwT4Pm#cO8wjMM(P8mj*4w*4PG4cC:js#(lb8GjcSm*j4C4NGmP8MwGbmGM(TRwbj((b*Mcc(mGjj8MPCbm8P4A*NG#4bv8MN(#yGMNmM#Cj4PcPG388MCb*wwjC6R8mP((NCMN8c#Nb8j#4t*w8cC(*NCNC4CCbmbc4yMcO##bjwNcC(m*8Nw4*G8PC4cWbPc#4b4wcjMm%*N#G4m#wPwM*CGP*j4bbmjj48w*MN#4jG#((Mm*<mwM8_G8C#n{CGcN4bPGccNMjCNmPcNPM8wc(bG8wjF4bG(NbcjCcN8cjmG8P#mb8wm3#(GwMNlmPC(m4cMC4bj#jC*wPbG(8*wN*(wGNPr4#t(j<#Mbcw#cj(M*P#C48*bP*CMCGmmcMb(mjjMG8*#N#4NGjPmM8mjm*cGFCm#jb((*4NM*=G#PjMNGmmmc8tw8*cwbC8cNb(hG4P4McCM(kcNGG8m((bww*jGb*C4Pb(jC44xcc=#8j##m(wmc&(w#(NG4CGRNC#cO4PP#cP8w#jN(P*NbM4w*(PG88CI8b#(Eb*jjc^8*jmG4PGmP8MmN#mGMMWfN#j((4*Mj4MPGjj*MP8mmmcwY*8wCNby8#N(bNGMPcM#Gc88cPGC88l8b*wGjC(G#mP((NCM#bc#lj8Ncj(*w8#b(*8)NC45CbN}4wYMPm##C4wjjP(m*c4G4**4PCM8CG8b#4bMwcj(PG*jNP4mG#PPMwCGm8*jFfw(j4b8*(Nc4j*#N(Mm*rmwM(6*8C#Ab8jwN4bPGcN*MMCjmPcPv88NGMb*wCjg(N*CP(MMCbb*c#0N8P4YbNw8j*fGNjNL(#C(PNcMw(8#MjCbwPcC(8wbN*83GGNGcGK(P##MG(wcjj(N*P0C48wGP*MGCCmw#bG(NCj4+j*#jG4NwbPP4PGcm*4C)Cj7#s((*4NMvjGcjNMNCNmmcP5wm*CbbC8(Nbj*G4jcMcw#j4cjG88m4*bww(jGCCmwN{(MC4GbccCj8j#Nmmwmck(w8CNG4*GUNb(8,4PN#cC8wjC((N*MjG4wwCPGMmC;mH#(b(wMjc*b*jNN4PwCP8MwC*mGcw9-mcj( c*MNM4#wj4{MP*Gm8cbs*j8#CC_4jN(bjGMjPM#w#mNMj?(88MGb*b4jC(aGbP(4MCMN#c#Hj8N#jbmP8jP(*8CNC4jCbcwc(*M8(##CNwN8#(mw;Nw4**bPC4M9bP4#4b(wcc#bj*N#w4mwCPwwjC*mPc4bbm4j4GM*cNc4jGjPPMmm#mwc*hGm4#i(b*(N4MwGcjPMj*PmPcPQ8mm#mbG8(jtCGG(P4MM*cPPcjG88PM*b8j(jw(N*(NO(4C(MjcM1M8##cbNwP(c(8*wN*((GCPecbi(cG#Mbcw#cw(N*PNm48*mP*4bCCmG#bbbw4jM*8*##w4NGPPmM8Cwm8GjvCmcjb*m*4NM4c*MmmMN*Gmmbw+88*#Gb*cPNbbjG4(CMcC#mjM#bw8mMYbw(#jG(C*WNCw8C4NPccC*8j#NbP8NNG(ww(NGEPGCmbc(G4cw#cC8wj#*(PwjN8bww#PG4MCtP##(mMwMjcm8*j#84PGmP8MPC*jG(8YCmMj(bm*McP4#8j#MMN**m8M4BwMw#GbGcmN(bcGMj/M#CjmNMPGH8mMCb*#PjGb(GbP(M(CMNmc#Gm8N#Nbmw8#j(*w4NC4dCbm(c4C(mM##CwwN8w(m*8Nw(8GjPC4c)bPj#4bMwc#Mbb*N#*4mNcPwM*CGNC8jbbm#j4uN*c(M4#wNPcMm*CmwMb9Gcb#C(bwwN4bNGcjPMjCNmPcmGG8wc(bGwCj3bMG(NC4*Ccm#cj8N8##Pb88m##(G8CNhwPC(m4cMGccG#jCNwPcm(8C4N*bGPjPE(0F(PM#M:cwc#c4c*P#N48VMP*MGCCmsC(b(m4jMu4*#Nc4NG4MwM8*wm*EG&w8Cjb((*4j_mwGcPjMNmPmjcm/wm8cjbCmeNbjcG4PMMc*#MCcNGN8mMwbw8*j*:CNNPbb>C4Nccc*j8jMNwbwmcP(w88NGxpGaNbCm!4P(#cCMwjc((N8m444ww8PG(*CDmw#bC4#wjc)M*j##4P*8PmMw*Gm*4CSEPJj(!b*MjC*cGjj*MP8PmNc8-*8w#CbwMNNb44GMcMM4C#mNcjP488cbb*j4jC(tGbj<c#CMNmc#PC8N#Pbmm8(M(*w4NC4cCbNCc4GMNG##CwwNcG(m#wNw4*j4PC44+b8(#4bbwcM#C4*j#w4mG(PwNwCGjC(wlrmcj4<8*MbM4#G#((Mm**mwCbyG8C#rbbccN4bjGc4bM#*mmPcmeN8wc(bG8(j!(OG(Pbw*CcN8cjm88P#mb88m#E(*wMNtc4C(m4cMGcmj#jC*wP#C(8wPN*bGG(PL4#2(PN#McGw#jjJG*P#*48GwP*MwCCj3MNb(m#jMbw*#NM4j8PP#M8*Cm*#cSCMG#?((8aNMbmG#jmMNCNmmcPPc8*c4bC8PNb4(G4N(cNC#NwcN*a8m#8bwm*(#(CwcPb4jC4PbccG#b*#NCGwmc?(wmwNG(**Nmb4c{4Mj#Mb#wjjN(N*m#*4wG*PGM*CiNbc*b4m#jcb**jcj4N8mN8Mw*CmGPw6Y8#j((48jNcb8GjjmMPCNm84wC(8Gc4bR8#N(m*G4NC4PCjNmcPI(88#8b*w*jC(oNwP(M4CMNmc#Zj8N#P4(w8c (*8ENC4CCbN_4G9MPP##GMwNjP(m88j*4**(PC4MIbcN#(QG8Nj#Em*NcC4mGmPwMwCGmCy8bbw(j4ZP*cN#4jGNNjMm*Cmwc8&G8G#S(bcjN4bNGcN;MjCNmPMNmM8wM=bGcwjy4bG(Nb(wCcNNcjjm8P#mb88mc_(G8/NyCMCbm4cMC4mm#jCNwPCC(8*wN*(w*PPi(Jk(wj#Mbcw##cHG*P#N48wjP*MGCCm)MNb(mjjM_4*#N#4NwPM(M8*Cm*c4vCm*jbO(CcNMbNG#jmMNj8mPMPR48*MCbCjjj14(G4PM(wC#NjcNKP8m#jbwP*jc(C8tPb4PC4wGccC#PG#NCPwmw#(wwbNGVC*Gmb4(T4N##cV8wjMN((*m#84w(mPG4.CY8bMmb4mjjc!#*jN#4PwmjCMw*CmGM(6F48jb(bc*Ncb#GjM#MPCmm8cw*58Gcbb28bN(4(GMjc(ACjNmcPCC88cPb*mGj*(ew4P((cCMjMc#Ccm}#PCmw8jC(**GNC4;*Cm(4(<M8c##bcwN#j(j*8#m4**jPCM!xbm(MGbMmMj#bG*N#j4mG8jGMw*wmCc{bbw(j4bMcNN#b#GN*#Mm*Pmwc*PC8Cc((b8bN44(Gcj#b_CNNmcmG*8wGjb*wPj44bwbP4C4Ccmccjxj8P#mw#wwj*(GwbNhMbC(m4#wgcPj#jCjwPjP(8wmNw4GwlP,M(:b84#MCc8Cjj5P*P#848ccP*4wCNmyMbb(*MjM(c*#jcb*GPjPM8mGm*cGFCmG#8((8bNMT*G#PjMNGjNFc8GP8**8bCw5Nbbnw8PM(bC#cMcj}P8mcPCCw*cP(C40PbM(C4P(cM;#Pb#N8wwmj8(ww8#c4CwPmbM4d48M#c,MwMjN3b*m844wG*PG4*Cj8b4Pb4#*jM(#*jj#4NGmjbMw8*mGcCaRmC#m(4mPNcm4GjPNMPCmPGcwGG8GMMb+wCN((b*(Pc(jCjj8cNim88#mm#wGcq(yjNP(M4CMP4#P.jPP#PGcw8jw(**wbN4e*(m((_=M8c##<c(PjPZ8*8jc4wGGPC4GGc8(MMbMP(j#(j*N#P44G8j*M**CmCr#Jd8w##(M8cN#bjGNPNMmCmmwc*8P8C#u(b8MN44MGcP#P8CNNmcm{P8w#wbGmCjC4bw4P44PCcP4cjGNmm#mCwwwcG(G(NNnMb*cm444oc8##jb#wP#NbP*w#84GM(P!cb;(m4c4bcmcjjbC*P#N488wP(MG*GmQ#Nb(cbj4(c*4NjbPGPjPM8C8m*cwPN8Jc(((8mNM4cG#Nc8(CPN8c8#C8*#GbCmU#m4(wMPM4mC#PMcNGPmN#8C*w*cC(CmCPb(qGCmM4MY#Nj#jbPwmj8b***#w4CG;mbMpk4m(cmb#mMjN4G*mN84w**NbMC*G8bcPb4mbjc(#w*NNb#GmP8MwC*mGMC-bwbM0(4bbNcb4GjPN4NCmNwcwG88G#*bF8bc844wMPc(jCj((cN%MmG#wC8wG4N(d*LP(M(CMmckbFj8N#PC8w8jw(**Gmj46*bm(4btM8M##5c8MjP1m*8cP4*GGPC(=C*8(M4bMmcj#w**jN4(*G8j8M*w(mCcCbbwbj4(MjxN#4jGNjmMmC8mwc*Cw8CMs(bwXN444GcPMw)CNNPcmmb8w#*bG8*P44bw(P4GNCMm#cjE#M(#mC8wwbm(G*CNU(C5cm44MVc(M#jbNwPcm*4*w#*4GGMPq(F9bP44*bcm#jjoN*P*448Gw*6MG**m.#bb(wbjMb4wcNjbcGPw4M8Cwm*MGCc8}MC((wmNMb(G#Nc4(CPNjc8##8*#GbC8kj(4(wbPMMwC#NMcN7Pm8#8Cww*cw(C*GPb((GGmM4MZ#mw#NCNwPc8(#**#*4CwCmbP8i48MMNb#mMjN(P*mNP4w*8PwMC*w8bM4b(wMjcb#cmNNb#GmP(Mw*PmGM*b*wbMG(4(GNc4#GjNNwwCmNNcwbM8GM8bB*bb444w4Pc(4Cjm#cPGm#4#wC8wGjM(-8=Pb(4w*mc4M)jP##P#4w8jw8(*G#84dCbm(cb-Mm4j4bjm4jPmP*mNw4**G((M=**8(cmbMP1j#bcGcNPbcG8C#M*CGmCM5PMw(MC(M*wN#b(GNPP*8C8Nmc*Gm8C#G(b8F#w4Mw(P#bMCNmPcmG8#M#*C8wCc*4bNNP(4GGNm#44/N(w#mbmwwjm(G*C48MbC(m44Moc8##jbNjMjm(8*w#w4GGCPrcbm*84#MbcmMjj(N*PNm(PGwjmMGC*m_ceb(wbC*(c84Nj*bGPPmM8Gm83cGGw8pbb((*4NM44#CPj(cCPc=c8fw8*cw4(w2cG4(w8PMMcC#mcGbYPPj#8Gcw*jG(CwGmMM(wymMbGH#8j#Nbjc4j8^P**WP4CGUmb4Jb#8MM(b##GjN(P*mNPwcG*j8MCmP8b#(b48(NN(#8MNNmmGmP8MwC84jcCG*wbb*(4*MNc(McbPN(#CmN(c8p*8GMCb4*bcC44*PPcwMCjNNM4DmPN#wCmwGMG(nwCjsM4wCmc MOj8N#Pbm88jw-j*GNC4sGCm(MbG88c4Cbj4:jN(m*8jw(wGGjPMOCN8(4wbMwcj((j8bNP4mG8PwM*GGPNcIG8w(ms(MmGN#4j*jPP(jC8N#c*,w8CMDCm*(cC4Mw(P#wbCjm4M*Y8P##*0#wCjC4bGbP4MMP6m#cjfNP##mb8wwj*(8*C#wMbwwm4c4xcP#C#bjmcjmb:*wI84GwCNmcb*G844.bccjjj(Nw(NmbcGwP*MGCwm{MCCZw4M*(cP*Nj4NGPNm4bCwNjcGE#8%Mm((m4j*4c8DPj(CCN4Ncm!mM##GCNwI484(G4PM4cjPmj4(gPcc#mCcw*jG7(*Q#*M(w*mMcM=#Pjc#bPm#j8(b**fw4CwFP4c(*C8MMbb#P#jNbjwCN8b#G*#CMGCW8b#(C8wMMG(#*jNN4jGmNP4mC*N#cCcXwbj((4wMjk4#8)PN4BCmN4cwh*Pv#GCN*bN(44GMPc4#jmmN4(ymCN#wCcwGjCwbGb#GM4w*mccMOjPNM(bmm#jw?P*GUP4CG8Pcc4**8cajbjwjjP(P*8NwGNGGPCME**8(#4bMwcj4(j84NPb4G8P8M*Cw4Nc Gww(bm(M*cN#(cC8PP(cC8(NcwtG8CMUmR*bcG4M*mP#wcCNNPMw38Pj#*CPwCbb4bG(NcMMwGm#cjON8##m3P8mj*f#*C_*MbC(m4MMC^8#4{bN8ijm<4*wc*4MGCjPcbGP8(C(bMwMCe(N8bNm)(GwP*MGGC44#bG8w4VC(MmGNj4NG#Pm(#CwN#cGEG89cbwm*4cC4c*8Pjw#CPNm4MIwPN#GCmwZwm4(G4bPMcwCmjcN0P8N#85m*mjGsj*)YPM(C4mMMcNP8jMbbPwbj8VM**jwMwGBjPc(888M#cb#8jC8(P84N8M4G*j#MCCqmG#(GGwMMG(#*#NN4jj4P8(jC*4jcC^xwbc<4#*Mc,4#PGPNMPCmmPGcW*PP#Cbc*bN(44*(mNM#*(mNjPtm88#w!88jjCa8Gb8(M4CMmcc#*P8jMMbmwmjw(8*G#CGNCbjwc4CP8cGMbjmNc((m8cNwbjGGGNM&Zb4j#4Gwwcj#(j*#NP(NCNPw(MCG*mcabbw(#4mj*ccG4j*CPP(bC8Pm#mdGP##lhM*(N44MGc_<M#wCmP4cv8P4#*Sw*wj%ejG(c*MMCcm#cjN(8NMbb8m4j*JM*CjIwMC(j8cM7w8#4GbNwPjj(88#N*b#GCPCcbG(c8#MGCw##w(NcjNmb8wcP*(NCCNm#bc8w4jMmm*#cC4NGPPmMPCwP8#8DCPjjbwc*(NM4c*#bmMN*bmmc( wPM#G_***NbEPG4jjMcC#mjcNN48PM(bwmNjG<#*=jCMCC4jmccm88##NbPwmC*(w8MNGb#GVjjc(C4mP#cGGwjjC(P8bN84wGmPG(PC:NP#(b(wMccbv*j#(4P*CP8wmC*NGM(=<P8j(C**MwG4#GjN#MP*(m8cwK*8w#CaGwwN()mGMN*McCjmNMPC488MMb*wcjC,jGbj%4NCMjwc#b*8N#Pbm88#C(*8#NCMjCbjPc4+MNN##CbwNcb(m*mNwb**(PC(mnbmj#4P(wcc#bj*N#44mwcPwbwCGP*MCbbPmj4Gj*cN#4jGNNmMm*(mwc*YG8*#{%CwCN4^mGcM#MjCNmPMmyc8wMMbGw#jn?jG(P4(#CMjwcjxN8P#mb88wCQ(G8#NRjGC(jPcM_cMj#jC(wPcb(8*mN*bGwNP>(mK(N*#MNCwcjbb8*P#b48#CP*M*CCmC#bb(#GjM(c*##b4NGPPmM8bMm*4jJCPjjb(b*4j(4(G##lMNw#mmc8kwP*cmbCmPNbf8G44mMMG:PmcNGb8m*bbwwwjG(w*?PbG*C4mMcc*?8j#NbPwm(#(w**NG(4G)mbc(I4cC#cb#wj#P(P*mN84w*8PG(NC9mC#(b(wMccwG*j#b4P*CP8wmC*NG4NV:Pmj(Cw*McM4#*cmcMP*bm8G8Y*8G#Cbdc#N(!PGMPcM#CcmNMjbj88Mbb*b#jC(aGbN(w#CMj8c#CG8N4Gbmw8cG(w84NC49Cbm(c4CM4N##G*wN8#(mmWNw4*jCPC(P_bNN#4b(wcc#C0*N#b4mwMPwwjC*mPc4bbPNj4*b*cNc4jGjPPMmm#mwc*^GPN#7(b*(N4MwGc#GMjwGmPcPS8mmcNbGmjjdCGG(P4MM*cPPcj*-8PM(b8j(jw(N*(N/bNC(cNcMdM8##cbNwP(c(8*wN*bjGCP_cbK(cG#Mbcw##N(N*PNm48*mP*(#CCmG#bbbw4j(mG*#cC4Nw8PmM8CwP8wNWCPNjbpG*4NM4cw#NjMN*bmmM9Yw48#GCC8NNbgmG4#wMcwcmjM#xb8mMbbwjcjG(C*fPb(jC4jPcc7#8j##bP8N#j(w8bNGm4GImbc(C4PN#cG8wj#C(PmGN84wG#PG(4C;8b#(b4wM#c5G*jc*4P(jP8b2C*mGMGH:PPj(CN*MN44#wjjbMP*bm84M%*4N#GbmwMN(9NGMMPM#C#mNcN&m88bjb*wGjCBNGbP(M4CMM#cc*G8N4Gbmwmjw(*wMNCbjCbm(c45M8ccMb#wNM (mm1N84*GGN*44fbNP#41jwcj#(jw#Nc4mwbPwGjCGmCc0Cbm{j4Cm*ccw4jbwPP4N*Gmw4b&GM8#T(b*(N4wMGM#wMjwwmPcNA8mmccbGmMj,8NG(P4MMCcP*cj*G8P4Rb8mbj*bw*MNtb#C(cGc4nc8##j18wPMk(88(N*b4GCNG4C7(Nj#MP#wcjj(N*PNN48w(P*(MCCNM#bC-PCjMCP*#JM4jGPPm4PG*m*4bYCcmjb((*4#M((Gc#mMNwwmmNCuwm8cwbCmbNb(*G4PMMcC#P4cN*w8m4wbww8jG:CwNPbbcC4jjccP*8#MNCWwmMG(wmkNGwcGCNbM(F4Nj#cGPwjG8(NwN#R4w8CPGw#CC8b#(b48#jcCP*jc84P8wP84mC(mG(%;y#wj((4*MNc(NGj#8MPw*m8(*e*mwjwb=m(N(ccGMPcM#CjCccP**884*b*wGjC(owwP(bPCMmcc#*w8N#cPbwmjw(*(wN84CCbN5c9lMNj##PmwNjP(m*8?#4w8LPC(49bNM#4o(*(j#CN*NM84PG8PwMjGCmC4bbbbc#C(4*ccN4jGM9FMPC8mwmU{m8G#Vb*MPN(4MGcGMM4CjmPMNCM8w4CbGmMjC4bG(NbcbCcjjcjN88P#mb8wwCj(*meN5bMC(jMcMGccG#jGNwPM*(8wwNw4Gw)PC(4X(NM#MGcw#jbwj*P#b48McPPM*CCmG#b1G4mj4(c*#*f4MGNPmMPNcm*4c-C#Njb((*4j(MNG##GMNmbmPc8>w88CjbCmjNb8mG4PMMcGM8mcN*L8mf#bww*jG(*#PPbbPC4PcccI#8jc#(wwmc((ww8NG4CG9PC*8J4N8#c*bwjjN(PwNGw4wwMPGcNC^8b#(?bmmjcC**jcc4PGmP8(wGwmG4#HoPNj(wP*4jC(PGj#GMPP#m8c8>*88#CbSjwN(44GM#*M#CjmNcP8c88#wb*8(jC(sGbP(GGCMmcc#CN8N#Pbmw8w/(*8cNC4GCbmbc4GMP*##GGwN#G(mcPNwb**MPC(j!bNP#4c*wcj#v3*NcG4mG8PwM8CGP*cbbbP#j4*M*MN#4j*NPMMmwemwcMgGP4#?Cb8#N4 PGcP*MjN#mNcmZN8wMMbGmMjT({G(j4*4CMj*cjC*8PGNb8mw#((G8#N_bNC(4McM5c8(#jG*wPjm(8*PN*(wGPP^(cq(NP#4bcw##jbM*PcC48G4P*((CCjOc8b(PNjMSw*cbc4jGj(4M8w9m*Cb:C8-jbb(cPN4kmG#4(Mjw*mmc8C*8*McbCmcNb4bG4jM(<C#jGcNCG8mGPbw88#b(C8cPbPCC4mMccV#m8#NG+wmc((w8(NG(**Mmb(jD4wG#cb#wjjNbw*mcC4wG*PGMPCrPC#Cb4PjjcrP*#NN4P*mbGMw*bmGc#&nPMj(C4PZNM}mGj*cMPNNmmMmbm8GM(bVPMNb44GMN4c4CjjmcPGG88#wb*wGc}(C8cP(b#CMjjc#Ccwc#PG*w8GK(**GNC4}*4mb(cQM8c##bjwNjPV8*mc+4*wbPC((LbP?#HbMPNj#Gw*jNP4mG8jGMww}mCckbbw(j4(M8#Nc58GN#wMmw*mwc8Pj8CM4(b4#N44MGcN#wmCNj*cmm#884WbGwCbb4b8PP4bNCcmMcjGNP(#mCbwwcM(GcPNC48Gcm4(N&cj3#jbjwPjP(8*w4N4GGCP)(NS(84#Mbcw4jjCG*PcG48G8P*(GNGmC4jb(8NjMm4*##j(wGP#uM8*(m*GC,C89c8((mjNM4cG#PMMNGjm(c8*C8*j4bCw,Nb((wGPMbPC#PGcN*w8m48^*w*c((CwjN6w}C(PGMN3#Nm#NNjwmjm(w*wNG4CP8mbc(S4N8#cb#wj#Nmw*mcC4wNNP*((CR8b4cb4PmjcCm*jNj4PwmPmMw*4mGcM r.(j(D4wCNc0wGj#GMPwPm8MmCj8GM4bF8*Nb44GMPcMMCjj8cPim88#mb*8w#G(=84P(bIC4mcc#Cjmc#PG*w8j4(*m}NC4_*4mb(c_M8c##bjwN#Pm**8cC4*(8PC((-b8(CMbMP8j#Cm*NNj4mw8jcM**4mC4#bb4wj(bGwNN#HmGNbpMmCmmwcwgG8Cb8(b*(N4nmGcP#MjCNm#cm*X8w4SbGwGjs(C#8P4bPCcj/cj9N8PcN(Gwwc((G*GNCMbC(mb**scN8#jPbwPjm(8wmGG4GwMPtGju(84#M_4w4jjC**Pcj48GwP*(GCjm+4#b(PNjMw8*cNb(8GP#GM8G#m*c*!C8Cjb((jGNM4cG##*MNCPmmc8cq8*M4bCwGNb4bG4jM4jC#jwcNCG8mmwbwm*#*(C8cPbbjC4G*ccY#mN#NGwwmj8(w*8NG(*G*mb(M 4cG#Mb#wj#Nbm*mcG4wGMPG(bCxNbc(b4Pjjc(**jb#4NGm#GMw*(mG4(3f8Lj(H48CNcA8GjN*MP48m84wh48GMMblm#N(T(GMN4(CCjj8cPw(8m#wb*wG#j(i84P(M4CMm4c#Cc8M#PG8w8#:(w*GNC(LGPm((c.Mmw##GNwNjP<w*mc*4*GGPCMa6bm(G#bMPjj##M*Ncm4mG8(*M**4mC4(bb8Oj4_MmGN#R8GN#GMmjcm8c8Pj8CM((b84N44MGcP#MMCNj*cm**8w#wbG8*#P4b8#P4GmCMm#cjV#M(#mGGwwjj(G*CNoMb*Wm4(Nhc8M#jbjwPcm*4*w#b4GGMPZP({(P44*bcPmjjCw*PcP48*mmmMG*bm/m*b(w4jM(cc8Nj%PGPPmM8Cmm*Mwbw8QMb((NNNM4cG#Njw8CPj8c8f48*4GbCw=#44b84PMMcC#mjcNCP4*#8G*w*88(CmYPbM(NMmM(P_#NN#Nbjwmc82c**#b4CwMmbww{(8(GGb#PNjNGw*mN84wG*8#MC*48b44b4w4jcbM*MNNswGm#NMwC*mG4C&4wbMc(4mjNc*wG#P#*(Cmj*cw8C8G#CbK*b43448jPcMMCjmjcPGmPC#wGXwGjM(Z((P((4C4mc(P9jN8#P#4w8jw(m*GcQ4rCbm(cbqMm4c4bjPNjPP=*8Nw4**GP*MJ*(8(cmbMPcj#bc*jNPnmG8pMM*CGmCM=PMw(MM(M*wN#SjGNPP#(C8jCc**C8C#C(b8p#j4M8NP#bMCNmPcmG88m#*CbwCc44bNNP(M(jGm#(P1NN*#mb8wwj*bw*C#4MbGXm4c4&cP#+CbNPwjmb,*wwG4GwCjPcb*c844jbcPcjjb#G#Nm+wGw4CM*CCmX#bPjw4MM(c*#Nj4#GPNNcNCwjwcG4*8Ajb((w4+j4c8#Pj4CCPjPc8-wPC#*GGw-Nb4(G4PM4cjPmj(N,PCj#8G8w*jG8A*!#MM(w4mMc4k#PjMbbPPwj8CC**IN4GGG(mc(*48Mw3b#wjjN(Pm*N8HGG*#GMCCC8bM(bbwMMj(#wwNNjmGmj84PC*jJcCG(wbMb(4w(NM4#8jPNwPCmm8cwL*8j#CGC*bN(44G(Pc4MCbmN(jYmP##8b*wG#C(NGb#bM4G8mc(M2j8NM8bPPPjw(**GNC4/Gb(cc4*48cm4bjP#jP(m#wNwJCGG#GM)CC8(M4G*wcMj(jmmNP8MGmP#4kCGjGcrjNw(j((M*MN#4jP4PPMmC8jGc*/G8C#dbG*(cM4M8MP#M#CNmjG4W8N*#*C4wCjL4bwHCMMMw#m#*jBj8P#mDP8*j*CC*Cc*MbC(m44MG*8#4NbNPmjm*b*8Nj4bGC#RcbN284#4bcwcjj(NNMNm48Gw#CMGCCmp#bCqw4Mc(c*MNj4jGPjmC4CwjGcGnM818(((84c*4c8jPjbPCPjPc8Cmwm#GGGw}G84(G4PMMcj8mj(#QP8m#8bmw*#w4w*>cGM(GPmMcc%#mjG8bPPNj8(4**c84CGlN4cbwT8M#cb#wjjNbPc*N8OmG**8MCw*8b#(mMwMM#(#mcNN4jGmj8(cC*jGcCGbwbGw((wGjN4#8cPN4NCmmmcwnw8G#Cw8*bN(448cPcM#CjmNc#HmN8#wG8wGjG(5*Cb8M4wMmcG#aj8N#PXN(wjwC**GNb4CCbm(MbCP8c4#bjPcjP(m*8#w4PGG#CMh*b8(6Pb48C#P(jmjNPCwG8P8M*CwmCc^8ww(j4(Mm#N#4jGNPPCcC8mwc*CC8C#;(b*(jb4M8cP#McCNmNcmCPPN#*GGwCMG(-G(P44(CMm#(#oNj4#mb8wwj*(G*CcCMbCbm4c(,cmMcbbNPjjm*C*8N*4GGCN#cbwC84#4bcw#jj(NwGNmVmGw#8MGwwmDMC-jw4M4(cm4Nj4NGPjm4(CwjwcG*G8fbj(bw*jj4c8MPj4mCPmPc8s88*#GwmwsNb4(84PMMcC#mjM#gPNP#8bmw*j*(CwGjmM(w(mMGGl#8j#N2j84j8Cm**(N4CGhmb4(m88M44b#PcjN8c*mjPMPG*#8MCNmmo#(b4wMGC(cmcNNhjGm#NMwG888cC**wb.((4*MNc4##bPjbjCmjPcw*m8G#CPG*bcb44G(PcMMCjP###ymNj#w*NwGjC(LGb8CM4w(mc(cZjNM#Pbmwjj8C8*GN*45Gem(MbGC8c4Mbj#(jP(m*8#w(mGG#*M1wC8(PjbM84#M(jmMNPGwGmPwM*CGmbcd*Cw(4C(M*4N#(c*4PPbjC8Mcc*aG8CcG^N*(MC4MjCP#MjCNNP4+o8NN#*GmwCj84bw(NPMMwbm#(4kNM6#P}Pw(j*CP*CmGMbC(m4cMjC8c44bNPcjmC#*w#*bjGC#wcbwG84N4bc8MNM(Nm4NmgMG8P*MGCCC*#b*Gw44G(c*#Nj4NcmPmbNCwm*cGD*8_cCT8*4My4cb(PjMNCPPN#N0wNN#G8GwCNb4(G4tGMMw(mj(M?PNc#8bwm8jGCm*QcGM(C4mMccNM8j4MbPwNj8(m**jwMwG0#wc(cC8M#cb#wjC((Nm#N89NG*#PMCCG4m#(*GwMjM(#*jNN(jC*P8bjC*(NcCHRwb#:mw*MMi4#mcPNMPCmPP#CU*NP#CNC*bN(44*GNNM#w(mNwN9m8m#wbwwGjC*8GbP(M48xmcc#&jm#jwbmP#jwMG*GNC4QGC(8c4wC8c4#bjwNjPbN4wNwYNGG**M!Wb8(cbBNwcMb(jmcNP4mG8jw4NCGjmc_*ww(bP(4*4=C4j8(PPG(C8mwc*>Gm*#FGw*(Nb4MGMP#4cGbmP(c.8Cj#*bGwCj_Z4GbcGMMCMm#cc3N8PMNb8P#j*CG*CNkMbGwP#cMwG8#*jbNwNjm(P*wN*GPGCPTcbw*84#Mbcw#(((N*PNm cGwP*MGG*w4#b*8w4#w(c*#Nj(#*(PmbMCwmccGAC8ujbmw*4M*4cGcPjMjCPPNMM/wN##Gb8wCNb4(w44wMc8Cmj(b2P(4#8km*mjGCj*+M#MbC4mMccNM8j4bbPwNj8(m**jw(NGT#Pc(CC84#cb#mjbe(Pm(N8ZMG*:jMCGG8G#(*mwMm8(#*jNN4P#NP8bMC*mwcCJGwbcJxw*MMw4#G4PjMPCmN8rMl*Nc#CGj*bG844*(m(M#8*mN(MXP88#wb*MwjCCjGbN_M4C(mcMMGY8N(Cbm#cjw(**G#CGNCb#Nc4wm8c#bbjmN(b(mmbNwX4GG4#MCGbN8#4*mwc4w(jCjNP(NCNPwbbCG4ccCbbw(j48c*cMw4jmwPPMNC8Pw*nJGNN#ujw*(MP4M*4j(Mj8GmP4Grm8w#*Sw8MjsC#G(MCMMCcm#Mcbc8P(Gb8m9jw(G*CNJ88Cb#NcMwm8#(8bN8jNj(8P%N*GPGGPJcbx((*#4*mw#4w(NP*Nm48w*PwbjCCj##b*jw4#(4(*#M*4NcMPmM8CwP*Gb5CNNjbb(*(Mm4c*#bmMNwbmm8#fwN##G *mwNbCNG4b(MMC#mjM#:M8m(JbwCmjG(C*fjCMCC4#Nccm88j#NbPwmCc(8m(NGgMGd#cc(Cbwb#c*mwjm8(P*mN8(mCmPGb(COGM#(b4wM#444*jMm4Pb*P8MwC*mGGZ0DN#j(Gc*MN44#GjjPMNw(m8((%*N4#C!Gm*N(CPGMNMMcCjmNMjg#884bb*C8jC(hGbjLMRCM#Pc#mw8N#Pbmw8C#(wm4NCVcCb##c4C(w(##*8wNMj(P*8Nw(8C8PCb4ubj&#(bMwc#M4M*NM84m8PP8M*CGmCCbbbNjj4G#*cNM4jGNjmMPw4mw(4JGNM#F5C*CN4CmGcMjM#CNmPMNbN8w4(bGP*jC4bG(P4(cCM#GcjwG8P(Cb88mcP(GmcNEb*C(m4cMC48c#j**wPM#(m*wN*bGPjPRb#2(jN#MjGw##c*#*NMG48PPP*MGCCPGc8b(N#jMC4*cNj4N*jN#M88Gm*wmuC8_jbtuw#NMC#G##cMjCPmmc8C88*44bCPbNb(VG4PM(JC##CcNwC8m(hbw88jP(Cm#Pb>GC(mMccG#jN#N*CwmMb(wM#NG(*G4mbbjl4N(#Mb#wj##bC*mMC4wN4P*MCCHPCcnb4NjjcCM*#NN4P*NN#Mw8CmG4NHCwbj((48GNcCwGjcmMPCNm8Mw,b8G4jbxPcNbCPGMN44#Cj#GcPL488#wb*8wjm(,m#P(#jCMmcc#1jPP#PG(w8M((*m4NC(GG#m(bPvM*(##bjwNjPb#*8c(4*8#PCb#,bP(cQbMN8j#G**Nb(4mGP(cM*w(mC*cbbw(j4(M*(N#C*GNc*MmCmmwM8b88C4#(bjWN(4MGcP#(PCj#Gcmdm8w#*bGwC#b(5mmP4JmCc#8cjC#Pc#mGbww(#(G*CNq(CG(m4bP9c8G#jbNwPcm*4*wc(4G8MPx8mH(mbjbbcNmjjC#*NNm48*mmmMGw(mU8Pb(w4jM(c#jNjC*GPc*M8Cmm*cGG_8C4N((PPNMCmG#Njw8CPjbc8#j8*4#bC8G#m4(mPPMb4C#mjcNCjwj#8Gbw*CC(C*<Pb(LC9mMbPk#*w#NbPwmj8(P**cM4C8Mmbcb74m(j(b#N8jN((*PN84wG*w8MCw#8bcNb4NNjcbMGMNNC*GmNwMwC*mGcCD*wb4N(4PNNc4cGjN#c#Cm#CcwPc8*#Cbx*bmC44mmPc4GCj#wcPRmmP#wG4wGj*(d*2P(4bIbmcbm)jP2#Nbmw8jwcm*Gcc4BGPm(bjrM8ccMbjNGjP(N*8N84**wNNM-wj8(M(bMwcj#bcwbNPCCG84#M*CGmC4?Gmw(4N(MPmN#8PGNNjcjC8#Cc*P*8G#)(b*(wk4MmmP#DmCNmPcmH8(*#*GMwCjV4b*YP4MMNbmcb*3N8N#mbmwwj*bc*CNDMbC(m4cM-c8#Z(bjwPjm(m*wN*4GGC';TQPluhkUOIFlbDwMX='B=w1S/OIJ#MWv >jWw>/1SI/Ww>>>JOOW/>>w1ISM#>jw>wJMSMv>>w>O>M#wvOjM1>=wvwhMjWWwvOjM1>=wvw_WwWWwvOjM1>=wvwCM WWwvOjM1>=wvw%M>WWwvOjM1>=wvw.M/WWwvOjM1>=wvwVMvWWwvOjM1>=wvw2M1W jw1SI#W=j/1WMv>jw1O=MvM{wM1 IDWWwvOjM1>=wvw5MwW 1WI IWjIwJO#Mv>/>5OMIvW1j111OH>SwjwVMMW wMwWI=WW1IOJM#>vw/w_MMWvj,IJI=WSwOwVM=>>wSw%M1M/jYIJISWJj1O=IvW:1J1wISW=wSwCMS>j>:OMI >M>W1=OK>1j wJM1M j11#IwM#>/11ISWSjI1JO8>vwjO1M=>v>2ISI >M>WO1OU>#wOwJM1M/j*IJI1>/wOO/O#W>jZIJI=>OjIOOOYjSwJO/M>M7w11 OJ>1> 1QWJW=jIOOO#M/j7IJIwW/w/OSO2jIwJO#Mv>/>:OMIvW01J1wIO>S>AO=M>>S>oO1O/Wa1J11IGWIjO1vI}jJj=1JI1>w>mOSMjMRwM1 MMMWj=w,M1W >JO1OWW=j11#O#M/jw1IIJW/jYwFMv>jw1O=MvMUwv1 MMMWw1w7M#>O>JO1O/Wn1J1=I=WSw=w#I>W j3IJIJ>=j/w;WS>Jw/O>O}>1j wJM1MMjVIJIw>wjFw#O/W,1J1/MS>OjSwpMv>jw1O=MvM^w11 IwWJjN1wI#MDw#OOOX>>wjISOk>w=WO1# jSwJO/M>M5ww/WM1  j 14WJW=>RO>I j11SIwM#>>wI1WM/>>wSw&M/>v11O/M#>O>rO1O/Ww1>1 I:M31SOJM/>>>GO1I MJw1w ICjJjw1JMwM#>/1iWJWwjI1SM1M_wvOjM1>=wvwdM1W j/1SIIWIj1wyM#>O>GO>MjjS>YOw#W>1= ISMJ>/w>wuMw Ww1/ I W01J1=O4jwj IWW WWw/O>MSMRw/OvW1>/>RO1I MJw1wMImjJjwO1ISM#>/1QWJW1jOOSI/MFwM1 MMMWj=wYMv>jw1O=MvMtw11 I1W/jO1JIIM?w#OOOQ>>wjISO4>w=WO1# jSwJO/M>M_ww/WM1  j 1iWJW=>{O/I >O1/O>M1jSw#OjM>MJw/w#Mv>jw1O=MvMHw11 ICjJjd1=O)>vwjO1M=>v>xOOW/>>w1ISM#>jw>w;MwMJwMw#M1W w1wWMMMe1wO/WSj/1wO>Oa>/jMI1W/>w>JO1O >M>vO1O WD1J1RI=M#w/O>MSME1IOJM#>vw/w_WSjw1/O/O&>SwjwpMv>jw1O=MvMKwM1 MwMJjYIJI2W=>#O#MOMJwM1 I Mw=v1/OwM#1SOJM/>>>nOwWw>/w=OWO3>/w>OSO^>vwjO1M=>v>XO1I >>>>OwW#jSw/wJMwMJjeIJIyW=>#w#Mv>jw1O=MvM(w11 MwMJw1w#M#>O>HOMI W >w/vIwMw1SOJM/>>>nO1I jw>>IJJM M=IOI#OjI=JwJM1M#w/OvW1>/w#OOO,>Mj 1 Ow vj1wwWS>Jw/O>OD>1j O1W>W >w/vIbMww/OvW1>/w#OOOY>Mj 1 Ow vjOwwWS>Jw/O>O;> =WO1# W wOI/M>>11SO#Mj>>>JOMOv>1>#IwM/jS1/IwM>M-wSwJIJMvw>O#MvMvwSwvM1MvwMw#M/>>wSwEM/>v11O/M#>O>hOMI W >w/vISMw1SOJM/>>>eO1I > =WO1# >/wvI1M/>#wOwAMMW j ww#vW_>wISMJ>/w>w?M1W w /WM1  =WOwOJ>>>>OwW#jSw/wJMwMJjqIJIiW=>#w#O#  jWO/M>>S>)OvMj>1w=OvOC>Mj OwOJW)1J1;IJM#1w/WMM  j O1O,>/w>OSON>/w>OSO+>/w>OSOk>/w>OSOG>/w>OSOo>/wvI1M/>#wOwmM1M/jwI>I WF>CISMJ>/w>wmM1W >JO1O Wp1J11ImWJ>#w/ITjJjI1wI/WJ>TIIMJ>#wvO/Op>Mjv1.WJWwww1OO2>=w>OSOY>1>/1<WJWSjw1OM=Wvj9IJIwW=j11/OT>SwjwGMMW wMwWI=Mlw11 OJ>1>W11I1WJ>#w/IwWwjJ1#ISMUwvOjM1>=wvw8M/W wMwWM1M<w#OOOJ>1>/1ZWJW=jw1IISM#j>1 IljJj#11M=Mg1SOJM/>>>&O1I MJw1wMI<jJjwOSIJM#>/1:WJ>wjO1IM/MhwvOjM1>=wvwyM1W jw1II/W=>_O#MOM-w>OjWSMDww/WM1  1SOJM/>>>COw#W>1= 1 I2jJj=wtM W wIO/WS>Ow/O>WOM6w=O>MSMawIO/WS>Ow/O>WOMJ>#1WM/>>wSwtM/>v11O/M#>O>3O1O/Ww1>1 I3MV1SOJM/>>>eO1I MJw1wMIsjJj1OSI=M#>/1RWJ>=w=O=Ot>vwjO1M=>v>uO1I W1jf1OIJW?>_O#MOMRw>OjWSMsww/WM1  1SOJM/>>>mOw#W>1= 1 IljJj=wtMjW 1SOjM>j/w OwM/jwjWO/M>>S>XO/Mvj1w/wKM1W >JO1OWWt1J1=I/Wg>#w/I-jJj111I1WO>TOMI >M>W1=Ok>vwjO1M=>v>eO1I WOj#1gIIWI>DO#MOMzw>OjWSMfww/WM1  1SOJM/>>>dOw#W>1= 1 ITjJj=w!MvW >w/vIS vjJ/vI=W=jO/vI=W=j=/vI=W=j3/vI=W=jI/vI=Wqj#/vI#WJ=v1=IbW==v1=I=WS=v1=IwWo=v1IIS vj#1R#vWJjI/vI=Wxj1/vIJWO=v1=I=W#=v1JIJ vj^/vIO vj=1=I/ vj=1=IO vj=1=IS vj=1gI/ vj=1=I! vj=19I1 vjS/vI#W#=v1=IGWS=v1#II vj=1=IS vj#1J#vWJj//vI=W=j=/vI=WGj=/vI#W/=v1OI# vj=1=II vj=1iI= vjL/vIO vj=1=I/ vj=1=IO vj=1=IS vj=1VI/ vj=1=IY vj=1bI1 vj1/vI=W=j//vI=W=jI/vI#WJ=v1=IzWS=v1=I=WI=v1OIJ vjJ1J#vW#jJ/vI=W=jI/vIJW/=v1II= vjT/vIO vj=1=I/ vj=1=IO vj=1=IS vj=1dI/ vj=1=IG vj=1*I1 vjS/vI#WJ=v1=IwW==v1=I=WO=v1=I5W==v1JIw vj=1=I= vj=1=I# vjI1S#vW=j=11#vW=jw1=#vWOj#/vI=WgjI/vIY vj//vI=W=jO/vI#WI=v1#IJ vj=1!IJ vj=1PI= vjO/vI#W#=v1=I=W==v1=I=W(=v1#I# vj#1I#vW=j=1O#vWOjI/vIJWI=v1#II vj=1=I# vj=1=I/ vjO1/#vWJj1/vI=WNjw/vI9 vj//vI=W=jO/vI#WI=v1#IJ vj=1_IJ vj=1_I= vjO/vI=W&j//vI=W=j;/vI=W=j//vI=WCj=/vI=W=jS/vI=W=jO/vI=Wsj#/vIIW<=v1=IiW1=v1OI# vjO1J#vW=j=1S#vW=j=1I#vWOjI/vI/MwjWO/M>>S>^O/M>>S>^O/M>>S>*O/Mvj1w/wlM1W >JO1O Wb1J11Iw>/>#w/ItjJjI1wISWJ>lOMI >M>W1=O*jIwJO#Mv>/>4OMIvWK1J1wI=W1>GO=M>>S>9O1O/W.1JOOI=WSjv1<WJWIjJO=O&>SwjwrMMW wMwWI=Mew11 OJ>1>W11IwWw>#w/ISW#je1II6M9wvOjM1>=wvwNM/W wMwWM1MNw#OOOJ>1>/1)WJW1w1O=ISM#j>1.WJW=w/1/IwMH1SOJM/>>>DO1I MJw1w IljJjw1/MwM#>/1?WJW/jO1#IOM+wvOjM1>=wvwoM1W jO1_IwW/j1wsM#>O>KO>MjjS>uOw#W>1= ISMJ>/w>wGMw Ww1/ I WN1J1=Om>/w>OSOs>/wvI1M/>#wOwQM1M/jwI>I W->4ISMJ>/w>wFM1W >JO1OWWN1J1OMSM#>/1,WJW/j#1JM/MiwvOjM1>=wvwHM1W j#1rI1W#>{O#MOM4w>OjWSMZww/WM1  1SOJM/>>>)Ow#W>1= 1 IUjJj=wkM/>>wSw&M/>v11O/OT>1j wJM1M j4IJIw>Ow=w#O/W<1J1OIJWJw/w.MMW wMwWI=MXwvOjM1>=wvw^M1W j=1OISWIjww{M#>O>YO>MjjS>8Ow#W>1= ISMJ>/w>w%Mw Ww1/ I WN1J1=Ol> j wJM>>j1SwUM M#w=O>MSM?=jS/J> O>dOjWwM7w 1WM/>>wSwVM/>>wSw%M/>>wSwXM/>>wSwyM/>>wSw5M1W >JO1O W#jS17O#M/jw1/IIW0j/w-M/>>wSwNM/MJwvw#IW>vwjO1M=>v>;O1I jW1 1WMO>j1wwEMMW jdIJICMvj9IJMO>O>xOSMjMfwvOjM1>=wvw5MwW 1ww>Mw /wjO/#jv/1/O/OJ>M>#1WM1 WwM/ I >wjWO1#W>w= 1 MMWWw/O>MSM!wvOjM1>=wvwVMOj/w>O1WS>#wjO>OPjS>JOMO#jww/ISW/jww>w+M1 WwM/ IW>/w>OSOT>vwjO1M=>v>XISI MJwOI/M>>11SO#Mj>>>JOvOv>>>#OvMj>1w=OvOX>S>vOwI W.1J1YI=MvjTIJI=W}>pOvMj>1w=OvO,>Mj IWWWj >vIWW Mv1WI W >vwjO1M=>v>4O I M jbIJIHW=>.OvMj>1w=OvO.>1j 13WJW_j=w6Mv>jw1O=MvM?w/1 MvMc1IOJM#>vw/w3WSjw1/O/O5>SwjwiMM WjXIJIgW1= /WWwM>wJI/JS JwwI/#/vI>JO>Ov>1>vwJMOj/w>O1WS>#wjO>OJM#w11 MSMWw1wHWw>/1SI/Ww>>>&O1O W;1J1bI=Mxw/O>MSM#>Jw#O#  j wJMOj/w>O1WS>#wjO>OJM#w 1 M MWjyIJI^W=>4IwM/jS1/IwM>M^w wgM/>>wSw#OJM#w#OOOu> j 1 OJWq1J1;MOM#1SOJM/>>>pO I Mw>wOwI WP1J1HI8WF>!OwWw>/w=OWO.>/w>OSO5>/w>OSO?>vwjO1M=>v>?O I M1w>wtWI>Jw#OvM/Msw11vM MWjQIJI:W=>2OSMjMgwM/WIYjJjN1w#  Www/ I jw>>OJW/vS=JOwW/ /kIwJM>Mvw1wvOJ>O1/O>M1jSw#OjM>MJ>#O1I >S>WO1O;jww/ISW/jww>wzM1M jaIJIVW=>YO/M>>S>#wJO#M#ww1 MwMWjEIJI_W=>!O#MOMkwww/IzjJj%1wI W jAIJI_W}>_ISMJ>/w>w(MwW juIJI&W<>nIwO>> mOOIJ/vS1wI/J1MJwM/WI_jJjp1=# Mv>JISOJMJ>JwJMM Wj(IJI6W1= /WMM Wj%IJI5Ww= /WI{jJji1?#   wjIwO_Wl1J1KI{M#>M1qWJW=jFw#OWMJwM/WI-jJj(11#  WwM/WI5jJjF1w#  Wj!IJI0W== / Mjjw>Z1XWJW.j8w#OW>/>#w/InjJj=1nIGM#>#w#IW>/j OvOW>/jWO/M>>S>qO/M>>S>&IwM/jS1/IwM>MR1ww>J1 Iw=IIW1v==1OOOJ>M=W1KWJWhj=/ O#>/w>OSO#WWw/wJWSMJj=1IIOMv>wS Ov =j OSOO>1=J//MJ O>/SJ## IwjwOOOMw>#w#IW>/>JISOJW=jO1=OvMw>j1SM=v#w1I J > =jSOIMW#>#1 Ov w1 /wO#>1(OSJ#wW=w11 IMv#> O W  w1 1#ISWM=j1MOvWSw1S##j> =w/jM1> j#w#M=v#w S#O#WSjSw#M=Mv=jwvW  jjM1MWl> w 1SI >WjS1#JOv >#S#M1 jj#S#M# w9#/wJOMvj#w#IS w>vSOM1WMjM1wIW>1Y SOO#j ==/j#jM#j /JISWSw /wOvW F#O1M1M#j#1SM W j 1 J#WMVO/M#w>1w1w#M1vOjSSvJ v#j I M=v#=jO O#WMw=1 JO wwv/1J  wj#1S#wvO=j1#M v j SOIMWS=wO1J v j#SOI#j w 1#I >=c#O=IM>1=w1#M=W#j#1SM> w=j1SI vOw=O J M#>#SOOvv w11 ISv#< O1I >=w=1M#jWS>v/wJ#W#jM1 #wvO1 SOO#>=jS1MW W#>v1 M=v w O Ov>1U#I #j w>/I IS>Sw S#J#MvYO/j#wW#1 1#I# jDIwvM >=>#1MO > =j/jO#>=w=1MI# jjS1SJ#W jM/wI#WMjSwvOvM#U#/jJO j5>1SW vO1 SOM=> w /wOvW%^#w=JOWS=w/jW v j#1 IS jo 1#IMM#jSO1J WM>vSOOv jw1SOIS> . /wI M=w=/=#jWS>v/jM=v jM/wI  wa SOI >==w1#J v j O I  j?#/jJv>=f S#I#vOjS1 #j>=j /jISWSw /jOvv#1 wvJO> >vSOJ W#X 1#O#M#mOO #wWS1 O1I#>1jS1SJ > >#1#M=v#1 1 O#> jSw##jvOjjwOJ vOjMS #J jjSSOM > w11SIM>==w/jW M#>#1SIS>Sw 1MI  j5#O1#jW 1L/*J#>=:OO1IM j1ISOI j w=S #jM#>vO1M1WSj#1SOv>=w1/SIMMvjSS##jv#j 1MM= j=jO=JO>1=wO I# wjSO=#j>1j O I v#zOS##w j1 1MI#vOjS1#M W#>#w#M=W#=jS I MvF#S JOvO>vSOIWj >ww#O#WWgSS1WwjJw Oj#O S6SO=##>I11OJMjW wOI/M>>11SO#Mj>>>JO1O#>1>JwJO W=j#11IIWI>WwJMOj/w>O1WS>#wjO>OJM#wvOjM1>=wvw<M/Mvww1 IpMvj=1WOJ>O1/O>M1jSw#OjM>MJw wvMMMvw1wvMwM#w wJMMMJw1wvMMMvwMwvM1M#>vOMOJ>1>CO=M>>S>hO Ov>w>vOwOv>1>#wvMwMJwwwvM1MvwMwvM1M#>vOwOJ>1>vO1Ov> >vOMO#M#w/O>MSM#>JOOW/>>w1ISM#>jw>wJM>Mvw wvM1MvwMw#M#>O>7O/I>WSj/11O-jSwJO/M>MR1wO/WSj/1wO>Os>1>iO/M>>S>sO/I >/>W1=Ou>wj wJMwMWjw1OI#M#>/1wIJW1j/1wO&>#wOwJMwM/j=11I1WO>#1>I WOjO1JOQjSwJO/M>Mq1wO/WSj/1wO>O4>1>cO/Mvj1w/w3Ww>/1SI/Ww>>>FO OJ>M>JO Ov> >vO1OZ>=w>OSOz> >vOMO#Mvw1wJM Mvw>wvM>Mvw w#Ov>M>JO1Ov>M>yO=M>>S>QO1Ov>M>vO O#Mvw1wJM1M_w=O>MSMlw wvM Mvw1wvMMMFw=O>MSMzwMw#O#>/w>OSOyjww/ISW/jww>wLM>MJw1wJM1Mvw1wvMMMvw>w#Ov>M>JO>Ov>>>vO1Ov>1>DO=M>>S>AOMO#Mvw1wJMMMvw1wvM MvwMw#M=>>wSwdM>MJw>wvMMMvw>wvM M#>vOMOJ>1>vOMOv>>>vOMO+>=w>OSOD>1>#w#M/>>wSwvMOj/w>O1WS>#wjO>OJ>M>vO>Ov> >vO1O#>#wOwQM/W>jw1wIIMH1SOJM/>>>zIwM/jS1/IwM>M)w>w^M/>>wSwNM/W w/wWI=M*ww1 OJ>w>M1/I_M#>/1SI=W=jS1OOH>#wOwJMwM/j=1SI#Ww>#1vIIWSjOweWS>Jw/O>Oxjww/ISW/jww>w9MMM)w/OvW1>/>;IwM/jS1/IwM>M<w1wJM MJw1wTM=>>wSwRM>Mvw wvMMM<w=O>MSM?w1wvM>M#>vO>OJ>>>vO Ov> >vO1O#Mvw1wJMMMvwMwvM>Mvw1w#Ov>1>JOMOv>1>,O=M>>S><O1Ov> >vO>O#>=w>OSO*> >JO Ov>1>vO Ov>M>EO=M>>S>YO1O#M#w/O>MSMb1wO/WSj/1wO>OX>M>JO OJ>1>vO>Ov>M>vO O#Mvw1wJM>MvwMwvMMMNw=O>MSMXw1wvM M#>vO OJ>>><O=M>>S>NO1Ov>M>vO1Ov>M>#wvM1MJw1wvMMMvwMwvM M#>#O/M>>S>vOOW/>>w1ISM#>jw>wJMMMvw1wvM>Mvw w#M#>O>LO/I>WSj11JO2jSwJO/M>Mb1wO/WSj/1wO>Oy> >;O/M>>S>PO/I >/>W1=OX>wj wJMwMMj111I/M#>/1wI=WSjI11OP>#wOwJMwM/j=1JIwWl>#1>I#W=j}w!WS>Jw/O>ODjww/ISW/jww>wHM>Mfw/OvW1>/>sIwM/jS1/IwM>MewMwJM1MJw>wvMMMvwMw!M=>>wSwzMMMvwMw#Ov>>>JO Ov>1>vO Ov>1>#wvM1MJw wvM1Mvw wvM>M#>vO>OJ>1>vO1Ov>M>vO1O#M#w/O>MSMl1wO/WSj/1wO>O4> >JO1OJ>M>eO=M>>S>NOMOv>M>vOMOv>>>#wvM1MJw wvM Mvw wKM=>>wSw(M>Mvw w#Ov>M>JO1Ov>1>vO Ov>1>#wvMMMJwMwvMMMCw=O>MSMLw1wvM1Mvw1w#O#>/w>OSOv>O1/O>M1jSw#OjM>MJw1wvM Mvw>wvMMM#w#OOO8>/j>1=I_W/>bISMJ>/w>w8Ww>/1SI/Ww>>>;O Oi>/w>OSO%>/j O/OWW=>-OwI MJwww I=W/>#w/ISWJj=11I#MHw#OOOJ>w>/1OIIWz>#1>I W1j11/OCjSwJO/M>MZ1wO/WSj/1wO>O;>1>JO1OJ>M>xO=M>>S>(OMOv>1><O=M>>S>XO>Ov>1>vO>O)>=w>OSOy>1>#wvM MJw wvMMMvwMwvM>M#w=O>MSMhw1wJMMMvw1wvM MvwMw#Ov> >JOMOv>1>vO Ov>1>#wvM1MJw>wvM>Mvw1wvM1M#w=O>MSMgw1wJM1MvwMwvMMMvw wrM=>>wSwrM1M#>#O/Mvj1w/wkWw>/1SI/Ww>>>}O Od>/w>OSObjww/ISW/jww>w*M1MKw/O>MSM#1wO/WSj/1wO>O(>wjWO/M>>S>#wJO#M#>#O/M>>SjWOjMJj1wI/#M=vS=S/OMj> 1JIwJ1vSj IWWwM>n/OIJwvW1MISJ= S>vIwO>>WH/S ##j/RjSwM/j jWOvMj>1w=OvOn>1j wJO WJjJ1JI1MW>JOOW/>>w1ISM#>jw>wJO#>vwjO1M=>v>nO Ov>wj 1%OvW=jWwJMOj/w>O1WS>#wjO>OJ>M>vO1O#>1>JO1OJ>1>vOMO#Mvw1wJM1Mqw=O>MSMew1wvM1M#>#O/M>>S>#wJMOj/w>O1WS>#wjO>OJ>1>vOMO#>#wOw}M W>jS1/I=MP1SOJM/>>>(IwM/jS1/IwM>MVw1wNM/>>wSw,M W w wWI=Mmww1 OJ>w>W1=I8W=jSw#O/W#jO11I/Mzw#OOOJ>w>/1/IOWS>#1>I WwjJ1wO_jSwJO/M>Muww1 OJ>w>W1/IuWw>#w/I1Wwj11#I/M41wO/WSj/1wO>O_>1>DO/Mvj1w/wxWw>/1SI/Ww>>>lOMOJ>M>JO1O.>=w>OSOC>1>vO1O#MvwMwJM1Mew=O>MSMyw1wvMMM#>#O/M>>S>AIwM/jS1/IwM>M%wMwJM1MJwMwvM1M}w=O>MSMhw1w#Ov>1>JOMOv>1>?O=M>>S><OMO#>=w>OSO8>1>JO1Or>=w>OSOL>M>vO1O#M#w/O>MSMvwOI/M>>11SO#Mj>>>JOMOv>1>#O#MOM.w 1>I=W=jIw2WS>Jw/O>O%jww/ISW/jww>wYM1M<w/O>MSMDw 1 M MWj=wQMwW >JOwOMWOj#1#O#M/j=1SIwWOjwwHM#>O>JOwO/W1j11SO#Wvj 1=IOWI>nISMJ>/w>wuWw>/1SI/Ww>>>(O1OJ>M>JO1Ov>M>#wvM1MJwMw%M=>>wSw.M1MvwMw#O#>/wvI1M/MP1wO/WSj/1wO>OX>1>aO/M>>S>+IwM/jS1/IwM>MCwMw.M/>>wSw#Ww>/1SI/Ww>>>8OwIW>/w>OSO#MJ>#w#Mv>jw1O=MvMrw>O1I MJwIO/WS>Ow/O>WOM#wjIwOJ>O1/O>M1jSw#OjM>MJ>#IwM/jS1/IwM>MR=jS/J> O>9O/M>>S>#1WMv>jw1O=MvM;wO1 WwM>,MISJ/jp1MSS#?>w>{OjWwMc1ww>MMjww>OwJSv :SOSIW>vwjO1M=>v>3OII W=jWOvMj>1w=OvOd>/j 11IW>vwjO1M=>v><OvI WSjWOvMj>1w=OvO&> j 1wIW>vwjO1M=>v>{OOW/>>w1ISM#>jw>wtM/>1>JO=OvM>>>w>O#>vwjO1M=>v>cOJI jS>JO1OvMJ1Ww>O>M>1 w##WW== wJOIMI>#w#IW>vwjO1M=>v>YOMI W%jWIwO> J1SSwMJjS1=SwJwMJwOI/M>>11SO#Mj>>>Jw#MMW wMwWI=M0w/O>MSM#wvOjM1>=wvw<MOj/w>O1WS>#wjO>OZ>1>JO1Ov>w>#O#MOMTwwwRWS>Jw/O>Ogjww/ISW/jww>wxMMMVw/O>MSWWwM1 M1MWwM1WM/>>wSwpMv>jw1O=MvMowwwvMMMv1S1 MSMJj<wvMSMvw1wvMJMv1ww>#w>j1ISMW=j#./OWO#WWwvOjM1>=wvwoMOj/w>O1WS>#wjO>Or>>>Jw#Mv>jw1O=MvM5wwwvMMW 1ww>#w>j1ISMW=j#c/OWOJ>J>vO1OJW=>v11O#Mvw1wJI/MvjOw#OWWw>#1WM1MJjww#IWjww/ISW/jww>wJMMMMjw1/IOM#>WOwIW>/w>OSIW>vwjO1M=>v>QI1I jS1wI/M/WWwvOjM1>=wvw}W1W j%wLMv>jw1O=MvMXwOI/M>>11SO#Mj>>>*/jOJM#wvOjM1>=wvwPM W wMwJO#WWwvOjM1>=wvwtM1W wMwJO#WWwvOjM1>=wvwmM/W j=1WMv>jw1O=MvMrw 1 OJ>w>JO1OvW=>v1wIRM#>MwJIw >j11wO#M#>WO IW>vwjO1M=>v>_OMI >w>JO1OvWwj=wvI1W=>#1WMv>jw1O=MvMqw11 OJMJ> 1=O# >wwwJM1Mvj11wO#M#jWO#MOMJwM1 I WD>#ISMJ>/w>wRM#>O>JO I W 11w#WS>Jw/O>O.jww/ISW/jww>wlM1MMj*1WM/>v11O/O<>Mj 1=IW>/j 1rIW>/w>OSIW>/wvI1M/>#wOwJMMW j 1wIRWSjIw#WS>Jw/O>O:jww/ISW/jww>wJM W j 1DO#>=w>OSOJ>1>MwJI=MjjXw#O#>j1wwJM1MM>J1KOjWP>#w#IW>/w>OSIWjww/ISW/jww>wRWwM>C=OJMIjM11OwJJvO>JO1Ov>M> 1=IEWwj1w#OMMJw/wWOJ> >jwJIw >j/1wO#M#>#1WM/>>wS1WMv>jw1O=MvM21/1 MMWWwvOjM1>=wvw+MOj/w>O1WS>#wjO>Ot>W>JOMO#>vwjO1M=>v>-OwIW>#wOwJM>>j1SwcMMM#1SOJM/>>>mOMI j/>Jw#IW>#wOwJMMW j 1kO#jSwJO/M>MH1wO/WSj/1wO>OIMIjWO/M>>SjWO/M>>SjWOwI jw>>OJW/vS=JOwW/ /,IwJMJMvw1wJI=Mvj1w#Ov>1>J1/OvWO>#wWMMM j=w#IW>1>JOMO#>vwjO1M=>v>qO1I Mw>wOOMjjw>9OMI MJj=wWW1M#>vw1MwMzwSOjOR>1j O1O>M>1ww>MJj/4S/JMwj/=/SIOJ>w>vOMOv>M>#O/M>>S>fIwM/jS1/IwM>M&w11WM/>>wS1WMv>jw1O=MvMY111 O1jw>>S/MIvwLWIMWSv==SwJMjMJ>I/vISW#>>/vISWJ>Iw#O#j>j 1=OF>vwjO1M=>v>_O1I >MjWOvMj>1w=OvO:>O1/O>M1jSw#OjM>MCwMO1OJM>>>w>O#jww/ISW/jww>IWO>M>>>I Ovjw>>SOJ/ S=MOWM1 ws wJOIM1>IwvO>M>>>w#M/>>wSwiMv>jw1O=MvM*wOI/M>>11SO#Mj>>>}OwM1MJ>#OvMj>1w=OvOR>1j IWW WWwvOjM1>=wvwkMjW 1WI IW>vwjO1M=>v>qOOI jW1 1WMv>jw1O=MvM:wJ1 WW>j>vOOOv>>w#OvOv>11 1WMv>jw1O=MvM9w11 MMMJ>#OvMj>1w=OvOx>Sj IWW >OwjIwO)> j 1=Ov>1>VOSMjMnwvOjM1>=wvwzMwW 1SwJO#WWwvOjM1>=wvwfMMWWw#OOOJ>wj 1 IwM#1SOJM/>>>;OMI MJ1SwJO#j>j w1WWj >#1WM/>v11O/M#>O>JOwI W jNw#WS>Jw/O>Ot>vwjO1M=>v>iO1I  j>Jw#IW>#wOwsW1Mgw=O>MSM!1ww>Jv &w1O/W/ J^=ISOJjw>>S/MIvw0WIMWSv==SwJM1M#>vwIO>MJ=v1SIJMW>#wSOIM#1SOJM/>>>{O1I jw>>I1M/>/w=/M#1 IfJwJM1M#jWO/M>>S>_OMI >1jWO/Mvj1w/O#MOMJww1 I W=>#ISMJ>/w>w4MMW wWwJO#WWw/O>MSWWwS/WM   j OMIW>/w>OSIW>OwjIwO;>1j 1=Ov>M>Jw#MS>j>_OO#W>1> wJO1jWj=I O#  j OwM1MJ>#1WM/>>wS1WMO>j1ww.MJW j=wvMMMJ>#OSMjMRwvOjM1>=wvwdM1W 1SwJO#WWw#OOOJ>w>JO1OvW=>v1=O#W j 1nO#jSwJO/M>M.wvOjM1>=wvw:WSW wwwJM1MvjwwvI1M#jWOvMj>1w=OvOT>Oj OwOJ>1>v1SOvWO>#1WMv>jw1O=MvM,w11 WW>>>Jw#Ov>>>Jw#Ov>>w#OvOv>>w#OvW WWw#OOOJjSj 1 I0M#1SOJM/>>>QO1#W>/= 1 M>MJ>#1WM1 Wwv/ I >>>Jw#IW>/wvI1M/>#wOwJWSW j w1WWW=1 w#WS>Jw/O>O:>1=WO/# W wMwJO#WWw/OvW1>/w#OOOJjSj 1 M= Wjw/ O#jSwJO/M>M0w1/WM/  j OMOJM#> wJIw >j=1OO#>/wvI1M/>#wOwJWSW j O=#WW1= w#WS>Jw/O>ON>1=WO/# W wMwJO#M >J1w#>W=jOw#M1 Wwv/ I >>>Jw#IW>/w>OSIW>#wOwJMwMJwOwvI=Mvj=w#I W j=w#WS>Jw/O>OY>1=WO # W wS/WM1 Ww / # >/w>OSO+>#wOwJMwMJwOwvIwMvjww#I W j=w#WS>Jw/O>OF>1=WO/# W wS/WM1 Ww// # >/w>OSO<>#wOwJMwMJwOwvI1Mvj1w#I W j=w#WS>Jw/O>OR>1=WOv# W wS/WM1 Wwv/ # >/w>OSOU>j=WOJ# W w11WM/>>wSw(M/>>wS1WMJ Wj1/ I jS>Jw#IWjww/ISW/jww>wmMJWWw/O>MSWWwvOjM1>=wvwTMOj/w>O1WS>#wjO>OF> w1wJMwMvw1wvMMM#wvOjM1>=wvwxM W w11WMv>jw1O=MvMHw 1 MMWW1wO/WSj/1wO>Ox>j>JIwO>vv=8O1M/j/=JS=WSMJ1ww>Jv *w1O/W/ JL=ISOJMJ1WIwO> J1SSwMJjS1=SwJwMJwww#W M#=W1w# Mvw1w#Ov>M>#w#M/>>wSw,Mv>jw1O=MvMkwOI/M>>11SO#Mj>>></jOJj#>vOJOvjS>#OvMj>1w=OvO9>O1/O>M1jSw#OjM>MUw O1OJM>>>w>O#>vwjO1M=>v>}O>Ovju>vOWOv>ww1wvM=MvwMwvMjMv1/wvWMMvw1O1Ovj1>vOwIW>vwjO1M=>v>7O1I W<jWIIMJ>#wvO/O W=jvO1Oa>Swjw0M#>O>i1wIv>1>uISMJ>/w>wuM#>O>*O1I>W j/wfWS>Jw/O>O?>#wOw8M1W>jwwpWS>Jw/O>Oijww/IhM/>=1SwzM#>O>aO1I>W/>YISMJ>/w>weM1W > 1wIW>w1wO/M=>WjWO/M>>SjWOwI >S>J1IO#WW1/O>WS>#wvwcWSjw1/O/IW>/wvI1M/Mnw11 O WwjWO/M>>S>_O/Mvj1w/w.M#>O>)11W>W w1wPWS>Jw/O>O->1w11 WwM>GOS/#S MwWO1#wv >JwIO1MI>vw>O>M>>#w I=WW111 WWj jWO/Mvj1w/wcW/W 1WI IWjMj IWO>M>>>I IW>/w>OSO4>/w>OSOy>/wvI1M/M4w#OOO->1j>1 I=Mt1SOJM/>>>FO#MOMKw1I>I M jwwYWS>Jw/O>O;>OwjIwO9>wj 1=ISMvj#1YOF>SwjwpM#>O>hO1I>W=>_ISMJ>/w>w5MMW > 1SI=WWwj1 O W=jWOwWw>/w=OWIW>/w>OSIW>Wj OSOJWO>v1/ISMvj1wvI#Mv1#w#IW>=j OMM1M)wwO1I WhjWOwWw>/w=OWIW>/w>OSIW>/wvI1M/M)wW1 MSMJjOwvI/WS>v11OvW#>vI#O#WWw=1 MM>1>XOwM1W jl1WM/>>wSwKM/>v11O/O}>>j OSOJWO>v11IcMvj=wvI1W#>vI#O#WW1:1 MSMJjOwvI/W#>v1wOvW1j1wvW#M#jWO/M>>S>9O/M>>S>QO1I >1>W1=IW>/w>OSIW>OwjIwOd>1j 1eOv>1w1w7MS>j>&O#MOMJw11>I >W>#ISMJ>/w>wqW/ Ww1w MW  j IM#W>1>W1=# WWw/OvW1>/>GOw#W>1= 1 WM Ww1wWI=  jWO/M>>SjWO/M>>SjWOvMj>1w=OvO+>Wj O1M1M wWwWI=MrwvOjM1>=wvwCM1WWwvOjM1>=wvwkMSWWwvOjM1>=wvw_MOj/w>O1WS>#wjO>O<j#>Jw>O>M>>#IIMJ>#wvO/ODjS1wI/M/MDwSOjO!>/w>OSOz>/w>OSOojIwJO#Mv>/>;ISWwj/w/wUMS>j>rO#MOMqwM1vO WSjqw-WS>Jw/O>O0>Mj OMOWWSjwwlM/>>wSw2M1W w>/WMM  jWOSI >1=WOI# WWw#OOO<>Sjv1=I#W#>qISMJ>/w>wQM#>O>k1#IJW>j OSODjSwJO/M>M}w#OOO4WSjJ1>I >S>rISMJ>/w>wpM#>O>z1wI1WvwSw*WS>Jw/O>Og>#wOwxI1WOjv1 MSM01SOJM/>>>mO#MOMqjS1wI>>S>3ISMJ>/w>w+M#>O>:11I#Wvj OSOajSwJO/M>Miw#OOO3WSjT1>MSMy1SOJM/>>>ZOvMj>1w=OvOb> j O1#W> = 1WMv>jw1O=MvMnwM1 Mw Ww1/WM/  = 1WMw Ww wWI=  j OMIW>w=WO # W wM/WM1 Wwv/ # WWw/OvW1>/>,O#MOMfj11#Iv>S>uISMJ>/w>wkWw>/17O/M=jS>PO#MOM8wS1vISW=>XISMJ>/w>wZMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMCww/WM1 Ww / # jSwJO/M>MbwM1 MMMWj=1WM/>v11O/OD>Mj O1#W>/= 1WM/>>wS1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw.MvWWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  j Ow#W>v= wJMOMJwwwvMvMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWIS#W>1=WO/#   j Ow#W>1=WO #   jWI/M>jSw#OvO-jS1wI/M/WWw/OvW1>/>QOvMj>1w=OvOx>vjWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = Ow#W>v= 1 Mw Wwv/ OJ>O>JOwOv>v>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WM/>>wSwxM/>>wSwEM/>v11O/O<>#wOwGI1WIj>OSOUjSwJO/M>MVwOOjWwM0wv1 I7Mvj=w6MS>j>2O#MOM}wv1>O W1>%ISMJ>/w>w*MO>j1wwDMSW jw1IOvWOj#wkMS>j>FO#MOMij=I>I >v>EISMJ>/w>w7MwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>)OwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO4>/w>OSO7>/wvI1M/M%w#OOO!W1jII>I >S>hISMJ>/w>wdMv>jw1O=MvM+wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJM#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >MOw#W>1=WOv#   jWO/Mvj1w/wnMS>j>FIwM/jS1/IwM>Mrw/O>MSWWw/O>MSM3w/O>MSMRw/O>MSM!w/OvW1>/>AO#MOM8jS1/I>>S>VISMJ>/w>w_M#>O>&OSI>W jS11O*jSwJO/M>Mpw#OOOgWSjw1vI >S>9ISMJ>/w>wuWw>/16O/M=jS>AO#MOMgwSI>I WSj1w^WS>Jw/O>O3>vwjO1M=>v>bO1I >1=WO # >vwjO1M=>v>+O Ov>Mj O=OJ>w=WO1# MJwOwJMwMvw1wWI=Mvwjw#O#M#wj1 MMMWw1w I=MbwvOjM1>=wvwEMMW j^1WMO>j1wwFM1W w1wvMjMswSOjOh>Mj OMOWW=jWOw#W>1= 1 M  WwM/ IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOX>S>vISIW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IWj/w>ISM#>v>tISWwj/w/1WM/>v11O/Og>vwjO1M=>v>uOSOvjSjWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IWW WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>{O/Mvj1w/wKMv>jw1O=MvMQwSwvW1Mv1wwvMJWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   11wvWwW w=wJMw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#w#MjW 1wwWMSM j=w}MJW j;1WMO>j1wwbM1W wSwvMjM4wSOjOp>Jj OJOWW=jWOw#W>1= 1 W1 WwJ/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/O>MSMYw/OvW1>/>LO#MOM-wS1>I WSjIwcWS>Jw/O>OK>#wOw(MSW j 1SIJMU1SOJM/>>>{Ow#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/wvI1M/M*wvOjM1>=wvw_MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/O>MSM8w/OvW1>/>;O#MOMPwS1>ISWS>!ISMJ>/w>w2MO>j1ww&WSW j11#OvWIj1w?MS>j>LO#MOMVjS1OW>W wSwqWS>Jw/O>Og>vwjO1M=>v>%OSOvjSjWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM3wSwvWSMv11wvWwMvwJ1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / W1Mv1w1 M=MJww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#M#wj1 WwMWwSw I=MLwJ1 ITWWwOOjWwMCw11 MSMvwjwdMS>j>_OJI >J>W1=IW>w=WO1# W 11/WMJ  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOSMjMA1wO/WSj/1wO>Oh>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#>/w>OSIW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/w6Mv>jw1O=MvMiwSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >w=WO1#W>v= / IW>/w>OSOl>/w>OSOU>/w>OSOT>/w>OSO_>/wvI1M/M{w#OOO2Wwj#1vMSM*1SOJM/>>><O#MOM6j111IvW wSwbWS>Jw/O>Oc>#wOw.I1W1j>1 MSM51SOJM/>>>fOvMj>1w=OvOA>vjWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = Ow#W>v= 1 Mw Wwv/ OJ>O>JOwOv>v>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>/wvI1M/Mew#OOOPW1jD1vMSMr1SOJM/>>>nOOMjjw>VO>I W1j=wvIOW#>}OSMjM<w#OOONW1j/1>MSMU1SOJM/>>>fOw#W>1=WO #   j Ow#W>1=WO/#   jWOwWw>/w=OWIW>/w>OSIW>#wOwJM1 Ww / Iv>w=WO1#W>v= / O#jSwJO/M>M*wM1 M1 Ww// IW>/wvI1M/M-wM1 MMMWj=1WM/>>wS1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>TOw#W>1=WO #   j Ow#W>1=WO/#   jWO/M>>S>%O/M>>S>kO/Mvj1w/wGM#>O>A11I-W>j OSONjSwJO/M>M2wvOjM1>=wvwlMSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWw/OvW1>/>eO#MOM}wS1>I WwjIwNWS>Jw/O>OZjww/I!M/>=1Sw5M#>O>-11IwW>wSwxWS>Jw/O>O6>vwjO1M=>v>TOOOvjSjWOOMjjw>tOSI W4>v11Ot>SwjwtM#>O>2OSIvW j=w9WS>Jw/O>OA>#wOwTMSW>> 1=OsjSwJO/M>MHwOOjWwM^1S1 I=WS>v1OI/MfwSOjOG>#wOw9MSWvj=w0WS>Jw/O>On>w=WO1#W> = / #W>w=WO1#W>/= / # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/MkwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSweM/>v11O/O%>#wOwgMSW>jwwtWS>Jw/O>OH>Oj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMOMWj=/ I jSjWOw#W>O= 1 WS Ww1/WMv  = 1WM/>v11O/OD>w=WO1#W> = / I >w=WO1#W>/= / #W>w=WO1#W>v= / # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>*O/M>>S>xO/M>>S>NOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM#>O>JOw#W>1=WO #   1>1 M1 Wwv/ O#jSwJO/M>MmwM1 MMMWj=1WM/>v11O/O!>Mj O1#W>/= 1WM/>>wS1WW/>>1SO#MvM.1SIwW/>/jWO/Mvj1w/w(Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # j>j O1#W>v= w#WS>Jw/O>O4>Mj OMOWW=jWO/Mvj1w/wfMMW w1/WM/  jWO/M>>SjWO/M>>S>mO/M>>S>%O/M>>S>NO/Mvj1w/w(M#>O>f1wIOWvwSwFWS>Jw/O>Ol>#wOwEIwWIjvOSO;jSwJO/M>Maw#OOOaWwj#I>I >S>bISMJ>/w>wEMv>jw1O=MvM(wSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw#OOOg>>wjISOG>w=WO1#W> = / WS>Jw/O>OA>Mj OMOWW=jWO/Mvj1w/wfMMW w1/WM/  jWO/M>>SjWO/Mvj1w/w+MO>j1ww_MSW jHwvISM^wSOjOf>#wOwKMSWvjwwcWS>Jw/O>Ok>#wOw^MSW>jhwXWS>Jw/O>O->w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/OL>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwYM/>v11O/OU>#wOwQI1W>wSw-WS>Jw/O>O+>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/Oc>#wOwrMSj>j 19OAjSwJO/M>M*wOOjWwMfwO1 ISW/>v1IISMgwSOjO%>#wOwiI1WvwSwiWS>Jw/O>Ob>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WM/>v11O/OL>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>bO/M>>S>(O/M>>S>8O/M>>S>DO/M>>S>4O/Mvj1w/wfMv>jw1O=MvM_wSwvMOWWwOOjWwMX1S1 IRMvjSwqMS>j>nO#MOM3jw1vI jS>(ISMJ>/w>w,M#>O>%1wIvjS>8ISMJ>/w>w%M#>O>)1wIvjS>-ISMJ>/w>w0Ww>/1.O/M=jS>YO#MOMuj1I>I jS>EISMJ>/w>wyMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OwWw>/w=OWIW>/w>OSIW>Sj O1#W> = 1WMOW ww/WM1 Ww// # WWww/WMSMWj=/ I >OjWOw#W>S= 1 MO Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>qISWwj/w/1WM/>v11O/O)>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#M/>>wSwlM/>v11O/OQ>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwYM/>v11O/Os>#wOwyI=j>j ISO_jSwJO/M>Muww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/M_ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO(>/w>OSO^>/w>OSO<>/w>OSOE>/wvI1M/Miw#OOO_Wwj/1vI >S>uISMJ>/w>wgM#>O>l1wI=j>j OSO_jSwJO/M>M71wO/W&>/w=ISO{>#wOwYMSj>j 1wIOMu1SOJM/>>>0OvMj>1w=OvOz>S>vISIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOd>SjWOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # Wvj Ow#W>1=WOv#   >#ISMJ>/w>wcMMW w1/WM/  jWO/Mvj1w/wFMMW wMwWI=WWw/O>MSWW1/O>WS>#wvw}WSjw1/O/IW>/wvI1M/MFwvOjM1>=wvwDMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#M/>>wSwnM/>v11O/O}>#wOwJMw Ww1/WM   = 1vI >1=WOv# M#1SOJM/>>>QOMI >M>W1=IW>/wvI1M/MQwM1 M1 Ww// IW>/w>OSIW>/w>OSOu>/w>OSO,>/w>OSO^>/w>OSOp>/wvI1M/Mrw#OOOF>Sj>1=I=M81SOJM/>>>,O#MOMdj=1IIv>S>_ISMJ>/w>wzM#>O>ZOSI>W jw1=OkjSwJO/M>M?w#OOOiWwjw1>MSM.1SOJM/>>>?OvMj>1w=OvO8>Mj O1#W> = OvMj>1w=OvOf>/j IWMw WwM/ OJ>O>JOwOv>M>W1=Ov>j>#w#W WWwvOjM1>=wvw<M W j?1WMO>j1wwlM1W wMwvM1 Wwv/ MS>j>TO I > >W1=IW>w=WO1# W w//WM   jWO/M>>S>:O/Mvj1w/w)M#>O>m1wIwWvwSwHWS>Jw/O>O,>w=WO1#W> = / I jS=WO1#W>/= / IW>/wvI1M/MiwvOjM1>=wvwqMSMvwj1WMO>j1wwTWSW jLwvISM?wSOjOl>#wOw0WSWvj 1=OdjSwJO/M>MEw#OOORjS1>1 I{My1SOJM/>>>%OSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wLMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>_O/Mvj1w/wqM#>O>;1wIvjS>XISMJ>/w>wqM#>O>_ISI>W1>XISMJ>/w>wXM#>O>-O>MjjS>fOw#W>1=WO #   1SOJM/>>>HOMI >M>W1=IW>/wvI1M/MUwM1 M1 Ww// IW>/w>OSIW>/wvI1M/MNwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>/w>OSO<>/wvI1M/MQwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw%M/>>wSwxM/>>wSwNM/>>wSw2M/>>wSwqM/>v11O/O?>#wOwyMSW>j 1=I#Ma1SOJM/>>>&O#MOM}j=1OW>W wSw0WS>Jw/O>O?>OwjIwO*>jj 1=I=Mvj/1IOQ>SwjwpM#>O>t1wI9W>wSw9WS>Jw/O>Oy>vwjO1M=>v>xOSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJ>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = wMMw Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWw#OOOJ>w=WO1#W> = / I W ww/WM1 Wwv/ # M#1SOJM/>>>zOMI >M>W1=IW>/wvI1M/M:wM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wtMv>jw1O=MvMfwS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJM#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >MOw#W>1=WOv#   jWO/M>>S>_O/Mvj1w/wkMv>jw1O=MvMUw11 M1 Ww / Mw Ww1/ OJ>w=WO1OWW== w#M/>>wSwpM/>>wSwtM/>v11O/O,>#wOwiMSW>j 1=I/MP1SOJM/>>>5O#MOM-wS1>I=W/>XISMJ>/w>w8M#>O>uOSI>W=jwwrWS>Jw/O>OX>OwjIwO%>Oj 11ISMvjI1OOX>Swjw!M#>O>tOSW>W j=1OO!jSwJO/M>M9wvOjM1>=wvw9MSMvwO1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>Oj Ow#W>1=WO/#   jWOw#W>S>W1=# W wO1WMw WwS/ I >O=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvO+>v>vOjOv>O>vISOv>J>vOSIW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # >w=WOv# W ww/WMv  >JOw#W>v>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMS>j>iIwM/jS1/IwM>MDww/WM1 Ww / # >/w>OSOq>Mj OMOWW=jWO1I >>=WOM# WWwv1 M1 Ww / IW>jj IWW WWwOOjWwMQw11 I=Mv>1I1Oc>SwjwUMOW 11/WM1  jWOOMjjw>UO1I W6>vw1MOM(wSOjOujSj OO#W>1= 1WMJW 1S/WI=  jWOSI jS=W1w# WWw#OOOx>Jj 1 MwMhw=O>MSM_wS1>I >v>uISMJ>/w>w<Mj WwS/ I >J=WOS# WW1S/WI=  j OjIW>/w>OSIW>/w>OSIW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWwM1 M1 Ww// IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wyMv>jw1O=MvM)wvwvMJMvwjwvMSMvwOwvWSWWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  j Ow#W>v= wJMw WwvwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>SwjwCWw>/1SI/Ww>>>QOw#W>1=WO #   w/O>MSMCwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # WWwJ1 WWj jWOOMjjw>2O1I W=>vw1W1M+wSOjOq>jj I1#W>1= 1WMO>j1ww:M1W j,wvO1>j>mOSMjMzwS1 Mj Ww1/ IW>Oj OS#WW== 1WWSW wS/WIw  jWO#MOMNwO1 I >w>FO=M>>S>+ISI>W wvwcWS>Jw/O>Ou>J=WIS# W wO/WWS  jWOS#WW== 1 MJWWw/O>MSWWw/O>MSWWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/O>MSMFw/OvW1>/>RO#MOMJww/WM1 Ww / # Wvj Ow#W>1=WOv#   >#ISMJ>/w>wfMMW w1/WM/  jWO/Mvj1w/wFMMW wMwWI=WWw/O>MSWWw/O>MSM3w/OvW1>/>TO#MOM%j=1wI>W wSw2WS>Jw/O>OY>vwjO1M=>v>+O>I >w=WO1#W>v= / IW>#wOw(M>M*1SOJM/>>>&OMI >M>W1=IW>/wvI1M/M-ww/WM1 Ww / # W w>1WMMW w1/WM/  jWO/M>>SjWO/Mvj1w/w&M#>O>GOSI W j=11O_jSwJO/M>MKwvOjM1>=wvwdMjW 15/WM1 Ww// # WWwvOjM1>=wvwZMOWWwvOjM1>=wvwnMSW 1WI IW>Oj IwO>vI1M/SJO S^OS=#JMJ1WI OvjW=j/jM#>>wSO/WJW wOI/M>>11SO#Mj>>>JOMOv>1>#OvMj>1w=OvOb>1j OS#W>1= 1WWw>/1SI/Ww>>>RO1#WW== /WM1 Wjw/ # WWw/O>MSMv=j/jM>>/1IO#M>>Sw/IJI >O1/O>M1jSw#OjM>MJwwwvM1MvwMw#Mv>jw1O=MvMrw11 MS Ww1/ M1 Wj=/ #W>1=W1w#   j OMIW>/w>OSIWj >#1WMO>j1wwTM W j=wvM1 Wwv/ MS>j>,OMI >M>W1=IW>vwjO1M=>v>rO1I >>=WOM# WWw#OOO%>1=WOI# W j 1JI/MQ1SOJM/>>>3OS#W> > 1=# W 1WOwOv>1=WO/# j jWO/Mvj1w/w+MS Ww w I=  j IWMJMvw1/WM/  1 1WM/>>wS1WW1 W>1I1OWW== 1 MSWWw/O>MSWWww/WM1 Ww / # W =jwJMjMvwOwvWSM#jWO/Mvj1w/wtMv>jw1O=MvMXwS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w/M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>/w>OSOz>/w>OSO*>/w>OSOf>/w>OSOe>/wvI1M/Msw#OOO*>Sj>1 IOMn1SOJM/>>>rO#MOMijJ1>I >S>.ISMJ>/w>wpM#>O>r1OIv>S>6ISMJ>/w>wDM#>O>^1JI W wSw;WS>Jw/O>O3>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/Mvj1w/wQMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>/w>OSOd>/wvI1M/MPwvOjM1>=wvwtM1W w1/WM   ww/WM1  >JOOOJ>w>vO1OWW=>vOjO#M#w/O>MSMVw/OvW1>/>*O#MOM9j#1>I >S>-ISMJ>/w>w;Mw Ww1/WM   = /WMw Ww1/WM/  = / I >w=WO1#W>v= / IW>/wvI1M/M(w#OOO_WIjvOSOVjSwJO/M>Md1wO/W%>/w=ISO7>#wOwDI=W=j>OSOyjSwJO/M>Mmww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>1=WO # Wvj Ow#W>1=WOv#   >#ISMJ>/w>wVMMW w1/WM/  jWO/Mvj1w/wbMMW wMwWI=WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMbwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw:Mw Ww1/WM   = ISMJ>/w>wtMMW wMwWI=WWw/OvW1>/>iOMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwlWSjw1/O/IW>/wvI1M/MLwvOjM1>=wvwEMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMpww/WM1 Ww / # jSwJO/M>M0wM1 MMMWj=1WM/>v11O/On>Mj O1#W>/= 1WM/>>wS1WM/>>wSwdM/>>wSwxM/>>wSw&M/>v11O/Ob>#wOwLIwWvwSwmWS>Jw/O>OD>#wOwRMSWvj 11OZjSwJO/M>M;wvOjM1>=wvwyMMW w1/WM   ww/WMM  >JOOOJ>w>vOMOWW=>vO1#W>/= w#O#>/wvI1M/Mkw#OOOaWSj 1 MSM41SOJM/>>>KOw#W>1=WO #   j Ow#W>1=WO/#   =WOw#W>1=WOv#   = 1WM/>v11O/Om>J=WO1#W>/= / I >w=WO1#W> = / IW>/w>OSO->/w>OSOe>/wvI1M/Mrw#OOOYW-j>1 MSMy1SOJM/>>>5OvMj>1w=OvOK>SjWOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W jGw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Www/WM1 Ww// #   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/Mvj1w/wRM#>O> 1wW>W wSwrWS>Jw/O>Odjww/I{M/>=1SweM#>O>bOSW>W j=w-WS>Jw/O>O_>vwjO1M=>v>LO1I >1=WO # WWwj1 M1MWwWw I=WWwOOjWwMTwM1 M1MvwjwEMS>j>*OvMj>1w=OvO}>1j I/#W>M> O1# WWww/WMM  j O1IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOo>SjWOOMjjw>DOOI W0>v1SOV>Swjw^M#>O>N1=I>W wOwiWS>Jw/O>Oe>#wOw IwWvj OOOFjSwJO/M>Mq1wO/WD>/w=ISO%>#wOwXMOj>j 1dO7jSwJO/M>MEwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>PISWwj/w/1WM/>v11O/Oe>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMfw/OvW1>/>pO#MOM%wO1vI Ww>6ISMJ>/w>whMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/Mhw#OOOK>Oj 1 ISMY1SOJM/>>>KO#MOMJww/WM1 Ww / # W j Ow#W>1=WOv#   >#ISMJ>/w>wgMMW wMwWI=WWw/OvW1>/>cOMI >1=WO/# WWw/O>MSWWw/OvW1>/>+OSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>/w>OSOP>/w>OSO8>/w>OSOL>/w>OSO,j/w>ISM#>v>}ISWwj/w/1WM/>v11O/OY>vwjO1M=>v>TO1I >1=WO # WWwj1 M1MWwWw I=WWwOOjWwMtwM1 M1MvwjwcMS>j>sOvMj>1w=OvOs>1j I/#W>M> O1# WWww/WMM  j O1IW>/w>OSIW>/w>OSOQ>/w>OSO_>/w>OSO3>/w>OSOC>/w>OSO8>/w>OSOQ>/wvI1M/M7w#OOO+>Sj>1II1Mx1SOJM/>>>0O#MOMajJ1/I>W wSweWS>Jw/O>OD>#wOw8IJWrjv1 MSMd1SOJM/>>>VO#MOM9wS1vIJW1>pISMJ>/w>weM#>O>}OSIvW jJ1?O&jSwJO/M>MHww/WM1 Ww / # W ww/WM1 Ww// # M w1/WMv  jWO/Mvj1w/wUM#>O>o1JIwW>wSwVWS>Jw/O>Ob>#wOwJM1 Ww / IvW ww/WM1 Wwv/ # M#1SOJM/>>>LOMI >M>W1=IW>/wvI1M/M:wM1 M1 Ww// IW>/w>OSIW>/wvI1M/MzwvOjM1>=wvw_MSMvwj1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/O>MSM:w/O>MSM}w/OvW1>/>sO#MOMujJ1SI>>S>lISMJ>/w>wGM#>O>JOw#W>1=WO #   jvOw#W>1=WOv#   >#ISMJ>/w>wEMMW wMwWI=WWw/OvW1>/>4OMI >1=WO/# WWw/O>MSWWw/OvW1>/>EO#MOMYwS1>I WJj2w^WS>Jw/O>Oyjww/I.M/>=1Sw<M#>O>_1JI/W>wSw_WS>Jw/O>Ot>vwjO1M=>v>+OSOvjSjWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOM4w>OjWSMeww/WM1 Ww / # jSwJO/M>MuwM1 MMMWj=1WM/>v11O/On>Mj O1#W>/= 1WM/>>wS1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// # WW1/O>WS>#wvwNWSjw1/O/IW>/wvI1M/M4wvOjM1>=wvwmMSMv1S1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>rO>MjjS>_Ow#W>1=WO #   1SOJM/>>>!OMI >M>W1=IW>/wvI1M/MZwM1 M1 Ww// IW>/w>OSIW>/w>OSOi>/w>OSOc>/w>OSOD>/wvI1M/MFw#OOOrWIjI1>MSM_1SOJM/>>>?O#MOM,wS1>IIWS>6ISMJ>/w>w8M#>O>AOSI>W jI1wOujSwJO/M>MZwOOjWwMxwJ1 IwWI>v1IIIMNwSOjO3>#wOwxMSW>jI1/OKjSwJO/M>MgwvOjM1>=wvw(MSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>JOw#W>1=WO #   jvOw#W>1=WOv#   >#ISMJ>/w>wCMMW w1/WM/  jWO/Mvj1w/wzMMW wMwWI=WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMtwSwvWwMv11wvMJWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1wwvW1W w=wJMw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#w#MjW 11wWMSM j=wfMJW jK1WMO>j1ww^M1W wSwvMjMQwSOjOD>Jj OJOWW=jWOw#W>1= 1 Ww WwJ/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#Mwjww/O=MWWWw/O>MSWWw/OvW1>/>rOvMj>1w=OvO&>S>vI1Ovjw>vOJIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # j1>vIwI >=>JOw#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#>#OjI jw>WOSO W=>nOJI WGjWOOMjjw>hO1I >S>vOjO%>SwjwhMJW wJwWI=WWww/WM1  j I1#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#O/M>>S>GO/Mvj1w/wqMv>jw1O=MvMLw>1 M1 Ww / IW>vwjO1M=>v>+O/I jW1 1WMO>j1wwyM1W j=wvO1j1>9OSMjM^wvOjM1>=wvw8M1W 11/WM1  jWOOMjjw>COMI Wx>vw1M1M.wSOjOU>vwjO1M=>v>3O1I >1=WOM# WWwvOjM1>=wvw;M W w1/WI=  jWOvMj>1w=OvO0>Mj O1#WWw= 1WM#>O>4O I W wwwHM=>>wSwPMMW>j O>O{jSwJO/M>M:w//WMM  j O #W>M= 1WM1 Wj=/ I >/jWO/M>>SjWO/M>>SjWO/M>>SjWO/M>>S>(O/Mvj1w/woM#>O>fOSIvWIjJw4WS>Jw/O>Ox>#wOwJMw Ww1/WM   = 1 I >1=WOv# M#1SOJM/>>>lOMI >M>W1=IW>/wvI1M/M9wM1 M1 Ww// IW>/w>OSIW>/wvI1M/M+w#OOOp>Sj>1IIJMX1SOJM/>>>3OvMj>1w=OvO}>1j O1#W> = Ow#W>1= 1 Mw Ww1/ OJ>w=WO1OWW== w#M/>v11O/O)>#wOw8Mw Ww1/WM   = ISMJ>/w>w9MMW wMwWI=WWw/OvW1>/>*OMI >1=WO/# WWw/O>MSWWw/O>MSM(w/O>MSM+w/O>MSM9w/O>MSMNw/OvW1>/>}O#MOMkj#1=Iv>S>RISMJ>/w>w<M#>O>FOSIvW j#1SOpjSwJO/M>Mnw#OOODW#jw1>I >S>eISMJ>/w>w^Mv>jw1O=MvM)wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWw/OvW1>/>5O#MOMzj#11Iv>S>(ISMJ>/w>wmMw Ww1/WM   = 1 Mw Ww1/WM/  = wMMw Ww1/WMv  = 1WM/>v11O/Oz>w=WO1#W> = / I >w=WO1#W>/= / OM>1=WOv# WWw/O>MSM&w/O>MSMYw/OvW1>/>cO#MOM{j#1OI>W wSw;WS>Jw/O>O:>#wOw_I#W/j 1 MSM01SOJM/>>>sOMI >1=WO/# WWw/OvW1>/>4OvMj>1w=OvOX>SjWOOMjjw><ISI W_>v1wO8>SwjwuM#>O>%1nIvjS>yISMJ>/w>w5M#>O>LISI>W > 1=O?jSwJO/M>MzwOOjWwMbwS1 I1Wq>v1/IwM(wSOjOE>#wOwAIwj>j ISOQjSwJO/M>M&ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO#MOMJww/WM1 Ww / # j>j O1#W>v= w#WS>Jw/O>O:>Mj OMOWW=jWO/Mvj1w/wUMMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>/wvI1M/M2w#OOOJ>w=WO1#W> = / W>W w1/WMv  >#ISMJ>/w>wAMMW wMwWI=WWw/OvW1>/>?OMI >1=WO/# WWw/O>MSWWw/O>MSM5w/OvW1>/>fOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>/w>OSOz>/w>OSOy>/w>OSO_>/wvI1M/M<w#OOOb>Sj 1 I#WI>EISMJ>/w>wKMv>jw1O=MvMKw>1 M1 Ww / IW>vwjO1M=>v>LOvI >1=WOv# WWwvOjM1>=wvwRM W w>wWIwM^wvOjM1>=wvw3M>W 1WOw#W>>= wJMw Ww>wWI=  >vOw#W> = w#W WWwOOjWwMLw11 I=Mvwvw4MS>j>DOw#W> >WO1# W w>/WM1  jWO/M>>SjWOvMj>1w=OvOt>>j O>#WW== O#MOM!w>w*WS>Jw/O>OF>w=WO # W w>wnMMW w1/WM/  jWO/Mvj1w/w7MMW wMwWI=WWw/O>MSWWw/OvW1>/>lOvMj>1w=OvO7>S>vOjIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>TO/M>>S>dO/M>>S>xO/Mvj1w/wyM#>O>zOSIvWJj#wYWS>Jw/O>OA>#wOwhIJWOj>1 MSM91SOJM/>>>4O#MOM*w>OjWSMbww/WM1 Ww / # jSwJO/M>MowM1 MMMWj=1WM/>v11O/OQ>Mj O1#W>/= 1WM/>>wS1WM/>v11O/Oq>#wOweIJWO1>1 MSMl1SOJM/>>>%IwM/j)w/O=WSMKw#OOOsWJjJI>I >S>VISMJ>/w>wGMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WW/>>1SO#MvM*1SIwW/>/jWO/Mvj1w/w^Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/O>MSMsw/O>MSMaw/OvW1>/>pO#MOM!wS1>I W#j9wFWS>Jw/O>Oi>#wOw9MSW>j 1JIIM81SOJM/>>>iIwM/jHw/O=WSM2w#OOOhW#juI>I >S>5ISMJ>/w>w}Mw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWw#OOOJ>w=WO1#W> = / IvW w1/WMv  >#ISMJ>/w>wuMMW w1/WM/  jWO/Mvj1w/wAMMW wMwWI=WWw/O>MSWW1/O>WS>#wvw;WSjw1/O/IW>/wvI1M/MXw#OOOJ>w=WO1#W> = / IvW w1/WMv  >#ISMJ>/w>wFMMW w1/WM/  jWO/Mvj1w/wxMMW wMwWI=WWw/O>MSWWw/O>MSMVw/OvW1>/>DOvMj>1w=OvO_> j O1#W> = 1WMv>jw1O=MvMawv1 M1 Wwv/ IW>vwjO1M=>v>DO>I > >W1wOp>vwjO1M=>v>CO I jWww/WM   >JOw#W> >W1=# Mvww/WM>  >#I IW>OwjIwO?>1j 1=Ov>v>%OSMjMNww/WM>MWw1/ I > =WO1# WWw/O>MSWWwvOjM1>=wvwRM W w /WI=  w#OOOc> >2ISMJ>/w>wrMw Ww>/ I > >cOMI >1=WO/# WWw/OvW1>/>YOMI >M>W1=IW>/w>OSIW>/w>OSO;>/w>OSOb>/w>OSOX>/w>OSOh>/wvI1M/Mqw#OOOpWOj=1>MSMU1SOJM/>>>9O#MOM:j/1/I>>S>GISMJ>/w>w^M#>O>ZOSIvW j/1=OqjSwJO/M>M4w#OOOFWSj#1vMSMi1SOJM/>>>eO#MOM,j/1AW>W wSwFWS>Jw/O>O2>w=WO1#W> = / I >J=WO1#W>/= / IW>/wvI1M/M!wvOjM1>=wvw;MMW w1/WM   jWOSMjM,1wO/WSj/1wO>Ob>w=WOM# MJwOwJMwMvwMwWI=Mvw1/WM/  >#w#M/>>wS1WM/>>wSwaM/>v11O/Ob>vwjO1M=>v>-ISOv>OjWOOMjjw>YOSI W->v1SOt>Swjw}M#>O>TOSIvW j=wXWS>Jw/O>OA>#wOwKMSW>j w IwM;1SOJM/>>>dIwM/jpw/O=WSMQw#OOO7>Sj>1FOzjSwJO/M>M3ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WW1/O>WS>#wvwQWSjw1/O/IW>/wvI1M/M3ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOG>/wvI1M/M?w#OOO7>Sjv1 IwMl1SOJM/>>>pISI >1=WO # WWwO1 Mw Ww1/WM/  = 1WMw W1SwWI=  j OOIW>w=WIS# W wO/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/w5M#>O>T1SI W wSw^WS>Jw/O>OT>w>JO1#W> = wvM1 Ww// O#WWw/OvW1>/>oOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOb>/w>OSOV>/w>OSO_>/w>OSO^>/w>OSO&>/wvI1M/MAw#OOOH>Sj>1 I/W1>7ISMJ>/w>wbM#>O>-OSI>W j/1wOejSwJO/M>MmwOOjWwMcwj1 ISWJ>v1II=M3wSOjOi>#wOw&I/WSj>OSOVjSwJO/M>MtwvOjM1>=wvwYMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I Wc>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>wzMMW wMwWI=WWw/OvW1>/>,OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WM/>v11O/OR>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W jxw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # W j O1#W>v= w#WS>Jw/O>O?>Mj OMOWW=jWO/Mvj1w/wZMMW w1/WM/  jWO/M>>SjWO/M>>S>^O/Mvj1w/wlMv>jw1O=MvMFwM1 M1 Ww / Mv>jw1O=MvM9w/1 WW>w=WOM# MJwOwJMwMvwMwWI=Mvw1/WM/  >#w#W WWwvOjM1>=wvwxM W jN1WMO>j1wwtM1W wMwvM1 Wwv/ MS>j>bO I > >W1=IW>w=WO1# W w//WM   jWO/M>>S>eO/M>>S>kO/M>>S>QO/Mvj1w/wEM#>O>D1/IIWvwSwmWS>Jw/O>O2>#wOwhI/WJjvOSOGjSwJO/M>MHw#OOO-WOje1>MSMs1SOJM/>>>5O#MOMJww/WM1 Ww / # Wvj O1#W>v= w#WS>Jw/O>O4>Mj O1#W>/= 1WM/>v11O/On>Mj OMOWW=jWO/M>>SjWO/Mvj1w/wsMv>jw1O=MvMdwOwvMSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMOW w1/WM   jWOSI >w=WO1#W>/= / IW>w=WOOOWW== 1 MSWWww/WMO  j OS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWO/M>>S>pO/Mvj1w/w8Mv>jw1O=MvM_wM1 M1 Ww / Mv>jw1O=MvMQw/1 WW>w=WOM# MJwOwJMwMvwMwWI=Mvw1/WM/  >#w#W WWwvOjM1>=wvwiM W jE1WMO>j1ww2M1W wMwvM1 Wwv/ MS>j>rO I > >W1=IW>w=WO1# W w//WM   jWO/M>>S>-O/M>>S>dO/Mvj1w/wQM#>O>g1/IOW>wSwRWS>Jw/O>Ob>vwjO1M=>v>kOSOvjSjWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWw/OvW1>/>;O#MOM-j/1OI W wSw<WS>Jw/O>Oa>vwjO1M=>v>oOSOvj1>v/jOvj/>vOJOvjwjWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WW1W ww/WM1 Ww// # WWww/WMSMWj=/ I j1jWOw#W>S= 1 W1 Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = IwOvj/j O=OJ>w=WOS# MJww/WMSMWj=/ O#M#wj1 W/MWwSw I=MUwJ1 I6WWwOOjWwMxw11 MSMvwjw7MS>j>sOJI >J>W1=IW>w=WO1# W 1w/WMJ  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1w1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWOJI W}jWOOMjjw>YO1I >S>vO1#W>v= OSMjMHwJ1 MJMWj=1WMw Ww1/ I jw=WOJ# WWw/O>MSMfwM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/OvW1>/>NOw#W>1=WO #   j O1#W>/= w Mw Ww1/WMv  = 1WM/>>wSwuM/>>wSwyM/>>wSw!M/>>wSw5M/>v11O/OE>#wOw6IOWIjv1 MSMP1SOJM/>>>CO#MOM5jI1;IvW wSwmWS>Jw/O>OE>#wOwKIIWwjv1 MSMX1SOJM/>>>&O#MOMgwSI>I WIj1w8WS>Jw/O>Om>vwjO1M=>v>_OSOv>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMsw>OjWSMtww/WM1 Ww / # jSwJO/M>M8wM1 MMMWj=1WM/>v11O/O6>Mj O1#W>/= 1WM/>>wS1WM/>v11O/O9>vwjO1M=>v>+O1I >1=WO # WWwSOjOtjww/ISW/jww>wNMw Ww1/ OJ>O>JOwOv>1>W1=Ov>j>#w#M/>>wS1WM/>>wSw!M/>v11O/O9>#wOwgIIW=j>OSO.jSwJO/M>MnwvOjM1>=wvw(MSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/wvI1M/Meww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IWjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>9O/M>>S>kO/Mvj1w/wPM#>O>b1OIJWvj OSO.jSwJO/M>Muw#OOOn>Sj>1OIOMy1SOJM/>>>-IwM/jaw/O=WSM+w#OOO5>Sj>1OIJMT1SOJM/>>>VOvMj>1w=OvOl>1j O1#W> = 1WMS>j>3IwM/jS1/IwM>M%wOwJMwMvw1wvMjM#w/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM5w/1 M1 Ww// IW>vwjO1M=>v>_OMI >w=WO/# >OwjIwO,>1j O/OWW=>vO1#W>v= OSMjMPwM1 MMM>>>Ow#W>1= 1WM/>>wS1WMw Ww1/WM   = 1 MMWW1/O>WS>#wvw8WSjw1/O/IW>/wvI1M/M8wvOjM1>=wvwDM/W w1/WM/  jWOvMj>1w=OvOk>Mj Ow#W>/= OOMjjw>hO1I >/>W1=Ov>1=WOv# >SwjwsMMW wMw>O>>w=WO1# WWw/O>MSWWww/WM1 Ww / # W wM1WM/>>wSw^M/>v11O/OL>vwjO1M=>v>!OSOvj/>v/jOvj1>vISOvjwjWOSI >1=WO # j/>v/jI >=>JOw#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#>#OjI  j>WOSO W=>3I1I W0jWOOMjjw>AO1I >S>vOjOb>SwjwPW1W 11wWI=WWww/WM1  j I/#Wj1= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#MMW wMwWI=WWw11 M> WwM/ IWjSj O1#W>/= 1WWwW ww/WWS  wOOjWwMPw11 WSMWj=wvM1 Wwv/ MS>j>!IwI jw>>w>Mw Ww1/ IW>/w>OSIW>w=WO1#W> = / I jwjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWw/O>MSMXw/O>MSMRw/OvW1>/>ZO#MOM{jO11I>W wSw:WS>Jw/O>Oo>#wOwVMSW>jO1=OfjSwJO/M>M_w#OOOZ>S1>1 I/W#>0ISMJ>/w>wTWw>/17O/M=jS>RO#MOM*wS1vIOW1>VISMJ>/w>w_Mv>jw1O=MvMHwSwvWwMv11wvMJWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1wwvW1W w=wJMw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#w#MjW 11wWMSM j=w2MJW jr1WMO>j1ww}M1W wSwvMjMewSOjOA>Jj OJOWW=jWOw#W>1= 1 Ww WwJ/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#Mwjww/O=MWWWw/O>MSWWwvOjM1>=wvw)MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WW1/O>WS>#wvwAWSjw1/O/IW>/wvI1M/MFwvOjM1>=wvw8MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSMdw/OvW1>/>^Ow#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>OwjIwOc>1j O1#W> = wvM1 Ww// MS>j>7Ow#W>1= 1 M>>#wv1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Mj O1#W>/= 1WM/>>wSweM/>v11O/ON>#wOwlMSWvj 1OISMq1SOJM/>>>LOvMj>1w=OvO5>S>vOjIW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWO/Mvj1w/w4M#>O>LOSW>W jO11O-jSwJO/M>Mc1wO/Wf>/w=ISOP>#wOwDIOWO1>1 MSMs1SOJM/>>>kOvMj>1w=OvOE>Mj O1#W> = OvMj>1w=OvOl> >vO1I >=>JOw#W>M= wJMOMJwwwvMMMWj=wvM1 Ww// O#M#>#OjI >1>WOMO W=>eOvMj>1w=OvOg>1j 1^IW>OwjIwO&>Mj OMOv>j>UOSMjMzw11 M1MWj=1WMw WwM/ I > =WO1# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM_wSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WW1/O>WS>#wvwYWSjw1/O/IW>/wvI1M/M)wvOjM1>=wvw%MMW w1/WM   wvOjM1>=wvwkM Mvw11 M=MJww/WMM  >JOOOJ>w>vOMOWW=>vO1#W>/= w#O#M#wj1 M1MWwMw I=MswvOjM1>=wvw9M1W jz1WMO>j1wwPMMW wMwvMjMfwSOjOK>1j O1OWW=jWOw#W>M= 1 M  Ww1/ IW>/w>OSIW>/w>OSO)>/w>OSO^>/w>OSO&>/w>OSOa>/w>OSOf>/w>OSOD>/w>OSO&>/wvI1M/M3w#OOOq>Sj>1 I=WSj#w!WS>Jw/O>OK>#wOwGI=WIjS1>MSM21SOJM/>>>TO#MOMaj=1OI=Wvj OSOqjSwJO/M>M)w#OOOyW=jO1OI>W wSwQWS>Jw/O>OD>#wOwlI=WOjS1vI >S>FISMJ>/w>wsM#>O>c1=IOWSjvOSOGjSwJO/M>MNw#OOOl>Sj>1=IOW=>!ISMJ>/w>wiWw>/1!O/M=jS>2O#MOM!wS1>I=WOj/wiWS>Jw/O>O4>vwjO1M=>v>ROSOv>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMRwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>ZO>MjjS>*Ow#W>1=WO #   1SOJM/>>>&OMI >M>W1=IW>/wvI1M/MXwM1 M1 Ww// IW>/w>OSIWj/w>ISM#>v>,ISWwj/w/1WM/>v11O/O+>vwjO1M=>v>xOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOwGM>>j1SwkMw Ww1/WM   = ISMJ>/w>w}MMW wMwWI=WWw/OvW1>/>&OMI >1=WO/# WWw/O>MSWWw/O>MSMhw/OvW1>/>}OvMj>1w=OvOu>1j O1#W> = OvMj>1w=OvOk> >vOMI >=>JOw#W>1= wJO#M#wj1 MMMWw1w I=MywvOjM1>=wvw6MMW jX1WMO>j1wwfM1W w1wvMjMowSOjOn>Mj OMOWW=jWOw#W>1= 1 M  WwM/ IW>/w>OSIW>/w>OSOb>/wvI1M/M!w#OOOG>Sj>1=IOW=>aISMJ>/w>w4M#>O>&1=I/W#jv1 MSMz1SOJM/>>>_IwM/j&w/O=WSMzw#OOO,W=jO1wW>W wSw0WS>Jw/O>O_>vwjO1M=>v>EOvIW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # MJ>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # MJ>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  >JOw#W>v>W1=# M#wwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM.wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWI/M>jSw#OvOajS1wI/M/WWw/OvW1>/>^OvMj>1w=OvOZ>vjWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwv1 M1 Ww / Mw Wwv/ OJ>w=WOvOWW== w#M/>>wSwQM/>v11O/Oi>vwjO1M=>v>_O I >1=WO # WWwvOjM1>=wvw9MMW ww/WM1 Ww// # WWww/WM MWj=/ I >MjWOw#W> = 1 MM Ww1/WMv  = 1WM/>>wSwCM/>>wSw}M/>v11O/O,>#wOw)I=WOj#1vMSM01SOJM/>>>EO#MOM(j=1IIwW>wSwXWS>Jw/O>OU>#wOw_MSW>j 1=IOW#>lISMJ>/w>w4MO>j1wwpWwW j=1JOvWJjwwqMS>j>iO#MOMfwSI>I W=jI1=O}jSwJO/M>M:ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / OJM#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I MJw1/WM/  1>1 I2M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw-MSMv1/wvW1MvwJwvWwWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1wwvW1W w=wJMw WwS/ OJM#>#OjI j1>WOSO W=>QOJI WUjWOOMjjw>)O1I >S>vOjOh>Swjw3MJW wJwWI=WWww/WM1  j Iw#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = IwOvj1j O=OJ>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#M#wj1 W1MWwSw I=M_wJ1 IfWWwOOjWwM&w11 MSMvwjwgMS>j>2OJI >J>W1=IW>w=WO1# W 1w/WMJ  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1w1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWOJI W)jWOOMjjw>0O1I >S>vO1#W>v= OSMjMVwJ1 MJMWj=1WMw Ww1/ I jw=WOJ# WWw/O>MSMgwM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWwwIwM/>=wW1WM/>>wS1WM/>v11O/O5>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 OJ>1=WO/# j>j 1CO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWO/M>>S>xO/Mvj1w/wuM#>O>%OSI>W=jI1=O*jSwJO/M>M*wOOjWwMqwj1 ISW(>v1OIwMowSOjO_>#wOw&MSW>j=1IIwMo1SOJM/>>>&OvMj>1w=OvOe>SjWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMQwSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>!OvMj>1w=OvOE>SjWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#w/O>MSMyw/O>MSM_w/OvW1>/>AO#MOMrwS1vI W=jO1IO4jSwJO/M>MXwvOjM1>=wvw%MSMvwj1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/OvW1>/>lO#MOMewSI>I W=jO1IO2jSwJO/M>MzwOOjWwMY1S1 IwW*>v1IISMpwSOjOs>#wOw<I=WOjJ1vMSM51SOJM/>>>YOvMj>1w=OvO{>S>vI1Ovjw>vI/OvjS>vOJIW>OwjIwOCjwj 1rOvWS>9OSMjM:w#OOOdWwjv1 WwMC1SOJM/>>>FO#MOMP1w1vI1Mi1SOJM/>>>ROSI >1=WO # >J>vI/I >=>JOw#W>S= wJMw WwSwWI=  >#w#MjW 1/wWMSM j=wTWSW jX1WMO>j1ww(M1W wSwvMjMpwSOjOajSj ISOWW=jWOw#W>1= 1 MJ W1S/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>%O#MOM)1w1>I W=>AISMJ>/w>w}Ww>/1AO/M=jS>NO#MOMx1wI>I WS>PISMJ>/w>w_MSW w1/WM   wJ1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWISI W-jWOOMjjw>?O1I >S>vO1#W>v= OSMjMg1S1 WSMWj=1WMw Ww1/ I >J=WIS# WWw/O>MSMdwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>Mj O1#W>/= 1WW/>>1SO#MvME1SIwW/>/jWO/Mvj1w/wEMSW w1/WM   wJ1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWISI WhjWOOMjjw>?O1I >S>vO1#W>v= OSMjMF1S1 WSMWj=1WMw Ww1/ I >J=WIS# WWw/O>MSMPwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>5O/M>>S>fO/Mvj1w/w6M#>O>-IwIvW=>fISMJ>/w>wQMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wnMSW w1/WM   jWI1I >w=WO1#W>/= / IW>w=WOSOWW== 1 W1WWww/WMS  j I1#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwqM/>>wSwHM/>>wSw!Mwjww/O=MWWWw/O>MSWWww/WM1 Ww / # MJ>#1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>AOvMj>1w=OvOd>S>vI1Ovjw>vI/OvjS>vOJIW>OwjIwOPjwj 1kOvWS>YOSMjMmw#OOORWwjv1 WwMh1SOJM/>>>rO#MOM-1w1vI1Mu1SOJM/>>>gOSI >1=WO # >J>vI/I >=>JOw#W>S= wJMw WwSwWI=  >#w#MjW 1/wWMSM j=wFWSW jz1WMO>j1ww7M1W wSwvMjMHwSOjOzjSj ISOWW=jWOw#W>1= 1 MJ W1S/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>kO#MOM51w1>I W=>?ISMJ>/w>wuWw>/1!O/M=jS>5O#MOMh1wI>I WS>yISMJ>/w>w4MSW w1/WM   wJ1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWISI W_jWOOMjjw>,O1I >S>vO1#W>v= OSMjMd1S1 WSMWj=1WMw Ww1/ I >J=WIS# WWw/O>MSMnwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>Mj O1#W>/= 1WW/>>1SO#MvMi1SIwW/>/jWO/Mvj1w/wKMSW w1/WM   wJ1 WW>w=WOS# MJwOwJMwMvwSwWI=Mvwjw#O#j jWISI W%jWOOMjjw>^O1I >S>vO1#W>v= OSMjM71S1 WSMWj=1WMw Ww1/ I >J=WIS# WWw/O>MSMPwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>yO/M>>S>3O/Mvj1w/w&M#>O>3IwIvW=>:ISMJ>/w>w;Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wKMSW w1/WM   jWI1I >w=WO1#W>/= / IW>w=WOSOWW== 1 W1WWww/WMS  j I1#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw?M/>>wSwdM/>>wSw!M/>>wSwCM/>>wSwCM/>>wSw+M/>>wSwNM/>v11O/O7>#wOweI=W/jS1>I >S>5ISMJ>/w>w(M#>O>L1=I/W=jvOSO*jSwJO/M>Mkw#OOOl>Sjv1=I/W1>7ISMJ>/w>wEMO>j1wwVMSW jYwvISM,wSOjO_>#wOwAMSW>j=wFWS>Jw/O>OR>#wOw)MSWvj1whWS>Jw/O>OP>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/Ox>#wOwsMSj>j 1QO2jSwJO/M>M!1wO/Wu>/w=ISOt>#wOwgMSW>j1w.WS>Jw/O>Ob>#wOwJMw Ww1/WM   = 1vMw Ww1/WMv  = w#WS>Jw/O>Os>Mj OMOWW=jWO/Mvj1w/w3MMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I >w=WO1#W>/= / O >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WW1/O>WS>#wvwtWSjw1/O/IW>/wvI1M/MGw#OOOJ>w=WO1#W> = / Iv>w=WO1#W>v= / O#jSwJO/M>MdwM1 MMMWj=1WM/>v11O/O5>Mj O1#W>/= 1WM/>>wS1WM/>>wSwTM/>>wSw,M/>v11O/Ou>#wOwyMSW j 1lO<jSwJO/M>M.ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/Mdww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOf>/w>OSOQ>/w>OSO3>/wvI1M/M)w#OOO7W=jS1#IvW wSwNWS>Jw/O>Oljww/I)M/>=1SwcM#>O>pOSIvW=j/1SOdjSwJO/M>M?wvOjM1>=wvwXWSMvwS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IWjSj O1#W> = 1WMSW ww/WM1 Ww// # WWww/WWSMWj=/ I >SjWOw#WjS= 1 MS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw4MSMv1S1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WW/>>1SO#MvM61SIwW/>/jWO/Mvj1w/waMv>jw1O=MvMVwSwvWSWWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWw/O>MSM,w/O>MSMgw/OvW1>/>ZO#MOM9j=1SI#W>j OSOXjSwJO/M>MswvOjM1>=wvwaMvWWwv1 M1 Ww / Mw Wwv/ OJ>O>JOwOv>v>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # >w=WOv# MJww/WMvMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMxww/WM1 Ww / # jSwJO/M>MKwM1 MMMWj=1WM/>v11O/O8>Mj O1#W>/= 1WM/>>wS1WM/>v11O/OY>#wOwDI=W/j=1 I >S>7ISMJ>/w>wkMw Ww1/WM   = 1 Mw Ww1/WM/  = wWM1 Wwv/ IW>/wvI1M/MQwvOjM1>=wvwxMSMvwj1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W jqw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#O/M>>S>CO/M>>S>gO/M>>S>rO/Mvj1w/wdM#>O>u1=I/WIj>1 MSMo1SOJM/>>>rO#MOMTwS1>I W=j/1OODjSwJO/M>M<w#OOOk>Sj>1=I/WS>HISMJ>/w>wxMO>j1wwQM>W j=1JOvW#jOw*MS>j>(O#MOMEwS1>I=W/jOwhWS>Jw/O>OD>#wOwJMw Ww1/WM   = 1vMw Ww1/WMv  = w#WS>Jw/O>Ok>Mj O1#W>/= 1WM/>v11O/Ou>Mj OMOWW=jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>AO1I >1=WO # >vwjO1M=>v>8O Ov>Mj O=OJ>w=WO1# MJww/WM1MWj=/ O#M#wj1 MMMWw1w I=MXwvOjM1>=wvwmMMW jT1WMO>j1wwGM1W w1wvMjM_wSOjOu>Mj OMOWW=jWOw#W>1= 1 M  WwM/ IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wgM#>O>JOw#W>1=WO #   jvOw#W>1=WOv#   >#ISMJ>/w>w,MMW w1/WM/  jWO/Mvj1w/w_MMW wMwWI=WWw/O>MSWWw/O>MSMsw/OvW1>/>POvMj>1w=OvOs>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IWW WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSM!w/OvW1>/>yO#MOMzj=1/I#W>wSw?WS>Jw/O>O5>w=WO1#W> = / I M1ww/WM1 Ww// # WWw/OvW1>/>TO#MOMFj=1/IIWvwSw3WS>Jw/O>Ob>OwjIwO6>jj 1wI/Mvj/1wO+>SwjwyM#>O>AOSI>W=j/1#ODjSwJO/M>M%wvOjM1>=wvwGMSMvwj1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwOOjWwM;wS1 I(Mvjww9MS>j>{O#MOM4wS1>I W=>yISMJ>/w>wRM#>O>*OSI>W > 1=OVjSwJO/M>MD1wO/Wb>/w=ISOg>#wOwfI=j>j OSO,jSwJO/M>Mcww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWI/M>jSw#OvOpjS1wI/M/WWw/OvW1>/>(Ow#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/w>OSO8>/wvI1M/M91S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>AO/M>>S>8OwWw>/w=OWIW>/w>OSIW>/wvI1M/MUwvOjM1>=wvwLMSMvwj1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>>wSw^M/>>wSwHM/>>wSwGM/>>wSwCM/>>wSwHM/>v11O/OA>#wOwfMSW>j 1=IJWO>.ISMJ>/w>w8M#>O>c1=I#Wwj>OSOVjSwJO/M>M,w#OOO3W=jJ1#IvW wSwiWS>Jw/O>OD>#wOwgI=WJj#1>I >S>KISMJ>/w>wVMv>jw1O=MvMRwSwvWSWWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWO/Mvj1w/w4M#>O>nOSI>W=jJ1JO6jSwJO/M>Mf1wO/WN>/w=ISOm>#wOwXMSWvj=1#I=MU1SOJM/>>>aOvMj>1w=OvOU>v>vOSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # WWwS1 Mw Wwv/ IW>OwjIwOT>1j OvOWW=>vO1#W>/= OSMjMr1ww>M vOwIS/JSjw1/S1OJ>S>vOw#W>1= w#M/>>wS1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwRM1W w1/WM   ww/WM1  j Ow#W>1= wJMOMJwwwvM1MWj=wvMjM#>#I/M>jSw#OvOmjS1wI/M/WWw/OvW1>/>lOvMj>1w=OvOd>v>vOSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # WWwS1 Mw Wwv/ IW>OwjIwOd>1j OvOWW=>vO1#W>/= OSMjMn1ww>M vOwIS/JSjw1/S1OJ>S>vOw#W>1= w#M/>>wS1WM/>>wSwTM/>>wSw*M/>v11O/Oo>#wOwzMSW>j 1=IJWI>XISMJ>/w>wgM#>O>*1=IJWOjvOSOFjSwJO/M>M01wO/Wa>/w=ISO2>#wOwyMSW>j=1JIIM%1SOJM/>>>POw#W>1=WO #   j Ow#W>1=WO/#   >MO1#W>v= 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw<MSWWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJ>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / O >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>#wOwJM1 Ww / IvW ww/WM1 Wwv/ # M#1SOJM/>>>FOMI >M>W1=IW>/wvI1M/MEwM1 M1 Ww// IW>/w>OSIWj/w>ISM#>v>qISWwj/w/1WM/>v11O/OV>vwjO1M=>v>lOSIW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJM#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM#>O>JO1#W> = 1vI >w=WO1#W>v= / O#jSwJO/M>M*wM1 MMMWj=1WM/>v11O/Oo>Mj O1#W>/= 1WM/>>wS1WM/>>wSw{M/>v11O/O8>vwjO1M=>v>.OSOvjSjWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw#OOOb>w=WO1#W> = / WS>Jw/O>OG>Mj OMOWW=jWO/Mvj1w/wpMMW w1/WM/  jWO/M>>SjWO/M>>S>uO/M>>S>TO/Mvj1w/w^M#>O>*1=I#WSjvOSOgjSwJO/M>M_w#OOO5W=j#1OI>W wSw%WS>Jw/O>Op>#wOwZMSW>j=1#I=M?1SOJM/>>>!OOMjjw>bOjI W=jwwvIIW#>8OSMjMmw#OOOgW=j#1/Iv>S>YISMJ>/w>wrMv>jw1O=MvMNwSwvMjWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw.M>>j1SwiMw Ww1/WM   = ISMJ>/w>w-MMW wMwWI=WWw/OvW1>/>:OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMqwS1WMw Ww1/WM   = 1 OJ>1=WO/# j>j 1DO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 OJ>1=WO/# j>j 15O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMS>j>PIwM/jS1/IwM>Mlw/O>MSWWwwIwM/>=wW1WM/>>wS1WM/>v11O/O:>vwjO1M=>v>9OSOv>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw#OOOn>>wjISOl>w=WO1#W> = / WS>Jw/O>OV>Mj OMOWW=jWO/Mvj1w/wAMMW w1/WM/  jWO/M>>SjWO/M>>S>cO/Mvj1w/wRM#>O>HOSI>W=j#1OOqjSwJO/M>M*1wO/W.>/w=ISOR>#wOw9I=W#jJI>I >S>aISMJ>/w>w%Mv>jw1O=MvMxwv1WMvW w1/WM   ww/WMv  >JOw#W>v>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwv1 M1 Ww / Mw Wwv/ OJ>w=WOvOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  >JOw#W>v>W1=# M#wwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM<wvwvW1Mv1wwvMJWWwOOjWwM(wS1 I+MvjSw+MS>j>GO#MOMHwS1vIwM^1SOJM/>>>CO#MOMAwS1>I2Mf1SOJM/>>>UOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/MDww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>pO/Mvj1w/woM#>O>fOSI>W j1w+WS>Jw/O>O(>#wOwqISW j OSOojSwJO/M>MEww/WM1 Ww / # W 1S/WM1 Ww// # WWw/OvW1>/>4OvI >1=WO # >w=WOv# W ww/WMv  >JOOOJ>w>vOvOWW=>vOjO#M#wM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>!O/Mvj1w/wCMvW w1/WM   11wvWwW w=wJMw Wwv/ OJ>w=WOvOWW== w#O#>jj IwOW>v> 1=O.>Jj 1NIW>OwjIwOz>1j OvOv>j>lOSMjM^wJ1 MJMWj=1WMw Ww1/ I j1=WOJ# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>QO/M>>S>7O/M>>S>YI/M>jSw#OvOrjS1wI/M/WWw/OvW1>/>?OvMj>1w=OvOV>v>vIwOvj1>vOJIW>OwjIwOi>Sj 1!OvWS>EOSMjMaw#OOOY>Sjv1wOAjSwJO/M>MKw#OOO4>Sj>1FO7jSwJO/M>M.wwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/O.>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM-w/OvW1>/>ZO#MOMDwS1>I W1>CISMJ>/w>whM#>O>i1SI W wSwKWS>Jw/O>O}>w=WO1#W> = / I jS=WO1#W>/= / IW>/wvI1M/M-wv1 M1 Ww / Mw Wwv/ I >w=WOv# MJwOwJMwMvwvwWI=Mvwjw#O#>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM6w/OvW1>/>8OvI >1=WO # jw>vI1I >=>JOw#W>v= wJMw WwvwWI=  >#w#MjW 11wWMvM j=w(MJW j*1WMO>j1wwiM1W wvwvMjMTwSOjO}>Jj OJOWW=jWOw#W>1= 1 Ww WwJ/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMyw/O>MSM<w/O>MSM%w/O>MSMaw/O>MSM*w/OvW1>/>PO#MOM0wS1>I=W#jwwPWS>Jw/O>Of>#wOwQI=W#j=I>I >S>GISMJ>/w>wKMO>j1ww}MjW j=1#OvWIjSw0MS>j>qO#MOMHwSI>I W=j#11O0jSwJO/M>M!wvOjM1>=wvwTMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw#OOOG>>wjISOe>w=WO1#W> = / WS>Jw/O>O!>Mj OMOWW=jWO/Mvj1w/w+MMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>hOSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / Oj>1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >/O1#W>v= 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>HOvMj>1w=OvO)>SjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >jO1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / O/>1=WOv# WWw/O>MSM&w/OvW1>/>eOvMj>1w=OvOZ> j O1#W> = OvMj>1w=OvOA>/j IWMw Ww / OJ>O>JOwOv> >W1=Ov>j>#w#W WWwvOjM1>=wvwQMMW jg1WMO>j1wwqM1W w wvM1 Wwv/ MS>j>ZOMI >M>W1=IW>w=WO1# W w//WMM  jWO/M>>S>_O/M>>S>CO/M>>S>kO/M>>S>KO/Mvj1w/w5M#>O>fOSI>W j=1JIAM61SOJM/>>>zO#MOM&j=1JIwWvwSwFWS>Jw/O>O;>#wOw;MSW>j 1=IJWS>-ISMJ>/w>w<M#>O>TOSI>W j=1JI=M(1SOJM/>>>qOOMjjw>VOjI Wwj1wvI#W=>}OSMjM!w#OOOnW=jJ1SIv>S>qISMJ>/w>wYMv>jw1O=MvM^wSwvMjWWwOOjWwM4wO1 I_MvjSw)MS>j>*O#MOMXj=1>I >O>;ISMJ>/w>whM#>O>nOOW>W > 11OpjSwJO/M>Mq1wO/Wm>/w=ISOf>#wOwbIVWvwOwtWS>Jw/O>O.>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWI/M>jSw#OvO6jS1wI/M/WWw/OvW1>/>zOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM:w/OvW1>/>ZO#MOMGwO1vI Ww>)ISMJ>/w>w.MSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/Oi>#wOwrMOj>j 1=O%jSwJO/M>MdwOOjWwMGwv1 I=WS>v1#I/MowSOjO*>#wOwnMOj>j 1SOLjSwJO/M>M!wS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WM#>O>%O>MjjS>0Ow#W>1=WO #   1SOJM/>>>KOMI >M>W1=IW>/wvI1M/M%wM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wtMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwVM/>>wSw&M/>>wSwfM/>>wSwPMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw_MvWWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwv1 M1 Ww / Mw Wwv/ I >w=WOv# MJwOwJMwMvwvwWI=Mvw1/WM/  >#w#Mwjww/O=MWWWw/O>MSWWw/OvW1>/>_OvMj>1w=OvOE>S>vOjIW>OwjIwOt>Oj 1bOvWS>nOSMjMYw#OOO.W=j>1 MOMC1SOJM/>>>4O#MOMrwOI>I M j1w)WS>Jw/O>Otjww/IuM/>=1Sw+M#>O>D1_Iv>O>_ISMJ>/w>wZMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WW1/O>WS>#wvwCWSjw1/O/IW>/wvI1M/Muww/WM1 Ww / # MJ>#1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOs>/wvI1M/MVw#OOO*>Ojv1 IwML1SOJM/>>>FOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wCM#>O>GOOW>W j=weWS>Jw/O>O*>OwjIwOX>vj 1=ISMvj#1/Oe>SwjwsM#>O>4OOW>W jSw8WS>Jw/O>Ou>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO#MOM_w>OjWSM:ww/WM1 Ww / # jSwJO/M>MxwM1 MMMWj=1WM/>v11O/O}>Mj O1#W>/= 1WM/>>wS1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>6OSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>kO/M>>S>uO/M>>S>xO/M>>S>cO/M>>S>}O/Mvj1w/wFWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWIS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/O>MSM%w/OvW1>/>+O#MOMrj=1JI=W>wSwnWS>Jw/O>O)>#wOwJMw Ww1/WM   = 1vM1 Wwv/ O#jSwJO/M>MrwM1 MMMWj=1WM/>v11O/OF>Mj O1#W>/= 1WM/>>wS1WM/>v11O/Os>#wOwxI=WJj31vI >S>HISMJ>/w>wFMO>j1ww+WSW jS11OvWJj/w_MS>j>{O#MOM%wSI>I W=jJ1=O+jSwJO/M>MzwvOjM1>=wvw0MMW w1/WM   ww/WMM  >JOOOJ>w>vOMOWW=>vO1#W>/= w#O#>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOT>S>vISIW>OwjIwO9>jj 17OvWS>HOSMjM*w#OOO!>jjv1 I=MQ1SOJM/>>>?O#MOMFwj1>O WS>{ISMJ>/w>wqMO>j1wwfMOW jS1/OvWIjEwAMS>j>;O#MOM*j=I>I >j>%ISMJ>/w>w:Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wmMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw&M/>v11O/O;>#wOwNI1W>wjwVWS>Jw/O>ON>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wtM#>O> 1=W>W wjweWS>Jw/O>Os>OwjIwOH>vj 1SI=MvjO1#Ot>SwjweM#>O>E11Iv>j>bISMJ>/w>w0M#>O>xO>MjjS>cOw#W>1=WO #   1SOJM/>>>ROMI >M>W1=IW>/wvI1M/MNwM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WM/>v11O/Ou>#wOwkM>>j1SwXMw Ww1/WM   = ISMJ>/w>wzMMW wMwWI=WWw/OvW1>/>cOMI >1=WO/# WWw/O>MSWWw/O>MSM0w/O>MSMbw/O>MSMpw/O>MSMVwwIwM/>=wW1WM/>>wS1WM/>v11O/O8>vwjO1M=>v>:OMI >1=WO # >w=WOM# MJwOwJMwMvwMwWI=Mvw1/WM/  >#w#M/>>wSw%M/>>wSw(M/>>wSw8M/>v11O/O&>#wOwsMSW>j=1IIOMP1SOJM/>>>2O#MOM^j=1IIIW>j OSObjSwJO/M>MzwvOjM1>=wvwbMSMvwj1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/wvI1M/M?w#OOOcW=jI1OIv>S>-ISMJ>/w>wKMO>j1wwQMJW j=1JOvWOjwwmMS>j>NO#MOMgwSI>I W=jI1#O7jSwJO/M>Moww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMRwM1 M1 Ww / Mv>jw1O=MvMtw wvM1W w=wJMw WwM/ OJ>O>JOwOv>M>W1=Ov>1=WO/# M#>#w#MjW w1wWMMM j=wGMv>jw1O=MvMVw11 I!WWwOOjWwMmwM1 MMMvwjwKMS>j>NO1I >1>W1=IW>w=WOM# W w /WM1  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>/wvI1M/Mhww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/O>MSMQw/O>MSMQw/OvW1>/>3O#MOMzwS1>I=WIjSw+WS>Jw/O>Od>#wOw3MSW>j 1=IIWS>AISMJ>/w>w5MO>j1wwQWSW jw1IOvWJj=wzMS>j>DO#MOM6wSI>I W=jI1OOdjSwJO/M>M+wvOjM1>=wvwUM1W w1/WM   ww/WM1  >JOw#W>1>W1=# M#wwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMlwSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wTMv>jw1O=MvM&wSwvWSWWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>/w>OSOU>/wvI1M/M:wvOjM1>=wvwUMMW w1/WM   ww/WMM  j Ow#W>M= wJMOMJwwwvMMMWj=wvM1 Ww// O#M#w/O>MSMcw/O>MSM2w/O>MSM?w/O>MSMfw/O>MSMZw/OvW1>/>TO#MOM9j=1wI1W>j OSOKjSwJO/M>M7w#OOOn>Sj>1=I=W5>qISMJ>/w>w}M#>O>.OSIvW=j=1IOVjSwJO/M>M3w#OOO6>Sjv1=I=WS>oISMJ>/w>wbM#>O>+1=I=Wwj>OSOAjSwJO/M>M(wvOjM1>=wvwNMMW w1/WM   ww/WMM  j Ow#W>M= wJMOMJwwwvMMMWj=wvM1 Ww// O#M#w/OvW1>/>GO#MOMcwSI>I W=j(1JO&jSwJO/M>Mt1wO/WR>/w=ISO<>#wOw?I=W=j1I>I >S>tISMJ>/w>wgMv>jw1O=MvM<wS1WMSW w1/WM   ww/WMS  j Ow#W>S= wJO#>Mj OMOWW=jWO1I >>=WOM# WWwJ/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw4M>>j1Sw0Mw Ww1/WM   = ISMJ>/w>wDMMW wMwWI=WWw/OvW1>/>QOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMXwSwvWwMv1/wvW1MvwJ1WMSW w1/WM   jWIwI >w=WO1#W>/= / IW>w=WOSOWW== 1 WwWWww/WMS  j Iw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / W/Mv111 M=MJww/WMS  >JOw#W>S>W1=# M#>#OjI j1>WOSO W=>UOJI WUjWOOMjjw>RO1I >S>vOjOa>Swjw<MJW wJwWI=WWww/WM1  j I/#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WMMW w1/WM/  jWI/M>jSw#OvOLjS1wI/M/WWw/OvW1>/>.OvMj>1w=OvOn>SjWOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>J=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>(O>MjjS>&Ow#W>1=WO #   1SOJM/>>>oOMI >M>W1=IW>/wvI1M/MbwM1 M1 Ww// IW>/w>OSIW>/w>OSOH>/w>OSO9>/wvI1M/Myw#OOO->Sjv1=I=W/>LISMJ>/w>wgMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM#>O>JO1#W> = 1vMw Ww1/WMv  = w#WS>Jw/O>Oe>Mj O1#W>/= 1WM/>v11O/O}>Mj OMOWW=jWO/M>>SjWO/Mvj1w/w&M#>O>C1=I=WS1>1 MSM.1SOJM/>>>6IwM/jrw/O=WSMXw#OOO*>S1>1 I=W=jOw&WS>Jw/O>O:>#wOw*M>>j1SwCMw Ww1/WM   = ISMJ>/w>wcMMW wMwWI=WWw/OvW1>/>FOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMLwS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # Mjww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#1/O>WS>#wvw*WSjw1/O/IW>/wvI1M/Mlw#OOOr>>wjISOE>w=WO1#W> = / WS>Jw/O>O+>Mj OMOWW=jWO/Mvj1w/w3MMW w1/WM/  jWO/M>>SjWO/M>>S>QO/M>>S>cO/M>>S>:O/Mvj1w/wsM#>O>lOSI>W j=1wIYMr1SOJM/>>>5O#MOM9j=1wIwW>wSw5WS>Jw/O>OR>#wOwVI=W=jI1vI >S>RISMJ>/w>wLWw>/1)O/M=jS>(O#MOMKwSI>I W=jw1=ObjSwJO/M>MuwvOjM1>=wvwpMjMvwSwvMOWWwj1 M1 Ww / IW>Sj Ow#W>1=WO/#   jWOw#W>j>W1=# W wS1WMw Wwj/ I >S=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww// IW>Oj Ow#W>S= OOMjjw>XO1I >S>W1=Ov>1=WOv# >SwjwqMOW wOw>O>>w=WO1# WWw/O>MSWWww/WM1 Ww / # W wO1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>#wOwJMw Ww1/WM   = 1vI >w=WO1#W>v= / O#jSwJO/M>MmwM1 MMMWj=1WM/>v11O/O<>Mj O1#W>/= 1WM/>>wS1WW/>>1SO#MvM91SIwW/>/jWO/Mvj1w/w(M#>O>JOw#W>1=WO #   jv1 Mw Ww1/WMv  = w#WS>Jw/O>O%>Mj OMOWW=jWO/Mvj1w/w2MMW w1/WM/  jWO/M>>SjWO/M>>S>iO/Mvj1w/w{M#>O>NOSI>W=j=1JO7jSwJO/M>MYwOOjWwM8wO1 ISWw>v1JIJMmwSOjOb>#wOwNMSj>j 1=IwW1>HISMJ>/w>w&Mw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>w1wO/M=>WjWO/M>>SjWOw#W>1=WO #   j IWW WWwwIwM/>=wW1WM/>>wS1WM/>v11O/OA>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSMYw/O>MSM&w/OvW1>/>CO#MOM{j=1=IIW>j OSOcjSwJO/M>M;wvOjM1>=wvw{MSWWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJ>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw#OOO4>>wjISOV>w=WO1#W> = / WS>Jw/O>O4>Mj OMOWW=jWO/Mvj1w/wXMMW w1/WM/  jWO/M>>SjWO/Mvj1w/w?M#>O>lOSIvW=j=1#OUjSwJO/M>Msww/WM1 Ww / # MJ>#1WM/>v11O/Of>w=WO1#W> = / I  j>JI.#W>1=WO/#   >vO>M#>v>vISO#WWw/O>MSM4w/O>MSMow/O>MSMnw/O>MSMVw/OvW1>/>eO#MOM(j=1yI/W>wSwsWS>Jw/O>Ox>#wOwyMSW>j 1=IzWw>9ISMJ>/w>wnM#>O>91=I:WwjvOSOGjSwJO/M>MLw#OOO_>Sj>1 I=W)j=wnWS>Jw/O>OU>OwjIwOYjSj 1SIOMvj#1IOq>Swjw}M#>O>!1=IfW1jvOSOtjSwJO/M>Mpw#OOOJ>1=WO # Wvww/WM1 Wwv/ # M#1SOJM/>>>:OMI >1=WO/# WWw/OvW1>/>&OMI >M>W1=IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvO:>v>vOSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = 1WMSW ww/WMv  jWOOMjjw>!O1I >v>W1=Ov>1=WO/# >Swjw9WwM>w SOMIv/QSIwW/v1>JOSOv>w=WO1# M#w/O>MSWWwwIwM/>=wW1WM/>>wS1WM/>v11O/OX>vwjO1M=>v>aOvOv>SjWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # WWwS1 Mw Wwv/ IW>OwjIwOz>1j OvOWW=>vO1#W>/= OSMjM<1ww>M vOwIS/JSjw1/S1OJ>S>vOw#W>1= w#M/>>wS1WM/>>wSwzM/>v11O/O;>vwjO1M=>v>ROSOv>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWw/O>MSMKw/OvW1>/>2O#MOM+wS1>I W=jP1<OljSwJO/M>M{w#OOOC>Sj>1 I#WJ>qISMJ>/w>wVWw>/1%O/M=jS>RO#MOM-wSI>I W=jb1YO8jSwJO/M>MYwvOjM1>=wvw.MMW w1/WM   jWOSMjM(1wO/WSj/1wO>OA>w=WOM# MJwOwJMwMvwMwWI=Mvw1/WM/  >#w#M/>>wS1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw.M W w1/WM   jWOvMj>1w=OvOz>Mj Ow#W>1=WO/#   jWOw#W> >W1=# W wM1WMw Ww / I >M=WOw#W>1=WOv#   = 1WW/>>1SO#MvML1SIwW/>/jWO/Mvj1w/wiMv>jw1O=MvMGwM1 M1 Ww / IW>Swjw;Ww>/1SI/Ww>>>:Ow#W>M= wJMOMJwwwvMMMWj=wvM1 Ww// O#M#w/O>MSWWw/O>MSMmw/OvW1>/>FOvMj>1w=OvOi>S>vOjOv>J>vOOIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   wJ1 WW>w=WOS# MJww/WMSMWj=/ O#j jWOOI WDjWOOMjjw>aO1I >S>vO1#W>v= OSMjM_wO1 MOMWj=1WMw Ww1/ I >J=WOO# WWw/O>MSM.wM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWw/O>MSM,w/O>MSMTw/OvW1>/>dO#MOMawS1>I=W&jIw4WS>Jw/O>Op>#wOwLMSWvj=1(I#M91SOJM/>>>rOvMj>1w=OvOk>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/wvI1M/Mow#OOO3>Sj>1 I=WejJwlWS>Jw/O>O_jww/I:M/>=1SwUM#>O>s1=I=WP1>1 MSMu1SOJM/>>>mOw#W>1=WO #   =WO1#W>/= / I >w=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOL>S>vOjIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWI/M>jSw#OvO<jS1wI/M/WWw/OvW1>/><OvMj>1w=OvOh>S>vOjIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>EO/M>>S>5O/Mvj1w/w{M#>O>61=ImWOj>OSODjSwJO/M>M<wvOjM1>=wvwQMSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / OJM#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>w=WO1#W>v= / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Www/WM1 Wwv/ #   jWO/Mvj1w/w0M#>O>!1=IeWwjv1 MSMq1SOJM/>>>^IwM/jcw/O=WSMxw#OOOU>Sj>1=InWO>4ISMJ>/w>wfM#>O>JOw#W>1=WO #   jv1 Mw Ww1/WMv  = w#WS>Jw/O>O?>Mj OMOWW=jWO/Mvj1w/w.MMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>hOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WW1/O>WS>#wvwaWSjw1/O/IW>/wvI1M/Maw#OOOJ>w=WO1#W> = / IvW ww/WM1 Wwv/ # M#1SOJM/>>>AOMI >M>W1=IW>/wvI1M/M&wM1 M1 Ww// IW>/w>OSIW>/w>OSOT>/w>OSOc>/w>OSO!>/w>OSO4>/w>OSO!>/wvI1M/Mbw#OOO-W=j11/I>W wSw!WS>Jw/O>O^>#wOwRI=W1j}1vI >S>4ISMJ>/w>wNM#>O>AOSIvW j=11IwMg1SOJM/>>>KO#MOMqj=11IRW>j OSOVjSwJO/M>M)wvOjM1>=wvw!M1W w1/WM   ww/WM1  j Ow#W>1= wJMw Ww1wWI=  >#O/Mvj1w/w.M#>O>rOSI>W=jw1#OZjSwJO/M>M01wO/WY>/w=ISOG>#wOwyI=W1jw1>MSMs1SOJM/>>>tOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwVMvWWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = Ow#W>v= wJMw WwvwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / OJM#jWOMI >M>W1=IW>1j O>#W>M= 1WMS>j>LIwM/jS1/IwM>Mbw/O>MSWW1/O>WS>#wvwFWSjw1/O/IW>/wvI1M/M9ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>UO/M>>S>CO/Mvj1w/w.M#>O>;OSI>W=j111ONjSwJO/M>Mpw#OOO2>Sj 1 I=W1j/wFWS>Jw/O>O*>w=WO1#W> = / I >w=WO1#W>/= / OW>w=WO1#W>v= / IW>/wvI1M/MDwvOjM1>=wvwzMSMv1wwvW1Mv1/wvMJWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWIwI >w=WO1#W>/= / IW>w=WOSOWW== 1 WwWWww/WMS  j Iw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / W1Mv1/1 M=MJww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#M#wj1 W/MWwSw I=MfwJ1 IXWWwOOjWwMmw11 MSMvwjwaMS>j>rOJI >J>W1=IW>w=WO1# W 11/WMJ  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJO#>/w>OSO_>/wvI1M/MAwvOjM1>=wvw+MSMv1S1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # j>j O1#W>v= w#WS>Jw/O>O5>Mj OMOWW=jWO/Mvj1w/wLMMW w1/WM/  jWO/M>>SjWO/M>>S>oO/M>>S>8O/Mvj1w/w4M#>O>pOSI>W=jw1OO%jSwJO/M>MCw#OOObW=jw1JIvW wSwHWS>Jw/O>O+>#wOwsMSj>j 1=IwWS>FISMJ>/w>w7MO>j1wwUMMW jS1OOvW/j#w!MS>j>-O#MOMtwSI>I W=jw1#OTjSwJO/M>M:wvOjM1>=wvwGM1W w1/WM   jWOjI >1>WOWO W=jWOOMjjw>_OMI >1>vOjOf>SwjwlMv>jw1O=MvM3w11 W/ WwMw M1  jWOw#W>M= 1 M1WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMFw11 M1 Ww / Mw Ww1/ OJ>O>JOwOv>1>W1=Ov>j>#w#Mwjww/O=MWWWw/O>MSWWw/OvW1>/>yOvMj>1w=OvO<>1j O1#W> = 1WMjW w1wWMWM j=1WMO>j1ww_MMW w1wvMjM:wSOjO2>vwjO1M=>v>(O1I j/=WOMO >1= 1WMw WwM/ I >1jWO/M>>SjWO/M>>S>}O/Mvj1w/wDMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSMLw/OvW1>/>PO#MOMhj=1wISWvwSwHWS>Jw/O>O}>#wOw_MSj>j 1=IwW/>}ISMJ>/w>wPMv>jw1O=MvMGwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Www/WM1 Wwv/ #   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >w=WO1#W>v= / IW>/wvI1M/M3ww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WM/>>wSw8M/>v11O/Ok>vwjO1M=>v>?OSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWO/M>>S>oO/M>>S>qO/M>>S>XO/Mvj1w/wRM#>O>:1=ISWwjv1 MSMa1SOJM/>>>XO#MOMtwS1vI W=jS1SOfjSwJO/M>Mpw#OOO:>Sj>1=ISWw>6ISMJ>/w>wbM#>O>4OSIvW=jS1SO-jSwJO/M>M,wvOjM1>=wvwnM1W w1/WM   ww/WM1  j Ow#W>1= wJMOMJwwwvM1MWj=wvMjM#>#O/Mvj1w/wKMv>jw1O=MvM,wSwvWSWWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/O>MSMmw/OvW1>/>;IS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IWjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWwM1 M1 Ww// IW>/w>OSOY>/wvI1M/M:w#OOOE>Sj>1 I=WSjIwkWS>Jw/O>Ok>#wOw!I=WSjS1vI >S>5ISMJ>/w>w4MO>j1ww9WSW jw1wOvWIjOwhMS>j>rO#MOM?j=1SIIWvwSw_WS>Jw/O>O,>vwjO1M=>v>+O I >1=WO # WWwvOjM1>=wvw4MvW ww/WM MWjw/ IW>vwjO1M=>v>RO>I >w=WO # MWwv1WMw Ww / I >>jWO#MOMJwv1>I4M#1SOJM/>>>QO#MOMJw>1vI >w=WO OWW== w#WS>Jw/O>Oi>Mj O1#W>/= 1WMw Ww wWI1  j O>IW>/w>OSOm>/wvI1M/>#wOwJM>W>j Ow#W> >W1=# M#1SOJM/>>>pOMI >1=WO/# WWww/WM MWj1/ I >>jWO/M>>S>hOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>fOSOvjSjWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/MYwvOjM1>=wvwRMSMv1S1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WM/>>wSwCM/>v11O/O3>#wOwHI=WSj1I>I >S>rISMJ>/w>wmWw>/1eO/M=jS>&O#MOM!j=1SI/WvwSwVWS>Jw/O>Or>w=WO1#W> = / I >w=WO1#W>/= / OM>w=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWO#MOMJw1/WM   jvOw#W>1=WOv#   >#ISMJ>/w>wuMMW wMwWI=WWw/OvW1>/>uOMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwVWSjw1/O/IW>/wvI1M/MHww/WM1 Ww / # W ww/WM1 Ww// # MMww/WM1 Wwv/ # WWw/O>MSMGw/O>MSMqw/O>MSMyw/OvW1>/>,O#MOM%j=11IJWvwSwfWS>Jw/O>OP>#wOw7MSWvj 1=I1W#>6ISMJ>/w>w}M#>O>JO1#W> = 1vI >w=WO1#W>v= / O#jSwJO/M>M.wM1 M1 Ww// IW>/wvI1M/MUwM1 MMMWj=1WM/>>wS1WM/>v11O/OR>#wOwiMSj>j 1=ISW=>PISMJ>/w>wkMv>jw1O=MvMXwM1 M1 Ww / Mv>jw1O=MvMew wvM1W w=wJMw WwM/ OJM#>#OjI >1>WOMO W=>!OvMj>1w=OvO^>1j 16IW>OwjIwO2>Mj OMOv>j>QOSMjM.w11 M1MWj=1WMw WwM/ I > =WO1# WWw/O>MSWWw/OvW1>/>(OOMjjw>2O1I >1=WO # Mvw1/WM/  wSOjO{>w=WO1# W w>O#MvWWw/O>MSWWw/O>MSM8w/O>MSMlw/OvW1>/>DO#MOM(j=11IOW>j OSOkjSwJO/M>MswvOjM1>=wvw-MSMvwj1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   > Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >jOw#W>1=WOv#   jWO/Mvj1w/wGM#>O>fOSI>W j=11I1M41SOJM/>>>dOOMjjw>YOJI W=j#wvIOWS>yOSMjM<w#OOOGW=j11IW>W wSw,WS>Jw/O>OX>OwjIwOi>Sj 1}OvWS>ZOSMjMGw#OOOiW=j>1 MSMb1SOJM/>>>EO#MOM5jnI>I >S>{ISMJ>/w>wYMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wHMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>ZO/Mvj1w/woM#>O>9OSI>W j1w+WS>Jw/O>Oc>#wOwnMSj>j 11O&jSwJO/M>Mnw#OOO6>>wjISOZ>w=WO1#W> = / WS>Jw/O>Oy>Mj OMOWW=jWO/Mvj1w/wFMMW w1/WM/  jWO/M>>SjWO/Mvj1w/wGMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>oO/Mvj1w/woMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOs>/w>OSOD>/w>OSOL>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvO(>v>vI1Ovjw>vOJIW>OwjIwOE>Sj 15OvWS>+OSMjM_w#OOO{Wwjv1 MSMa1SOJM/>>>fO#MOM*j11vI >S>(ISMJ>/w>wrM#>O> 1=W>W wSw^WS>Jw/O>O)jww/IbM/>=1SwsM#>O>2OSW>W j1wAWS>Jw/O>O%>#wOwuM>>j1SwNMw Ww1/WM   = ISMJ>/w>w+MMW wMwWI=WWw/OvW1>/>ROMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMvW w1/WM   ww/WMv  j Ow#W>v= wJMOMJwwwvMvMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WW/>>1SO#MvM^1SIwW/>/jWO/Mvj1w/wYM#>O>GO>MjjS>POw#W>1=WO #   1SOJM/>>>NOMI >M>W1=IW>/wvI1M/M4wM1 M1 Ww// IW>/w>OSIW>/w>OSO;>/wvI1M/M;wv1 M1 Ww / W1Mv1w1 M=MJww/WMv  >JOw#W>v>W1=# M#>#OjI jw>WOvO W=>yOJI W9jWOOMjjw>nO1I >v>vOjO_>Swjw6MJW wJwWI=WWww/WM1  j I1#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO4>/wvI1M/MYw#OOO->Sj>1 O W1>TISMJ>/w>wyMO>j1wwnMvW j=16OvWJj#wPMS>j>:O#MOMkwSI>I Wg>&ISMJ>/w>w!MwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wlMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOH>/w>OSOK>/w>OSOb>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wqMv>jw1O=MvM}wvwvW1Mv1wwvMJWWwOOjWwM^wS1 IdMvjSwCMS>j>PO#MOMtjw1vI >S>yISMJ>/w>wuM#>O>f11IvW wSwfWS>Jw/O>O}>#wOw I=j>j OSODjSwJO/M>M31wO/Wd>/w=ISO:>#wOwsMSj>j 11OhjSwJO/M>MTw#OOO^>>wjISOg>w=WO1#W> = / WS>Jw/O>O0>Mj OMOWW=jWO/Mvj1w/whMMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vj O1#W> = Ow#W>v= 1 Mw Wwv/ OJ>O>JOwOv>v>W1=Ov>j>#w#MMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>VISWwj/w/1WM/>v11O/O.>#wOw+M>>j1SwoMw Ww1/WM   = ISMJ>/w>wgMMW wMwWI=WWw/OvW1>/>NOMI >1=WO/# WWw/O>MSWWw/O>MSM.w/OvW1>/>^OvI >1=WO # j1>vIwI >=>JOw#W>v= wJMw WwvwWI=  >#w#MjW 1wwWMvM j=wcMJW jc1WMO>j1ww^M1W wvwvMjM:wSOjOU>Jj OJOWW=jWOw#W>1= 1 W1 WwJ/ IW>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM7w/OvW1>/>_O#MOMawS1>I M j1w,WS>Jw/O>OC>OwjIwOg>vj 1=I;MvjJ1#O9>Swjw?M#>O>AOSW>W jswoWS>Jw/O>O,>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WM/>v11O/O)>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMbw/O>MSM,w/O>MSM6w/O>MSM%w/O>MSM8w/O>MSM9w/O>MSMGw/O>MSM5w/O>MSMxw/O>MSM*w/O>MSMgw/OvW1>/>-O#MOMQwS1vIwW#jJwpWS>Jw/O>OU>#wOw{MSW>jw1SIIMR1SOJM/>>>_O#MOM4jw1II1W>wSw%WS>Jw/O>O->#wOwFIwW/j#1vMSM<1SOJM/>>>UO#MOM6wS1vIwWOjOw;WS>Jw/O>O2>#wOwtMSW>j 1wIOW1>.ISMJ>/w>wgM#>O>m1wIOW1jvOSO0jSwJO/M>Msw#OOO-WwjO1/I>>S>UISMJ>/w>w%Mv>jw1O=MvMfwj1 WG Ww1/WM/  = 1WMv>jw1O=MvMZwO1WMv>jw1O=MvM_wS1 WWj jWOOI jw>>SIWM S{O/SJOv==JwJWWj >vIW#j jw#O>MS>/1J1 MOj/w>O1WS>#wjO>OJ>M>vO1O#>vwjO1M=>v>3O1I >S=WO1# WW1wO/WSj/1wO>Od>1=W1=#  Ww1/WIw  = 1WM/>>wSwv#j jw>O/WI>#w>OSM/jJj OOW/>>w1ISM#>jw>wJMwMvw1wvMMM#wvOjM1>=wvwQM1W wS/WM1  w1/WI=  =WO1#WWw= / I >MjWO/M>>SjWI O#WWwOOjWwMZw 1 I=Mvw1/WMv  wSOjO%>Mj OMOWW=jWOvMj>1w=OvO)>1j O>#W>M= 1WM#>O>_O1#W>I= 1 I WJj/wKWS>Jw/O>O(>S=WO O W== 1 WW>w>vO1#W>/= I IW>/wvI1M/MewS/WM M j=/ I jWwJwvM1 Ww// W WWw/O>MSWW11/WO1j1>W1=# W wS1WM/>>wS1WMw Ww1/WM   = 1 #jMJwjwvMOMv1Sw#IW>/wvI1M/MEwvOjM1>=wvwtMOMvwS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Oj O1#W> = 1WMSW ww/WM1 Ww// # WWww/WMOMWj=/ I >SjWOw#W>O= 1 MS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / Oj>1=WOv# WWw/O>MSMew/OvW1>/>:Ow#W>1=WO #   j Ow#W>1=WO/#   >jO1#W>v= 1WM/>>wSw%M/>v11O/O3>#wOwPMSWvj 1wIOWN>8ISMJ>/w>w8Mv>jw1O=MvMbwSwvMjWWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WM/>v11O/O8>#wOw7IwWOjmI>I >S>gISMJ>/w>wUWw>/1KO/M=jS>VO#MOM_jw1OIwW>wSwGWS>Jw/O>O*>vwjO1M=>v>yOSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwyMSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#1/O>WS>#wvw*WSjw1/O/IW>/wvI1M/M(wvOjM1>=wvwkMSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#w/O>MSMEw/O>MSM-w/O>MSMlw/OvW1>/>eO#MOMkwS1>IwWOjJwGWS>Jw/O>O9>#wOweMSWvj 1wIIW,>(ISMJ>/w>wyM#>O>}1wIOW#jvOSO_jSwJO/M>M^wvOjM1>=wvw!MSWWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/O*>vwjO1M=>v>LOSOv>jjWIS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IWW WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#M/>>wSw?M/>v11O/OR>#wOw<IwWOjII>I >S>pISMJ>/w>w0MO>j1wwaMOW j11IOvW#j/wkMS>j>lO#MOM3wS1>IwWIj=w)WS>Jw/O>Oi>vwjO1M=>v>lOSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJO#>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM#>O>hO>MjjS>:Ow#W>1=WO #   1SOJM/>>>lOMI >M>W1=IW>/wvI1M/MqwM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # MJ>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I WY>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wPMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W jXw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWw/O>MSMmw/O>MSM,w/OvW1>/>(O#MOM&jw1OIIWvj OSO:jSwJO/M>M<w#OOOE>S1>1 IwWOj/wQWS>Jw/O>Od>OwjIwOX>jj 1=IOMvjO1wO:>Swjw.M#>O>(OSIvWwjO1JO0jSwJO/M>MDwvOjM1>=wvwmMSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJO#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOx>S>vOOIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwO1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OOIW>w=WOS# W wO/WM1 Wwv/ # WWwwIwM/>=wW1WM/>>wS1WM/>v11O/O}>vwjO1M=>v>2OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#M/>>wSwEM/>v11O/OY>w=WO1#W> = / I jW1 1WM/>>wSw;M/>>wSw-M/>>wSwpM/>v11O/O?>#wOw}MSWvj 1wI/W1>*ISMJ>/w>wXM#>O>)OSIvW jw1/I<M!1SOJM/>>>uO#MOMowS1vI WwjS1JO7jSwJO/M>Mnww/WM1 Ww / # W >JO1#W>/= I>I WH>#1WM/>v11O/O{>#wOwXMSW j 1wI/W.>gISMJ>/w>wYMv>jw1O=MvM*wv1WMvW w1/WM   ww/WMv  >JOw#W>v>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  j Ow#W>v= wJO#>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM#>O><O>MjjS>KOw#W>1=WO #   1SOJM/>>>4OMI >M>W1=IW>/wvI1M/M*wM1 M1 Ww// IW>/w>OSIW>/wvI1M/MzwvOjM1>=wvwpMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMAww/WM1 Ww / # jSwJO/M>MUwM1 MMMWj=1WM/>v11O/O_>Mj O1#W>/= 1WM/>>wS1WM/>>wSwoM/>>wSwTM/>v11O/O6>#wOwrIwW/j=1>I >S>QISMJ>/w>w6Mv>jw1O=MvMKwS1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/OvW1>/>5O#MOM6jw1/I=j>j OSO3jSwJO/M>M+wOOjWwMFwj1 I=WI>v1IIIMcwSOjO{>#wOw!MSj>j 1wI/W1>NISMJ>/w>w?Mv>jw1O=MvMLwSwvMjWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 OJ>1=WO/# j>j 13O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwYMSMvwO1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>Oj Ow#W>1=WO/#   jWOw#W>S>W1=# W wO1WMw WwS/ I >O=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wNMv>jw1O=MvM.wSwvMOWW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOOI >w=WO1#W>/= / IW>w=WOSOWW== 1 MOWWww/WMS  j OO#W>1=WOv#   jWO/M>>S>VO/M>>S>.O/M>>S>FO/Mvj1w/w4M#>O>h1wI/WOj>1 MSMy1SOJM/>>>_O#MOMYjw1/ISWvwSwDWS>Jw/O>O2>#wOwfMSW>j 1wI/W1>5ISMJ>/w>wUMO>j1wwVMOW j11eOvW/jIw<MS>j>:O#MOMTjw1/I/WvwSwdWS>Jw/O>OG>vwjO1M=>v>-O>I >w=WO1#W>v= / IW>#wOwkM>MN1SOJM/>>>kOMI >M>W1=IW>/wvI1M/MUww/WM1 Ww / # W w>1WMMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / O >w=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wZMv>jw1O=MvMkw>1 Mw Ww1/WMv  = 1WM#>O>rO>ODjSwJO/M>MCwM1 MMMWj=1WM/>v11O/OG>w=WO1#W> = / I >>jWOMI >1=WO/# WWw/O>MSWWw/O>MSM2w/OvW1>/>eOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWw/O>MSMhw/OvW1>/>+O#MOM9jw1/IJW>wSwUWS>Jw/O>Oc>w=WO1#W> = / I MJw>OjWSM+ww/WM1 Ww// # M#jWO/Mvj1w/wxM#>O>u1wI/W/jvOSOPjSwJO/M>MxwOOjWwM^1S1 I1Wh>v1IIOMdwSOjOz>#wOw5MSj>j 1wI/W#>LISMJ>/w>w&M#>O>JOw#W>1=WO #   jvO1#W>v= w#WS>Jw/O>OH>Mj O1#W>/= 1WM/>v11O/OY>Mj OMOWW=jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>tOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>w8MMW wMwWI=WWw/OvW1>/>5OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WM/>v11O/On>vwjO1M=>v>iOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>wsMMW wMwWI=WWw/OvW1>/>YOMI >1=WO/# WWw/O>MSWWw/O>MSMFw/O>MSM}w/O>MSMCw/O>MSM*w/O>MSM.w/OvW1>/>cO#MOMgwS1vIwWJj/w{WS>Jw/O>Op>#wOw}IwWIjJ1vMSM31SOJM/>>>xO#MOMLwS1vIwWJjwwNWS>Jw/O>O.>#wOwcMSWvj 1wIIW#>fISMJ>/w>w-M#>O>JOw#W>1=WO #   jvO1#W>v= w#WS>Jw/O>O.>Mj O1#W>/= 1WM/>v11O/O:>Mj OMOWW=jWO/M>>SjWO/Mvj1w/wyM#>O>kOSI>W jw1II#Mi1SOJM/>>>HIwM/j&w/O=WSM7w#OOO7WwjJ1=W>W wSw(WS>Jw/O>O3>vwjO1M=>v>iOSOv>J>vIwOvj1>vISIW>Sj O1#W> = 1WMJW ww/WM1 Ww// # WWww/WMSMWj=/ I >JjWOw#W>S= 1 MJ Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W jsw#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # jw>vI1I >=>JOw#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#>#OjI j1>WOSO W=>}ISI WtjWOOMjjw>*O1I >S>vOjOr>SwjwEWSW 1SwWI=WWww/WM1  j Iw#WjS= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOwTMw Ww1/WM   = ISMJ>/w>wZMMW wMwWI=WWw/OvW1>/>mOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WW/>>1SO#MvMa1SIwW/>/jWO/Mvj1w/w;Mv>jw1O=MvMbwSwvMJMv1wwvW1Mv1S1WMSW w1/WM   jWOJI >w=WO1#W>/= / IW>w=WOSOWW== 1 MJWWww/WMS  j OJ#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I Wq>#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / WwMv111 M=MJww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#M#wj1 W1MWwSw I=Me1S1 IUWWwOOjWwMbw11 MSMvwjw3MS>j>%ISI jS>W1=IW>w=WO1# W 1w/WWS  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>oOw#W>1=WO #   1SOJM/>>>VOMI >M>W1=IW>/wvI1M/M?wM1 M1 Ww// IW>/w>OSIW>/w>OSOL>/w>OSOl>/wvI1M/Maw#OOOf>Sj>1 IwWJj1wdWS>Jw/O>OC>#wOw8IwWJjw1vMSM61SOJM/>>>_IwM/jfw/O=WSMQw#OOO-WwjJ1SW>W wSw2WS>Jw/O>OL>vwjO1M=>v>qOvIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOvI >1=WO # >w=WOv# W ww/WMv  >JOw#W>v>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// # MWw1/WMv  jWI/M>jSw#OvOujS1wI/M/WWw/OvW1>/>XOw#W>1=WO #   j Ow#W>1=WO/#   >WO1#W>v= 1WM/>>wSwLM/>v11O/OE>vwjO1M=>v>}OSIW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WM/>>wSwAM/>>wSwnM/>v11O/OH>#wOw:MSWvj 1wIIW/>^ISMJ>/w>weM#>O>5OSIvW jw1II1M51SOJM/>>>xOvMj>1w=OvO5>1j O1#W> = 1WMS>j>kIwM/jS1/IwM>MGww/WM1  >JOOOJ>w>vO1OWW=>vOjO#M#w/O>MSWWw/OvW1>/>dO#MOMQjw1II=WvwSw+WS>Jw/O>OD>OwjIwO%jSj 11IIMvj#1JOL>Swjw&M#>O>^OSW>W jw1IISMc1SOJM/>>>HOvMj>1w=OvOK>S>vISIW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>w=WO1#W>v= / # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Www/WM1 Wwv/ #   jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I MJw1/WM/  1>1 I3M#jWOMI >M>W1=IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wYMw Ww1/WM   = 1 OJ>1=WO/# j>j 1UO#WWwM1 MMMWj=1WM/>>wSw8M/>>wSwHM/>v11O/Oc>#wOwuMSWvj 1wIIWO>sISMJ>/w>woMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>/wvI1M/M!w#OOO+>S1>1 IwWIjJw7WS>Jw/O>Oq>vwjO1M=>v>XOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOwxMw Ww1/WM   = ISMJ>/w>wPMMW wMwWI=WWw/OvW1>/>yOMI >1=WO/# WWw/O>MSWWw/OvW1>/>DOvMj>1w=OvO4>S>vOjIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMXww/WM1 Ww / # jSwJO/M>M+wM1 MMMWj=1WM/>v11O/O4>Mj O1#W>/= 1WM/>>wS1WM/>>wSw_M/>>wSwUM/>>wSwPM/>>wSw^M/>v11O/OR>#wOwxMSW>j 1wI#W=>8ISMJ>/w>w?M#>O>C1wI#W1jvOSOTjSwJO/M>M5w#OOO)Wwj#1OIvW wSwLWS>Jw/O>Om>#wOwoIwW#j11vMSM31SOJM/>>>QOOMjjw>AOjI WwjIwvIJWS>yOSMjMVw#OOO4>Sj>1wI#WO>)ISMJ>/w>wUMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMzwS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJM#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >MOw#W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/MAwvOjM1>=wvw,MSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >Jw#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OM>w=WO1#W>v= / IW>/w>OSOb>/wvI1M/M2w#OOOFWwj#1SIv>S>eISMJ>/w>wsMv>jw1O=MvM{wv1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = wJO#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  j Ow#W>v= wJO#>Mj OMOWW=jWO1I >>=WOM# WWw#OOO^>w=WO1#W> = / WS>Jw/O>O;>Mj OMOWW=jWO/Mvj1w/wZMMW w1/WM/  jWO/M>>SjWO/Mvj1w/w0Mv>jw1O=MvMPwSwvWSWWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>Swjw&Ww>/1SI/Ww>>>}Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#w/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwSOjO%jww/ISW/jww>wpMOMJwwwvMSMvwjw#M/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>SwjwRWw>/1SI/Ww>>>5O/M>>SjWO/M>>S>hO/M>>S>3O/Mvj1w/whM#>O>8OSI>W jw1#IwM<1SOJM/>>>fO#MOMejw1JI#j>j OSOrjSwJO/M>MxwOOjWwMEwj1 IwW#>v1II7M;wSOjO2>#wOw;IwW#j1I>I >S>tISMJ>/w>w9Mv>jw1O=MvMUwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOwJMw Ww1/WM   = 1vMw Ww1/WMv  = w#WS>Jw/O>O:>Mj O1#W>/= 1WM/>v11O/O7>Mj OMOWW=jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/M9wvOjM1>=wvwPMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # Wvww/WM1 Wwv/ # M#1SOJM/>>>eOMI >1=WO/# WWw/OvW1>/>qOMI >M>W1=IW>/w>OSIW>/w>OSO5>/wvI1M/MKwvOjM1>=wvw+M1W w1/WM   jWOvMj>1w=OvOo>Mj Ow#W>1= 1WMO>j1wwRM1W w1wWI=MvwjwAMS>j>_IwO>> xOOIJ/vS1wI/J1MJwMwvMw Ww1/ O#>/w>OSIW>/w>OSOQ>/w>OSOP>/wvI1M/M^w#OOOpWwjJ1IIv>S>sISMJ>/w>waM#>O>)OSIvW jw1JIJME1SOJM/>>>VOvMj>1w=OvOE>>j O1#W> = 1WMv>jw1O=MvM:w 1 WWj jWOOMjjw>,O1I W=>vw1W1MnwSOjOC>vwjO1M=>v>;O1I j1=WO1# WWwOOjWwMDwM1 I0Mv>1O1Oz>SwjwCMv>jw1O=MvMzw11 M1 WwM/ IW>vwjO1M=>v>(O/I >1=W1=# WWwvOjM1>=wvweMMW w1/WIw  jWO#MOMzw/1 I >w>YO=M>>S>qOMI>W w>w*WS>Jw/O>Oi> =WOM# W w//WMM  jWO1#WW== 1 M WWw/O>MSWWw/O>MSWWw/O>MSWWw/OvW1>/>UO#MOMejw1#I6W>wSwZWS>Jw/O>OY>vwjO1M=>v>ZOSOvjSjWOOMjjw>7OjI WD>v1SOm>SwjwpM#>O>?OjI>W=>(ISMJ>/w>w!M#>O>XOjIvW jwwRWS>Jw/O>Ox>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wAM#>O>L1SI W wjwyWS>Jw/O>OV>#wOwzMw Ww1/WM   = ISMJ>/w>wHMMW wMwWI=WWw/OvW1>/>eOMI >1=WO/# WWw/O>MSWWw/OvW1>/>oOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM8w/O>MSM.w/OvW1>/>aO#MOMLwjI>I M j1wgWS>Jw/O>Otjww/IpM/>=1Sw8M#>O>mOjI>We>fISMJ>/w>wdMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WW/>>1SO#MvMF1SIwW/>/jWO/Mvj1w/w%MSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwmM/>>wSwgM/>>wSwdM/>v11O/O4>vwjO1M=>v>UOSOv>OjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMOW ww/WM1 Ww// # WWww/WMSMWj=/ I >OjWOw#W>S= 1 MO Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / Oj>1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >MO1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>/w>OSOx>/w>OSOp>/wvI1M/MUw#OOO<WwjJ1/I>W wSwCWS>Jw/O>Od>vwjO1M=>v>?OSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = wjM1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M/w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = wjM1 Wwv/ IW>/wvI1M/M_w#OOO.>S1>1 IwWJjIw.WS>Jw/O>Oy>w=WO1#W> = / I MJw1/WM/  1>1 I(M#jWO/Mvj1w/w.Mw Ww1/WM   = /WMw Ww1/WM/  = / I >w=WO1#W>v= / IW>/w>OSO;>/w>OSO)>/w>OSOP>/w>OSOL>/w>OSOh>/w>OSOU>/wvI1M/Mfw#OOOkWwjw1wI>W wSw;WS>Jw/O>OD>#wOwzIwW=jG1>I >S>aISMJ>/w>wrM#>O>^OSI>Wwj(1SO8jSwJO/M>M-w#OOOaWwjf1JI>>S>4ISMJ>/w>w!M#>O>:OSI>WwjK1/O2jSwJO/M>MZw#OOOi>Sj>1wIPWw>mISMJ>/w>wgMO>j1wweM>W jS1#OvWIj=wlMS>j>gO#MOMzjw1dIOWvwSw!WS>Jw/O>Op>#wOwJMw Ww1/WM   = I>I >1=WOv# M#1SOJM/>>>*OMI >M>W1=IW>/wvI1M/M0wM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvO+> j O1#W> = OvMj>1w=OvO_>/j IWMw Ww / OJ>w=WO OWW== w#W WWwvOjM1>=wvwlMMW jx1WMO>j1wwGM1W w wvM1 Wwv/ MS>j>eOMI >M>W1=IW>w=WO1# W w//WMM  jWO/M>>S>fOwWw>/w=OWIW>/w>OSIW>/wvI1M/MdwvOjM1>=wvwtM W w1/WM   wvOjM1>=wvw:M/W 1WOw#W> = wJMw Ww wWI=  >#I IW>vwjO1M=>v>*OMI W(jWOOMjjw>6O1I > >vO1#W>v= OSMjM&wM1 MMMWj=1WMw Ww1/ I >/=WOM# WWw/O>MSMYw/O>MSM*w/OvW1>/>oOJ#W>1=WO/#   j Ow#W>1=WO #   jWO/M>>S>_O/Mvj1w/w:M#>O>P1wIDWJj>1 MSMf1SOJM/>>>!OvMj>1w=OvO(>S>vOOIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOOI >w=WO1#W>/= / IW>w=WOSOWW== 1 MOWWww/WMS  j OO#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWO/Mvj1w/wCM#>O>R1wI9W#jvOSOgjSwJO/M>M;wvOjM1>=wvw&MSMv1S1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/O0>OwjIwOH>Sj 1iOvW=>-OSMjMLw#OOO W1jvOSOHjSwJO/M>M+1wO/Wa>/w=ISOa>#wOwbI=W>wSwCWS>Jw/O>Of>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWw#OOOJ>w=WO1#W> = / W>W w1/WMv  >#ISMJ>/w>w4MMW wMwWI=WWw/OvW1>/>KOMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwPWSjw1/O/IW>/wvI1M/MQww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO6>/w>OSOn>/w>OSO^>/w>OSOE>/w>OSO7>/wvI1M/M}w#OOOl>Sjv1 IwWsj=waWS>Jw/O>OE>#wOw,MSW>j=1#I#Mn1SOJM/>>>VO#MOM9wS1>I W=j#1#O3jSwJO/M>M21wO/Ws>/w=ISOs>#wOw:IwWhj=I>I >S>FISMJ>/w>wyMv>jw1O=MvMpwSwvMjWWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw<MSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM1 Ww// W>W j8w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#j/w>ISM#>v>_ISWwj/w/1WM/>v11O/OT>vwjO1M=>v>LOSOv>jjWOSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>/w>OSO)>/wvI1M/Mgw#OOOJ>w=WO1#W> = / I W ww/WM1 Wwv/ # M#1SOJM/>>>lOMI >M>W1=IW>/wvI1M/MywM1 M1 Ww// IW>/w>OSIW>/w>OSOk>/wvI1M/Miw#OOOc>Sj>1 IwWXj1wYWS>Jw/O>OT>#wOwNIwW8jw1vI >S>fISMJ>/w>w-MO>j1wwTWwW jS1SOvW/j/w6MS>j>FO#MOMawSI>I WwjZ1SOpjSwJO/M>MxwvOjM1>=wvwXMSMvwO1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwO1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OOIW>w=WOS# W wO/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>:OSOvj1>vI/OvjwjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = I1Ovj/j O=OJ>w=WOS# MJww/WMSMWj=/ O#M#wj1 W/MWwSw I=MV1w1 IHWWwOOjWwMlw11 MSMvwjw)MS>j>-IwI jw>W1=IW>w=WO1# W 11/WWw  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>yO>MjjS>)Ow#W>1=WO #   1SOJM/>>>zOMI >M>W1=IW>/wvI1M/MowM1 M1 Ww// IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wxMv>jw1O=MvMVwSwvW1Mv1/wvWwWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   11wvW/W w=wJMw WwS/ OJ>w=WOSOWW== w#O#>jj I/OW>S> 1=ORjwj 14IW>OwjIwOi>1j OSOv>j>^OSMjMe1w1 WwMWj=1WMw Ww1/ I j1=WIw# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vOjO#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMEw>OjWSMNww/WM1 Ww / # jSwJO/M>MswM1 MMMWj=1WM/>v11O/OR>Mj O1#W>/= 1WM/>>wS1WM/>>wSw)M/>v11O/OFjS=WO1#W>/= / I >w=WO1#W> = / IW>/w>OSO_>/w>OSO:>/w>OSO_>/wvI1M/MCw#OOOr>Sj>1wI=WO>gISMJ>/w>w?M#>O>uOSIvWwjw1pOrjSwJO/M>Mtw#OOOdWwj=1IIv>S>LISMJ>/w>wHM#>O>2OSW>W jw1=IIMz1SOJM/>>>YIwM/jRw/O=WSMZw#OOOq>Sjv1wI=W#>RISMJ>/w>wVMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwwIwM/>=wW1WM/>>wS1WM#>O>JOw#W>1=WO #   jvOw#W>1=WOv#   >#ISMJ>/w>wGMMW wMwWI=WWw/OvW1>/>zOMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwmWSjw1/O/IW>/wvI1M/M_ww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>>wSw)M/>v11O/Ou>vwjO1M=>v>yOSOv>J>vO=Ov>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMJW ww/WM1 Ww// # WWww/WMSMWj=/ I >JjWOw#W>S= 1 MJ Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >=j IWMw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#I IW>jj 1YIW>OwjIwO4>1j OSOv>1=WOv# >SwjwtMjW wjwWI=WWww/WM1  j O=#W>j= 1WM/>>wSwqMMW wMwWI=WWw11 M> WwM/ IW>Mj O1#W>/= 1WM/>>wSw6M/>v11O/ON>#wOwkMSWvj 1wIwW8>yISMJ>/w>w2Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / O >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>#wOwJMw Ww1/WM   = 1vI >1=WOv# M#1SOJM/>>>UOMI >1=WO/# WWw/OvW1>/>FOMI >M>W1=IW>/w>OSIW>/wvI1M/M2w#OOOe>Sj>1wI=W#>PISMJ>/w>wfWw>/1NO/M=jS>AO#MOMtwS1vIwWwjwwqWS>Jw/O>O7>SwjwyWw>/1SI/Ww>>>)Ow#W>1=WO #   >Jw#IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvO&>S>vISIW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IWW WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WW/>>1SO#MvMV1SIwW/>/jWO/Mvj1w/w9Mv>jw1O=MvMrwSwvWSWWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>/w>OSOa>/w>OSOs>/w>OSOo>/wvI1M/Mgw#OOOQWwj=11I>W wSwUWS>Jw/O>O0>#wOw_MSWvjw1=IwM91SOJM/>>>;OvMj>1w=OvOu>Mj O1#W> = 1WMv>jw1O=MvMEw 1 Mw Ww1/WM/  = 1WMw WwMwWI=  j O IW>w=WOM# W w /WMw Ww1/WMv  = / IW>/wvI1M/M_w#OOO_Wwjk1JIvW wSwfWS>Jw/O>OE>OwjIwOq>jj 1wIwMvj/1wOT>SwjwQM#>O>L1wI=W11>1 MSM51SOJM/>>>5O#MOMJww/WM1 Ww / # W j O1#W>v= w#WS>Jw/O>O_>Mj OMOWW=jWO/Mvj1w/wuMMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>ZOSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j wJM>>j1Sw6Mw Ww1/WM/  = w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OwWw>/w=OWIW>/w>OSIW>/wvI1M/M7w#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>wfMMW wMwWI=WWw/OvW1>/>yOMI >1=WO/# WWw/O>MSWWw/O>MSMaw/O>MSMbw/OvW1>/>,O#MOMLjw1=I/W>wSw{WS>Jw/O>O?>w=WO1#W> = / I jS=WO1#W>/= / IW>/wvI1M/M,w#OOONWwj=1/Iv>S>6ISMJ>/w>w6Mv>jw1O=MvM2wSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#M/>v11O/Oc>vwjO1M=>v>bOSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WOw#W>1=WOv#   = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMS>j>dIwM/jS1/IwM>MTww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>/w>OSIW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>SwjwtWw>/1SI/Ww>>>gOOOJ>w>vOSOv>j>#O/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WMS>j>cIwM/jS1/IwM>M&w/O>MSWWw/O>MSM-w/O>MSMzw/O>MSMCw/O>MSMuw/O>MSMAw/OvW1>/>GO#MOMgjw11I/W>wSwhWS>Jw/O>OR>#wOw7IwWwjJ1>I >S>+ISMJ>/w>wQM#>O>}1wIwWOj>OSOcjSwJO/M>M<w#OOOFWwjw11I>W wSw+WS>Jw/O>OY>vwjO1M=>v>gOSOv>jjWIS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>/wvI1M/M&w#OOOY>S1>1 IwWwjaw?WS>Jw/O>O4jww/IbM/>=1SwmM#>O>e1wIwWS1>1 MSMA1SOJM/>>>_Ow#W>1=WO #   j O1#W>/= w Mw Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwiWSWWwOOjWwM3wS1 IaMvjSwZMS>j>kO#MOMmwS1vI W=>&ISMJ>/w>wZM#>O>iOSI>W > 1=OgjSwJO/M>M,wOOjWwMGwv1 IwW1>v1/I/MQwSOjOQ>#wOwDMSj>j 1hOFjSwJO/M>M8ww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/M0ww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>RO/Mvj1w/wVM#>O>N1wI>W wSwAWS>Jw/O>O0jSj O1#W> = Ow#WjS= wJMOMJwwwvWSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wHM#>O>g11I W wSwYWS>Jw/O>OF>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/OA>#wOw^M>>j1SwuMw Ww1/WM   = ISMJ>/w>wmMMW wMwWI=WWw/OvW1>/>AOMI >1=WO/# WWw/O>MSWWw/O>MSMPw/O>MSMlw/O>MSM4w/O>MSMn1/O>WS>#wvw+WSjw1/O/IW>/wvI1M/MDww/WM1 Ww / # W w1/WM/  > Ow#W>1=WOv#   jWO/M>>S>.O/M>>S>8O/Mvj1w/w,M#>O>LOSI>W jw1wIIMu1SOJM/>>>sO#MOMujw1wIOWvwSw5WS>Jw/O>O*>OwjIwO9>Oj 1wIIMvjJ1#O!>Swjw%M#>O>s1wIwWJ1>1 MSMq1SOJM/>>>eOvMj>1w=OvO3>O>vOSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOOI >1=WO # WWwS1 Mw Ww1/WM/  = 1WMw WwOwWI=  j OSIW>w=WOO# W wS/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w/M1 Wwv/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wTMw Ww1/WM   = 1 Mw Ww1/WM/  = w/M1 Wwv/ IW>/w>OSOz>/wvI1M/MswvOjM1>=wvw6WSWWwOOjWwM:wS1 I<MvjSwyMS>j>2O#MOMnjw1vI >S>8ISMJ>/w>wTM#>O>,11I>>S>}ISMJ>/w>wyMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/wKM#>O> 1=Iv>S>)ISMJ>/w>w&MO>j1wwEMvW jS1JOvWJj/w5MS>j>zO#MOM_jSI>I >S>eISMJ>/w>wnWSW w1/WM   ww/WWS  >JOw#WjS>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>Mj O1#W>/= 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>ZOMI >1=WO/# WWw/O>MSMzw/O>MSMpw/OvW1>/>FO#MOMTwSI>I M j=w*WS>Jw/O>O,jww/I_M/>=1SwfM#>O>T1=W>W wSwYWS>Jw/O>O!>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>ZISWwj/w/1WM/>v11O/O6>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwNM/>>wSwAM/>>wSw2M/>>wSw{M/>>wSw<M/>v11O/Oq>#wOw8MSW>jw11I=M)1SOJM/>>>pO#MOMewS1vIwW1j1wCWS>Jw/O>OP>vwjO1M=>v>}OSIW>OwjIwO;>jj 1_OvWw>6OSMjM^w#OOOhW=j>OjOsjSwJO/M>M.wS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/OC>#wOwCMjW>> 1wO_jSwJO/M>Mg1wO/WC>/w=ISOq>#wOwQMjj>j 1wOpjSwJO/M>Mtww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWI/M>jSw#OvOQjS1wI/M/WWw/OvW1>/>zOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwnM/>>wSw}M/>>wSw!M/>v11O/O8>#wOw&MSW>j 1wIwW#>3ISMJ>/w>wmWw>/1%O/M=jS>2O#MOMdjw11I1j>j OSO&jSwJO/M>MqwvOjM1>=wvw7MSMvwjwvMJMvwO1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   wJ1 WW>w=WOS# MJww/WMSMWj=/ O#j jWOOI W<jWOOMjjw>,O1I >S>vO1#W>v= OSMjM:wO1 MOMWj=1WMw Ww1/ I >J=WOO# WWw/O>MSM:wM1 MMMWj=1WM1W w>/WMM  jWOMI >1=WO/# WWwwIwM/>=wW1WM/>>wS1WMO>j1ww;MSW jowvIwMNwSOjOo>#wOwbINWvwSwxWS>Jw/O>O2>#wOw{MSW j 1wOVjSwJO/M>Moww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/O%>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMZw/OvW1>/>_IS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwZM/>>wSw+W/>>1SO#MvM!1SIwW/>/jWO/Mvj1w/wlMO>j1wwDMSW jqwvIwM*wSOjO4>#wOw3IfWvwSwEWS>Jw/O>Of>#wOwGMSW j 1wO-jSwJO/M>MLww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/OA>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMzw/OvW1>/>NIS#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSweM/>>wSwRM/>>wSwpM/>>wSw.M/>v11O/O_>#wOweIwW1j01>MSMy1SOJM/>>>zOvMj>1w=OvO6>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw}M>>j1SwdMw Ww1/WM   = ISMJ>/w>wiMMW wMwWI=WWw/OvW1>/>0OMI >1=WO/# WWw/O>MSWWw/OvW1>/>aO#MOMEwS1 I Wwj11eOsjSwJO/M>MfwvOjM1>=wvwZMMW w1/WM   jWOvMj>1w=OvOf> j Ow#W>M= 1WMO>j1ww)M1W wMwWI=Mvw1/WM/  wSOjO7jw>>O JO>I./SSWwj/y1wJM Mvww/WM1  >#O/M>>SjWO/Mvj1w/wxMv>jw1O=MvM?wSwvWSWWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw8M>>j1Sw8Mw Ww1/WM   = ISMJ>/w>wYMMW wMwWI=WWw/OvW1>/>mOMI >1=WO/# WWw/O>MSWWw/O>MSMkw/O>MSMfw/O>MSMTw/O>MSMAw/OvW1>/>tO#MOMGjw1SINW>j OSO4jSwJO/M>MFw#OOOpWwj11II>W wSwmWS>Jw/O>O!>#wOw%IwW1j/1vMSMq1SOJM/>>>VO#MOM8jw11I1Wvj OSOEjSwJO/M>M,wOOjWwMqwv1 ISWN>v1IIOMuwSOjOf>#wOwVIwW1jI1>MSMx1SOJM/>>>gOvMj>1w=OvOx>vjWOvI >1=WO # >w=WOv# MJwOwJMwMvwvwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMvW w1/WM   ww/WMv  >JOw#W>v>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOwWw>/w=OWIW>/w>OSIWjS=WO1#W>/= / I >w=WO1#W> = / IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wgMv>jw1O=MvM?wv1WMvW w1/WM   ww/WMv  >JOOOJ>w>vOvOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = Ow#W>v= wJMw WwvwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WM/>>wSwdM/>v11O/Ox>w=WO1#W> = / I >w=WO1#W>/= / Oj>w=WO1#W>v= / IW>/w>OSO}>/wvI1M/M6w#OOO)Wwj11#I>>S>DISMJ>/w>wDM#>O>JOw#W>1=WO #   jvOw#W>1=WOv#   >#ISMJ>/w>w0MMW w1/WM/  jWO/Mvj1w/wVMMW wMwWI=WWw/O>MSWWw/OvW1>/>sO#MOMywS1 I WwjS1_OnjSwJO/M>Mgww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/OC>w=WO1#W> = / I >w=WO1#W>/= / O/>w=WO1#W>v= / IW>/w>OSOb>/w>OSO->/w>OSO7>/wvI1M/Mkw#OOO%>Sjv1wISWS>RISMJ>/w>whM#>O>lOSI>W jw1SIwMq1SOJM/>>>:O#MOM%jw1SI1W>wSwpWS>Jw/O>O.>w=WO1#W> = / I MJw1/WM/  1>1 IFM#jWOMI >M>W1=IW>/wvI1M/M8wwwJM1 Ww / Ov>1=WO/# M#jWO/M>>S>dO/Mvj1w/w^Mv>jw1O=MvMhwSwvW1Mv1wwvMJWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >1Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w M1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # Mjw1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   11wvWwW w=wJMw WwS/ OJ>w=WOSOWW== w#O#>jj IwOW>S> 1=O,>Jj 1VIW>OwjIwOi>1j OSOv>j>sOSMjMawJ1 MJMWj=1WMw Ww1/ I j1=WOJ# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vOjO#M#w/O>MSM}w/OvW1>/>tO#MOMTwS1>I WwjS1OOCjSwJO/M>Mcw#OOO9>Sj>1wISWw>^ISMJ>/w>wlWw>/1kO/M=jS>}O#MOMDjw1SIIj>j OSOhjSwJO/M>MYwOOjWwMiwS1 I9MvjSwRMS>j>pO#MOM4j=1>I >S>qISMJ>/w>w!M#>O> 11W>W wSw8WS>Jw/O>O3>OwjIwOzjSj 11IJMvjI11OX>SwjwxM#>O>HOSW>W j0wcWS>Jw/O>OK>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wEMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>HO/Mvj1w/wQM#>O>611IvW wSwTWS>Jw/O>Ot>#wOw8MSW j 11OhjSwJO/M>M%ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/M-ww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WM/>>wSwqM/>v11O/Oa>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwVM/>>wSwUM/>>wSwdMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwfMvMv1wwvW1MvwS1WMO>j1wwdMJW jHwvISM9wSOjOZ>#wOw+I=W>j OJOVjSwJO/M>MAw#OOO7>J1>1 IKMl1SOJM/>>>_OwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/M+ww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>(O/Mvj1w/whM#>O>%11IvW wJw9WS>Jw/O>Oa>#wOwCMJj>j 11O%jSwJO/M>Mf1S/WM1 Ww// # W ww/WM1 Ww / # WWw/OvW1>/>rOvI >1=WO # >w=WOv# W ww/WMv  >JOOOJ>w>vOvOWW=>vOjO#M#wM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>uO/Mvj1w/w0MvW w1/WM   1wwvW1W w=wJMw Wwv/ OJ>w=WOvOWW== w#O#>jj I1OW>v> 1=O3>Sj 10IW>OwjIwOu>1j OvOv>j>mOSMjMrwS1 MSMWj=1WMw Ww1/ I jw=WOS# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>;O/M>>S>xO/M>>S>xI/M>jSw#OvOTjS1wI/M/WWw/OvW1>/>4OvMj>1w=OvOa>v>vIwOvj1>vOSIW>OwjIwO5>Jj 10OvWS>*OSMjM?w#OOO^W=j>1 MJM!1SOJM/>>><O#MOMzwJI>I WR>oISMJ>/w>wgMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>gOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwQM/>v11O/OT>#wOw6I1Wvj OJO2jSwJO/M>M0w#OOO0>J1>1 I1MN1SOJM/>>>2IS#W>1=WO/#   j Ow#W>1=WO #   jWO/Mvj1w/wrMvW w1/WM   ww/WMv  j Ow#W>v= wJMOMJwwwvMvMWj=wvMjM#>#OMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw9M/>v11O/OK>vj O1#W> = IwOvj1j O=OJ>w=WOv# MJww/WMvMWj=/ O#M#wj1 W1MWwvw I=M6wS1 IAWWwOOjWwMHw11 MvMvwjwlMS>j>ROSI >S>W1=IW>w=WO1# W 1w/WMS  jWO/M>>SjWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw7M/>>wSwtM/>>wSw-M/>>wSwsM/>v11O/O?>#wOwEIwWSj/1 I >S>oISMJ>/w>w+Mv>jw1O=MvMow11 M1 Ww / IW>SwjwFWw>/1SI/Ww>>>{OOOJ>w>vO1Ov>j>#O/M>>SjWO/Mvj1w/w3Mv>jw1O=MvMzw11 M1 Ww / Mv>jw1O=MvM^w wvMMW w=wJMw Ww1/ OJ>w=WO1OWW== w#O#>jj OMOW>1> 1=OV>vwjO1M=>v>^OMI W_jWOOMjjw>CO1I >1>vOjO_>Swjw<MMW wMwWI=WWww/WM1  j O #W>M= 1WM/>>wS1WM/>>wSw7M/>>wSw:M/>>wSwxM/>>wSwzM/>>wSw+M/>>wSw2M/>>wSwyM/>v11O/O.>#wOwnMSW>j11SIIM%1SOJM/>>>7O#MOMtj11IIwW>j OSORjSwJO/M>Mmw#OOOk>Sjv11IOWf>aISMJ>/w>w.M#>O>L11I/W1j>1 MSM;1SOJM/>>>kO#MOMkj11/I=W>wSw+WS>Jw/O>Ox>#wOw7MSWvj11SI#MX1SOJM/>>>AOvMj>1w=OvOz>S>vOjIW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/Oc>#wOw%I1WSjO1vI >S>sISMJ>/w>w.Ww>/1_O/M=jS>fO#MOMxwSI>I W1jS1#O9jSwJO/M>M+wvOjM1>=wvwRMMW w1/WM   wvOjM1>=wvwLM/W 1WOw#W>M= wJMw WwMwWI=  >#I IW>vwjO1M=>v>_O I WkjWOOMjjw>hO1I >M>vO1#W>v= OSMjMaw 1 M MWj=1WMw Ww1/ I >/=WO # WWw/O>MSMbwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMYwS1WMO>j1ww?WSW jPwvISM<wSOjOR>#wOwxWSW>j 1wOcjSwJO/M>M^w#OOOqjSjv11O?jSwJO/M>MZww/WM1 Ww / # W ww/WM1 Ww// # M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/Mvj1w/w%M#>O> 1=IvW 1SwtWS>Jw/O>O0jww/IhM/>=1Sw8M#>O>zISW>W jSw%WS>Jw/O>OU>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWw#OOOJ>w=WO1#W> = / Iv>1=WOv# M#1SOJM/>>>FOMI >M>W1=IW>/wvI1M/MmwM1 M1 Ww// IW>/w>OSIWj/w>ISM#>v>qISWwj/w/1WM/>v11O/Of>#wOwJMw Ww1/WM   = 1vM1 Wwv/ O#jSwJO/M>MtwM1 MMMWj=1WM/>v11O/O4>Mj O1#W>/= 1WM/>>wS1WM/>>wSwrM/>>wSwYM/>v11O/O->#wOwxWSj>j w ISM&1SOJM/>>>VIwM/j;w/O=WSM}w#OOOaW_1>1 WSMs1SOJM/>>>qOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWI/M>jSw#OvOVjS1wI/M/WWw/OvW1>/>-OSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM0w/O>MSMxw/O>MSMK1/O>WS>#wvw&WSjw1/O/IW>/wvI1M/M8wvOjM1>=wvwZM W w1/WM   wvOjM1>=wvwHM/W 1WOw#W> = wJMw Ww wWI=  >#I IW>vwjO1M=>v><OMI W+jWOOMjjw>yO1I > >vO1#W>v= OSMjMQwM1 MMMWj=1WMw Ww1/ I >/=WOM# WWw/O>MSMaw/O>MSMQw/O>MSM?w/OvW1>/>?O#MOM:wS1>I W1j/1wOzjSwJO/M>Mbw#OOOa>Sj>11ISW#>*ISMJ>/w>wdWw>/1-O/M=jS>UO#MOMxwSI>I W1j/11OgjSwJO/M>M3w#OOOX>w=WO1#W> = / WS>Jw/O>O}>Mj OMOWW=jWO/Mvj1w/w&MMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>qOSOvjSjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # W j O1#W>v= w#WS>Jw/O>O.>Mj OMOWW=jWO/Mvj1w/w,MMW w1/WM/  jWO/M>>SjWI/M>jSw#OvOZjS1wI/M/WWw/OvW1>/><OvMj>1w=OvOU>S>vISIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOwJMw Ww1/WM   = 1 I >1=WOv# M#1SOJM/>>>oOMI >M>W1=IW>/wvI1M/M-wM1 M1 Ww// IW>/w>OSIW>/w>OSOf>/wvI1M/MuwvOjM1>=wvwYMSMvwj1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSMQw/O>MSMiw/OvW1>/>_O#MOMXwS1>I W1j/1IO{jSwJO/M>MQw#OOOp>Sj>11I/WI>oISMJ>/w>wrM#>O>xOSI>W j11/IOME1SOJM/>>>{IwM/j^w/O=WSM&w#OOOPW1j/1#W>W wSwqWS>Jw/O>O_>w=WO1#W> = / I M1ww/WM1 Ww// # WWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMtwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WM#>O>TOw#W>1=WO #   1SOJM/>>>5OMI >M>W1=IW>/wvI1M/M:wM1 M1 Ww// IW>/w>OSIWj/w>ISM#>v>CISWwj/w/1WM/>v11O/O9>w=WO1#W> = / I M1ww/WM1 Ww// # WWw/O>MSMAw/OvW1>/>pOSMjMR1wO/WSj/1wO>OC>/w>OSIW>/w>OSOU>/wvI1M/Miw#OOOTW1j/1SI>W wSw7WS>Jw/O>O4>vwjO1M=>v>iO1I >1=WO # >w=WO1# W ww/WM1  >Jw#M/>v11O/O)>#wOwbI1W/j=1vI >S>9ISMJ>/w>wqWw>/1)O/M=jS>QO#MOM(j11/I/WvwSw+WS>Jw/O>On>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / O >w=WO1#W>v= / IW>w1wO/M=>WjWO/M>>SjWO#MOMJw1/WM   jvOw#W>1=WOv#   >#ISMJ>/w>w_MMW wMwWI=WWw/OvW1>/>bOMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwAWSjw1/O/IW>/wvI1M/M3w#OOOJ>1=WO # Wvww/WM1 Wwv/ # M#1SOJM/>>>yOMI >M>W1=IW>/wvI1M/M(wM1 M1 Ww// IW>/w>OSIW>/w>OSOz>/w>OSOx>/w>OSOz>/w>OSOC>/wvI1M/M&w#OOOq>Sj>1 I1WOjOwUWS>Jw/O>O!>#wOw7MSWvj11OI#M61SOJM/>>>nO#MOMbwS1>I W1jO1IO^jSwJO/M>MVw#OOO2>Sj>11IOW/>AISMJ>/w>whWw>/1bO/M=jS>CO#MOM{wSI>I W1jO1JOxjSwJO/M>MbwvOjM1>=wvw0MSMvwj1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>#wOw0M>>j1SwVMw Ww1/WM   = ISMJ>/w>wZMMW wMwWI=WWw/OvW1>/>kOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMPwSwvWSWWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WOw#W>1=WOv#   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WOw#W>1=WOv#   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WMw Ww1/WMv  = / IWj/w>ISM#>v>.ISWwj/w/1WM/>v11O/OC>vwjO1M=>v>;OSOvjSjWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WMw Ww1/WMv  = / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WMw Ww1/WMv  = / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>w=WO1#W>v= / # WWw/O>MSMuw/OvW1>/>gOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWw/O>MSM_w/OvW1>/>eO#MOM&wS1vI1WIj=wqWS>Jw/O>Ox>#wOwoI1WOjI1vI >S>7ISMJ>/w>wfMO>j1wwZMjW j=1/OvWOjOw3MS>j>4O#MOMbwS1vI1WIj4w5WS>Jw/O>O6>vwjO1M=>v>bISOv>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WW1S1 M1 Ww / IW>Sj Ow#W>1=WO/#   jWOw#WjS>W1=# W wS1WMw W1S/ I >S=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1WI IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM6wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # MMw1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >jOw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>qOvMj>1w=OvOi>SjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OM>1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # Mjww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWO/M>>S>dO/Mvj1w/wkM#>O>n11IOWIjv1 MSM,1SOJM/>>>xIwM/jzw/O=WSM;w#OOOr>Sjv11IIWw>_ISMJ>/w>w:Mv>jw1O=MvM&wSwv#jMv1/wvW1WWwOOjWwMx1w1 I7MvjSwiMS>j>9O#MOM}jw1>WwML1SOJM/>>>yO#MOMY1wI>I M j1w*WS>Jw/O>Oy>OwjIwOG>vj 11IwMvjJ1JOH>Swjw_M#>O>x1=I>jw>.ISMJ>/w>wKMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>ZOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwHM/>v11O/Oy>#wOwqI1W>1ww_WS>Jw/O>OL>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/O!>#wOw-ISj>j IwO3jSwJO/M>MbwS1 M1 Ww / #jMv1/1 M=MJww/WMS  >JOw#W>S>W1=# M#>#OjI j/>WOSO W=>yI1I WnjWOOMjjw>!O1I >S>vOjOc>Swjw6W1W 11wWI=WWww/WM1  j /j#Wj1= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/MiwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#M/>>wSwdM/>>wSw(M/>>wSwDM/>>wSw,Mwjww/O=MWWWw/O>MSWWwvOjM1>=wvwyMjMv1SwvMOMvwvwvMSMvw/1WMO>j1ww<MJW jewvI=MYwSOjOi>#wOwLMJj>j 1oO3jSwJO/M>M_wj1 M1 Ww / IWjSj IWW WWwOOjWwMXw11 I=Mv>1I1OC>SwjwKMOW 11/WM1  jWOOMjjw>nO1I W+>vw1MOMfwSOjOL>vj OO#W>1= 1WMSW wv/WI=  jWO/I >v=W1w# WWw#OOOZ>Sj 1 MwM)w=O>MSM.w/1>I >j>(ISMJ>/w>wfWS Ww// I >S=WO/# WWwv/WI=  j ISIW>/w>OSIW>/w>OSIW>/w>OSIW>/wvI1M/Msww/WM1 Ww / # MJ>#1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO6>/w>OSORj/w>ISM#>v>aISWwj/w/1WM/>v11O/O?>vwjO1M=>v>?OjOvjS>vOOOv>v>vOSOv>/jWOOMjjw>EOJI W9>v1=Oz>SwjwlM#>O>}OJW>W j?w;WS>Jw/O>Oz>jj O1#W> = 1WWSW 1WI IW>OwjIwO_>1j 1=OvM111wnMS>j>ZOOI j1=WO1# WWwOOjWwM}w11 IhMv>1OOOf>Swjw_MvW wO/WM1  jWOSI >v=W1=# WWw/1 Mv Wjw/ IW>#wOweMSW j OwOa>=w>OSON>/j>1 MjMG1SOJM/>>>;IS#W>/= 1 MS Ww// IW>v=W1=# W 1S1WM/>>wS1WM/>>wS1WM/>>wS1WM/>v11O/O,>w=WO1#W> = / OJM#jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSw7M/>>wSwTM/>>wSwLM/>>wSwRM/>>wSw-M/>v11O/O%>#wOwDMSW>j 11IOW1>)ISMJ>/w>w)M#>O>Z11IOW1j>1 MSMe1SOJM/>>>QOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>/wvI1M/M%w#OOO!>Sj>1 I1WOj1w}WS>Jw/O>Os>OwjIwOcjSj 1=IOMvjJ1IO+>Swjw(M#>O>mOSW>W j11OISMc1SOJM/>>>HOvMj>1w=OvO9>S>vISIW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I W;>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I W<>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwwIwM/>=wW1WM/>>wS1WM#>O>JOw#W>1=WO #   1>1 M1 Wwv/ O#jSwJO/M>MZwM1 MMMWj=1WM/>v11O/OT>Mj O1#W>/= 1WM/>>wS1WMwjww/O=MWWWw/O>MSWWw/OvW1>/>HOvMj>1w=OvOu>S>vISIW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWjSj Ow#W>1=WO/#   jWOw#W>S>W1=# W 1S1WMw WwS/ I jS=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I WN>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I W^>#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWw/O>MSM!w/O>MSM!w/OvW1>/>^O#MOMxwS1vI1WOj=wFWS>Jw/O>O&>OwjIwO!>Sj 12OvWS><OSMjMsw#OOOUWwjv1 MSM-1SOJM/>>>^O#MOMTjw1vMSMm1SOJM/>>>RO#MOMLjw1vI >S>(ISMJ>/w>w+MO>j1ww.WSW jw11OvWJjSw{MS>j>^O#MOMUj1I>I >S>LISMJ>/w>wTMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wzMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WM/>>wSwLM/>v11O/OL>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOi>/wvI1M/Mhw#OOO3>S1>1 O Ww>DISMJ>/w>wqWw>/1*O/M=jS>xO#MOMVj21vMSMz1SOJM/>>>kOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>UISWwj/w/1WM/>v11O/OA>w=WO1#W> = / #W>1=WO/#   j O1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO!>/w>OSO*>/w>OSO7>/wvI1M/M_w#OOOVW1j/1IW>W wSwsWS>Jw/O>ORjww/IRM/>=1SwrM#>O>.OSI>W1jO1=O!jSwJO/M>Mcww/WM1 Ww / # W >JO>MjjS>!Ow#W>1=WO/#   >#1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw)MSMv1wwvW1MvwJ1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   1wwvW1W w=wJMw WwS/ OJ>w=WOSOWW== w#O#>jj I1OW>S> 1=O:>Jj 1iIW>OwjIwOi>1j OSOv>j>*OSMjMowJ1 MJMWj=1WMw Ww1/ I jw=WOJ# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vOjO#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >WO1#W>v= 1WW/>>1SO#MvMp1SIwW/>/jWO/Mvj1w/wuMv>jw1O=MvM%wSwvWwMv11wvMJWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / WwMv111 M=MJww/WMS  >JOw#W>S>W1=# M#>#OjI j1>WOSO W=>DOJI WgjWOOMjjw>*O1I >S>vOjO?>Swjw*MJW wJwWI=WWww/WM1  j Iw#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OW>1=WOv# WWw/O>MSM9w/O>MSM?w/O>MSMQw/O>MSMyw/O>MSMPw/OvW1>/>lO#MOMgwS1>I1WJjSweWS>Jw/O>O*>#wOwmI1W#j=1>MSMC1SOJM/>>>+O#MOM2j11JIJW>wSw6WS>Jw/O>O5>#wOw4MSW>j11JI/Ms1SOJM/>>>kO#MOMoj11JIwj>j OSOajSwJO/M>M31wO/Wc>/w=ISOE>#wOw%MSj>j 11IJWO>EISMJ>/w>w4Mv>jw1O=MvMkw 1 M1 Ww / IW>vwjO1M=>v>nO>I >w=WO # >vwjO1M=>v>,OvI >w=WO OWWw= 1WM#>O>JOvI>Wp>#ISMJ>/w>w^M#>O>JO>I>>w=WO OWW== w#WS>Jw/O>O:>Mj O1#W>/= 1WM/>v11O/O,>w=WO OWW1= 1 M>WWw/O>MSMQw/OvW1>/w#OOOJ>>jvOw#W> >W1=# M#1SOJM/>>>aOMI >1=WO/# WWw/OvW1>/>?Ow#W> >W11# W w>1WM/>>wSwVMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw!M W w1/WM   jWOvMj>1w=OvOi>vj Ow#W> >W1w# WWwvOjM1>=wvwqM>W ww/WM   >WOvIW>w=WO # W w>1WM#>O>JOvI>Wm>#ISMJ>/w>wCM#>O>JO>IvW ww/WM MWj=/ O#jSwJO/M>M7wM1 M1 Ww// IW>w=WO OWW1= 1 M>WWw/O>MSM^w/OvW1>/w#OOOJ>>j>1 Mw Ww wWI=  >#ISMJ>/w>wYMMW w1/WM/  jWOw#W> >W11# W w>1WM/>>wSw7W/>>1SO#MvMu1SIwW/>/jWO/Mvj1w/wrMv>jw1O=MvMqw 1 M1 Ww / IW>vwjO1M=>v>?O>I >w=WO # >vwjO1M=>v>hOvI >w=WO OWWw= 1WM#>O>JOvI>W3>#ISMJ>/w>wZM#>O>JO>I>>w=WO OWW== w#WS>Jw/O>Oz>Mj O1#W>/= 1WM/>v11O/O)>w=WO OWW1= 1 M>WWw/O>MSMVw/OvW1>/w#OOOJ>>jvOw#W> >W1=# M#1SOJM/>>>lOMI >1=WO/# WWw/OvW1>/>AOw#W> >W11# W w>1WM/>>wSwVM/>>wSwTM/>v11O/O;>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WM/>>wSw-M/>v11O/Ot>#wOwDMSWvj 11IJWJ>ZISMJ>/w>wNMv>jw1O=MvM(w11 M1 Ww / IW>vwjO1M=>v>LOMI >w=WO1# WWwOOjWwMVw11 M1MWj=wvMjMfwSOjOsjw>>O JO>IK/SSWwj/51wJMMMvww/WM1  >#O/M>>SjWO/Mvj1w/w7M#>O>{OSIvW1j#1dOfjSwJO/M>MVwvOjM1>=wvwkMSMvwj1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 OJ>1=WO/# j>j 1xO#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#O/Mvj1w/w(Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WMw Ww1/WMv  = / IW>/w>OSO8>/w>OSOh>/w>OSOi>/wvI1M/M,w#OOO?W1j#11Iv>S>gISMJ>/w>wKM#>O>G11I#WOj>OSOZjSwJO/M>MEw#OOO4>Sj>1 I1W#j=w5WS>Jw/O>ONjww/IeM/>=1SwKM#>O>YOSI>W1j#1SOQjSwJO/M>M8w#OOOJ>w=WO1#W> = / IvW ww/WM1 Wwv/ # M#1SOJM/>>>%OMI >1=WO/# WWw/OvW1>/>lOMI >M>W1=IW>/w>OSIW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOA>S>vOOIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOOI >w=WOS# WWwOOjWwMQw11 MSMWj=wvM1 Ww// MS>j>%IwO>> cOOIJ/vS1wI/J1MJwOwvMw Ww1/ O#>/w>OSIWj/w>ISM#>v>VISWwj/w/1WM/>v11O/O:>#wOwJMw Ww1/WM   = 1vI >w=WO1#W>v= / O#jSwJO/M>MLwM1 M1 Ww// IW>/wvI1M/MQwM1 MMMWj=1WM/>>wS1WM/>>wSwTM/>v11O/Ox>#wOwPMSW>j 11I#WS>zISMJ>/w>wfWw>/1ZO/M=jS>-O#MOMKj11#IOj>j OSO,jSwJO/M>MZwvOjM1>=wvw}MSMvwj1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OW>w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>cOSOvjSjWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWI/M>jSw#OvOljS1wI/M/WWw/OvW1>/>.OvMj>1w=OvO4>S>vOjIW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOjI >w=WO1#W>/= / IW>w=WOSOWW== 1 MjWWww/WMS  j Oj#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # MWww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WM/>>wSw)M/>>wSwhM/>v11O/OY>#wOwsMSW>j11#I=M<1SOJM/>>>dO#MOM&j11#IwWvwSw)WS>Jw/O>OH>Mj O1#W>/= 1WM/>v11O/OE>vwjO1M=>v>qO/I >1=WO/# WWwvOjM1>=wvwtMMW ww/WM/  wOOjWwMAw11 M/MWj=wvM1 Wwv/ MS>j>EOMI >M>>w>Mw Ww1/ IW>/w>OSIW>w=WO1#W> = / I >MjWO/M>>S>%O/Mvj1w/wlMw Ww1/WM   = 1 Mw Ww1/WM/  = wjMw Ww1/WMv  = 1WM/>>wSw^M/>>wSw_M/>>wSw9M/>v11O/O8>#wOwkI1WIj#1vI >S><ISMJ>/w>wXM#>O>_11IJW=jvOSO4jSwJO/M>Mkw#OOO;W1jJ11IvW wSwPWS>Jw/O>O%>#wOwyI1WIj#1vMSMx1SOJM/>>>;IwM/jCw/O=WSMcw#OOO,>Sj>11IJW1>9ISMJ>/w>wtMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOF>>wjISOD>w=WO1#W> = / WS>Jw/O>O9>Mj OMOWW=jWO/Mvj1w/wXMMW w1/WM/  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>UOSOv>jjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>w.MMW wMwWI=WWw/OvW1>/>*OMI >1=WO/# WWw/O>MSWW1/O>WS>#wvwyWSjw1/O/IW>/wvI1M/MEwvOjM1>=wvwoMSMvwj1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IWjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # W j O1#W>v= w#WS>Jw/O>O8>Mj OMOWW=jWO/Mvj1w/wrMMW w1/WM/  jWO/M>>SjWO/M>>S>xO/Mvj1w/wqMw Ww1/WM   = 1 Mw Ww1/WM/  = w/M1 Wwv/ IW>/w>OSOZ>/wvI1M/Mew#OOO)W1jJ1!IvW wSw{WS>Jw/O>OG>#wOw+I1WIjO1vMSMh1SOJM/>>>ZIwM/jsw/O=WSMkw#OOO4W1jJ1=I>>S>xISMJ>/w>w6Mv>jw1O=MvMqwSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>w1wO/M=>WjWO/M>>SjWOSMjMR1wO/WSj/1wO>Oo>w=WO1#W> = / M/>>wSwYW/>>1SO#MvMC1SIwW/>/jWO/Mvj1w/w7MS>j>eIwM/jS1/IwM>M8ww/WM1 Ww / # >/w>OSO;>/w>OSOb>/wvI1M/M?wvOjM1>=wvw:MSMvwj1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWO/M>>S>^O/M>>S>PO/Mvj1w/wLM#>O>3OSIvW1jI1OO*jSwJO/M>Mxw#OOOcW1jI11Iv>S>5ISMJ>/w>wNM#>O>)OSI>W1jI11O(jSwJO/M>MA1wO/W4>/w=ISOT>#wOwxMSj>j 11IIWS>dISMJ>/w>w,Mv>jw1O=MvM^w 1 M1 Ww / IW>vwjO1M=>v>cO>I >w=WO # >vwjO1M=>v>EOvI >w=WO OWWw= 1WM#>O>JOvI>WL>#ISMJ>/w>w%M#>O>JO>I>>w=WO OWW== w#WS>Jw/O>O5>Mj O1#W>/= 1WM/>v11O/O;>w=WO OWW1= 1 M>WWw/O>MSM0w/OvW1>/w#OOOJ>>jvOw#W> >W1=# M#1SOJM/>>>HOMI >1=WO/# WWw/OvW1>/>QOw#W> >W11# W w>1WM/>>wSwgMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw;WSMvwS1WMw Ww1/WM   = 1 M1 Ww// O >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WWSW w1/WM/  jWOSI >w=WIS# >OwjIwOL>1j ISOWW=>vO1#W>v= OSMjMewS1 MSM>>>Ow#W>1= 1WM/>>wS1WMw Ww1/WM   = 1 MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSMjMn1wO/WSj/1wO>O2>w=WO1#W> = / M/>>wSw<MMW wMwWI=WWw11 M> WwM/ IW>Swjw&Ww>/1SI/Ww>>>oO/M>>SjWI/M>jSw#OvO_jS1wI/M/WWw/OvW1>/>FOvMj>1w=OvOmjS>vOSIW>w=WO1#W> = / I >1=WO/# M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IWjSj O1#W>/= 1WMSW ww/WWS  wOOjWwM*w11 WSMWj=wvM1 Wwv/ MS>j>AOSI >S>>w>Mw Ww1/ IW>/w>OSIW>w=WO1#W> = / I >SjWOMI >M>W1=IW>1j O>#W>M= 1WMS>j>dIwM/jS1/IwM>Maww/WM1 Ww / # >/w>OSOk>Mj OMOWW=jWO1I >>=WOM# WWwSOjOAjww/ISW/jww>wKM/>>wS1WM/>>wSwQM/>v11O/Ot>vwjO1M=>v>VOSIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSM&w/OvW1>/>qO#MOMuj11IIOWvwSw0WS>Jw/O>Ol>#wOwcI1WIj/I>I >S>:ISMJ>/w>wRWw>/1LO/M=jS>3O#MOMgwS1vI1WIjJw{WS>Jw/O>O7>vwjO1M=>v>6OMI >1=WO # WWwvOjM1>=wvwrM W ww/WMM  jWOOMjjw>VO1I >M>W1=Ov>1=WO/# >SwjwcWwM>w SOMIv/DSIwW/v1>JO Ov>w=WO1# M#w/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM8wSwvWSWWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>w=WO1#W>v= / # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WW/>>1SO#MvMX1SIwW/>/jWO/Mvj1w/weMv>jw1O=MvMHwSwvWSWWww/WM1 Ww / #  Ww1/WM/  = 1 Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWISI >w=WO1#W>/= / IW>w=WOSOWW== 1 WSWWww/WMS  j IS#W>w=WO1#W>v= / # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WM/>>wSwdM/>v11O/Of>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>/w>OSOY>/w>OSO&>/w>OSOi>/w>OSOm>/w>OSO+>/wvI1M/Msw#OOObW1jw11IvW wSw9WS>Jw/O>Oh>#wOwGI1W1j/1>MSMr1SOJM/>>>bO#MOM<wS1vI1Wwj#wbWS>Jw/O>O?>#wOwYMSWvj11wIOM)1SOJM/>>>?O#MOMrj11wI1W>j OSOHjSwJO/M>Meww/WM1 Ww / # W ww/WM1 Ww// # M/ww/WM1 Wwv/ # WWw/OvW1>/>,O#MOMLj11wISW j OSOpjSwJO/M>MywvOjM1>=wvwLWSWWwOOjWwMowS1 I.MvjSwsMS>j>RO#MOMPwS1>I=Mi1SOJM/>>>+O#MOM*j11vI >S>RISMJ>/w>wmM#>O>t1wIv>S>YISMJ>/w>wVMO>j1wwiWSW j=1wOvW#jJwFMS>j>tO#MOMDwSI>I W1>EISMJ>/w>w}M#>O>JOw#W>1=WO #   jv1 M1 Wwv/ O#jSwJO/M>M?wM1 M1 Ww// IW>/wvI1M/M!wM1 MMMWj=1WM/>>wS1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/w:Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>-O/Mvj1w/wKMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO(>/wvI1M/Mcw#OOOn>Sj 1 I?Mt1SOJM/>>>POwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/Ml1S1 M1 Ww / Mw W1S/ I >w=WIS# MJwOwJMwMv1SwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>/w>OSO:>/w>OSOl>/w>OSOi>/wvI1M/M8wvOjM1>=wvwQMSMv1S1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jW1 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / #W>1=WO/#   j Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOJ#W>1=WO/#   j Ow#W>1=WO #   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 MJ Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WWSW ww/WM1 Ww// # WWww/WMSMWj=/ I jSjWOw#W>S= 1 WS Ww1/WMv  = 1WM/>>wSw!M/>>wSw+M/>v11O/O5>#wOw.MSW>j 11IwWI>FISMJ>/w>w4M#>O><11IwWIj 1 MSMg1SOJM/>>>sOvMj>1w=OvOf>SjWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I MJw>OjWSM3ww/WM1 Ww// # M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/OvW1>/>.Ow#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WWj jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>/w>OSO,>/wvI1M/M,wvOjM1>=wvwdMSMvwO1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWOOI >w=WO1#W>/= / IW>w=WOSOWW== 1 MOWWww/WMS  j OO#W>1=WOv#   jWO/M>>S>6O/M>>S>sO/Mvj1w/wmM#>O>%OSIvW j111I=Ml1SOJM/>>>6O#MOM^j111IZWvj OSOqjSwJO/M>M+w#OOO4W1j11NIv>S><ISMJ>/w>wtMwMJw1/WM   >vO1#W>/= w#IW>/wvI1M/MuwvOjM1>=wvwlMSMv1S1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W >JO1#W>/= I>I WE>#1WMMW wMwWI=WWw11 M> WwM/ IW>Swjw8Ww>/1SI/Ww>>>rOw#W>1=WO #   w/O>MSMbw/O>MSM(w/OvW1>/>bOvMj>1w=OvO,>S>vOjIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IW>jj Ow#W>1=WO/#   jWOw#W>S>W1=# W wj1WMw WwS/ I >j=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWO/M>>S>9O/Mvj1w/wVM#>O>3OSI>W1j11wOKjSwJO/M>Mow#OOOT>Sj 1 I1W1j1waWS>Jw/O>OE>vwjO1M=>v>+OSOvj1>vIwOv>JjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # j1>vIwI >=>JOw#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#>#OjI jw>WOSO W=>uOJI WijWOOMjjw>tO1I >S>vOjOF>Swjw%MJW wJwWI=WWww/WM1  j I1#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= wJMOMJwwwvMSMWj=wvMjM#>#O/Mvj1w/wcMw Ww1/WM   = 1 #jMJ1)/WM1 Ww// # Mvw>O#MvMv1Sw#IW>/w>OSOz>/wvI1M/M;wOOjWwM9w11 M1 Ww / Ov>1=WO/# >Swjw{Mw Ww1/ I >>w#OvIW>/w>OSIW>/w>OSOr>/w>OSOK>/w>OSOd>/wvI1M/M0w#OOO9>Sj>11ISWq>5ISMJ>/w>wLM#>O>(11ISWSjv1 MSM+1SOJM/>>>PO#MOMRwS1>I W1jS1OOZjSwJO/M>Mxw#OOOf>Sj>11ISWO>8ISMJ>/w>wiMv>jw1O=MvMRwSwvW1Mv=jwvW/MvwJwvWwWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / IWj1j Ow#W>1=WO/#   jWOw#W>S>W1=# W 111WMw WwS/ I j1=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / WwMv1/1 M=MJww/WMS  >JOw#W>S>W1=# M#>#OjI j/>WOSO W=>UOJI WrjWOOMjjw>^O1I >S>vOjOg>SwjwlMJW wJwWI=WWww/WM1  j Iw#W>J= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = IwI jWww/WMS  >JOOOJ>w>vOSOWW=>vOjO#M#1 1WMJW jT1WMO>j1wwNM1W wSwvM1 Wwv/ MS>j>0OJI >J>W1=IW>w=WO1# W 1w/WMJ  jWO/M>>S>HO/Mvj1w/wmMv>jw1O=MvM6wSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWw/O>MSMlw/OvW1>/>^O#MOMnwS1>I W1jS11ONjSwJO/M>MTwOOjWwM+wJ1 I1Ww>v1#IOMPwSOjOa>#wOw3I1WSjSI>I >S>QISMJ>/w>w8Mw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOm>1j O1#W> = OvMj>1w=OvO%> >vOMI >=>JOw#W>1= wJMOMJwwwvM1MWj=wvMjM#>#w#MjW wMwWM1M j=wAMv>jw1O=MvM;wM1 IAWWwOOjWwMNw11 M1MvwjwYMS>j>oOMI >M>W1=IW>w=WO1# W w /WMM  jWO/M>>SjWOwWw>/w=OWIW>/w>OSIW>/wvI1M/MEwvOjM1>=wvwgM1W w1/WM   wvOjM1>=wvwDM MvwM1 M=MJww/WM1  >JOOOJ>w>vO1OWW=>vOjO#M#>#OjI >M>WO1O W=>*OvMj>1w=OvOm>Mj 1,IW>OwjIwOq>1j O1Ov>j>_OSMjMgwM1 MMMWj=1WMw Ww1/ I > =WOM# WWw/O>MSWWw/O>MSM&w/O>MSMkw/OvW1>/>9O#MOMUwS1vI W1jS1=OGjSwJO/M>MEwvOjM1>=wvwKMSMvwj1WWS Ww1/WM/  = 1 Mw Ww1/WM   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwj1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OjIW>w=WOS# W wj/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/OvW1>/>2O#MOM9wS1>I1WSj^wrWS>Jw/O>OH>OwjIwO^>Oj 1SISMvjJ1SO_>SwjwtM#>O>3OSW>W j11SI1Mn1SOJM/>>>VOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMwjww/O=MWWWw/O>MSWWwOOjWwM,wS1 IZMvjSwkMS>j>)O#MOM;wS1vI W=>EISMJ>/w>waM#>O>:1=W>W wSw!WS>Jw/O>OFjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>*Ow#W>1=WO #   j wJM1 Ww// W>W j:w#IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSM?w/OvW1>/>aO#MOM<jw1vMSMo1SOJM/>>>UO#MOM j=1vMSM!1SOJM/>>>sIwM/jLw/O=WSM(w#OOOfW1jvOSO5jSwJO/M>M,w#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>wUMMW wMwWI=WWw/OvW1>/>.OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>aISWwj/w/1WM/>v11O/OD>#wOwJMw Ww1/WM   = 1 I >1=WOv# M#1SOJM/>>>VOMI >M>W1=IW>/wvI1M/MKwM1 M1 Ww// IW>/w>OSIW>/w>OSOm>/wvI1M/M_1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>2O/M>>S>pO/M>>S>rOwWw>/w=OWIW>/w>OSIW>/wvI1M/MuwOOjWwM3wS1 I:MvjSwkMS>j>DO#MOMtwS1vI W=>FISMJ>/w>wVM#>O>.1=W>W wSwqWS>Jw/O>OqjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>3Ow#W>1=WO #   j wJM1 Ww// W>W j+w#IW>Mj OMOWW=jWO1I >>=WOM# WWw/O>MSMZw/OvW1>/>UO#MOMyjw1vMSMb1SOJM/>>>CO#MOM j=1vMSM_1SOJM/>>>-IwM/jAw/O=WSMHw#OOOgW1jvOSOfjSwJO/M>M4w#OOOJ>w=WO1#W> = / I W w1/WMv  >#ISMJ>/w>w9MMW wMwWI=WWw/OvW1>/>_OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IWj/w>ISM#>v>kISWwj/w/1WM/>v11O/Oy>#wOwJMw Ww1/WM   = 1 I >1=WOv# M#1SOJM/>>>tOMI >M>W1=IW>/wvI1M/M3wM1 M1 Ww// IW>/w>OSIW>/w>OSO,>/wvI1M/MR1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>yO/M>>S>_O/M>>S>uO/M>>S>LO/M>>S>EO/M>>S>NO/Mvj1w/wxM#>O>u11I1WIjvOSOGjSwJO/M>M8w#OOO(>Sjv1 I1W1jJwxWS>Jw/O>O{>vwjO1M=>v>LOSIW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = Ow#W>S= 1 Mw WwS/ OJ>O>JOwOv>S>W1=Ov>1=WO/# M#>#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WMw Ww1/WM/  = / I >w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWw/OvW1>/>,O#MOMrj111I#W j OSOzjSwJO/M>M3wvOjM1>=wvwrMSWWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M/w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = wjM1 Wwv/ IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/wvI1M/MewSOjOzjww/ISW/jww>wYMw Ww1/WM   = wJO#WWw/O>MSWWw/O>MSMGw/O>MSMNw/OvW1>/>AO#MOMoj111I/W>j OSOTjSwJO/M>Mmww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WM/>v11O/Os>#wOwYI1W1jI1 I >S>^ISMJ>/w>w7Mw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WOw#W>1=WOv#   = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WM/>v11O/Ot>vwjO1M=>v>UOSOv>j>vOOIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >jj IWMw WwS/ OJ>w=WOSOWW== w#W WWwO1 IGWWwOOjWwM<w11 MSMvw1/WMv  wSOjOd>Oj OOOWW=jWOw#W>1= 1 Mj WwO/ IW>/w>OSOF>/w>OSO<>/w>OSO:>/w>OSOQ>/w>OSOZ>/w>OSO3>/wvI1M/MRw#OOOEW1j=1{I>>S>qISMJ>/w>wPM#>O>!11I8W1j>1 MSM%1SOJM/>>>qO#MOM_j11%I8W>j OSOZjSwJO/M>Mqw#OOOE>Sj>1 IwW#j#w{WS>Jw/O>Op>#wOwuI1W.j_1>MSM71SOJM/>>>fOvMj>1w=OvO_>v>vI1Ovjw>vOSIW>OwjIwOi>Jj 1zOvWS>,OSMjM3w#OOO(>Jj>1=O?jSwJO/M>M8w#OOOy>Jjv11OCjSwJO/M>MNwv1 M1 Ww / W1Mv1w1 M=MJww/WMv  >JOw#W>v>W1=# M#>#OjI jw>WOvO W=>ROSI W8jWOOMjjw>pO1I >v>vOjON>Swjw7MSW wSwWI=WWww/WM1  j I1#W>S= 1WM/>>wS1WMMW wMwWI=WWw11 M> WwM/ IW>/wvI1M/M.w#OOOC>J1>1 I1Mo1SOJM/>>>VO#MOMAw>OjWSMoww/WM1 Ww / # jSwJO/M>MzwM1 MMMWj=1WM/>v11O/On>Mj O1#W>/= 1WM/>>wS1WM/>v11O/O<>vj O1#W> = Ow#W>v= 1 Mw Wwv/ OJ>O>JOwOv>v>W1=Ov>j>#w#MMW wMwWI=WWw11 M> WwM/ IW>/w>OSO%>/w>OSO)>/wvI1M/MVw#OOOCW=1>1 MJM!1SOJM/>>>YOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/O%>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>.O/M>>S>rO/M>>S>_O/Mvj1w/wVMv>jw1O=MvM?wOwvMjMvwS1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwO1 M1 Ww / MjW 1WOw#W>O= wJMw WwOwWI=  >#I IW>Sj 1HIW>OwjIwON>1j OOOv>1=WOv# >SwjwkMSW wSwWI=WWww/WM1  j Oj#W>S= 1WM/>>wSw4MMW wMwWI=WWw11 M> WwM/ IW>Mj O1#W>/= 1WM/>>wSw3M/>v11O/OZ>vwjO1M=>v>9OSIW>w=WO1#W> = / I >J=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = w Mw Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#M/>>wSwzM/>v11O/Ot>#wOw2MSW>j11oI=My1SOJM/>>>eO#MOMpwS1>I1WpjFwzWS>Jw/O>OXjww/ITM/>=1Sw)M#>O>.11I2WwjvOSOojSwJO/M>M:w#OOOJ>1=WO # Wvj Ow#W>1=WOv#   >#ISMJ>/w>w4MMW wMwWI=WWw/OvW1>/>cOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvMnw11 M1 Ww / Mw Ww1/ I >w=WO1# MJ>#I/M>jSw#OvOrjS1wI/M/WWw/OvW1>/>{OvMj>1w=OvOP>1j O1#W> = Ow#W>1= 1 Mw Ww1/ OJM#w/O>MSM<w/OvW1>/>YOvMj>1w=OvO2>vjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>vj O1#W> = Ow#W>v= 1 Mw Wwv/ OJ>w=WOvOWW== w#MMW wMwWI=WWw11 M> WwM/ IWjS=WO1#W>/= / I >w=WO1#W> = / IW>Mj OMOWW=jWO1I >>=WOM# WW1S/WM1 Ww// # W ww/WM1 Ww / # WWwM1 MMMWj=1WM1W w>/WMM  jWIS#W>1=WO/#   j Ow#W>1=WO #   jWO/M>>S>sO/M>>S>aO/Mvj1w/w,M#>O>,OSIvW j11AIOMG1SOJM/>>>LO#MOMpwS1vI W1j41SO?jSwJO/M>M^ww/WM1 Ww / # W ww/WM1 Ww// # M w1/WMv  jWO/Mvj1w/wGM#>O>YOSI>W1jU11OYjSwJO/M>Ml1wO/Wy>/w=ISOL>#wOwRMSW>j11oI/M_1SOJM/>>>%Ow#W>1=WO #   j Ow#W>1=WO/#   >WOw#W>1=WOv#   jWOwWw>/w=OWIW>/w>OSIW>vwjO1M=>v>LOOIW>OwjIwOE>Sj 1hOvWS>0OSMjMFw#OOOoWwjv1 MSM.1SOJM/>>>QO#MOMDj11>MSM61SOJM/>>>NOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWw/OvW1>/>rO#MOM%wS1>I W=>*ISMJ>/w>whMO>j1wwAWSW jS1_OvWIjSw5MS>j><O#MOMHwSI>I WS>*ISMJ>/w>wkMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>Oj O1#W> = Ow#W>O= wJMw WwOwWI=  >#OwWw>/w=OWIW>/w>OSIW>/wvI1M/Mmww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSOa>/w>OSOY>/wvI1M/M-w#OOO}>S1>1 O W=>*ISMJ>/w>w_MO>j1ww:MOW j=1OOvWOj/wnMS>j>kO#MOMrwS1vI=MU1SOJM/>>>+Ow#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwjww/O=MWWWw/O>MSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wEMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>ZO/M>>S>AO/M>>S>;I/M>jSw#OvOdjS1wI/M/WWw/OvW1>/>gOvMj>1w=OvOK>OjWOOMjjw>9OSI WV>v1SO*>SwjwsM#>O>N1wIvW wSwFWS>Jw/O>O:>#wOwUI1W>wSw(WS>Jw/O>On>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WM/>v11O/Oh>#wOwkMSW>j 1=O}jSwJO/M>MhwOOjWwM31S1 ISW<>v1IISMEwSOjO?>#wOwfMSj>j 1SO5jSwJO/M>M_ww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w1wO/M=>WjWO/M>>SjWOOI >1=WO # >w=WOO# MJww/WMOMWj=/ O#>w1wO/M=>WjWO/M>>SjWO/Mvj1w/wAMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO/M>>S>DO/M>>S>nO/Mvj1w/w0M#>O>kOSW>W > 1=O7jSwJO/M>M%wOOjWwM;wO1 I=WO>v1OI/M7wSOjO6>#wOwGMSWvj=wkWS>Jw/O>Of>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwWw>/w=OWIW>/w>OSIW>/wvI1M/Meww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>/w>OSO?>/w>OSOE>/w>OSOt>/w>OSOe>/w>OSOh>/wvI1M/M}w#OOOu>Sj>1 I1WejJw0WS>Jw/O>O;>#wOw*I1WFj/1vI >S>TISMJ>/w>wmWw>/1_O/M=jS>rO#MOMpwSI>I W1j01JOpjSwJO/M>M)wvOjM1>=wvwEMjMvwSwvMJWWww/WM1 Ww / # W w1/WM/  > Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwj1 M1 Ww// IW>Sj Ow#W>j= OOMjjw>6O1I >j>W1=Ov>1=WOv# >SwjwQMSW wSw>O>>w=WO1# WWw/O>MSWWww/WM1 Ww / # W wS1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOJI >1=WO # >w=WOJ# MJwOwJMwMvwJwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>1=WO # Wvj Ow#W>1=WOv#   >#ISMJ>/w>wsMMW w1/WM/  jWO/Mvj1w/wmMMW wMwWI=WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMw Ww1/WM   = /WM1 Ww// # W w1/WMv  jWI/M>jSw#OvOYjS1wI/M/WWw/OvW1>/>tOw#W>1=WO #   =WO1#W>/= / I >1=WOv# WWw/O>MSMUw/OvW1>/>?Ow#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j OJ#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W wJ/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>/w>OSOa>/w>OSOC>/w>OSO;>/wvI1M/MHw#OOOqW1j=1OIvW wSwkWS>Jw/O>Om>#wOwgMSWvj11=I#MH1SOJM/>>>3O#MOMej11=IOWvwSwYWS>Jw/O>OR>#wOwFI1W=j/1vI >S>nISMJ>/w>w9MO>j1wwAMjW j11JOvWJj#wHMS>j>sO#MOMlwS1vI1W=jJw{WS>Jw/O>O(>#wOwJMw Ww1/WM   = I>I >w=WO1#W>v= / O#jSwJO/M>MHwM1 MMMWj=1WM/>v11O/O3>Mj O1#W>/= 1WM/>>wS1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwQMSWWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMOMJwwwvMSMWj=wvM1 Ww// O#M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   > Ow#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJw1/WM   jvOw#W>1=WOv#   >#ISMJ>/w>wXMMW wMwWI=WWw/OvW1>/>XOMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WM/>v11O/O2>vwjO1M=>v>&OSIW>w=WO1#W> = / I jS=WO1#W>/= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWw#OOOJ>1=WO # Wvww/WM1 Wwv/ # M#1SOJM/>>>VOMI >M>W1=IW>/wvI1M/M!wM1 M1 Ww// IW>/w>OSIW>/w>OSO_>/wvI1M/MZww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWw/O>MSMcw/OvW1>/>AO#MOMgj11wI=Wvj OSO}jSwJO/M>M2w#OOOa>Sj>11I=WI>tISMJ>/w>wkWw>/1)O/M=jS>AO#MOM:j11wIwW>wSw8WS>Jw/O>Of>vwjO1M=>v>:OSOv>jjWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# W ww/WMS  >JOOOJ>w>vOSOWW=>vO1#W>/= w#O#>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>Sj O1#W> = 1WMjW ww/WM1 Ww// # WWww/WMSMWj=/ I >jjWOw#W>S= 1 Mj Ww1/WMv  = 1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvwmMSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / OJM#jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 WS Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>#wOwJMw Ww1/WM   = 1 I >w=WO1#W>v= / O#jSwJO/M>M2wM1 MMMWj=1WM/>v11O/Oi>Mj O1#W>/= 1WM/>>wS1WW/>>1SO#MvM+1SIwW/>/jWO/Mvj1w/w<Mv>jw1O=MvM(wS1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   >Jw#IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W 1S/WM1 Ww// # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   =WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ OJ>w=WOSOWW== w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWO#MOMJww/WM1 Ww / # W j Ow#W>1=WOv#   >#ISMJ>/w>wkMMW wMwWI=WWw/OvW1>/>&OMI >1=WO/# WWw/O>MSWWw/O>MSMUw/OvW1>/>7O#MOM.j11=I#W j OSOqjSwJO/M>MQwvOjM1>=wvwGMSWWwwwJM1 Ww / Ov>1=WO/# M#jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  >JOw#W>S>W1=# M#wM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >w=WOS# MJww/WMSMWj=/ O#>Mj OMOWW=jWO1I >>=WOM# WWwM1 M1 Ww// IW>/wvI1M/Mnw#OOOJ>w=WO1#W> = / Iv>1=WOv# M#1SOJM/>>>EOMI >M>W1=IW>/wvI1M/M-wM1 M1 Ww// IW>/w>OSIW>/w>OSOk>/w>OSOc>/w>OSO_>/wvI1M/M6w#OOO:W1j=1wIv>S>qISMJ>/w>wiM#>O>FOSI>W1j=11OojSwJO/M>Mrw#OOO:>S1>1 I1W=j=w6WS>Jw/O>Ot>OwjIwOFjSj 1wI<Mvj#1JOq>SwjwCM#>O>iOSI>W1j=1SO0jSwJO/M>MGw#OOOJ>w=WO1#W> = / IvW w1/WMv  >#ISMJ>/w>w}MMW wMwWI=WWw/OvW1>/>(OMI >1=WO/# WWw/O>MSWWwwIwM/>=wW1WM/>>wS1WMv>jw1O=MvM*wSwvWSWWww/WM1 Ww / # W ww/WM1 Ww// #  Ww1/WMv  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WW1S1 Mw Ww1/WM/  = 1WMw WwSwWI=  j ISIW>w=WOS# W 1S/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwwIwM/>=wW1WM/>>wS1WM/>v11O/Ox>#wOwJMw Ww1/WM   = 1vI >1=WOv# M#1SOJM/>>>HOMI >M>W1=IW>/wvI1M/M9wM1 M1 Ww// IW>/w>OSIW>/w>OSOu>/wvI1M/M.w#OOOJ>w=WO1#W> = / W>W ww/WM1 Wwv/ # M#1SOJM/>>>*OMI >M>W1=IW>/wvI1M/M*wM1 M1 Ww// IW>/w>OSIW>/w>OSOL>/wvI1M/M)w#OOOaW1j=1=IvW wSw!WS>Jw/O>OV>#wOwCMSW>j 11IQWJ>*ISMJ>/w>wQMO>j1ww-MOW j=1wOvW#j1w0MS>j>tO#MOMCj11=IwW>wSwZWS>Jw/O>Oh>vwjO1M=>v>_OSIW>w=WO1#W> = / I >w=WO1#W>/= / O/>1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >jOw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OM>w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >WO1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>w1wO/M=>WjWO/M>>SjWOvMj>1w=OvOs>S>vOOIW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # WWwO1 Mw Ww1/WM/  = 1WMw WwSwWI=  j OOIW>w=WOS# W wO/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOwOJ>1=WO # Mvw1/WM/  >#1WMMW wMwWI=WWw11 M> WwM/ IW>w>JO1#W> = wvM1 Ww// O#WWwwIwM/>=wW1WM/>>wS1WM/>v11O/OE>vwjO1M=>v>0OSIW>w=WO1#W> = / I >w=WO1#W>/= / O/>1=WOv# WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j IS#W>1=WO/#   jWOMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = /WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >jOw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   ww/WMS  j Ow#W>S= wJMw WwSwWI=  >#OMI >M>W1=IW>1j O>#W>M= 1WMw Ww1/WM   = 1 Mw Ww1/WM/  = 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / OM>w=WO1#W>v= / IW>Mj OMOWW=jWO1I >>=WOM# WWww/WM1 Ww / # W ww/WM1 Ww// # M ww/WM1 Wwv/ # WWwM1 MMMWj=1WM1W w>/WMM  jWOw#W>1=WO #   j Ow#W>1=WO/#   >WO1#W>v= 1WMMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I jS=WO1#W>/= / IW>/w>OSO;>/wvI1M/M!wvOjM1>=wvwzMSMv1wwvW/Mv11wvWSMvwJ1WMwMJw1/WM   >vO1#W>/= w#IW>Mj OMOWW=jWO1I >>=WOM# WWwS1 M1 Ww / Mw WwS/ I >w=WOS# MJwOwJMwMvwSwWI=Mvw1/WM/  >#w#MMW wMwWI=WWw11 M> WwM/ IW>w=WO1#W> = / I >w=WO1#W>/= / #W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   jWIwI >w=WO1#W>/= / IW>w=WOSOWW== 1 WwWWww/WMS  j Iw#W>1=WOv#   jWOMI >M>W1=IW>1j O>#W>M= 1WMSW w1/WM   wJwvW1W w=wJMw WwS/ OJ>w=WOSOWW== w#O#>jj I1OW>S> 1=OnjSj 1-IW>OwjIwO:>1j OSOv>j>nOSMjMY1S1 WSMWj=1WMw Ww1/ I >J=WIS# WWw/O>MSWWwM1 MMMWj=1WM1W w>/WMM  jWOSI >1=WO # >Jj IWMw WwS/ OJ>O>JOwOv>S>W1=Ov>j>#w#W WW1S1 IQWWwOOjWwMRw11 MSMvw1/WMv  wSOjO_jSj ISOWW=jWOw#W>1= 1 MJ W1S/ IW>/w>OSO<>Mj OMOWW=jWO1I >>=WOM# WWwM1 M1 Ww// IW>/w>OSOl>/w>OSO_>/w>OSOs>/w>OSOG>/w>OSOq>/w>OSOV>/w>OSOc>/w>OSO{>Mj 1=OW>MjWO/M>>SjWO/M>>SjWIwM/jS1/IwM>Mpw O1OX>/w>OSIW>vwjO1M=>v>%O/I W!1JOOMOWWwvOjM1>=wvw9MSW 1WI IW>vwjO1M=>v>GOvI MJj=w#IW>vwjO1M=>v>_O I MI>I1WOJ>O1/O>M1jSw#OjM>MJwMw#Mv>jw1O=MvMeww1 MMMowvOjM1>=wvw7M>W j)IJI!W_><OvMj>1w=OvO*>1j 1qWJWyjcwRMwW 1WwJMOj/w>O1WS>#wjO>OJ> >#O#MOM+w>1>IljJjw1OOtjSwJO/M>M;1wO/WSj/1wO>Oc> >GO/M>>S>.O>I >>>W1=O_>1j wJM1MWjmIJI=WwjI1IO > >#w/IsjJj11=O5jww/ISW/jww>wJM1M/jeIJI3W1j 1 I.jJjLw!M=>>wSwJMOj/w>O1WS>#wjO>OJ>w>#O#MOMfw>OjWSM,wM/WMw  1SOJM/>>>FO1I >1>W1gWJWkj=wpMM Www/ I MJjhIJM1Ww>#1WM/>>wSwkWw>/1SI/Ww>>>zISWwj/w/wDM/>>wSw#OI>M7JI=Jvj/>IO=M>>S>yOw#WWf1J11# MJj(IJI1WJjSwWM M#>#OjWwMJw1w/IujJjb11I W jNIJIwMiw=O>MSMJwOI/M>>11SO#Mj>>>JOwO#>#wOwFM>>j1SwAMM Www/ WS>Jw/O>O6>1j O1OWWX1J1xI=MewM/WMw  j wJItjJw/O1O#WWw/O>MSM_1wO/WSj/1wO>OkjS1wI/M/M+w/O>MSM#>II/MM Jw#I1OI>=w>OSOt>w=W1<WJW== wJM MWj&IJI1WIjIw#O#>j1wwJM1M/j&IJItW1j 1 ItjJj=wKM=>>wSwJMOj/w>O1WS>#wjO>OJ>w>#O#MOMrw>OjWSMLwM/WMw  1SOJM/>>>8O1I >1>W1iWJWUj=w,MM Www/ I MJj*IJIOWS>#1WM/>>wSwFWw>/1SI/Ww>>>^ISWwj/w/wTM/>>wSw#OI>S=?Sv#Mv1>IO=M>>S>cOw#WWG1J1w# MJw wWIqjJjw11I1M#>#OjWwMDw wbM/>>wSw#OvMJwOI/M>>11SO#Mj>>>JISO#>#wOw%M>W>jdIJIw>O>}ISMJ>/w>wCWw>/1SI/Ww>>>AISOK>/w>OSOQ>>j O>OWW=>9O1I MJw1wWIcjJw/1/MOM 1Sw#O/W,1J11I=MT1wO/WSj/1wO>OJ>1>/18WJWnj11 I W%1J1=Ok>=w>OSOJ>O1/O>M1jSw#OjM>MJwww#M#>O>2O>MjjS>eOM#W>w= ISMJ>/w>wlM1W w1wWI3jJj)1=OF>M=WOw# W >J10WJ>1www#IW>S=WOv# W w>O1OJM#jWOvI >v>WO/IW>/w>OSO6jww/ISW/jww>wCWSjw1/O/Ot>/w>OSO#MIwJOWW=j51OwIM=>>wSwGMw WjDIJIw  >J1nWJ>ww/wWWSM#>#OjWwMJw1w/IQjJjX11I W jZIJIwMUw=O>MSMJwOI/M>>11SO#Mj>>>JOwO#>#wOwTM>>j1Sw0MM Www/ WS>Jw/O>OR>1j O1OWWk1J1RI=M{wM/WMw  j wJIHjJjS18O#WWw/O>MSM:1wO/WSj/1wO>O%jS1wI/M/MLw/O>MSM#>I/=MS>WwOSWOI>=w>OSOQ>w=W1+WJW== wJWSMWjtIJIwW#j1w#O#>j1wwJM1M/j:IJIoW1j 1 INjJjlwsM=>>wSwJMOj/w>O1WS>#wjO>OJ>w>#O#MOM7w>OjWSM+wM/WMw  1SOJM/>>>%O1I >1>W1%WJWpj=wuMM Www/ I MJjTIJIIWS>#1WM W >I/vI1WI>I1WM/W 1WOOW/>>w1ISM#>jw>wJO#>/>Jw#M/>>wSI IW> j O O>M>>I/vI=WKj,/vISW1>I1WM/>>wSw&Ww>/1SI/Ww>>>CISWwj/w/w.M/>>wSw#OIvj=w//#O>S>IO=M>>S>hOw#WW(1J11# MJ1SwWIKjJj=1SM=M#>#OjWwM{1Sw+M/>>wSw#OvMJwOI/M>>11SO#Mj>>>JISO#>#wOw+M>W>j?IJIwWA>dISMJ>/w>wmWw>/1SI/Ww>>>?ISOD>/w>OSOy>>j O>OWW=>TO1I MJw1wWIijJjO1wI=M 1Sw#O/Wx1J1SI-MD1wO/WSj/1wO>OJ>1>/1cWJWVj11 I Wy1J1fOL>=w>OSOJ>O1/O>M1jSw#OjM>MJwww#M#>O>_O>MjjS>VOM#W>w= ISMJ>/w>wyM1W w1wWIojJj51=O:>M=WOw# W >J1dWJWwjSw#IW> j IWM M>>>wI#vW/jJwDM=MI>vO W WWwS/WMv  j OwM1MJ>#1WMvW wvwWOJW=>#1WM  Wj=/ I MI=v1/IJMI>>w>M  Wj=/ IW>/=W1w# W jkIJMO>OjWO/M>>S>hIwM/jS1/IwM>M_1SIwW/>/>kO/M>>S>#wIW1>J=MSjM>MIw=O>MSMFww/WIujJj1/ OJWl1J1wM=W#>WISO#M#wjIwOJ>1>/1tWJWnj11 I W:1J1wOG>=w>OSOJ>O1/O>M1jSw#OjM>MJwww#M#>O>0O>MjjS>AOM#W>w= ISMJ>/w>w4M1W w1wWIrjJjF1=O_>M=WOw# W >J1;WJWSj1w#IW>/=W1w# W >JO/#WWw= wMOJ> w1wJMOj/w>O1WS>#wjO>OJM#wSwJO#>/w>OSOv>O>JO O#M#> O M1MJw//WI=  >vOOOJ> >#w#O#M#>W1=IW>S=WOv# W 1WI IW>/j O/#WWw= 1WMvW wvwWM/WWw/O>MSM91wO/WSj/1wO>OVjS1wI/M/Mdw/O>MSM#>IS/J#vM1w/IOI>=w>OSOc>w=W1;WJWw= wJWSMWj?IJI=WSj/w#O#>j1wwJM1M/j,IJIkW1j 1 I(jJj=wuM=>>wSwJMOj/w>O1WS>#wjO>OJ>w>#O#MOMHw>OjWSMPwM/WMw  1SOJM/>>>CO1I >1>W1XWJW;j=w&MM Www/ I MJjQIJIOWs>#1WM/>>wSwfWw>/1SI/Ww>>>oISWwj/w/wHM/>>wSw#OI =1OSwJSvW>IO=M>>S>tOw#WWF1J1=# MJ1SwWImjJj=11I1M#>#OjWwM,1SwNM/>>wSw#W >w=W1HWJWw= wJIfjJjS1OI/M#w/O>MSM#1WI IW>vwjO1M=>v>{O1I  j>JOOOJ>S>#w#IW>S=W1w# W 1WI IW>S=W1=# W w1wJMS Wj=/ O#vSC1IwWJ> wj/O#SvSw=/#MIj1wJOjI >>w#OvIW>1j /jOJ>O>JOSO#M#1wO/WSj/1wO>OP>1>Jw>O>M>>#1WM/>>wSwKWw>/1SI/Ww>>>TO/M1MJ>JOOW/>>w1ISM#>jw>wJO#>vwjO1M=>v>5OMI jW1 OvMj>1w=OvO)>1j 1DWJWgj=1WMv>jw1O=MvM_ww1WM#>O>hIwO> /wI/IM j/wO//#=M91SOJM/>>>gOwI jw>>//MI Iw I/MO /==wJM/>1>#O/Mvj1w/wsMwW >IwIM/>>wSwzM#>O>4IwO>vv=HO1M/j/=JS=WSMJwwwvWwM>1=//WM j*=/k#jvI>#ISMJ>/w>w{M1W w1wWI2WWw/OvW1>/>(O1I >1>W1=IW>/w>OSOK>M=WO1# W j%IJIgWwjWOM#W>M=WO1# MWjTIJIxW== 1 I<jJj711IWjww/ISW/jww>w-MMWWw/O>MSM#>Jw#OvM>>>w>O#>/w>OSO#MJ>JOOW/>>w1ISM#>jw>wJMwMvw1wvMMMvw wvM/Mvw>w#Mv>jw1O=MvMmw>1WM#>O>l11I>W wwwrWS>Jw/O>OA>#wOwsMwW>j 1wOqjSwJO/M>MZw#OOO2W1j 1 MwM41SOJM/>>>FOSMjM&1wO/WSj/1wO>Oa>1>J1=O#Mvw1wJISMvw/wvM MvwMwvM1M#>vO1OJW/>vO/Ov> >vOMO#>/w>OSIW>/wvI1M/MYwSOjOHjww/ISW/jww>w4I=WOjI1IIIWwj=1OOvWOj/1/I1WO>v1wI/WO>uO/M>>SjWO/M>>S>{O/Mvj1w/wpM#>O>%OwI>W > 1=OKjSwJO/M>M_1wO/W6>/w=ISOn>#wOwZMwj>j 1=OhjSwJO/M>M7wSOjO9jww/ISW/jww>w_M1MJj=w#Ov>1>J1SOv>/>vO Ov>M>vO1O#Mvw1wJI/Mvw/wvM MvwMw#M/>>wS1WMwjww/O=MWWWw/O>MSWWwSOjOljww/ISW/jww>w;MOj/w>O1WS>#wjO>OJ>w>vO1Ov>M>#O#MOMXwMw{WS>Jw/O>OP>vwjO1M=>v>bO1I MJwwwjIw >>JO1O W=>#w#O/Ww=>wJOJ>M> 1=O#M >JO1O W=>#wWI=M#jWIwM/jS1/IwM>Mbw1w M1M/j=1WM/>v11O/O3>vwjO1M=>v>,O1I Ww=>wJM1M j=w#IWjww/ISW/jww>wJMwM/>JO1OW>1>#1>I >1>#O=M>>S>Z1=O0>j1wwpIzWWw/O>MSWWw/O>MSWWw/O>MSWW1/O>WS>#wvwLWSjw1/O/IW>/wvI1M/M(wSOjOZjww/ISW/jww>w8M1MJj=w#Ov>1>J1SOv>/>vO Ov>M>vO1O#Mvw1wJI/Mvw/wvM MvwMw#M/>>wS1WM/>>wSwAM/>>wSwfM/>v11O/O:>#wOw?MwW>j 1OO8jSwJO/M>MKw#OOOeWIjv1 MwMq1SOJM/>>>YO#MOM0jI1 I >w>aISMJ>/w>w&MS>j>RIwM/jS1/IwM>Ms11O/WS> w/ISM=jSw=OwMv>/>JIWW Mv1W/WOI j=j/vI#W#=v1#II vj=1lIJ vj=12IJMI= 1 MOj/w>O1WS>#wjO>OJ>1>vOwOv> >vO/Ov>M>#O#MOM{wMw?WS>Jw/O>O4jww/ISW/jww>w.M1 WwM/ M/>v11O/M#>O>}O/O%jSwJO/M>M71wO/WSj/1wO>Ot>1>2O/Mvj1w/wpM1 Www/ I > >lO/M>>S>oO/M>>S1 w#M/>>wSwPM/>v11O/Oy>SwjwgWw>/1SI/Ww>>>pOMOJ>w>vO>M#>v>vOMO#WWw/O>MSM^w/O>MSMLw/OvW1>/>DOSMjM^1wO/WSj/1wO>Oq>/=WOM# >/w>OSIW>/w>OSO;>/wvI1M/Mrw#OOObW1jvOwOYjSwJO/M>M^1wO/W3>/w=ISOc>#wOw5MwW>jSwiWS>Jw/O>OQ>vwjO1M=>v>gOwI > jWOSMjM_1wO/WSj/1wO>Oi>O1/O>M1jSw#OjM>MJ>#OvMj>1w=OvOm>1j O1OJ>M>vOwOJ>w>vOwO#MvwwwJMwMvwww#O#WWwwwJI=M#jWIwM/jS1/IwM>M&w11WM/>>wS1WM/>>wS1WMwjww/O=MWWWw/O>MSWWwvOjM1>=wvw^MwW w 1WMv>jw1O=MvMVw wvM>MvwS1 M/MJjww#IW>SwjwyWw>/1SI/Ww>>>)OOW/>>w1ISM#>jw>wJO#>vwjO1M=>v>iOvOv>M>vO/Ov>1j O1OJ>M>vOwOJ>w>vOwO#MvwwwJMwMvwww#OWW1>#1WMwMJjSw#IWjww/ISW/jww>wJM1MMw w#OWMJw/wMM>M#>WwJMMMMwSw#OW>vjWO/M>>SjWO/M>>SjWI/M>jSw#OvO%jS1wI/M/WWw/OvW1>/>_OvMj>1w=OvO_>wj O IW>vwjO1M=>v>fO/Ov> >vO>I >/>J1wO#WWwSOjO}jww/ISW/jww>wKMOj/w>O1WS>#wjO>OJM#wvOjM1>=wvwfMMMvw1wvMSMvwv1 M1MJwMwvMwMJwwwvMwM#>vOwOJ>w>vOwO#MWj1w#IW>w>J1SO#WW1wO/WSj/1wO>OJ>v>MO/O#MW>JOSOM> >#wWOJ>1>MO>O#MWwM1WM/>>wS1WM/>>wS1WM/>>wSwVM/>>wSw9M/>>wSw3M/>>wSw#OvM>>>w>O#';vnElHXDZQCKoBIQd_iGntmXlnrRpMaHr={" =3pSl(gf)1 (g=1)1N1ghhN=gp)((N& _l_fS3=&pll1fSg1hShg1B((hp_","l&)& )(Nl&()3pfl_f33hg3pl=(ggB1 _)_(hfpNl(B&S  f&==_h plhgp(h3gl1()(","N &3= Sp&N=3)&fhl& gN3pl_)g3BSg3g_ggph_h_3S1gN 33N3Bff(=&NS=(&hSS& h","_g))Blg1)p33&SgSNh_)_)h _gf_h&f3p1","S3( g))_=(p11lBh=3) )lgflBBfBpSS1gf)p_p&&&_&3h )&)N(lp1g=lg3=)Bf fgh&3h_3Sf Nf)1p3gBllShhSf1gg()f )l","pSNphhppB h1h3pB_h1 g pp)hf=_","_=hShpB=S((_)3Sf)lNh1_h=)l)=gNpp)3NgpNgBBNhhh1","h NSfSfg31= &3g&pB=pSp&Bf_lp_SNhfS(1hlNh3(flS=(3hffggB )l","=lhp 3= 1l=_=_NN= g h=N33(gp3_(_1=lB pl1lfBl1p(B(hSpp3g3","S)=p3NSlhg=g_(_ 1((&__3f f= 1l_=p(Sg","lS3 (1(f_S=l)h1 3f Ng331(l(fh1)1h=(1)p&h(p(f&f_=1fl1N( 3g_11 3BN 1=g 1(S3g33NfpSfh_1h_Bh1ff","gBS1ll__Ngp(311)N=)(pNghS&)1Sp&h=1NS=3B(&=ShSlS13&l311gh&=(1_ =p NpB)(lpfh3g3_B=(l&hNB=_pS",")3()hfB3&gg_ NB1&1B1Sf 1(hl(Sh1 &N)  =31gf&h&N&fhBB _N_(33)S__hlh3h)g1Bhp&=fhSlpp(N&S(_)glNfSp(S&g31h3_1g(3lfBN31Sh)33hlhNph&_(1g=(gg3(g_  S))B3& &l_p3pShl _ &h&gN_ l1ggfgppl(_h)  =_pp3&=p(&S)=ggl=Bll&NS_)g1 &fpBp_BpS&SNp p gBhSN)_BB)pN&)&f1fB&Nflp3=Sg_1&&h(lgBhfp_N&l)))S& = NS&(S)f(_ f(&g3h lN=gfB_plh=h)) =_hf3B11(& fg=g&=p=__((p)=3_ff3fSN_)B1 gSgShp=13 h) ( =3&p(_g=f)N(3=))Bl&NNBhSSB)&__p =p3NS3_g_(pB(hB=SSp1_BpN Sh33 g(fp&))lp B _gSll))&f1lp)Sglgl))f&)B3B(BSf3fpg(lB3Nlp&_fpS3h =_BB&Spfhh(hff1f&l_lf&=__g h h(g1B)p)l))gf=_ &)ShpSB gfSf_ p3f& fS&BBhh&)&&hlB=l13&h1 gp_ggB1NBh_Bf_3h)3(1Bff=hp&g3g ShpB_p&N=f N(SBllp_=hphgf&l3BphN__&__Sg=B(g31(N(3S3Nh=&p_NSB3S((g=N=gf_SN3)g3_g=Bg(13 &g(g_gpB pg1&g)Nh lg)_hpp=&( h)l&pl)N=g_((=hS)(h(BSh phBShgSf=Np)g13l_S=h_S&fShl)3hfhf=S&gg& N__&1B&Sf1_(hpfS)B3_)1 3(1_Bl(gpN3l&B=1l1N=h1((pf3)hf&3&l)3phf(=BB(fS3lNSppBfNSNSp=p_h)h3g1B(flpS B1S1(_ lf1Nh1pN(1B1l(&SN)_h) 3NN)fS=)NSBhBfglNSf=f)11)3&lphN1p3l3h_SB_&1Sl_hhpSl1&= _hflfp_133 &N_g _S1_=BBh1SB&N(&pp h3&B3g)p lB1Nh&_l=B1NhNp(pgB1f(&NN)p&pp=&BN&3B)S=(Sg(=&SN1 pNg3h3ShBg_=(B&1h1B1l==ghN&f&_)(g=_ g33)N(3N3  p&&f( Sf_gN=3( _1f)ffN&pNS _Nf3hh1=_=N=g_3pl&p&3hB1SS)Ngf&g=f lp=pN(SSf=(g_31Nf_ &3=B (1Bg_f _S&&1f1Bll3g3Bl(fp=N&S1lh(fl&B)S 1_pphf3pB_fg(B=S(_l&1 l)&1hSB_hpSl1g=(&_pl1h)1fp_(pBg=N) 3&pB=B  Bl&==1p&)BBB(B Sf_p(=&))=SS 3g&SS(& pllf h1N)lp3NS)h _h_)=_=( h(p)_NhNNlflg S1__) pNBN)1_gS )S&S=h& _ lfp())3(pfgShfl=&l3&pBf)hN(_fg&pp= fSh1=_&S_(Bgp=)&NS N3&SlN& 1pl_ 11N &&lf)hS3(hfS=p_ 1h)_fp=fS__&hSh13p=phf) 1)3_3ph_)&NBS1N((N(f_3=N3p3gSghBB)&1)p_l= 3gfp=B1p&fNB3=BN==Np_ph313hS hB&S3g& NSlf3_ll=Sfp&B) fg)_&p&ph 3SfB&pgSS)hlSB3=Sgl p(=&3 _)B_p__S S&g &l1 l3&(hSSh1g=B =p(1_(&))3))SS=)( BhgN(&( 3Bf)=(N&1hS B f3gp1=lgN=)1hNS1&_h_g=3pglhSSNlB3B3p&&Nhp&( (h31NS&l&(==)3&SS pSfp&3&1=fl__S Bpgfh=Bg=&=gB_f_)_ 3_NBSfh1NS fBfNlNS=1f3pf3)_lghBhpfN31hSNl_=  B)3f1S3g3(Nhh3&S3=B))__& _fNS3_S)hB(_f(pB)l l(BB_hS_=pN& NBf1(phNgpf1f_gph&gBSSp=(hhS_f_=&SNSNhBf_S_p1Nf)(l)31(SB _fpB(hBN(33hBlfhN_S3_)ppf&l=BpB1f 1Spp)N& S&hg B SfS_p Sg=1g B_NSp_&lh(fpf&1p3fpl&g=h&=hS)_1(SSlp3l=pp(31S1g3SB fSgNp&h(3 =1Bgf3Splp&h(_(l1)B3&3(SSpBg=3_=pSB_()p)=1SSS &Nlp)g _=SffSp hB BBgNN)NfShpN)&=f(SB(gff",""};return(function(_,...)local f;local h;local p;local o;local d;local t;local e=24915;local n=0;local l={};while n<410 do n=n+1;while n<0x30d and e%0x15da<0xaed do n=n+1 e=(e+458)%31532 local g=n+e if(e%0xf4a)>=0x7a5 then e=(e+0x33c)%0xb660 while n<0x146 and e%0x2844<0x1422 do n=n+1 e=(e-889)%34411 local h=n+e if(e%0x13d6)<=0x9eb then e=(e*0x44)%0x6ee8 local e=88429 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e-0x1e9)%0x5299 local e=7975 if not l[e]then l[e]=0x1 end else e=(e-0x143)%0x9a11 n=n+1 local e=5908 if not l[e]then l[e]=0x1 t=function(t)local e=0x01 local function l(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=f.byte(l(0x01))local e=l(e)if n=="\2"then e=p.DedMDJfX(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(e,n)return _(8,nil,_,n,e)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][l(f.byte(l(0x01)))];end local n=l(0x08)p[n]=e end end end end end elseif e%2~=0 then e=(e+0x348)%0x9e2f while n<0x9e and e%0x37d6<0x1beb do n=n+1 e=(e-133)%10735 local t=n+e if(e%0x1cd4)>=0xe6a then e=(e-0x3af)%0x9921 local e=13843 if not l[e]then l[e]=0x1 o=tonumber;end elseif e%2~=0 then e=(e-0x12c)%0x212b local e=9563 if not l[e]then l[e]=0x1 h="\4\8\116\111\110\117\109\98\101\114\68\101\100\77\68\74\102\88\0\6\115\116\114\105\110\103\4\99\104\97\114\110\80\113\68\121\111\118\80\0\6\115\116\114\105\110\103\3\115\117\98\120\98\115\120\83\75\97\107\0\6\115\116\114\105\110\103\4\98\121\116\101\97\65\90\88\71\105\108\89\0\5\116\97\98\108\101\6\99\111\110\99\97\116\99\85\116\73\111\86\121\106\0\5\116\97\98\108\101\6\105\110\115\101\114\116\86\71\71\104\99\70\115\85\5";end else e=(e-0x15b)%0x4620 n=n+1 local e=53697 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end end end else e=(e+0x3ef)%0x55b n=n+1 while n<0xf9 and e%0x1090<0x848 do n=n+1 e=(e+796)%4652 local t=n+e if(e%0x9f0)>0x4f8 then e=(e*0x2c0)%0x8f12 local e=55890 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x2a1)%0x5e4 local e=61565 if not l[e]then l[e]=0x1 f=string;end else e=(e-0x2e1)%0x188f n=n+1 local e=15309 if not l[e]then l[e]=0x1 p={};end end end end end e=(e+411)%5849 end t(h);local n={};for e=0x0,0xff do local l=p.nPqDyovP(e);n[e]=l;n[l]=e;end local function g(e)return n[e];end local l=(function(h,f)local _,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local t=h while true do n[0x03][p.xbsxSKak(f,e,(function()e=_+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#f while e<d+0x01 do n[0x02][l]=p.xbsxSKak(f,e,(function()e=_+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 p.VGGhcFsU(n[0x01],(g((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=h+t;end end return p.cUtIoVyj(n[0x01])end);t(l(82,"yn}dbM6S_X!t%=D-ti6ndtD!X%bS-tD}XMnt%d_Xnt=S!tD}_-6%dS==!_M6DS!6S}&DM%AXDS==MSnS%_S-}-%}X}=6_M6}ndt-_Md}hb!_MD-1!nb%!%MtdDDtXM_!VSD66th=D}_6dM_}ddk-t%6tnt%S_M6_NbXdSb}nXXSLtb6bd--n!}M8m-t6_Xbb-nS%bb=-d_DS%XSX}}DttX6-D_td6b-d%D,Dt=XDb=-bDbXbb6D!Sb}M%D!MDbXM6-}M%-S_}SDtt=bn-t!6S6}t%-n6%S!nbD<}!%M_bD%DSbd_D=X6MXD}b_-S=M_5dSN}!bMMn==}_XdF!-nD%=tnMS{=D6_b}6-6S%MtD}!t-b!MS-d<=!XJd6n=%n6/nd%6__d6Dn}6=6tn6SndtDXDMS-XtbM!o6%M6}!!MXd=D!XSS_vS=-_Xd=%A_bb6_T}=x%fH_-bM-S__6d=-_=-!!S_SM!-6t6S!u6=XMtq-Sb}nI}-M!}dX=X_tM5=!!-DDXtS=MXn}!}6=hnt=6Xns6_nM-_DSSbboDd!1b--_X=D}Xn6Dn-%Dt!6=ZSt6MM}st)MXt_66bb-2=V_%nD=%X_b}D-SbDU_D6=n!-=_Sb6-6!Sb-2-%S{_t6Xbbnn==MX}nMDt6Sb}-_dW=Dt=6XMa#b!%b!+-t-d%-DM_k_DbXYb}-dtbSSn}%MX>bbDdX6=%_%6Snb%bSd6}kX!dMPa-tSMb}!6T DD-X!S-c%%t_Mbd%6S-}D__d6nd%6!dM &}_%Mtn}!}SMtGM=bnc-=!_Snt=DS6}b%A}!=_tX66dbDS_dM!-=X46!nbM}J2D}_tbt2S%DM6dX=d6tntS!}_q_ttSMbD-n!DM%Dn_Mbd!}b-dMnn!bM_JDtdStZbttn%%!!!Mbd=%SS-b%=3XSM4D!bb-}=d_dSdn6%Sb!gb=!MDnD6%n!-=!!6Md=Db6-dt%D_%b%Xbb}}S%-Xt6Sn-%66_2X!bSMt%6!b!-MtS_}d}t-X=bdDS_bDbX}S}nD{dX=6n-_X_b-nd%>j%t!XDb_nbDd_Mdr=DS}}dDddbD}%ISnd%DXX6M=-S%ib6n_M%w!D_X%SMT6t_6Mnn=-_D}t_bd}nnt%_X}DI=Xt6dndt%6%!%M!d_D!=S_aZoDMSjd}%___=b_}6T.-D=_Db_D(!DMX-}Xt-%!!_Sd=n6!=6MoD==6}nS%!}b=}tn6ndd=MX=}t=b!nMHDDb%-!=t_=6n}St-6Zn-=-6X}-Sb}}Iu!DS!bdDXXMd6-}_XMnX-"));t(l(165,"cXi}*<hz;TIAb=q6<AAb;*q3}T;AqA}6}z6i<qAXY6*bbQ/Thib=};z*q==h}i6;*hT6Q<hoI<6IhzbzkXhz=*iii;;z*=II6b<bA=X=zhT=iA;;q<}IhAzb==I<7X<IIbubhW<TXbhA=Ti};}=AX}zzqX*;Iz=AhA*qI=zXbGiqz=z<}z;Iqh<*IzpI}BI6WI*AT=66zihq=XT}qo*ITq6X<AI}XX<TA<XIhqbziXh=qz}h;6bqi}*&T6hhAbXAzz=(ii;i=hX^;6qbX=;X6;<IAZIieibbX*z)=<iTi<q6*}Idqb*TIb=qhzAzii;iAhXx<=z;=<T66}<vTb6T<b;=!;hAIXiIhIb<XAi;;**IIz6T<TAILyzXIhXzz;IT}Ih;z6=bI}6T<;A*+=<6A6X}*TI6RWhT=b*XzI=;q<}6v<hiA*X*z<b^ih;/=;i=TbbIi;};T<<=IIpbh)ATi<*==<izhTb<*z;<=Aq**}%z<hb*X}?Abzi;;hqX}6z=6XiA;;6b<BT*qA+<"));uQjfEGlvGoQ_ZVx=function(e)e((-p.rwOIaESy+(function()local l,e=p.MEbbEVtb,p.yEWZceJl;(function(e)e(e(e))end)(function(n)if l>p.KJndlPSP then return n end l=l+p.yEWZceJl e=(e-p.zIzQElbc)%p.CxfGzyCl if(e%p.IBgtsPjW)<=p.OowB_bCp then e=(e-p.rtxnJMHq)%p.GkAMJlsi return n(n(n))else return n end return n end)return e;end)()))end;xVZ_QoGvlGEfjQu={p.FjlBKgni,p._uOekAwJ};local e=(-p.xJBX_ZoJ+(function()local l,n=p.MEbbEVtb,p.yEWZceJl;(function(e)e(e(e))end)(function(e)if l>p.VJMgnwpA then return e end l=l+p.yEWZceJl n=(n-p.dTHjBsLg)%p.i_PUZnnk if(n%p.fqerjhyh)>p.jKuqwLbv then return e else return e(e(e))end return e(e(e))end)return n;end)())local pe=(getfenv)or(function()return _ENV end);local g=p.AaiDrWWR or p.BpeuzSRD;local d=p.xYaeHuCC;local t=p.XFXnLqEK;local y=p.yEWZceJl;local h=p.yxaSWnJq;local function ne(b,...)local a=l(e,"E7N,L_pwIng}/;WGgLggGG_Lgn^}_,gIG;_8<w}}IgLW/n-3L,w;W_g9LW7pg,G;L;gNGwLg;GLgLwpnGpLgnGGLLnnWG,LIn;GNLGn/G7Lpnng7GL_InGG,_7gWLLnIW;LNnwW/L7/pN}L7n_Wg,GnLWn,W}wNI,;g/Ww,/n7WL;NLnnWGNN/n,Wp,wICGpLnn_WG,;nW/I,WIWW,,nnw}GLwn/WGIIWN,NIw;/NGp;,,I77};g,GIL;nNWI7ng/;NpI /w,gpwW},ppp}nNGII/L,;;LNIw;;NNww/;77p}g;9Ngwg/GNLwwI7Gg7IIGN,ww//N7wp/}Nx;;ogN=wL/n7Ww,/I7;gg{w7/wp/p7}wU/,2pn}}/,LpW/w7Ip;/NwnW_,_w}p};H7_pg}G7NN7wL;NG}7IpII}N7/WWI,I}cL>G_L;pL}W(Wp,}IM}Gw/ggWwW}pwnpi}_!g_;N;I7;pN/IK;_N}};7}_/},D}_G/w;,pP},7wp7}}7p_/}W?G_w}w7,pW};+N__}_fgN:}Lr/_,g}KGp_}I6L_Wg//n_I}wmIpLgIQgpL}LflpJ}_G}_ng7)n_W}7G;L}},TwL;_;/N_Gp//77pp}/B7/pg}GBL}>WG_pwWGNLpn/GWLNgN;;L_npGpL}g;;7L,g_W;7WgpG}LWngWI_:gLWg7nWp,gIGWL,nIWW,wW/;WNLpI/W7,pf0,7nGG NLw}G__LwgGwNWn7W7,NgnIpW;,=I_;gN;NNwL/I,nnw;G,wwp/_7LppW7N/p,W}7pwpNnI,;,NIw;;2GNGwIGL_w/;&N_wg/GNLwnmgp,wn/;NNww//N7wpG7p0w_;77GwL/nILWN,gIN;,NgILw7/g7}wP/_IWWI,LwWpG/,7Ip;/N7wp/Gg_pp}/_7_pg}G7N;wwLgTGn};LNpw}/77pL_W/nNLwpwn7WpG}nN7pI/p7WpWwp7Lw,w_7Gp;}_X}pg}I/Iw7/7/wp7/nm}_W/_7n_GpG7Ip7}w7p7I/1K_pn}_77pgwn_p}Ids__ggG;GhLgIndGL7}G7,__}}WL,,}I_zgWGgLGgLGw__N_,0}wp_I}/;W<GwL}g&G_LgnGGL_;;WG,_nn;GNLwngg}}pL/w//qL/pN/}LGp}g;,bnpGNmnInL7n}W}Lun_WIG_L;nLW/nLWI,;nNWw,/n7^Ww}n0G,,gIGWL,w/P/,g7}N,;g7_N}G}nNLwN/p7m;G,nIn;W,,IpppNWg8Ww,7I};},0I_;Ig/,NNG7IIL;IN;IN;wN/I7;Wp}Ih;gNgwG;LNwW//;L_;/;N,Iw/;7NpwnN,wwNpW,//,L_,;W7/;WgN7gN/^Gn_w7Nown/g7GwL/w;},NwL7WwN/w7/w7/p7}}DK_7gww/L7npW/7_;N7*LL,gI}}_!p};N7_pg}G7NpLTgg;OGL;/Gp7Lg_gGn7gp_egIw_7W/GN1WpI}ID;pNN}p;/,NNw^p7}_1g_G}Ljn_WW;LI_W}NVw_/}7lp,}7GL__}gGUL_ngWy,_IGpLN_w},x7_pg}GW7NpI}}swp7gG_,gWG;_NgwGg#}_,gp2p_}Gg_LgLGnLWg7g_GGL;},L/gpGpL}gYG,WW;/=g;gnGG,LIn;GNLwn/K7Ipn}}NLwngWGLNGvLNngW/L&/;37gpGLL,gnGG_7nngn_NnLG,LNgmgwLNg,G_LI_RGWLngLGpGng_WI,gn6W,LLppIWWzL}gXG_LgnGGLLnggG,LIn;GNLwn/G7Lpn}GqL_ngNW_NgwG/INnIW;LNnwW/L7npW}Lln_Wg,Ggf;pNIn,WI,;nNWw,/W/W;LnnVW_,gIGWL,nIWW,,In}Wn,wI/W7,pI}WwL,Ig;G,LIn;W,,II;;,Nn_W,IWw,/_,^I_;gNGIL,LNWW7;I,Lnc;wN/I7;pN}IJ7LIpn/;LNnwW;,pw}/NWppw/;7Npw};*N_II;pNLwnN/IRp_}wNNww//N7;7/}wWw_/gw;wL;+N}I7%w7;wgOp_}}Zb__ggG#L_ngW5,_Iww/,_ww}/G7W/g/77p/n/!7_/wg/GWpn}W7,/,7}7Npw7g77pp7n71p_}gp;wN/oMWp,}IZ;pN}wx/p7}p?}p?}/7I_G7N!n_W}, I}}}NTw_/}7p,LIng>__gmg6L_nC/#,_Ig;po_wg/_G_p}g6-__gg2WnxgnGW_,gIG;p7W,G/_7gp,w_Pg_Ggg;gLGnLWg,_pL;gN_L,nI}GpL}G}G_LgnG_NLnnWG,gpn;GN_pn/G7Lpn}NGILngWGLLnnWWIN;wW;LNnwW/w;npLnL?n_Wgn;nLWn,Wn,L_Ngw/Ww,/n7L7,}n+W_nIIGWLLI/gGN,II;WG_,nLW7I_nLW&,_IgWw,L;IWw_7n_;;,N/,W}p;Ip,n,QI_;gI;W7/p7II,;IN;IN,NN/;G;pN}ImGo,NwG;LNnwW;,NI}nW7NwIg;W,Lw}V/,Lwg/GNLwn/WN,I7WINNww//wGwpNId;_G/g7GwL/n7W/W/Iw}wNN__I}{/p7}wI/W7gpG N7nwp/,7Ip;/}7wgg/77pw,/n7_pgGWN,pn7/7,pI7gGG_7}/77pp}}7{p_/77/wNGIp/p,GL.;pN}w7Lg7/,7nnG}/7wppG,7wp}}g77_;}NXwp}}7pLng}W7Np7n/WW_ngWm,_Ig;)N_wg/S7_p}N0;pNWpGG_Lgn,W_g}p,/_ngn!,nU}LJNn<g_GgLG},^p_}ggW_,wgNGwL/g7GpL}g#G_LgnGGLLnnWG,ILn;GNLwn/G7IN;}G;L/gnWGLLnnWWL,gw;gN/nwW/L7npW}LSn_Wg,GnLWn,Wn,WI,;;NN,,/n7Wp,}nwGNL7IGWL,nIWGN,Gwg//,wI/W7,pI}WQ,_Ig;G,LIn;W,,II;;,N/w7I,7Ip;},xI_;gNGIL;n,;Ig/_7wIN;wN/I7;pN}I8;_NgwG;LNnwW;,NIw;;NNwI,;I,,In;W,,Iw;pN}pp}IN,wI/;NNww//N7wp/}N-w_/g7GwL/n7Wn}jnp}}p7g7/gp7p7}g,7Kp,},}7K,_}g;gW-I_Ig;CN__p/p_,7Ngi7__ggGG_LgnGWp}WIG;_;gwG/_7gLN}7L;,7LIjmg__g_IWNwL;gIGwL/g7pn}G7N_W}I#pG_LnnWG,LIn;GNpn;/G7_7n}GuL_nInpGILLGwNn7;g;g;g_/ILNnpW}L>n_Wg,G}WNn,WnwWI,;nNLggLGN_I,}nWW_,gIGWN;NgGIWI_,GI_;ILLILp,}_LwNnIgW_,LIn;W,7LNnnW_,Gng,NIp;},YI_;gNGIL7nNWIp;IN;INLgg7W,;wN}I2;_NgwG;L_g}W;,Lnw;;NNwwgn7;WbgIp}w7/_;/I7L_}}I,7_n}_7Nwg/gNn_/;I,,I7/7NgI7;g6GIN}L7;_n;Iw7;77}wY/_7IN_w;/L7/I2;pNnw_/G7;/77}p}/R7_pIWvw,NNWI7,pG};7Npw}g/W}npNpw}gL_7lpL}n5Wp,}IF;wWGw6/pg}p9}pO},77N7GWN_}WL7IIp/},%w_/}7Hp_}}.N_ng}-tL_ngW ,_Ig;L_nwg/4}_pg}q(_,n;N;2NngInN_n,,_WIgws__7gpG}LWp,},b/pN}_17_}gnL;},GwL/g7GLj7L7nQWLLenpGpp7n,G}NIn_Gg,7Iv;}G_G7L_ngB7}_nnWWL,g/W;LNnwGNL}npW}L+nnWgL&nLWg,WnwpN,;nNWwL0n7Ww,}nL_G,gIGWLpnIWWL,II;GL,wI/W7,pI}WP,_IgNI,LIg;W,,II;;,NIwWL,7Ip;},UI_;}NGgLN,NWI,;IN;INW7N/n,7;N}I7;_N;wG;LNnnCW_NIwG;N,}w/;7NpI7,NN_w;/GNwwn/GN,wn/;NNIg//N7wp//Nbw_/g7G}7/nNFw,/g7;w,/wNWI /p7;w.;G7gpG/LN}In/,7}p;G;7wp//7,pww/)7Ipg/N7Lg/}WN_w_};7ppwWg77pp}},%p}}g7,pL};CWw/}I7Gw/}w77p7G7Q}pm}_Nggn}LsW_W}I*In/}N7n;,}7S/_}W}d__ggGNLpngWJn_I},MNppg/u7_wg}-w__ggGG_Lgn7zpggIu__NggG/_7gpc;pIg_?,LG;LGnLWg,4g_WgN07L/g}GpL}gtGnL;nGG/Ln}GG,Lnn;GNWIn/G;Lpg.G8L_ngWGpInnG}L,g,W;LNnwW/_InpGwLZnwWgL7nLWnLIn,WG,;n;WwLIn7WpLWn*W/,gn}WLLLIWWwI}I;Wg,wgwW7,wI}WhLnIgWw,Ln7;W,,IIW,nLIwWL,7I;;},7I_WhNGILW/NWI,;INGIN;wN/I7WnN}IO;_NWwG;LNnwWWpNIw;;NNGw/;7Npw}W,N_wg/GNwwn/WN,wIWkNNww//NIwp/}N5w_;;7GwL/n7Gw,/I7;wN;k7/wg/pN,wQ/_7gpG;g7nwI/,7Ip;/N7wp//I7pwL/J7wpg/77Lpn/W7,pI};7}pw}/77pp;076p_}g77pL}njWp,/;2;pN}wa/p7}p*}pL}G g_G}LpN_G}LCIpGGc(w_/}7&G_}}(:_wgL}HL_ngW>,_I}wSNpn/Ld7_pg}LW__ggGGpp}_GW_,gI9p_NgwG/w7}7G}_>g_GgLGWpGnpz}nGIL;gN,IL/g7GpL}gWG_LgnGG_LnnWG,_g}wGNLwn/GILpn}GF_w;IWGLLnn,,L,nIW;LN,NW/LNnpW}L%n_Wg,G}0WnL?n,WI,;nNWw,/gNWp,WnqW_,gIGWLL}n,W,,/I;%,,wI/W7LIn}Wr,gIgWN,LIn;WL_g,;;,IIwq/,7Ip;}LNnG;g,pILW,NWI,;I,7;W;w,7I77GN}I7;_,/};;L,NwW&_NIw;;NLw}I;7NGw};nN_gW/GNLnD/WN;wI;_NNww//N7IK/}Nnw_//7Gwp/n7Ww}/I7GwN/G7/wg/p7}w_/_N,pG/p7nwp/,7IwG/N7np//g7pw,/37n};}G7npnGG7,pn};NLIG}/7ppp/_79p_}gN7W,}n7Lp,};r;pN}w7Ww/}p7Npu}G+g_G}L6;pg},t;_;3/=w_;}7Npgg}4dW_g}w+Lp,gWN,}Ng;q/_w}j(7I{g}BzwNgg*}_L}7GW_,gIG;_,gw<n_7gWG}_.g_Ggp_gLs,LW}5GILGgNGwp_g7GnL}gnG__LnG7L_GnWG/LIg7GNw7n/G7_Nn}G}L_gNWGLLnnWWWLnIGnLNnGW/L7npW}LWn_G,,Gg:WnLyn,6I__nNG7,/nnWpL_nPW_L*IGWw,nnwW,LNI;WpIgI/Wp,p;IWK,pIgW_npInW,,,In;;,,IwWB,7IpWW,=I_;g,=IL;nNWI,W}N;IN;wN/I7;pN}I^WINgwG;LN/wW;,NIw;W_Nww/;7NIw};kN_I/L^NLwG/WNwwI/;NNw;WpN7w//}I,w_/}7Gw_/nNNW;/I7;wNNg7/wN/p7GWg/_7gpGN/7npG/,Ngg}/N7;p//_7pp}/B7_Ww}G7gpn}G7,pg};7Iwp}/7wppN,7&pp}gzGpL};IIp,}Ie;/g}wP;p7}gI_pq}_4g/I}L5g_W/_Lp_;}Ihwg}}7jp_}}0gp_g}p-L_WgWQ,_I}GnG_w}Lh7_Ig}*m__}/7w_L}NGW_;gIG;_N}n!/_7}#G}nng_GgLG}p7LLWgWGIp/gNGwL/},GIL}g/G_p_nGGLLnnWXpLIgLGN_,n/G,Lpn}FBL_gNWGLnnnWWL,ggIgLNg2W/pnnpW}LtgwGN,GnWWnI1n,WI,;gLGL,/n/WpwLnCW_,gg7Gg,nngW,wNI;WN,wnWG;,pnIWPpLIg;G,LInGg,,nj;;,GIw;W,7IpGp,TIW;g,LIL;nNWn_w_N;I/;wp7I7;pN}nNW_NgIg;L_qwW;,NIIG;pNwII;7_Gw};yN_I/W/NLIp/Wp;wI/;NNIn;GN7IL/},,w_/g7GwL;_7Ww//IN}wN/n7/w7;L7}wg/_7GpG/L7nIQW}7IwI/NNIp//77pw;WI7_wp}GLgpn}W7,wgW_7NwL}/,Ipp}}71wwG=UGwN}n,}p,}I8;wL/;5/wa}pLnpi}_ag_G/g%npI},7w_;}L*w_/},kppp}+VI_ggGyL_ngGi,pLg;5w_wg/F7pI}/ZjpNggLp_LgnGWp_ggG;p8gw7/_7gpG}pN7IGg_WgL7nLWg,GI_Gg/Gw_/g7,WL}g<G__/}wGL_gnWNLLIn;GNLwn;G7_Nn}87L_n/WGLLn;WW_XnIGNLNnwW/_,nGW}LWn_4C,GnLWn_Sg;WIL/nNNa,/n7WpL;Q,W_LgIG },nIWW,Lgg)WNLII/7W,pI}WHLwnW;GLpInNN,,II;;,Nn>;/,WIpW;,6Iw;gNGI;;n,/I,;;N;IN;w,Wn};p,gI&;;NgwG;L,}nn;,,Iw;7}Nww/;7,Ig,; ,pwg7INLwn/W,_g1/;,Lww7nN7wp/},Nn;/g,NwLW77Ww,/I7;<p/wNgw7;n7}wN/_7gIy/LNLpW;77IpW/NNnnL/7NNp}Gw7_pg}G7LWL}WN%pI/N7Npw}/N,I7}}7Wp_/I6GpL}nNPwg}I7/pNJN=/p7}p7;pW}_7g_G;LVn_W},7gpL}N7I_/}NQp_}}o7wp,gG7p_n;nT,_Ig;&N_gg/RW_p};RC_wggGG;(gn)}_,gWG;_Ggw6WGpgpYn_{gIGgLGgLt}__g,mwL;}LGwL/g7GpL/gbm_Lgg_GL_0nWGnLnn;!NLwp,G7Lwn}GaL_nWpnLLnnWW.gnIWWLNgn7LL7gpW}Lgn_Wg,GnLLL,WgLWILInNWw,/g,WI,}gNW_LLIGWL,nnNG},In;WNG;I/WN,pI}_/,_nW;G,GInG7,,IIGg,Nn};/,wIpWG,fI};}NGnI;nW7I,;nN;I,;w,dG};pN}ICIINgI-;LN;GI;,NIw;nwNww;;7NpGw;y,nwg;_NLIu/WN,/_/;,pwwW9N7wW/}NvI,/g,LwL;L7WIp/I7;Ip/w,7w7//7}I_/_7gI}/LN;pW/_7IpG/N7wwW/7Ngp};L7_w,}G7LwW}WNwpI;77Npw}/,wwW}}NLp_wG)Gp_}n,_p,}/IwpN}wy/Np}pK/px}_g}_G/Ilnp}},.I_;}N7I_//pDppw}me__ggGO__n/N ,_gg;O,_w}W7n_p}Ge?w,ggGG_Lgn7n_,}/G;_,gwG;_7gp5I_0g_Gg_fgLGnLWg,5/L;}pGwp(g7GpL}gN7pLg}LGLLWnWG,LIn;YNLw}7G7Lwn}G7L_nWLNLLgnWWG7nIWWLN}w,IL7gLW}LWn_GL,GnLIg,Wg,WILNnNWw,/g,I,,}g7W_p!IGWL,ngzWW,InGWNw,I/W7,pn;WG,_n;;G_}In;W,,ngW;,Nn};/_;Ip;},5nwW;NGnn;nwgI,;IN;IN;/N/n7;pL^Iu;wNgwGWnNnI_;,,Iw;;NNww/L/NpI};{Ngwg/GNLI};_N,In/;Lwww//N7II/WNcIw/gN_wL/n7WI_W97;I_/wL,w7/p7}IN/I7gI,/LNnpW/,7IwG/n7wI7/7N,p}/K7_pg;L7Lwn}WNIpI}G7Npw_;77pW}}NFp_}gSGpL,_lWw,}I7,pN}Ws/p77gj}w }_7g_G}/ZnpL}wOIp;}NGG_/}N9p_}}Zun;LgG(L_ngp ,_ng;7LwGg/77_p}_jR__ggGGgGgn^G_,},G;_Ngw(Wpngp%;_KgGGgLGgLG;_gg,oIL;nnGwL;g7Gp_;gXJnLgnGGLLnnW8_Ipn;zwLw/GG7Lpn}GpgwngS_LLgNWWLLnIGNLNnwGGL7npW}Lpn_Wg,GnLG/,Wn,WILLnNWw,/n7Gn,}nAW_LNIGWL,nIWGp,II;WNLNI/W7,pI}G,,_Ig;GLwIn;W,,IIGw,Nn/;/LwIp;},TI_GNNGnI;nNWI,;nN;gNN7N/n_;p,GI8;GNgI_p,NnnN;,7;w;;,Nww/;7NgG_;+N_wg/LNLwg/WN,7n/;,pww;nN7wp/}NrIp/g,LwL;_7Ww,/I7;wn/w,aw7/I7}w7/_N/w//LN;pWW77Ip;/N7wwL/7Ngp}/77_p}}G7LIJ}W7,pI}W7Npw}/77wg}}NLp_/WTGpL}n7-IL}INNpN}wK/p7}p*}wM}_7G_G}_tn_G},-IWg}N7g_/}7!p_}}bRng;gG7L_nI;t,_ng;NNg,g/bG_p}nSZ_GggN_GNgn!/_,g,G;_,gwGG_7ggw__5g_GgLggLGgLWgwwNL;gNGw_FgNGwL}g0npLggGGL_pnWG,LIgGpILwg;G7p,n}GxL_ngGILLgnWWL_nIWWLNgnWGL7gpW}_Wn_Wg,GnLW;,Wg,WI,WnNWI,/n7GL,}n6W_,}IGWL,nIWG),In;WNLwI/W7,pI;*7,_n};G,gIn;W,,IIW;,NnI;/,NIp;/,-g_NLNGnL;n,nI,7gN;INLwN/II;p,7I2W_Ngn7WINnIW;,,Nw;;NNww/;WNpI/;U,*wg/GNLI}WIN,Ig/;N/ww//N7wg;gNBI_/g,ww_/g7Ww,LL7;Ip/wNww7;n7}wAYI7gI,/L7GpW;w7Iw,/G7wIK/7N;p//77_ww}G7IW,}W7,pI;L7,pI}/77?w}}NLp_/w.GpL}nfWwL}INNpN/,A/p7}pa}p,}_7W_G}p8n_G},7gw,}N7}_//GMp_}}H2_w7gG7I_ngGA,_ng;>NwLg/%7_pg/&y__ggGGpIgn7N_,}/G;_NgwGWwNgp7x_CgnGgLGgLGn_Wg,M;L;g,GwL;g7GgnWg.-_LggnG_LgnWGnggn;vNLwgLG7Lwn}GNL_ngYNLLnnWWLnnIW;LNnwGGL7npW}Lgn_Wg,GnLGI,WgLWIL^nNWw,/g,GI,}gNW_w}IGWL,nIWGI,Ig^WN,/I/W7,pn;G},_nW;Gp/In;W,,ngGI,Nn/;/LnIp;},lnwWGNGng;nwwI,;IN;nLW,N/nI;pLGIB;_Ngn7F/Nnnp;,,Gw;;NNww/;WNpIW; ,;wg;7NLwn;ON,I//;Nwww//N7II;;NxIg/gNgwL/n7WI_;_7;II/w,Gw7/p7}IN/n7gIp/L,npW/,7IwG/_7wIL/7_pp}/(7_w/Ww7LIN}WNWpI};7Npw_Q77wg}}Nnp_}/oGpL;NlWwL}IN7pN}I-/w,;WM}wN}_7L_G}Lin_W9W Iwf}N7I_/}7App;};a_pWgG1W_ngW.,_/gG?Npng/L,_wg/r2pw;NGGpggn4I_,gIG;_NXNG/pIgpAp_&g_Ggp7}wGnppg,eNL;gNGw_!g;Gpp7g!,pL}g6GLLn,GG,pNn;3NLwn/G7Lp}gG.pyngGgLL}NWWL,gnW;_WnwG;L7g}W}L3nWWg_nnL#_,Wn_WIL,g;Ww_pn7Np,/n7W_,gIGWI},IWW,,I/;W,,II/W7;wI}Gg,_nw;G,LIn;WLLIIGI,Nn,;/,7Ip;}LwI_GLNGIp;nNGI,Wg,IING7N/nG;pN}I!;_,IwGWWNnwG;,Nnw;;N,;w/;7Npw/;9N_wg;,wwwnWLN,g//WN,ww;ywLwp;;Nyg_/}NywL;}_/w,;g7;}I/w7/w7//_Gwt;w7g}_/_7gpW/L7Iw7,/7wp//7_/p//77_w/G;7Lw}}W,_pI};7Npw_;77wn}}NNp_}gVGpLp7PWww}I7GpN}w</p7/LR}w_}_rG_G}LJnw?}}AIw,}NN,_/}7opp;/w4_w7gGLN_ngWR,pg/%1NpGg/,w_pg}5Xpwg;GGp;gnNw_,gIG;pLgnG/p}gpOI_fg_GgLG;NGnp,g,7NL;gLGwL//}Gp_Gg-GwLgg7GLLngnG,_/n;G,LwnWG7_I}KGC_gngG}LLnnWW__nGW;_InwV7L7npW}LRnpWg_,nLGG,Wn,WI,;n/WwLGn7Wp,}nNW_,/}rWLL;IWW_,II;WN,w,pW7LnI}GL,_Ig;G,LIg;WLpII;;,NIw;/,7n/;},&I_;gNGIL;nNWgW;IN;IN;IN/I7;p,_I!;_NgI1;LNnwW;LNIw;;NNww/;77p}g;_N_wg/GLL;7/WNLwI/;NNwI//N7I//}N7w_/}7Gw_/n7WIp/I7WwN/w7/w7/p7}w//_7}pG/_7npG/,7Iww/N7wp//N7pp}/47_pg}G7Lpn/p7,pI};7Npw}/77pp}/74p_}gPGpL}nOWp,}ne;pN}w(/p7}pG}nG}_!W_G}LKn_/wR/wYn},9w_/}7up_}}T,_ng}lcL_ngW8,_Ig;wNnwg;U7_pg}2J__ggWG7,ggGW_,gIG;_NgwG/n7W_G}_eg_Gg}IgLGWLWg,GIL;gNGw}tg7G}L}g_G_LgnGGg_pnWGILIgLGNLIn/G7LpnGpgL_ngWGL}nnWGL,nI_pLNn/W/L7npW}L:n_pp,GnnWnL,n,WI,;nNNG,/npWp,;noW_,gIGL;,nn,W,,nI;WN,wI/W},pI/Wo,gIgW%,Ln}Wg,,I;;;,LIw;/,7nIWp,fI};g,NIL;nNWn_WpN;In;w,,I7;pN}IA;;NgIw;LNgwW;,NIw;;wNwIL;7NWw};LN_I/;pNLIN/WN_wI/;NNInGLN7IU/}N7w_/g7GwL/W7WwW/INNwN/n7/nwWL7}w}/_,LpG/_7nwT/,7/Ww/N7wp/;}7pp//i7_;,}GNzpn/q7,pI};,N;n}/7Wpp}/7Vpn}gqGw/}n7;p,}WY;pN}wX/wI}p7}p8}}Vg_G}L{np7},7__;/NAw_W}73ppI}Q77_g}}FLppgWN,wtg;v}_w}I87_}g}Npw,ggcg_L//GW_LgIhj_Ng}wp_7gpG}w,g_G}LGgLpNLWgGGILGgNGwL//77/L}g;G_L}nGGILnnWH,LIg/GNL;n/G7Lpn}.pL_ggWGLgnnWWL,nIqnLNgLW/_7npW;Lon_Gw,GgFWnLgn,G_,;nNG,,/ngWpLLn)G7,g}_6N,nnnW,p;I;W,,wnLW7,g(_Wf,_Ig7L,LIg;W_,;L;;,nIwW,,7In;},MNL;g,}IL;/NWI,;IN;I_;w,II7;;N}I/;_LgIg;L,_wW;GNII);NNwwW;7,,w};,N_wg/GLLwg/W,7wI;yNNw}//N7Iw/},lw_;p7GwL/n7Ww_/INWwN;,7/w7/p7}nW/_NIpG;_7nw5/,7I;L/NNLp//W7pwn/l7_pW}GN7pn/w7,w_};7Nww}/7Gpp/_79p_}g Gw/}n7;p,}}U;pN}wN/wN}p7}pa/N!gp_}LMnw7},7w_;/70wp/}7&pwI}9>G_g};8LpIgWBnn;g;xI_wWL47_wg}(I__gWwn_LgnGWI}gIGW_Ng}wp_7gpG}I}g_G}LGgLpNLWgGGIL;gNGwL/g7nVL}g/G_LgnGGWLnnW,}LIgwGNLnn/G7Lp}},/L_nGWGLnnnG7L,}I,nLNn;W/LwnpWWL#nnpL,GnLWnLWn,Wn,;nN7N,/n7Wp,/nsW_,gIGWL,nIWWI,}I;WN,wI/G7,pI}Wo,,,/pGW*7_nI;G,7npGL7Ip/W},NppW}I_;gNGIL;nNWnL;IN;IN;_}/,lIL;g,/IoW*Wnn_;L,},;;gN/IW;pI_;7Npw}Gp/,wg/GNLw//WNLwI/GNNw}LpN7wp/}N,w_/}7GwIL,7Ww,/IN,wN/I7/I,6L7}w7/_7}pG/L7npWh}7IpW/N7np//77ppG,g7_pg}G7/pn}G7,wgW_7NpI}/7Lpp}}7vp_)N+Gp_}n7:p,}I3;pNWNQ/p7}p+/px}_sg_G}L3n_W}LvI_;}NFw_W}72p_}}PnW_ggGKL_ngWH,_Ig;N;_wg/q7_wg}0f__ggGG_LgnGG_LgIG;_NgIG/_7gpG}_Tg_WgIWgnGnLWg,7Ig_gNGIL/g7GpL/gqG_L;nGG_LnnGG,Lnn;GNLgn/GNLpn}GVL_ngWGp7nnWGL,nnW;L,nwW/LwnpW}L^npWg,GnLWn,Wn,WI,;n,Ww,/n7Ww,}nTW_,gIGWLNn/;WI,II;WN_wWLW7,wI}W2,_I};G,Lg_;W,LII;W,NII;/,7nG;},7I_;gNGIL;nNWn,;INWIN;IN/IN;pN}nL;_NgwG;_NnwW;,NIw;;NNww/;NNpw};>Npwg/GNLwn/WN,pI)/Nwww//N7npN,N0wp/g7GwL/g7Ww,;N7;w,/w7;w7/w7}wt; 7gw*/L7npW/,7Ip;;;7wp;/77wp}/77_pg/p7Lpn}W7LpI};7Npw}/77pp}}7wp_}g6Gp_}nvWp,}I3;pN}wL/pN}ps}p-}_ug_GNLLn_G},(I_;}N4w_/g7L__}}_R__ggGwI}g7dpG};g;dN_wg/27_pg/0v__ggG;_LgGGW_,gIw8/p7np_}G-;NG_%g_GgLGC;GnLGg,GIL;gNGwL/LNGpL;gfG_LgnGGLLnnWG,Lnn;GLLwnWG7p/}nG8LpngG}LLngWWLwnIG7}/nwW/L7gNW}L7n_WggInLWg,WnLWI,;nNWw;;n7WI,}niW_,gIGWgn}IWWp,II;WN,II/W,,pI}G,,_Ig;G,LIn;W,,IIGN,NIw;/,,Ip;},HI__,NGI_;n,7I,;nN;Ip_7N/I7;p_;ID;pNgwG,;NnwG;,NIw;;NNww/wNNpw;;eN_wg/GNLwn/WN,wn/;NLww/WN7n/pnNVwp/g,7wL/g7Wwg/IN7W//w7/w7;I7}w7/_7WWn/L7npWG_7IpW/N7w;}/77wp}/57_pg}GNN7h}W7ppIWG7NpI}/7Npp}GIgp_}g<Gnp}n9Gp,}IwppN}ID/pL}p+}py}_NN_G}psn_W},eI_;/Lf;_/}Ltp_W}:y__g/77__n}NC,_}g;zN_wg/7p_pg/f<_ngg(7_L/G7N_,gnG;pGgwG;_7g/G}_L7GGgLGgL7pLWgLGI_77/GwL/g7NIL}g7G__//wGLLgnWGILIn;GN_n/LG7LIn}G7L_ngWGLLGLWWLpnIW;LNnwW/_,ggW}LLn_W;,GnLWnLNnWWI,GnN7I,/nNWp,},7W_LrIGW_,nIWW,,IGIWN,WI/W_,pI}W%,_g_;G,/InWN,,II;;,NI/;/,gIp;W,XI_;gNGnw;n,II,;IN;IN;wN/IN;p,pI!;gNgwG;LNnI7;,,Lw;;wNww/;7NpI;;5NWwg;}NLw}/WN,GL/;Ngww;LN7wG/}N#n_/gNIwL/W7Ww,/I7;IW/wNLw7/W7}wn/_,gwn/LN7pW/}7IpG/N7ww}/77;p}/w7_wN}G7LI_}W7LpI/,7NpW}/7_}n}}7Np_;/3Gp_}n3Wg}}IdWpN}n-/p7}p*}gI}_Xg_G}pUn_W},%III}N{w_/}NAp_}}+{p_ggG*L_ngW<,_I},=N_wg/O7Wwg}qN__ggGG_LgnGW_/gIC)_NgIG/_7gpG}p,g_GWLGg_GnLWg,GIpLgNGgL/g,GpL;g6G_LGnGGpLnnWG,L}n;GNLIn/G7Lpn/G#L_ngWGLLnnWWL_nnG_LNnwW/L7g7W}L*n_WIWI,;gwGw_FgpGnL_nGW;n7W/,}n0W_,IL;IGW_LLnN,In,WN,wI/;GG>,II}W}L%;GL7In;W,,IpngW7L_n,WjLLIpWW,?IpW_,,;n,,I,;IN;Imn_WG,}I_N/Ia;_NgwG;LNnpW7NNnw;;NNww/;7Npw}71N_I7/GNLwn//Wd,pIn;_NGw;wwwp/}NiIw,I7Gwp/nN7w,/I7;wN;L7/wL/p7}w1/_7gpG;_7nwN/,7np;/N7wp/;/7ppW/47Ipg/,7Lpn;,7,p/};7Npw}/77pp/77Kpn}g7,pL}nQWp,/dQ;pw}wT/p7}p%}pxW,5gp7}LPW_W}_*Ip,GpQw_W}777_}}7b__}gG I;,gW:,_I}ISN_Ig/X_;:g}{:__}wGG__gnGWGpgI0r_NgIG/_7gpG}nIg_G;LGgpGnLWg,mgI}gNGgL/gpGpL}gdG_W}nGGILnnGG,LIn;GNLwn/GLLpn;G>Lwng7_pNnnG7L,/wW;L,nwGLL7ngp_L5n_WgpWnLWg,Wn,_7,;n_Ww,/n7Wp,}nc^N,gnNWL,/IWWL,In,GN,wIGW7LWI}W7,_I};G,Ia,;W,,IIG_,NII;/,7Nn;},,I_;gNGIL;nNW/};I,PIN;nN/I7;pN}Wn;_N;wG;LNnwW;,NIGn;NNgw/;LNpw/;DN_7;/GNIwn/WN,wI/;NNWR//Npwp/}NCw_/gN_;p/nNLw,/}7;w,/w7;w7/pNWw=/_7gw,/L7npW/,}Np;/w7wp;/77/p};N_,pg/L7Lp;}W7,pI};NLpw/N77pp}}7-p_}gN7pL/h5Wp,}I%WpN};pWp7}Wo}pN}_z}_G}_hn_W/pOI_;}N%}_/}74pp}Lw8_p7gGT__n}px,_I}j^N_/g/%I_pg;C3pw},GG_ggnv7_,gIG;_N/7G/_IgpG}_lg_GgLG}}Gn__g,GGL;gNGwL/}0Gp_,g{GgLgnGGLLn}nG,LWn;GgLwn;G7Lp9LG9L}ngWGLLnnWWL,,NW;LInwW;L7nnW}Lc;;WgL,nLW},Wn,WI,;7GWw,Gn7Wp,}nxW_L//;WL,/IWWI,II;WN,wN;W7,gI}W7,_Ig;G,LIn;W,pII;G,NIn;/_wNL;},,I_5GNGI_;n,1I,;/gwIN;wN/}p;pN/I1;ngLwG;LNn;,;,Nnw;;NnPw/;LNpw};>N_wgWGILwn;NN,wn/;NIww//N/wp/WNvwI/gN,wLWn,^w,//7;w,/wN,w7/p,IwK/I7gwN/L7;pW/,,7p;/p7wp//77pp}/9,Npg/L7Lpn}W7,pI;;NLpw/N77pw}}7pp_}gI}pL}WXWpI}I7,pN;w_pp7}/K}p7}_77_G}gp}_W}g=I_;}N?I_/}NPp_}/,C__ggGTI_ngWz,_ILwxN_/g/uw_p}NmVpwWIGG_ngn9N_,gIG;_N}nG/_wgpG}_ g_GgLG}pGn__g,GIL;g,Gw_NK,Gp_,g=GpLggJGLLgnWG,_}n;GNLwg4G7Lpn}m);/ngGpLLngWWL}nIW;_;nwG7L7n;W}LNn_G/LWnLWG,WnpWI,;nNWwLNn7W;,}n.W_,gIGWL_tIWWg,InLWN,wI/W7,}I}WI,_IG;G,LIn;WLLIIW,,NIG;/,NIp;}nnI_W<NGIL;nNWI,GI};IN;WN/IN;p,7Iv;_L_wG;gNnIL;,NGw;GNNgw/;INpw/;=N/wg/GL7wn;LN,wG/;N_ww//,wwp/GNjww/g7GwL/n,7w,/}7;wN/w7/w7/pLpwk/_7gwU/L7npW/w7Ip;/N7wp//77ppG/l7_pg}G}wpn}G7,pn};7Npw}/ggpp}/79p_}gVGpL}n,np,}IB;p,}w&/p7}p,ppe}_8gpl}L&n_W},fI_;}N=I_/}7Kp_}},O__ggGPLG/gW?,_IgW{N_wg/<7WGg}X.__ggGG_LgnGWwWgIG;_NgIG/_7gpG}_1g_GgLGgLGnLWg,G}L;gNGwL/LLGpL}gRGpLgnGGLLn,wG,LIn;GNLwn/G7Lp/pGCL_ngGzLLnnWWL,nIW;LNnwW/L7npW}LLn_Wg,GnLI/,WnLWI,WnNWw,/n7wG,}n7W_,gIGWL,nIWaW,II;WN,II/W7,pI}s},_Ig;G,_In;W,,II;;,NIw;;,,Ip;},BI_WwNGIL;nNWNn;IN;IN;wN/I7;pN}nn;_N}wG;_NnwW;,NInw;NNww/;7Npw/;eN_w}/GN_wn;YN,wI/;NNwn//N7wp/}NFwp/g7Gwg/n7Gw,/I7;wN/w7/wI/p7;wQ/I7gpG/L7n;w/,7}p;/p7wp//77p/n/-7wpg/77Lp/}W7,p/};7,pw};77pI}}7kpp}gvGpL}g.Wp,}I8;wn}wl/p7}pU}pM}_*gwg}L:n_W}L*I_;}Nhw_/}72p_}}l");local n=p.MEbbEVtb;p.VPbgFQcV(function()n=n+p.yEWZceJl end)local function e(l,e)if e then return n end;n=l+n;end local l,n,r=_(p.MEbbEVtb,_,e,a,p.aAZXGilY);local function f()local l,n=p.aAZXGilY(a,e(p.yEWZceJl,p.XFXnLqEK),e(p.cnPmSa_X,p.wVtixytk)+p.xYaeHuCC);e(p.xYaeHuCC);return(n*p.tyefWtVQ)+l;end;local fe=true;local s=p.MEbbEVtb local function k()local d=n();local e=n();local t=p.yEWZceJl;local d=(l(e,p.yEWZceJl,p.bpTdrnmD)*(p.xYaeHuCC^p.gCTVYSeo))+d;local n=l(e,p._ixMuCpx,p.jpjZqsBV);local e=((-p.yEWZceJl)^l(e,p.gCTVYSeo));if(n==p.MEbbEVtb)then if(d==s)then return e*p.MEbbEVtb;else n=p.yEWZceJl;t=p.MEbbEVtb;end;elseif(n==p.J_LQntej)then return(d==p.MEbbEVtb)and(e*(p.yEWZceJl/p.MEbbEVtb))or(e*(p.MEbbEVtb/p.MEbbEVtb));end;return p.xCggMDKc(e,n-p.tmYXicRz)*(t+(d/(p.xYaeHuCC^p.iHYeuJUV)));end;local c=n;local function u(n)local l;if(not n)then n=c();if(n==p.MEbbEVtb)then return'';end;end;l=p.xbsxSKak(a,e(p.yEWZceJl,p.XFXnLqEK),e(p.cnPmSa_X,p.wVtixytk)+n-p.yEWZceJl);e(n)local e=""for n=(p.yEWZceJl+s),#l do e=e..p.xbsxSKak(l,n,n)end return e;end;local c=#p.FjlBKgni(o('\49.\48'))~=p.yEWZceJl local e=n;local function de(...)return{...},p.AneLMtWR('#',...)end local function te()local e={};local s={};local a={};local o={s,a,nil,e};local e=n()local g={}for d=p.yEWZceJl,e do local l=r();local n;if(l==p.xYaeHuCC)then n=(r()~=#{});elseif(l==p.yEWZceJl)then local e=k();if c and p.eBKZfjCx(p.FjlBKgni(e),'.(\48+)$')then e=p.UnMOhaJF(e);end n=e;elseif(l==p.MEbbEVtb)then n=u();end;g[d]=n;end;for o=p.yEWZceJl,n()do local e=r();if(l(e,p.yEWZceJl,p.yEWZceJl)==p.MEbbEVtb)then local _=l(e,p.xYaeHuCC,p.XFXnLqEK);local r=l(e,p.yxaSWnJq,p.wVtixytk);local e={f(),f(),nil,nil};if(_==p.MEbbEVtb)then e[t]=f();e[h]=f();elseif(_==#{p.yEWZceJl})then e[t]=n();elseif(_==b[p.xYaeHuCC])then e[t]=n()-(p.xYaeHuCC^p.edhDenPu)elseif(_==b[p.XFXnLqEK])then e[t]=n()-(p.xYaeHuCC^p.edhDenPu)e[h]=f();end;if(l(r,p.yEWZceJl,p.yEWZceJl)==p.yEWZceJl)then e[d]=g[e[d]]end if(l(r,p.xYaeHuCC,p.xYaeHuCC)==p.yEWZceJl)then e[t]=g[e[t]]end if(l(r,p.XFXnLqEK,p.XFXnLqEK)==p.yEWZceJl)then e[h]=g[e[h]]end s[o]=e;end end;for e=p.yEWZceJl,n()do a[e-(#{p.yEWZceJl})]=te();end;o[p.XFXnLqEK]=r();return o;end;local function le(l,n,e)local d=n;local d=e;return o(p.eBKZfjCx(p.eBKZfjCx(({p.VPbgFQcV(l)})[p.xYaeHuCC],n),e))end local function u(j,a,r)local function le(...)local f,k,z,ne,b,n,o,c,m,ee,s,l;local e=p.MEbbEVtb;while-p.yEWZceJl<e do if e>=p.XFXnLqEK then if e<p.cnPmSa_X then if e>p.MEbbEVtb then repeat if e>p.XFXnLqEK then ee=p.AneLMtWR('#',...)-p.yEWZceJl;s={};break;end;c={};m={...};until true;else c={};m={...};end else if e>p.cnPmSa_X then e=-p.xYaeHuCC;else l=_(p.WtsYnXXF);end end else if e<p.yEWZceJl then f=_(p.wVtixytk,p.TYGpeJvr,p.yEWZceJl,p.CQjDyeOQ,j);k=_(p.wVtixytk,p.EpettKAQ,p.xYaeHuCC,p.gLRZQkFO,j);else if-p.xYaeHuCC<=e then for l=p.kGQpF_jV,p.ynqFRzPb do if e~=p.xYaeHuCC then z=_(p.wVtixytk,p.CmfCaFVh,p.XFXnLqEK,p.QoyrfYFi,j);b=de ne=p.MEbbEVtb;break;end;n=-p.EbdCskaP;o=-p.yEWZceJl;break;end;else z=_(p.wVtixytk,p.CmfCaFVh,p.XFXnLqEK,p.QoyrfYFi,j);b=de ne=p.MEbbEVtb;end end end e=e+p.yEWZceJl;end;for e=p.MEbbEVtb,ee do if(e>=z)then c[e-z]=m[e+p.yEWZceJl];else l[e]=m[e+p.yEWZceJl];end;end;local z=ee-z+p.yEWZceJl local e;local _;function RWArOxwduICs()fe=false;end;local function j(...)while true do end end while fe do if n<-p.kGQpF_jV then n=n+p.iUkTFOed end e=f[n];_=e[y];if p.RsgddJM_>=_ then if p.iUkTFOed>_ then if p.bpTdrnmD<_ then if p.jpjZqsBV>_ then if p.RQPiUpHl<_ then if p.cFJIGghW<=_ then if p.cFJIGghW<_ then if p.RQPiUpHl~=_ then repeat if _~=p.OFwWqsnp then for _=p.MEbbEVtb,p.yEWZceJl do if _>-p.yxaSWnJq then repeat if p.MEbbEVtb<_ then if not l[e[d]]then n=n+p.yEWZceJl;else n=e[t];end;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+p.yEWZceJl;e=f[n];until true;else if not l[e[d]]then n=n+p.yEWZceJl;else n=e[t];end;end end break;end;if(l[e[d]]==e[h])then n=n+p.yEWZceJl;else n=e[t];end;until true;else if(l[e[d]]==e[h])then n=n+p.yEWZceJl;else n=e[t];end;end else local d=e[d];local _=l[d+p.xYaeHuCC];local f=l[d]+_;l[d]=f;if(_>p.MEbbEVtb)then if(f<=l[d+p.yEWZceJl])then n=e[t];l[d+p.XFXnLqEK]=f;end elseif(f>=l[d+p.yEWZceJl])then n=e[t];l[d+p.XFXnLqEK]=f;end end else if p.upByVjRd<_ then local e=e[d]local d,n=b(l[e](l[e+p.yEWZceJl]))o=n+e-p.yEWZceJl local n=p.MEbbEVtb;for e=e,o do n=n+p.yEWZceJl;l[e]=d[n];end;else local t,r,g,_,h;for a=p.MEbbEVtb,p.yEWZceJl do if p.yEWZceJl==a then t=e[d];h=l[t];for e=t+p.yEWZceJl,o do p.VGGhcFsU(h,l[e])end;else t=e[d]r,g=b(l[t](l[t+p.yEWZceJl]))o=g+t-p.yEWZceJl _=p.MEbbEVtb;for e=t,o do _=_+p.yEWZceJl;l[e]=r[_];end;n=n+p.yEWZceJl;e=f[n];end end end end else if p.cVbLliTO>_ then if p.dMWRsJQV<=_ then for n=p.YMgGBabR,p._waTewSk do if _~=p.PkcaTbKe then l[e[d]]=a[e[t]];break;end;local e=e[d]l[e]=l[e](l[e+1])break;end;else local e=e[d]l[e]=l[e](l[e+1])end else if 23<_ then if 24~=_ then local e=e[d]l[e](l[e+1])else local p;for _=0,4 do if _<2 then if _<1 then l[e[d]]=l[e[t]];n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end else if _<=2 then l(e[d],e[t]);n=n+1;e=f[n];else if 3~=_ then if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;else p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];end end end end end else l[e[d]][e[t]]=l[e[h]];end end end else if 35<_ then if _<=38 then if _<=36 then local a,s,o,b,g,r,p,_;for p=0,3 do if 1>=p then if 0<p then _=e[d]l[_]=l[_](l[_+1])n=n+1;e=f[n];else p=0;while p>-1 do if p<=3 then if 2>p then if-2<=p then repeat if 1~=p then a=e;break;end;s=d;until true;else s=d;end else if-2<=p then repeat if 2~=p then b=l;break;end;o=t;until true;else o=t;end end else if p<6 then if p~=4 then r=a[s];else g=b[a[o]];end else if 3<p then for e=16,74 do if 6<p then p=-2;break;end;l[r]=g;break;end;else l[r]=g;end end end p=p+1 end n=n+1;e=f[n];end else if-2<=p then repeat if p<3 then l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];break;end;l[e[d]][l[e[t]]]=l[e[h]];until true;else l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];end end end else if 34~=_ then for p=30,64 do if 37~=_ then local p,r;for _=0,5 do if 3<=_ then if _>=4 then if 5~=_ then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];else l[e[d]]=l[e[t]]+l[e[h]];end else p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];end else if 1>_ then p=e[d];r=l[e[t]];l[p+1]=r;l[p]=r[e[h]];n=n+1;e=f[n];else if _~=1 then l[e[d]]=l[e[t]];n=n+1;e=f[n];else l[e[d]]=l[e[t]];n=n+1;e=f[n];end end end end break;end;local n=e[d]local d,e=b(l[n](g(l,n+1,e[t])))o=e+n-1 local e=0;for n=n,o do e=e+1;l[n]=d[e];end;break;end;else local n=e[d]local d,e=b(l[n](g(l,n+1,e[t])))o=e+n-1 local e=0;for n=n,o do e=e+1;l[n]=d[e];end;end end else if 40>_ then local p,_,h;for g=0,2 do if 0>=g then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if-2<g then repeat if g<2 then l(e[d],e[t]);n=n+1;e=f[n];break;end;p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end until true;else p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end end end else if _~=37 then repeat if 40<_ then l[e[d]]=l[e[t]]+l[e[h]];break;end;local f,p,g,h,_;local n=0;while n>-1 do if 2<n then if 5<=n then if n>=1 then repeat if n<6 then l(_,h);break;end;n=-2;until true;else n=-2;end else if n~=2 then for e=27,93 do if n>3 then _=f[p];break;end;h=f[g];break;end;else _=f[p];end end else if n>=1 then if n>=-3 then repeat if 1<n then g=t;break;end;p=d;until true;else p=d;end else f=e;end end n=n+1 end until true;else local p,f,h,g,_;local n=0;while n>-1 do if 2<n then if 5<=n then if n>=1 then repeat if n<6 then l(_,g);break;end;n=-2;until true;else n=-2;end else if n~=2 then for e=27,93 do if n>3 then _=p[f];break;end;g=p[h];break;end;else _=p[f];end end else if n>=1 then if n>=-3 then repeat if 1<n then h=t;break;end;f=d;until true;else f=d;end else p=e;end end n=n+1 end end end end else if _>32 then if 33<_ then if _>31 then for p=44,91 do if 34~=_ then local p;l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[d],e[t]do l[e]=nil;end;break;end;local n=e[d];local d=l[e[t]];l[n+1]=d;l[n]=d[e[h]];break;end;else local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[h]];end else l[e[d]]=u(k[e[t]],nil,r);end else if 29<_ then repeat if 31~=_ then local _,p;for g=0,4 do if 1>=g then if 1~=g then l[e[d]]=a[e[t]];n=n+1;e=f[n];else l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=f[n];end else if g<3 then l[e[d]]=l[e[t]]%e[h];n=n+1;e=f[n];else if-1~=g then repeat if 3<g then _=e[t];p=l[_]for e=_+1,e[h]do p=p..l[e];end;l[e[d]]=p;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];until true;else _=e[t];p=l[_]for e=_+1,e[h]do p=p..l[e];end;l[e[d]]=p;end end end end break;end;local p;for _=0,3 do if 2>_ then if _>=-1 then for p=45,68 do if _<1 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end else if _>=0 then for h=23,89 do if _>2 then if l[e[d]]then n=n+1;else n=e[t];end;break;end;p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];break;end;else p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];end end end until true;else local p;for _=0,3 do if 2>_ then if _>=-1 then for p=45,68 do if _<1 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end else if _>=0 then for h=23,89 do if _>2 then if l[e[d]]then n=n+1;else n=e[t];end;break;end;p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];break;end;else p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];end end end end end end end else if _<=9 then if 4>=_ then if 1<_ then if _<=2 then l[e[d]]=l[e[t]]-l[e[h]];else if 1<_ then for o=36,82 do if _~=4 then local n=e[d];do return l[n](g(l,n+1,e[t]))end;break;end;local o=k[e[t]];local g;local _={};g=p.cbSrfdHB({},{__index=function(n,e)local e=_[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=_[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=f[n];if e[y]==19 then _[d-1]={l,e[t]};else _[d-1]={a,e[t]};end;s[#s+1]=_;end;l[e[d]]=u(o,g,r);break;end;else local o=k[e[t]];local g;local _={};g=p.cbSrfdHB({},{__index=function(n,e)local e=_[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=_[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=f[n];if e[y]==19 then _[d-1]={l,e[t]};else _[d-1]={a,e[t]};end;s[#s+1]=_;end;l[e[d]]=u(o,g,r);end end else if-4~=_ then repeat if _~=0 then local e=e[d]l[e]=l[e](g(l,e+1,o))break;end;local e=e[d]l[e]=l[e](l[e+1])until true;else local e=e[d]l[e]=l[e](g(l,e+1,o))end end else if _<7 then if _==5 then l[e[d]]=l[e[t]]%l[e[h]];else r[e[t]]=l[e[d]];end else if 7>=_ then l[e[d]]();else if 7~=_ then for p=42,71 do if _~=8 then local p,o,g,_,r,h;l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p]=l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];do return l[e[d]]end n=n+1;e=f[n];p=e[d];o={};for e=1,#s do g=s[e];for e=0,#g do _=g[e];r=_[1];h=_[2];if r==l and h>=p then o[h]=r[h];_[1]=o;end;end;end;n=n+1;e=f[n];n=e[t];break;end;l[e[d]]=l[e[t]]%l[e[h]];break;end;else local p,r,o,_,g,h;l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p]=l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];do return l[e[d]]end n=n+1;e=f[n];p=e[d];r={};for e=1,#s do o=s[e];for e=0,#o do _=o[e];g=_[1];h=_[2];if g==l and h>=p then r[h]=g[h];_[1]=r;end;end;end;n=n+1;e=f[n];n=e[t];end end end end else if 14>=_ then if _<12 then if _>9 then repeat if _<11 then for p=0,6 do if p<=2 then if 0>=p then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];else if 1==p then l(e[d],e[t]);n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end end else if 4>=p then if p==3 then l(e[d],e[t]);n=n+1;e=f[n];else l[e[d]]=#l[e[t]];n=n+1;e=f[n];end else if 4~=p then repeat if 5~=p then l(e[d],e[t]);break;end;l[e[d]]=l[e[t]]-l[e[h]];n=n+1;e=f[n];until true;else l(e[d],e[t]);end end end end break;end;local e=e[d]l[e]=l[e](g(l,e+1,o))until true;else for p=0,6 do if p<=2 then if 0>=p then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];else if 1==p then l(e[d],e[t]);n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end end else if 4>=p then if p==3 then l(e[d],e[t]);n=n+1;e=f[n];else l[e[d]]=#l[e[t]];n=n+1;e=f[n];end else if 4~=p then repeat if 5~=p then l(e[d],e[t]);break;end;l[e[d]]=l[e[t]]-l[e[h]];n=n+1;e=f[n];until true;else l(e[d],e[t]);end end end end end else if _>12 then if _>12 then for p=21,52 do if 14~=_ then local y,o,r,a,y,p,s,_,k,c,u,b,h;p=0;while p>-1 do if p>2 then if 5>p then if 4~=p then a=_[r];else h=_[o];end else if 5~=p then p=-2;else l(h,a);end end else if p>0 then if-1<=p then for e=42,75 do if p~=1 then r=t;break;end;o=d;break;end;else o=d;end else _=e;end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if p>=3 then if 5<=p then if 1~=p then repeat if 5~=p then p=-2;break;end;l(h,a);until true;else l(h,a);end else if 1<=p then repeat if 4>p then a=_[r];break;end;h=_[o];until true;else h=_[o];end end else if 0>=p then _=e;else if-3~=p then repeat if 2>p then o=d;break;end;r=t;until true;else r=t;end end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if 2<p then if p>=5 then if 6~=p then l(h,a);else p=-2;end else if 0<p then repeat if 4~=p then a=_[r];break;end;h=_[o];until true;else h=_[o];end end else if p>=1 then if p>=-3 then for e=34,72 do if 2>p then o=d;break;end;r=t;break;end;else o=d;end else _=e;end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if p>=3 then if p>=5 then if p~=4 then for e=20,79 do if 6~=p then l(h,a);break;end;p=-2;break;end;else p=-2;end else if p~=0 then repeat if 4>p then a=_[r];break;end;h=_[o];until true;else a=_[r];end end else if p<1 then _=e;else if p>=-1 then repeat if p<2 then o=d;break;end;r=t;until true;else r=t;end end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if 2<p then if 4<p then if p~=1 then repeat if p>5 then p=-2;break;end;l(h,a);until true;else p=-2;end else if 1<=p then for e=14,98 do if p>3 then h=_[o];break;end;a=_[r];break;end;else a=_[r];end end else if p<=0 then _=e;else if p~=2 then o=d;else r=t;end end end p=p+1 end n=n+1;e=f[n];s=e[d]l[s]=l[s](g(l,s+1,e[t]))n=n+1;e=f[n];p=0;while p>-1 do if p<=3 then if 1<p then if 2~=p then u=l;else c=t;end else if 0==p then _=e;else k=d;end end else if 6<=p then if p>2 then repeat if p~=7 then l[h]=b;break;end;p=-2;until true;else l[h]=b;end else if 1~=p then repeat if 5>p then b=u[_[c]];break;end;h=_[k];until true;else b=u[_[c]];end end end p=p+1 end break;end;local p;for _=0,2 do if 1<=_ then if _~=1 then l[e[d]][l[e[t]]]=l[e[h]];else l[e[d]]=l[e[t]]-e[h];n=n+1;e=f[n];end else p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];end end break;end;else local y,o,r,a,y,p,b,_,k,u,c,s,h;p=0;while p>-1 do if p>2 then if 5>p then if 4~=p then a=_[r];else h=_[o];end else if 5~=p then p=-2;else l(h,a);end end else if p>0 then if-1<=p then for e=42,75 do if p~=1 then r=t;break;end;o=d;break;end;else o=d;end else _=e;end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if p>=3 then if 5<=p then if 1~=p then repeat if 5~=p then p=-2;break;end;l(h,a);until true;else l(h,a);end else if 1<=p then repeat if 4>p then a=_[r];break;end;h=_[o];until true;else h=_[o];end end else if 0>=p then _=e;else if-3~=p then repeat if 2>p then o=d;break;end;r=t;until true;else r=t;end end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if 2<p then if p>=5 then if 6~=p then l(h,a);else p=-2;end else if 0<p then repeat if 4~=p then a=_[r];break;end;h=_[o];until true;else h=_[o];end end else if p>=1 then if p>=-3 then for e=34,72 do if 2>p then o=d;break;end;r=t;break;end;else o=d;end else _=e;end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if p>=3 then if p>=5 then if p~=4 then for e=20,79 do if 6~=p then l(h,a);break;end;p=-2;break;end;else p=-2;end else if p~=0 then repeat if 4>p then a=_[r];break;end;h=_[o];until true;else a=_[r];end end else if p<1 then _=e;else if p>=-1 then repeat if p<2 then o=d;break;end;r=t;until true;else r=t;end end end p=p+1 end n=n+1;e=f[n];p=0;while p>-1 do if 2<p then if 4<p then if p~=1 then repeat if p>5 then p=-2;break;end;l(h,a);until true;else p=-2;end else if 1<=p then for e=14,98 do if p>3 then h=_[o];break;end;a=_[r];break;end;else a=_[r];end end else if p<=0 then _=e;else if p~=2 then o=d;else r=t;end end end p=p+1 end n=n+1;e=f[n];b=e[d]l[b]=l[b](g(l,b+1,e[t]))n=n+1;e=f[n];p=0;while p>-1 do if p<=3 then if 1<p then if 2~=p then c=l;else u=t;end else if 0==p then _=e;else k=d;end end else if 6<=p then if p>2 then repeat if p~=7 then l[h]=s;break;end;p=-2;until true;else l[h]=s;end else if 1~=p then repeat if 5>p then s=c[_[u]];break;end;h=_[k];until true;else s=c[_[u]];end end end p=p+1 end end else local e=e[d];local n=l[e];for e=e+1,o do p.VGGhcFsU(n,l[e])end;end end else if _<=17 then if 15<_ then if 17>_ then l[e[d]]();else local p;l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;end else l[e[d]]={};n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);end else if 18<_ then if 16<_ then for n=45,55 do if _~=20 then local f,_,p,r,g,h;local n=0;while n>-1 do if 4<=n then if 6<=n then if 4<n then repeat if 6~=n then n=-2;break;end;l[h]=g;until true;else n=-2;end else if 5~=n then g=r[f[p]];else h=f[_];end end else if 1<n then if n>-1 then repeat if n<3 then p=t;break;end;r=l;until true;else p=t;end else if-1~=n then for l=40,83 do if 0<n then _=d;break;end;f=e;break;end;else f=e;end end end n=n+1 end break;end;for e=e[d],e[t]do l[e]=nil;end;break;end;else local f,_,p,h,r,g;local n=0;while n>-1 do if 4<=n then if 6<=n then if 4<n then repeat if 6~=n then n=-2;break;end;l[g]=r;until true;else n=-2;end else if 5~=n then r=h[f[p]];else g=f[_];end end else if 1<n then if n>-1 then repeat if n<3 then p=t;break;end;h=l;until true;else p=t;end else if-1~=n then for l=40,83 do if 0<n then _=d;break;end;f=e;break;end;else f=e;end end end n=n+1 end end else l[e[d]]={};end end end end end else if _<=62 then if 52<=_ then if _<=56 then if _<54 then if 51~=_ then for p=24,96 do if _~=52 then if l[e[d]]then n=n+1;else n=e[t];end;break;end;local p;for _=0,6 do if _<3 then if _>=1 then if _>0 then repeat if 1<_ then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else l[e[d]][e[t]]=l[e[h]];n=n+1;e=f[n];end else if _>4 then if 6~=_ then l[e[d]]=l[e[t]];n=n+1;e=f[n];else p=e[d]l[p](g(l,p+1,e[t]))end else if 3==_ then l[e[d]]=a[e[t]];n=n+1;e=f[n];else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end end end end break;end;else local _;for p=0,6 do if p<3 then if p>=1 then if p>0 then repeat if 1<p then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;_=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else l[e[d]][e[t]]=l[e[h]];n=n+1;e=f[n];end else if p>4 then if 6~=p then l[e[d]]=l[e[t]];n=n+1;e=f[n];else _=e[d]l[_](g(l,_+1,e[t]))end else if 3==p then l[e[d]]=a[e[t]];n=n+1;e=f[n];else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end end end end end else if _<55 then local p;l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]={};n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);else if _==55 then l[e[d]]=l[e[t]]%e[h];else local p;l(e[d],e[t]);n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);end end end else if _<=59 then if 57<_ then if _>55 then repeat if 59~=_ then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;break;end;local p,_,g;for h=0,2 do if h>=1 then if 2~=h then l(e[d],e[t]);n=n+1;e=f[n];else p=e[d];_=l[p]g=l[p+2];if(g>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end else l[e[d]]=#l[e[t]];n=n+1;e=f[n];end end until true;else local p,_,g;for h=0,2 do if h>=1 then if 2~=h then l(e[d],e[t]);n=n+1;e=f[n];else p=e[d];_=l[p]g=l[p+2];if(g>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end else l[e[d]]=#l[e[t]];n=n+1;e=f[n];end end end else if(e[d]<l[e[h]])then n=n+1;else n=e[t];end;end else if 61<=_ then if _>57 then for p=34,62 do if _~=62 then local _;for p=0,6 do if p>=3 then if 5>p then if 1<=p then repeat if p>3 then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else if p~=3 then repeat if p>5 then l[e[d]]=r[e[t]];break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end end else if p>=1 then if 0<=p then repeat if 1<p then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;l[e[d]]=r[e[t]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else _=e[d]l[_](l[_+1])n=n+1;e=f[n];end end end break;end;l[e[d]]=r[e[t]];break;end;else local _;for p=0,6 do if p>=3 then if 5>p then if 1<=p then repeat if p>3 then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else if p~=3 then repeat if p>5 then l[e[d]]=r[e[t]];break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end end else if p>=1 then if 0<=p then repeat if 1<p then l[e[d]]=r[e[t]];n=n+1;e=f[n];break;end;l[e[d]]=r[e[t]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else _=e[d]l[_](l[_+1])n=n+1;e=f[n];end end end end else local _,o,g,s,a,r,p,b;for p=0,5 do if 2>=p then if 0<p then if p~=-3 then for h=40,75 do if p>1 then b=e[d]l[b]=l[b](l[b+1])n=n+1;e=f[n];break;end;p=0;while p>-1 do if 4>p then if p>=2 then if 0~=p then for e=20,62 do if p~=3 then g=t;break;end;s=l;break;end;else g=t;end else if p==1 then o=d;else _=e;end end else if 5<p then if 2~=p then repeat if p<7 then l[r]=a;break;end;p=-2;until true;else p=-2;end else if 0<p then for e=35,77 do if 4~=p then r=_[o];break;end;a=s[_[g]];break;end;else r=_[o];end end end p=p+1 end n=n+1;e=f[n];break;end;else p=0;while p>-1 do if 4>p then if p>=2 then if 0~=p then for e=20,62 do if p~=3 then g=t;break;end;s=l;break;end;else g=t;end else if p==1 then o=d;else _=e;end end else if 5<p then if 2~=p then repeat if p<7 then l[r]=a;break;end;p=-2;until true;else p=-2;end else if 0<p then for e=35,77 do if 4~=p then r=_[o];break;end;a=s[_[g]];break;end;else r=_[o];end end end p=p+1 end n=n+1;e=f[n];end else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end else if 3<p then if p>=2 then repeat if p~=5 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;l[e[d]][l[e[t]]]=l[e[h]];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end else l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];end end end end end end else if 46>=_ then if 43<_ then if 44>=_ then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;else if _>=41 then repeat if 45<_ then local n=e[d]l[n]=l[n](g(l,n+1,e[t]))break;end;local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[h]];until true;else local n=e[d];local d=l[e[t]];l[n+1]=d;l[n]=d[e[h]];end end else if _~=40 then repeat if 42<_ then do return end;break;end;local _,a,u,s,k,c,p,z,y,h;for p=0,5 do if p>2 then if p<=3 then l[e[d]]=r[e[t]];n=n+1;e=f[n];else if p~=4 then _=e[d]l[_]=l[_](g(l,_+1,o))else _=e[d]z,y=b(l[_](g(l,_+1,e[t])))o=y+_-1 h=0;for e=_,o do h=h+1;l[e]=z[h];end;n=n+1;e=f[n];end end else if 0>=p then _=e[d]l[_]=l[_](l[_+1])n=n+1;e=f[n];else if 0<p then for h=30,85 do if p>1 then p=0;while p>-1 do if 3>p then if p>0 then if p~=-3 then repeat if p>1 then s=t;break;end;u=d;until true;else s=t;end else a=e;end else if 4<p then if 4<p then for e=28,94 do if p>5 then p=-2;break;end;l(c,k);break;end;else p=-2;end else if 4>p then k=a[s];else c=a[u];end end end p=p+1 end n=n+1;e=f[n];break;end;_=e[d]l[_]=l[_]()n=n+1;e=f[n];break;end;else _=e[d]l[_]=l[_]()n=n+1;e=f[n];end end end end until true;else local _,s,z,a,u,c,p,y,k,h;for p=0,5 do if p>2 then if p<=3 then l[e[d]]=r[e[t]];n=n+1;e=f[n];else if p~=4 then _=e[d]l[_]=l[_](g(l,_+1,o))else _=e[d]y,k=b(l[_](g(l,_+1,e[t])))o=k+_-1 h=0;for e=_,o do h=h+1;l[e]=y[h];end;n=n+1;e=f[n];end end else if 0>=p then _=e[d]l[_]=l[_](l[_+1])n=n+1;e=f[n];else if 0<p then for h=30,85 do if p>1 then p=0;while p>-1 do if 3>p then if p>0 then if p~=-3 then repeat if p>1 then a=t;break;end;z=d;until true;else a=t;end else s=e;end else if 4<p then if 4<p then for e=28,94 do if p>5 then p=-2;break;end;l(c,u);break;end;else p=-2;end else if 4>p then u=s[a];else c=s[z];end end end p=p+1 end n=n+1;e=f[n];break;end;_=e[d]l[_]=l[_]()n=n+1;e=f[n];break;end;else _=e[d]l[_]=l[_]()n=n+1;e=f[n];end end end end end end else if _>48 then if _>=50 then if _>=47 then repeat if _<51 then n=e[t];break;end;if(l[e[d]]==l[e[h]])then n=n+1;else n=e[t];end;until true;else n=e[t];end else local o,a,g,f,_,r,p;local n=0;while n>-1 do if 3>n then if 1>n then o=d;a=t;g=h;else if-2~=n then for l=20,79 do if n~=1 then _=f[a];break;end;f=e;break;end;else f=e;end end else if n>=5 then if 6==n then n=-2;else l[r]=p;end else if n==4 then p=l[_];for e=1+_,f[g]do p=p..l[e];end;else r=f[o];end end end n=n+1 end end else if _>43 then for n=40,67 do if _>47 then local e=e[d]l[e](l[e+1])break;end;l[e[d]]=(e[t]~=0);break;end;else l[e[d]]=(e[t]~=0);end end end end else if _<74 then if _<=67 then if 65>_ then if _~=61 then for p=45,62 do if _~=64 then local p;l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[d],e[t]do l[e]=nil;end;break;end;local n=e[d];do return l[n](g(l,n+1,e[t]))end;break;end;else local p;l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[d],e[t]do l[e]=nil;end;end else if 66<=_ then if 62<_ then repeat if 67>_ then local e=e[d]l[e]=l[e]()break;end;for p=0,1 do if p>-2 then repeat if p>0 then if(l[e[d]]==l[e[h]])then n=n+1;else n=e[t];end;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end end until true;else local e=e[d]l[e]=l[e]()end else local e=e[d];o=e+z-1;for n=e,o do local e=c[n-e];l[n]=e;end;end end else if 70>=_ then if _<69 then if not l[e[d]]then n=n+1;else n=e[t];end;else if 67<=_ then repeat if 69<_ then local n=e[d]local d,e=b(l[n](g(l,n+1,e[t])))o=e+n-1 local e=0;for n=n,o do e=e+1;l[n]=d[e];end;break;end;local p,_,s,g,r,b,a,o,c;local f=0;while f>-1 do if 2<f then if f<=4 then if f~=2 then for e=18,84 do if f<4 then a=p[g];o=p[r];break;end;c=a==o and _[b]or 1+s;break;end;else a=p[g];o=p[r];end else if 1<=f then repeat if f>5 then f=-2;break;end;n=c;until true;else f=-2;end end else if 1<=f then if 1~=f then g=_[d];r=_[h];b=t;else _=e;s=n;end else p=l;end end f=f+1 end until true;else local p,_,b,g,r,c,o,a,s;local f=0;while f>-1 do if 2<f then if f<=4 then if f~=2 then for e=18,84 do if f<4 then o=p[g];a=p[r];break;end;s=o==a and _[c]or 1+b;break;end;else o=p[g];a=p[r];end else if 1<=f then repeat if f>5 then f=-2;break;end;n=s;until true;else f=-2;end end else if 1<=f then if 1~=f then g=_[d];r=_[h];c=t;else _=e;b=n;end else p=l;end end f=f+1 end end end else if _<72 then for p=0,1 do if-4<=p then for _=46,74 do if 1>p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l[e[d]]=r[e[t]];break;end;else l[e[d]]=r[e[t]];end end else if 72~=_ then local t,g,_;for h=0,1 do if-4<=h then for r=26,84 do if 0~=h then t=e[d];_=l[t];for e=t+1,o do p.VGGhcFsU(_,l[e])end;break;end;t=e[d];o=t+z-1;for e=t,o do g=c[e-t];l[e]=g;end;n=n+1;e=f[n];break;end;else t=e[d];_=l[t];for e=t+1,o do p.VGGhcFsU(_,l[e])end;end end else do return l[e[d]]end end end end end else if _>=79 then if 82>_ then if _<=79 then l[e[d]]=l[e[t]]-e[h];else if _>76 then repeat if _<81 then if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;break;end;local p;p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);until true;else local p;p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);end end else if 83<=_ then if 80~=_ then repeat if 84~=_ then local d=e[d];local p=l[d+2];local f=l[d]+p;l[d]=f;if(p>0)then if(f<=l[d+1])then n=e[t];l[d+3]=f;end elseif(f>=l[d+1])then n=e[t];l[d+3]=f;end break;end;l[e[d]]=l[e[t]]-e[h];until true;else local d=e[d];local p=l[d+2];local f=l[d]+p;l[d]=f;if(p>0)then if(f<=l[d+1])then n=e[t];l[d+3]=f;end elseif(f>=l[d+1])then n=e[t];l[d+3]=f;end end else local p,_,b,s,a,c,r,o,g;local f=0;while f>-1 do if 2<f then if f<=4 then if 1<=f then for e=13,60 do if 4>f then r=p[s];o=p[a];break;end;g=r==o and _[c]or 1+b;break;end;else r=p[s];o=p[a];end else if 1<=f then for e=20,53 do if 5~=f then f=-2;break;end;n=g;break;end;else n=g;end end else if 0>=f then p=l;else if f==1 then _=e;b=n;else s=_[d];a=_[h];c=t;end end end f=f+1 end end end else if _>75 then if _>=77 then if _~=75 then for p=12,62 do if _~=77 then l[e[d]]=l[e[t]][e[h]];break;end;local p;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];p=e[d]l[p]=l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=#l[e[t]];n=n+1;e=f[n];if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;break;end;else local p;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];p=e[d]l[p]=l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=#l[e[t]];n=n+1;e=f[n];if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;end else l[e[d]]=l[e[t]]+e[h];end else if _==75 then if(l[e[d]]==l[e[h]])then n=n+1;else n=e[t];end;else l[e[d]]=l[e[t]][e[h]];end end end end end end else if _>=128 then if _>148 then if 159<_ then if _<165 then if _<=161 then if _>=159 then repeat if 160~=_ then local f,r,h,_,p,g;local n=0;while n>-1 do if n<=3 then if 2>n then if n==1 then r=d;else f=e;end else if n~=2 then _=l;else h=t;end end else if n>=6 then if 2~=n then repeat if 6~=n then n=-2;break;end;l[g]=p;until true;else n=-2;end else if n==4 then p=_[f[h]];else g=f[r];end end end n=n+1 end break;end;l[e[d]][l[e[t]]]=l[e[h]];until true;else local f,g,r,p,_,h;local n=0;while n>-1 do if n<=3 then if 2>n then if n==1 then g=d;else f=e;end else if n~=2 then p=l;else r=t;end end else if n>=6 then if 2~=n then repeat if 6~=n then n=-2;break;end;l[h]=_;until true;else n=-2;end else if n==4 then _=p[f[r]];else h=f[g];end end end n=n+1 end end else if 162>=_ then if not l[e[d]]then n=n+1;else n=e[t];end;else if 159<=_ then for n=36,55 do if 164~=_ then l[e[d]]=(e[t]~=0);break;end;local n=e[d];local d=l[n];for e=n+1,e[t]do p.VGGhcFsU(d,l[e])end;break;end;else l[e[d]]=(e[t]~=0);end end end else if _<168 then if _>=166 then if _~=163 then repeat if _~=166 then if(e[d]<l[e[h]])then n=n+1;else n=e[t];end;break;end;l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];until true;else if(e[d]<l[e[h]])then n=n+1;else n=e[t];end;end else for p=0,3 do if p>1 then if p~=2 then if l[e[d]]then n=n+1;else n=e[t];end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end else if-3<p then repeat if p~=1 then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end else if 169<=_ then if 169==_ then local _;for p=0,6 do if 3<=p then if 5<=p then if p~=4 then for h=34,81 do if 6~=p then _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]];break;end;else l[e[d]]=l[e[t]];end else if 3~=p then l(e[d],e[t]);n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end end else if 0<p then if p~=-2 then repeat if 2>p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];until true;else l(e[d],e[t]);n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end end end else local p,r,a,h,b,_;p=e[d];do return l[p](g(l,p+1,e[t]))end;n=n+1;e=f[n];p=e[d];do return g(l,p,o)end;n=n+1;e=f[n];p=e[d];r={};for e=1,#s do a=s[e];for e=0,#a do h=a[e];b=h[1];_=h[2];if b==l and _>=p then r[_]=b[_];h[1]=r;end;end;end;end else l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);end end end else if _<=153 then if _<=150 then if 147~=_ then repeat if 149<_ then local f,p,g,h,_;local n=0;while n>-1 do if n<3 then if n>=1 then if n~=-2 then repeat if n>1 then g=t;break;end;p=d;until true;else p=d;end else f=e;end else if n<5 then if n>=0 then for e=46,96 do if n~=4 then h=f[g];break;end;_=f[p];break;end;else _=f[p];end else if 4~=n then for e=24,72 do if 5<n then n=-2;break;end;l(_,h);break;end;else l(_,h);end end end n=n+1 end break;end;l[e[d]]=u(k[e[t]],nil,r);until true;else local _,p,g,h,f;local n=0;while n>-1 do if n<3 then if n>=1 then if n~=-2 then repeat if n>1 then g=t;break;end;p=d;until true;else p=d;end else _=e;end else if n<5 then if n>=0 then for e=46,96 do if n~=4 then h=_[g];break;end;f=_[p];break;end;else f=_[p];end else if 4~=n then for e=24,72 do if 5<n then n=-2;break;end;l(f,h);break;end;else l(f,h);end end end n=n+1 end end else if _<152 then local _,o,u,s,b,c,k,p;l[e[d]][e[t]]=l[e[h]];n=n+1;e=f[n];_=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];p=0;while p>-1 do if 3<p then if p>=6 then if 4<p then for e=41,52 do if 6<p then p=-2;break;end;l[k]=c;break;end;else p=-2;end else if p~=0 then for e=25,86 do if 4<p then k=o[u];break;end;c=b[o[s]];break;end;else c=b[o[s]];end end else if 2<=p then if 2<p then b=l;else s=t;end else if-3<=p then repeat if p>0 then u=d;break;end;o=e;until true;else o=e;end end end p=p+1 end n=n+1;e=f[n];_=e[d]l[_](g(l,_+1,e[t]))else if _>152 then a[e[t]]=l[e[d]];else l[e[d]]=l[e[t]]+l[e[h]];end end end else if 157<=_ then if _>157 then if _>=155 then repeat if 159~=_ then if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;break;end;local _,g;for p=0,6 do if 3<=p then if 4>=p then if p>=-1 then for r=32,87 do if p~=4 then l[e[d]]=a[e[t]];n=n+1;e=f[n];break;end;_=e[d];g=l[e[t]];l[_+1]=g;l[_]=g[e[h]];n=n+1;e=f[n];break;end;else l[e[d]]=a[e[t]];n=n+1;e=f[n];end else if p==6 then l[e[d]]=l[e[t]];else l[e[d]]=l[e[t]];n=n+1;e=f[n];end end else if 1>p then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if p~=-2 then repeat if p~=2 then l[e[d]]=l[e[t]]%l[e[h]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]]+e[h];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]]+e[h];n=n+1;e=f[n];end end end end until true;else local _,g;for p=0,6 do if 3<=p then if 4>=p then if p>=-1 then for r=32,87 do if p~=4 then l[e[d]]=a[e[t]];n=n+1;e=f[n];break;end;_=e[d];g=l[e[t]];l[_+1]=g;l[_]=g[e[h]];n=n+1;e=f[n];break;end;else l[e[d]]=a[e[t]];n=n+1;e=f[n];end else if p==6 then l[e[d]]=l[e[t]];else l[e[d]]=l[e[t]];n=n+1;e=f[n];end end else if 1>p then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if p~=-2 then repeat if p~=2 then l[e[d]]=l[e[t]]%l[e[h]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]]+e[h];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]]+e[h];n=n+1;e=f[n];end end end end end else local p;l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]=l[e[t]];end else if 154<_ then if _>154 then repeat if 155<_ then for p=0,6 do if p>=3 then if 4>=p then if p~=0 then for _=39,54 do if 4>p then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];break;end;r[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end else if 3<=p then repeat if p>5 then r[e[t]]=l[e[d]];break;end;l[e[d]]=(e[t]~=0);n=n+1;e=f[n];until true;else l[e[d]]=(e[t]~=0);n=n+1;e=f[n];end end else if 0<p then if p>=-2 then repeat if 2>p then r[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;l[e[d]]=r[e[t]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end end end break;end;for p=0,6 do if 3>p then if p<=0 then l[e[d]]={};n=n+1;e=f[n];else if-2~=p then repeat if p>1 then l[e[d]]={};n=n+1;e=f[n];break;end;l[e[d]]={};n=n+1;e=f[n];until true;else l[e[d]]={};n=n+1;e=f[n];end end else if p>4 then if p>5 then l(e[d],e[t]);else l(e[d],e[t]);n=n+1;e=f[n];end else if 0<p then repeat if 3<p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end until true;else for p=0,6 do if p>=3 then if 4>=p then if p~=0 then for _=39,54 do if 4>p then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];break;end;r[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end else if 3<=p then repeat if p>5 then r[e[t]]=l[e[d]];break;end;l[e[d]]=(e[t]~=0);n=n+1;e=f[n];until true;else l[e[d]]=(e[t]~=0);n=n+1;e=f[n];end end else if 0<p then if p>=-2 then repeat if 2>p then r[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;l[e[d]]=r[e[t]];n=n+1;e=f[n];until true;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end end end end else l[e[d]][l[e[t]]]=l[e[h]];end end end end else if 137>=_ then if 132>=_ then if _>129 then if _>=131 then if _~=131 then do return end;else local n=e[d]l[n](g(l,n+1,e[t]))end else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;end else if 129>_ then local n=e[d]l[n]=l[n](g(l,n+1,e[t]))else local e=e[d];do return g(l,e,o)end;end end else if 134>=_ then if 131~=_ then repeat if 134~=_ then local p;l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[d],e[t]do l[e]=nil;end;break;end;a[e[t]]=l[e[d]];until true;else a[e[t]]=l[e[d]];end else if 135>=_ then local e=e[d];do return g(l,e,o)end;else if 133~=_ then repeat if _~=137 then local e=e[d]l[e]=l[e]()break;end;l[e[d]]=#l[e[t]];until true;else l[e[d]]=#l[e[t]];end end end end else if 143>_ then if _<=139 then if _~=137 then for n=11,77 do if 139~=_ then local e=e[d];o=e+z-1;for n=e,o do local e=c[n-e];l[n]=e;end;break;end;l[e[d]]=l[e[t]]*e[h];break;end;else l[e[d]]=l[e[t]]*e[h];end else if _>140 then if 139~=_ then for n=30,70 do if _>141 then for e=e[d],e[t]do l[e]=nil;end;break;end;local f=e[d];local t={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=f then t[e]=d[e];n[1]=t;end;end;end;break;end;else local f=e[d];local t={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=f then t[e]=d[e];n[1]=t;end;end;end;end else local e=e[d]local d,n=b(l[e](l[e+1]))o=n+e-1 local n=0;for e=e,o do n=n+1;l[e]=d[n];end;end end else if 146<=_ then if 147>_ then l[e[d]][e[t]]=l[e[h]];else if 145~=_ then for h=42,83 do if _<148 then l[e[d]]={};break;end;local _,h;for r=0,1 do if r~=1 then _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];else _=e[d];h=l[_];for e=_+1,e[t]do p.VGGhcFsU(h,l[e])end;end end break;end;else local _,h;for r=0,1 do if r~=1 then _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];else _=e[d];h=l[_];for e=_+1,e[t]do p.VGGhcFsU(h,l[e])end;end end end end else if _>=144 then if 145>_ then local a,o,g,_,r,p;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];do return l[e[d]]end n=n+1;e=f[n];a=e[d];o={};for e=1,#s do g=s[e];for e=0,#g do _=g[e];r=_[1];p=_[2];if r==l and p>=a then o[p]=r[p];_[1]=o;end;end;end;else local _,s,r,c,b,o,p,g;l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];p=0;while p>-1 do if p<=3 then if p>=2 then if p~=-2 then repeat if p>2 then c=l;break;end;r=t;until true;else r=t;end else if p>=-3 then for n=37,88 do if p<1 then _=e;break;end;s=d;break;end;else _=e;end end else if p<=5 then if p>0 then repeat if 5~=p then b=c[_[r]];break;end;o=_[s];until true;else o=_[s];end else if p>2 then for e=34,66 do if p>6 then p=-2;break;end;l[o]=b;break;end;else p=-2;end end end p=p+1 end n=n+1;e=f[n];g=e[d]l[g]=l[g](l[g+1])n=n+1;e=f[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];do return end;end else if l[e[d]]then n=n+1;else n=e[t];end;end end end end end else if 106<=_ then if _<117 then if 111<=_ then if 114<=_ then if 114>=_ then local p,_;p=e[d];_=l[e[t]];l[p+1]=_;l[p]=_[e[h]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]]*e[h];else if _>113 then repeat if _~=116 then local _;for p=0,6 do if p<3 then if p>0 then if p~=-3 then for _=23,91 do if 1<p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end else if p>4 then if 6==p then l(e[d],e[t]);else l(e[d],e[t]);n=n+1;e=f[n];end else if 3<p then l[e[d]]=l[e[t]];n=n+1;e=f[n];else _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];end end end end break;end;for p=0,1 do if 1~=p then l[e[d]]=r[e[t]];n=n+1;e=f[n];else if not l[e[d]]then n=n+1;else n=e[t];end;end end until true;else local _;for p=0,6 do if p<3 then if p>0 then if p~=-3 then for _=23,91 do if 1<p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end else if p>4 then if 6==p then l(e[d],e[t]);else l(e[d],e[t]);n=n+1;e=f[n];end else if 3<p then l[e[d]]=l[e[t]];n=n+1;e=f[n];else _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];end end end end end end else if _>=112 then if _>112 then for p=0,1 do if p~=0 then if not l[e[d]]then n=n+1;else n=e[t];end;else l[e[d]]=r[e[t]];n=n+1;e=f[n];end end else local p,_,r;for g=0,4 do if 2<=g then if 3>g then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if 4~=g then l(e[d],e[t]);n=n+1;e=f[n];else p=e[d];_=l[p]r=l[p+2];if(r>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end end else if-4<=g then for p=20,64 do if g~=1 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end end end end else l[e[d]]=#l[e[t]];end end else if _>=108 then if 108>=_ then local a,g,r,p,_,o,f;local n=0;while n>-1 do if n<=2 then if n<1 then a=d;g=t;r=h;else if n~=2 then p=e;else _=p[g];end end else if 5>n then if n~=3 then f=l[_];for e=1+_,p[r]do f=f..l[e];end;else o=p[a];end else if n~=1 then for e=39,74 do if n~=6 then l[o]=f;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end else if 105~=_ then repeat if 110~=_ then local f=e[d];local t={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=f then t[e]=d[e];n[1]=t;end;end;end;break;end;l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]={};until true;else local f=e[d];local t={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=f then t[e]=d[e];n[1]=t;end;end;end;end end else if _>=104 then for p=47,96 do if _>106 then local p;l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=a[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))break;end;l[e[d]]=l[e[t]]-l[e[h]];break;end;else l[e[d]]=l[e[t]]-l[e[h]];end end end else if _<=121 then if 118>=_ then if _>=113 then repeat if 118~=_ then do return l[e[d]]end break;end;local p;l(e[d],e[t]);n=n+1;e=f[n];p=e[d]l[p](l[p+1])n=n+1;e=f[n];l[e[d]]=r[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;n=n+1;e=f[n];for e=e[d],e[t]do l[e]=nil;end;until true;else do return l[e[d]]end end else if 119>=_ then local _,c,s,a,o,p,g,b,u;for p=0,6 do if p<=2 then if p>0 then if p~=-1 then for _=26,52 do if p<2 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];break;end;l[e[d]]={};n=n+1;e=f[n];break;end;else l[e[d]]={};n=n+1;e=f[n];end else l[e[d]]=r[e[t]];n=n+1;e=f[n];end else if 4<p then if p~=4 then for h=17,93 do if 6>p then p=0;while p>-1 do if p<=2 then if 1<=p then if p~=1 then s=t;else c=d;end else _=e;end else if p>4 then if 2<p then for e=26,62 do if p~=6 then l(o,a);break;end;p=-2;break;end;else l(o,a);end else if p>0 then repeat if 3~=p then o=_[c];break;end;a=_[s];until true;else a=_[s];end end end p=p+1 end n=n+1;e=f[n];break;end;g=e[d];b=l[g]u=l[g+2];if(u>0)then if(b>l[g+1])then n=e[t];else l[g+3]=b;end elseif(b<l[g+1])then n=e[t];else l[g+3]=b;end break;end;else g=e[d];b=l[g]u=l[g+2];if(u>0)then if(b>l[g+1])then n=e[t];else l[g+3]=b;end elseif(b<l[g+1])then n=e[t];else l[g+3]=b;end end else if p>1 then for h=32,77 do if 3~=p then p=0;while p>-1 do if p<=2 then if p>0 then if-2<=p then for e=41,57 do if p~=1 then s=t;break;end;c=d;break;end;else s=t;end else _=e;end else if 5>p then if 2<p then for e=24,76 do if p>3 then o=_[c];break;end;a=_[s];break;end;else o=_[c];end else if p>=2 then for e=25,53 do if 5~=p then p=-2;break;end;l(o,a);break;end;else l(o,a);end end end p=p+1 end n=n+1;e=f[n];break;end;p=0;while p>-1 do if p<=2 then if p<=0 then _=e;else if p~=2 then c=d;else s=t;end end else if 5>p then if 3~=p then o=_[c];else a=_[s];end else if p~=6 then l(o,a);else p=-2;end end end p=p+1 end n=n+1;e=f[n];break;end;else p=0;while p>-1 do if p<=2 then if p>0 then if-2<=p then for e=41,57 do if p~=1 then s=t;break;end;c=d;break;end;else s=t;end else _=e;end else if 5>p then if 2<p then for e=24,76 do if p>3 then o=_[c];break;end;a=_[s];break;end;else o=_[c];end else if p>=2 then for e=25,53 do if 5~=p then p=-2;break;end;l(o,a);break;end;else l(o,a);end end end p=p+1 end n=n+1;e=f[n];end end end end else if 121==_ then local n=e[d]l[n](g(l,n+1,e[t]))else local n=e[d];local d=l[n];for e=n+1,e[t]do p.VGGhcFsU(d,l[e])end;end end end else if 124<_ then if _>=126 then if 125~=_ then repeat if _>126 then local p,_,h;for g=0,2 do if g>=1 then if g>-1 then for r=34,88 do if g<2 then l(e[d],e[t]);n=n+1;e=f[n];break;end;p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end break;end;else p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end else l(e[d],e[t]);n=n+1;e=f[n];end end break;end;l[e[d]]=r[e[t]];until true;else local p,_,h;for g=0,2 do if g>=1 then if g>-1 then for r=34,88 do if g<2 then l(e[d],e[t]);n=n+1;e=f[n];break;end;p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end break;end;else p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end else l(e[d],e[t]);n=n+1;e=f[n];end end end else local p;for _=0,1 do if _>=-2 then for h=38,73 do if 1>_ then p=e[d]l[p]=l[p]()n=n+1;e=f[n];break;end;if l[e[d]]then n=n+1;else n=e[t];end;break;end;else if l[e[d]]then n=n+1;else n=e[t];end;end end end else if 123>_ then n=e[t];else if 120<_ then for p=25,61 do if _~=123 then l[e[d]]=l[e[t]][l[e[h]]];break;end;local p;for _=0,6 do if 3<=_ then if 5>_ then if 4>_ then l(e[d],e[t]);n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end else if 3<=_ then for h=48,71 do if _~=5 then p=e[d]l[p]=l[p](g(l,p+1,e[t]))break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else p=e[d]l[p]=l[p](g(l,p+1,e[t]))end end else if 1>_ then l[e[d]]=l[e[t]];n=n+1;e=f[n];else if _~=0 then for p=48,95 do if _~=2 then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end end end end break;end;else l[e[d]]=l[e[t]][l[e[h]]];end end end end end else if 94<_ then if 99>=_ then if _>96 then if _>=98 then if 95<=_ then for g=14,59 do if _>98 then local e=e[d];local n=l[e];for e=e+1,o do p.VGGhcFsU(n,l[e])end;break;end;local o=k[e[t]];local g;local _={};g=p.cbSrfdHB({},{__index=function(n,e)local e=_[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=_[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=f[n];if e[y]==19 then _[d-1]={l,e[t]};else _[d-1]={a,e[t]};end;s[#s+1]=_;end;l[e[d]]=u(o,g,r);break;end;else local o=k[e[t]];local g;local _={};g=p.cbSrfdHB({},{__index=function(n,e)local e=_[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=_[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=f[n];if e[y]==19 then _[d-1]={l,e[t]};else _[d-1]={a,e[t]};end;s[#s+1]=_;end;l[e[d]]=u(o,g,r);end else l[e[d]]=l[e[t]]+e[h];end else if _~=93 then repeat if _<96 then l[e[d]]=l[e[t]]%e[h];break;end;for p=0,6 do if p>=3 then if p<5 then if 0<=p then repeat if p<4 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;l[e[d]]=(e[t]~=0);n=n+1;e=f[n];until true;else l[e[d]]=(e[t]~=0);n=n+1;e=f[n];end else if 6==p then l[e[d]]=l[e[t]][e[h]];else l[e[d]]=a[e[t]];n=n+1;e=f[n];end end else if p<=0 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];else if p~=2 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];else l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];end end end end until true;else l[e[d]]=l[e[t]]%e[h];end end else if _<=102 then if _<101 then for p=0,1 do if p>-4 then for _=29,61 do if 0~=p then if l[e[d]]then n=n+1;else n=e[t];end;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;else if l[e[d]]then n=n+1;else n=e[t];end;end end else if 101<_ then local p,_,h;for g=0,2 do if 0>=g then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if-2<=g then for r=18,52 do if g>1 then p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end end end else local _;for p=0,6 do if p>=3 then if p>=5 then if p~=4 then for _=49,95 do if 6>p then l[e[d]]=l[e[t]];n=n+1;e=f[n];break;end;l(e[d],e[t]);break;end;else l(e[d],e[t]);end else if p~=3 then _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];else l(e[d],e[t]);n=n+1;e=f[n];end end else if 1>p then l(e[d],e[t]);n=n+1;e=f[n];else if-3<=p then repeat if 2>p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end end end else if _>=104 then if 102~=_ then repeat if _~=104 then l[e[d]]=a[e[t]];break;end;if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;until true;else l[e[d]]=a[e[t]];end else local g,_;for p=0,6 do if p<3 then if 1>p then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];else if-1<=p then repeat if p~=1 then l[e[d]]=l[e[t]];n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=f[n];until true;else l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=f[n];end end else if 4<p then if 2<=p then repeat if 6>p then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];break;end;g=e[t];_=l[g]for e=g+1,e[h]do _=_..l[e];end;l[e[d]]=_;until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];end else if 3<p then l[e[d]]=l[e[t]]%e[h];n=n+1;e=f[n];else l[e[d]]=a[e[t]];n=n+1;e=f[n];end end end end end end end else if 89>=_ then if _>86 then if 87>=_ then local _;for p=0,6 do if p<3 then if 1<=p then if 1==p then l(e[d],e[t]);n=n+1;e=f[n];else _=e[d]l[_]=l[_](g(l,_+1,e[t]))n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end else if 4>=p then if 2~=p then for _=38,82 do if p~=4 then l[e[d]]=l[e[t]];n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l[e[d]]=l[e[t]];n=n+1;e=f[n];end else if 4<p then repeat if 6>p then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end else if 85<_ then repeat if 88<_ then r[e[t]]=l[e[d]];break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]();n=n+1;e=f[n];do return end;until true;else r[e[t]]=l[e[d]];end end else if 82<_ then for f=29,87 do if _<86 then l[e[d]]=l[e[t]]*e[h];break;end;local d=e[d];local f=l[d]local p=l[d+2];if(p>0)then if(f>l[d+1])then n=e[t];else l[d+3]=f;end elseif(f<l[d+1])then n=e[t];else l[d+3]=f;end break;end;else l[e[d]]=l[e[t]]*e[h];end end else if _<=91 then if 91>_ then local p,_;p=e[d];_=l[e[t]];l[p+1]=_;l[p]=_[e[h]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];l[e[d]]=l[e[t]];n=n+1;e=f[n];p=e[d]l[p]=l[p](g(l,p+1,e[t]))n=n+1;e=f[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=f[n];p=e[d];_=l[e[t]];l[p+1]=_;l[p]=_[e[h]];n=n+1;e=f[n];l[e[d]]=l[e[t]];else local p,_,h;for g=0,2 do if g<=0 then l[e[d]]=#l[e[t]];n=n+1;e=f[n];else if g<2 then l(e[d],e[t]);n=n+1;e=f[n];else p=e[d];_=l[p]h=l[p+2];if(h>0)then if(_>l[p+1])then n=e[t];else l[p+3]=_;end elseif(_<l[p+1])then n=e[t];else l[p+3]=_;end end end end end else if 92<_ then if _~=89 then for p=37,66 do if _~=93 then local p;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];p=e[d];do return l[p](g(l,p+1,e[t]))end;n=n+1;e=f[n];p=e[d];do return g(l,p,o)end;n=n+1;e=f[n];do return end;break;end;l[e[d]]=l[e[t]][l[e[h]]];break;end;else local p;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=f[n];p=e[d];do return l[p](g(l,p+1,e[t]))end;n=n+1;e=f[n];p=e[d];do return g(l,p,o)end;n=n+1;e=f[n];do return end;end else local d=e[d];local f=l[d]local p=l[d+2];if(p>0)then if(f>l[d+1])then n=e[t];else l[d+3]=f;end elseif(f<l[d+1])then n=e[t];else l[d+3]=f;end end end end end end end end n=1+n;end;end;return le end;local t=0xff;local _={};local p=(1);local d='';(function(n)local l=n local f=0x00 local e=0x00 l={(function(h)if f>0x21 then return h end f=f+1 e=(e+0xc7b-h)%0x3b return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x41);_[p]=pe();p=p+t;end return true end)'jQlch'and l[0x3](0x1e0+h))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x83);end return true end)'nsVij'and l[0x2](h+0xef))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x97);t[2]=(t[2]*(le(function()_()end,g(d))-le(t[1],g(d))))+1;_[p]={};t=t[2];p=p+t;end return true end)'mnjSZ'and l[0x1](h+0x227))or h end),(function(h)if f>0x1e then return h end f=f+1 e=(e+0x506-h)%0x13 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xbd);d={d..'\58 a',d};_[p]=te();p=p+(1);d[1]='\58'..d[1];t[2]=0xff;end return true end)'ojXPp'and l[0x1](0x39c+h))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6e);d='\37';t={function()t()end};d=d..'\100\43';end return true end)'dhYGj'and l[0x2](h+0xcf))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x5b);end return true end)'ImZok'and l[0x3](h+0x3d7))or h end),(function(d)if f>0x30 then return d end f=f+1 e=(e+0x115e-d)%0x1c return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xcb);end return true end)'nkiBG'and l[0x3](0x17f+d))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x44);end return true end)'mFZYB'and l[0x1](d+0x3c9))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa7);end return true end)'BlurE'and l[0x2](d+0x2ae))or d end)}l[0x2](0x263)end){};local e=u(g(_));_[2]={};_[1]=e(_[1])uQjfEGlvGoQ_ZVx=nil;e=u(g(_))return e(...);end return ne((function()local n={}local e=0x01;local l;if p.RkYWgwXv then l=p.RkYWgwXv(ne)else l=''end if p.eBKZfjCx(l,p.ywCvxztJ)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(l,e,n,d,t,f)local f;if 4>l then if 2<=l then if 1<=l then repeat if 3>l then do return 16777216,65536,256 end;break;end;do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;until true;else do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;end else if-2~=l then for f=42,78 do if 1>l then do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;break;end;do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return e(1),e(4,t,d,n,e),e(5,t,d,n)end;end end else if 6<=l then if l>=7 then if 6<l then repeat if 8>l then do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,l,n)if n then return e[n]elseif l then return e else e[t]=d end end})end break;end;do return n(l,nil,n);end until true;else do return n(l,nil,n);end end else do return t[n]end;end else if 0<=l then for f=49,68 do if l~=4 then local l=d;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;break;end;local l=d;local t,f,d=t(2);do return function()local n,e,p,_=e(n,l(l,l),l(l,l)+3);l(4);return(_*t)+(p*f)+(e*d)+n;end;end;break;end;else local l=d;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;end end end end),...)
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+----------------------------------------------------------------------------------------------------------------------------------------------
+local Window = Fluent:CreateWindow({
+    Title = "Sea Hub | Blox Fruits",
+    SubTitle = "By phfv4z",
+    TabWidth = 155,
+    Size = UDim2.fromOffset(500, 320),
+    Acrylic = true,
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.LeftControl
+})
+print("Script Loading...")
+local Tabs = {
+    Main = Window:AddTab({ Title = "+ Farming", Icon = "" }),
+    Setting = Window:AddTab({ Title = "+ Settings", Icon = "" }),
+    Stats = Window:AddTab({ Title = "+ Stats", Icon = "" }),
+    Player = Window:AddTab({ Title = "+ Players", Icon = "" }),
+    Teleport = Window:AddTab({ Title = "+ Teleport", Icon = "" }),
+    Fruit = Window:AddTab({ Title = "+ Fruits", Icon = "" }),
+    Raid = Window:AddTab({ Title = "+ Dungeon", Icon = "" }),
+    Race = Window:AddTab({ Title = "+ Race", Icon = "" }),
+    Shop = Window:AddTab({ Title = "+ Shops", Icon = "" }),
+	Misc = Window:AddTab({ Title = "+ Miscs", Icon = "" }),
+    Hop = Window:AddTab({ Title = "+ Hop Servers", Icon = "" }),
+}
+local Options = Fluent.Options
+do
+--------------------------------------------------------------------------------------------------------------------------------------------
+--// Place Id Check
+local id = game.PlaceId
+if id == 2753915549 then First_Sea = true; elseif id == 4442272183 then Second_Sea = true; elseif id == 7449423635 then Third_Sea = true; else game:Shutdown() end;
+----------------------------------------------------------------------------------------------------------------------------------------------
+--// Sea World
+First_Sea = false
+Second_Sea = false
+Third_Sea = false
+local placeId = game.PlaceId
+if placeId == 2753915549 then
+First_Sea = true
+elseif placeId == 4442272183 then
+Second_Sea = true
+elseif placeId == 7449423635 then
+Third_Sea = true
+end
+--// Check Quest
+function CheckLevel()
+local Lv = game:GetService("Players").LocalPlayer.Data.Level.Value
+if First_Sea then
+if Lv == 1 or Lv <= 9 or SelectMonster == "Bandit" or SelectArea == '' then -- Bandit
+Ms = "Bandit"
+NameQuest = "BanditQuest1"
+QuestLv = 1
+NameMon = "Bandit"
+CFrameQ = CFrame.new(1060.9383544922, 16.455066680908, 1547.7841796875)
+CFrameMon = CFrame.new(1038.5533447266, 41.296249389648, 1576.5098876953)
+elseif Lv == 10 or Lv <= 14 or SelectMonster == "Monkey" or SelectArea == 'Jungle' then -- Monkey
+Ms = "Monkey"
+NameQuest = "JungleQuest"
+QuestLv = 1
+NameMon = "Monkey"
+CFrameQ = CFrame.new(-1601.6553955078, 36.85213470459, 153.38809204102)
+CFrameMon = CFrame.new(-1448.1446533203, 50.851993560791, 63.60718536377)
+elseif Lv == 15 or Lv <= 29 or SelectMonster == "Gorilla" or SelectArea == 'Jungle' then -- Gorilla
+Ms = "Gorilla"
+NameQuest = "JungleQuest"
+QuestLv = 2
+NameMon = "Gorilla"
+CFrameQ = CFrame.new(-1601.6553955078, 36.85213470459, 153.38809204102)
+CFrameMon = CFrame.new(-1142.6488037109, 40.462348937988, -515.39227294922)
+elseif Lv == 30 or Lv <= 39 or SelectMonster == "Pirate" or SelectArea == 'Buggy' then -- Pirate
+Ms = "Pirate"
+NameQuest = "BuggyQuest1"
+QuestLv = 1
+NameMon = "Pirate"
+CFrameQ = CFrame.new(-1140.1761474609, 4.752049446106, 3827.4057617188)
+CFrameMon = CFrame.new(-1201.0881347656, 40.628940582275, 3857.5966796875)
+elseif Lv == 40 or Lv <= 59 or SelectMonster == "Brute" or SelectArea == 'Buggy' then -- Brute
+Ms = "Brute"
+NameQuest = "BuggyQuest1"
+QuestLv = 2
+NameMon = "Brute"
+CFrameQ = CFrame.new(-1140.1761474609, 4.752049446106, 3827.4057617188)
+CFrameMon = CFrame.new(-1387.5324707031, 24.592035293579, 4100.9575195313)
+elseif Lv == 60 or Lv <= 74 or SelectMonster == "Desert Bandit" or SelectArea == 'Desert' then -- Desert Bandit
+Ms = "Desert Bandit"
+NameQuest = "DesertQuest"
+QuestLv = 1
+NameMon = "Desert Bandit"
+CFrameQ = CFrame.new(896.51721191406, 6.4384617805481, 4390.1494140625)
+CFrameMon = CFrame.new(984.99896240234, 16.109552383423, 4417.91015625)
+elseif Lv == 75 or Lv <= 89 or SelectMonster == "Desert Officer" or SelectArea == 'Desert' then -- Desert Officer
+Ms = "Desert Officer"
+NameQuest = "DesertQuest"
+QuestLv = 2
+NameMon = "Desert Officer"
+CFrameQ = CFrame.new(896.51721191406, 6.4384617805481, 4390.1494140625)
+CFrameMon = CFrame.new(1547.1510009766, 14.452038764954, 4381.8002929688)
+elseif Lv == 90 or Lv <= 99 or SelectMonster == "S Now Bandit" or SelectArea == 'S Now' then -- S Now Bandit
+Ms = "S Now Bandit"
+NameQuest = "S NowQuest"
+QuestLv = 1
+NameMon = "S Now Bandit"
+CFrameQ = CFrame.new(1386.8073730469, 87.272789001465, -1298.3576660156)
+CFrameMon = CFrame.new(1356.3028564453, 105.76865386963, -1328.2418212891)
+elseif Lv == 100 or Lv <= 119 or SelectMonster == "S Nowman" or SelectArea == 'S Now' then -- S Nowman
+Ms = "S Nowman"
+NameQuest = "S NowQuest"
+QuestLv = 2
+NameMon = "S Nowman"
+CFrameQ = CFrame.new(1386.8073730469, 87.272789001465, -1298.3576660156)
+CFrameMon = CFrame.new(1218.7956542969, 138.01184082031, -1488.0262451172)
+elseif Lv == 120 or Lv <= 149 or SelectMonster == "Chief Petty Officer" or SelectArea == 'Marine' then -- Chief Petty Officer
+Ms = "Chief Petty Officer"
+NameQuest = "MarineQuest2"
+QuestLv = 1
+NameMon = "Chief Petty Officer"
+CFrameQ = CFrame.new(-5035.49609375, 28.677835464478, 4324.1840820313)
+CFrameMon = CFrame.new(-4931.1552734375, 65.793113708496, 4121.8393554688)
+elseif Lv == 150 or Lv <= 174 or SelectMonster == "Sky Bandit" or SelectArea == 'Sky' then -- Sky Bandit
+Ms = "Sky Bandit"
+NameQuest = "SkyQuest"
+QuestLv = 1
+NameMon = "Sky Bandit"
+CFrameQ = CFrame.new(-4842.1372070313, 717.69543457031, -2623.0483398438)
+CFrameMon = CFrame.new(-4955.6411132813, 365.46365356445, -2908.1865234375)
+elseif Lv == 175 or Lv <= 189 or SelectMonster == "Dark Master" or SelectArea == 'Sky' then -- Dark Master
+Ms = "Dark Master"
+NameQuest = "SkyQuest"
+QuestLv = 2
+NameMon = "Dark Master"
+CFrameQ = CFrame.new(-4842.1372070313, 717.69543457031, -2623.0483398438)
+CFrameMon = CFrame.new(-5148.1650390625, 439.04571533203, -2332.9611816406)
+elseif Lv == 190 or Lv <= 209 or SelectMonster == "Prisoner" or SelectArea == 'Prison' then -- Prisoner
+Ms = "Prisoner"
+NameQuest = "PrisonerQuest"
+QuestLv = 1
+NameMon = "Prisoner"
+CFrameQ = CFrame.new(5310.60547, 0.350014925, 474.946594, 0.0175017118, 0, 0.999846935, 0, 1, 0, -0.999846935, 0, 0.0175017118)
+CFrameMon = CFrame.new(4937.31885, 0.332031399, 649.574524, 0.694649816, 0, -0.719348073, 0, 1, 0, 0.719348073, 0, 0.694649816)
+elseif Lv == 210 or Lv <= 249 or SelectMonster == "Dangerous Prisoner" or SelectArea == 'Prison' then -- Dangerous Prisoner
+Ms = "Dangerous Prisoner"
+NameQuest = "PrisonerQuest"
+QuestLv = 2
+NameMon = "Dangerous Prisoner"
+CFrameQ = CFrame.new(5310.60547, 0.350014925, 474.946594, 0.0175017118, 0, 0.999846935, 0, 1, 0, -0.999846935, 0, 0.0175017118)
+CFrameMon = CFrame.new(5099.6626, 0.351562679, 1055.7583, 0.898906827, 0, -0.438139856, 0, 1, 0, 0.438139856, 0, 0.898906827)
+elseif Lv == 250 or Lv <= 274 or SelectMonster == "Toga Warrior" or SelectArea == 'Colosseum' then -- Toga Warrior
+Ms = "Toga Warrior"
+NameQuest = "ColosseumQuest"
+QuestLv = 1
+NameMon = "Toga Warrior"
+CFrameQ = CFrame.new(-1577.7890625, 7.4151420593262, -2984.4838867188)
+CFrameMon = CFrame.new(-1872.5166015625, 49.080215454102, -2913.810546875)
+elseif Lv == 275 or Lv <= 299 or SelectMonster == "Gladiator" or SelectArea == 'Colosseum' then -- Gladiator
+Ms = "Gladiator"
+NameQuest = "ColosseumQuest"
+QuestLv = 2
+NameMon = "Gladiator"
+CFrameQ = CFrame.new(-1577.7890625, 7.4151420593262, -2984.4838867188)
+CFrameMon = CFrame.new(-1521.3740234375, 81.203170776367, -3066.3139648438)
+elseif Lv == 300 or Lv <= 324 or SelectMonster == "Military Soldier" or SelectArea == 'Magma' then -- Military Soldier
+Ms = "Military Soldier"
+NameQuest = "MagmaQuest"
+QuestLv = 1
+NameMon = "Military Soldier"
+CFrameQ = CFrame.new(-5316.1157226563, 12.262831687927, 8517.00390625)
+CFrameMon = CFrame.new(-5369.0004882813, 61.24352645874, 8556.4921875)
+elseif Lv == 325 or Lv <= 374 or SelectMonster == "Military Spy" or SelectArea == 'Magma' then -- Military Spy
+Ms = "Military Spy"
+NameQuest = "MagmaQuest"
+QuestLv = 2
+NameMon = "Military Spy"
+CFrameQ = CFrame.new(-5316.1157226563, 12.262831687927, 8517.00390625)
+CFrameMon = CFrame.new(-5787.00293, 75.8262634, 8651.69922, 0.838590562, 0, -0.544762194, 0, 1, 0, 0.544762194, 0, 0.838590562)
+elseif Lv == 375 or Lv <= 399 or SelectMonster == "Fishman Warrior" or SelectArea == 'Fishman' then -- Fishman Warrior
+Ms = "Fishman Warrior"
+NameQuest = "FishmanQuest"
+QuestLv = 1
+NameMon = "Fishman Warrior"
+CFrameQ = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734)
+CFrameMon = CFrame.new(60844.10546875, 98.462875366211, 1298.3985595703)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 3000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+end
+elseif Lv == 400 or Lv <= 449 or SelectMonster == "Fishman Commando" or SelectArea == 'Fishman' then -- Fishman Commando
+Ms = "Fishman Commando"
+NameQuest = "FishmanQuest"
+QuestLv = 2
+NameMon = "Fishman Commando"
+CFrameQ = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734)
+CFrameMon = CFrame.new(61738.3984375, 64.207321166992, 1433.8375244141)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 3000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+end
+elseif Lv == 10 or Lv <= 474 or SelectMonster == "God's Guard" or SelectArea == 'Sky Island' then -- God's Guard
+Ms = "God's Guard"
+NameQuest = "SkyExp1Quest"
+QuestLv = 1
+NameMon = "God's Guard"
+CFrameQ = CFrame.new(-4721.8603515625, 845.30297851563, -1953.8489990234)
+CFrameMon = CFrame.new(-4628.0498046875, 866.92877197266, -1931.2352294922)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 3000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+end
+elseif Lv == 475 or Lv <= 524 or SelectMonster == "Shanda" or SelectArea == 'Sky Island' then -- Shanda
+Ms = "Shanda"
+NameQuest = "SkyExp1Quest"
+QuestLv = 2
+NameMon = "Shanda"
+CFrameQ = CFrame.new(-7863.1596679688, 5545.5190429688, -378.42266845703)
+CFrameMon = CFrame.new(-7685.1474609375, 5601.0751953125, -441.38876342773)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 3000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+end
+elseif Lv == 525 or Lv <= 549 or SelectMonster == "Royal Squad" or SelectArea == 'Sky Island' then -- Royal Squad
+Ms = "Royal Squad"
+NameQuest = "SkyExp2Quest"
+QuestLv = 1
+NameMon = "Royal Squad"
+CFrameQ = CFrame.new(-7903.3828125, 5635.9897460938, -1410.923828125)
+CFrameMon = CFrame.new(-7654.2514648438, 5637.1079101563, -1407.7550048828)
+elseif Lv == 550 or Lv <= 624 or SelectMonster == "Royal Soldier" or SelectArea == 'Sky Island' then -- Royal Soldier
+Ms = "Royal Soldier"
+NameQuest = "SkyExp2Quest"
+QuestLv = 2
+NameMon = "Royal Soldier"
+CFrameQ = CFrame.new(-7903.3828125, 5635.9897460938, -1410.923828125)
+CFrameMon = CFrame.new(-7760.4106445313, 5679.9077148438, -1884.8112792969)
+elseif Lv == 625 or Lv <= 649 or SelectMonster == "Galley Pirate" or SelectArea == 'Fountain' then -- Galley Pirate
+Ms = "Galley Pirate"
+NameQuest = "FountainQuest"
+QuestLv = 1
+NameMon = "Galley Pirate"
+CFrameQ = CFrame.new(5258.2788085938, 38.526931762695, 4050.044921875)
+CFrameMon = CFrame.new(5557.1684570313, 152.32717895508, 3998.7758789063)
+elseif Lv >= 650 or SelectMonster == "Galley Captain" or SelectArea == 'Fountain' then -- Galley Captain
+Ms = "Galley Captain"
+NameQuest = "FountainQuest"
+QuestLv = 2
+NameMon = "Galley Captain"
+CFrameQ = CFrame.new(5258.2788085938, 38.526931762695, 4050.044921875)
+CFrameMon = CFrame.new(5677.6772460938, 92.786109924316, 4966.6323242188)
+end
+end
+if Second_Sea then
+if Lv == 700 or Lv <= 724 or SelectMonster == "Raider" or SelectArea == 'Area 1' then -- Raider
+Ms = "Raider"
+NameQuest = "Area1Quest"
+QuestLv = 1
+NameMon = "Raider"
+CFrameQ = CFrame.new(-427.72567749023, 72.99634552002, 1835.9426269531)
+CFrameMon = CFrame.new(68.874565124512, 93.635643005371, 2429.6752929688)
+elseif Lv == 725 or Lv <= 774 or SelectMonster == "Mercenary" or SelectArea == 'Area 1' then -- Mercenary
+Ms = "Mercenary"
+NameQuest = "Area1Quest"
+QuestLv = 2
+NameMon = "Mercenary"
+CFrameQ = CFrame.new(-427.72567749023, 72.99634552002, 1835.9426269531)
+CFrameMon = CFrame.new(-864.85009765625, 122.47104644775, 1453.1505126953)
+elseif Lv == 775 or Lv <= 799 or SelectMonster == "Swan Pirate" or SelectArea == 'Area 2' then -- Swan Pirate
+Ms = "Swan Pirate"
+NameQuest = "Area2Quest"
+QuestLv = 1
+NameMon = "Swan Pirate"
+CFrameQ = CFrame.new(635.61151123047, 73.096351623535, 917.81298828125)
+CFrameMon = CFrame.new(1065.3669433594, 137.64012145996, 1324.3798828125)
+elseif Lv == 800 or Lv <= 874 or SelectMonster == "Factory Staff" or SelectArea == 'Area 2' then -- Factory Staff
+Ms = "Factory Staff"
+NameQuest = "Area2Quest"
+QuestLv = 2
+NameMon = "Factory Staff"
+CFrameQ = CFrame.new(635.61151123047, 73.096351623535, 917.81298828125)
+CFrameMon = CFrame.new(533.22045898438, 128.46876525879, 355.62615966797)
+elseif Lv == 875 or Lv <= 899 or SelectMonster == "Marine Lieutenan" or SelectArea == 'Marine' then -- Marine Lieutenant
+Ms = "Marine Lieutenant"
+NameQuest = "MarineQuest3"
+QuestLv = 1
+NameMon = "Marine Lieutenant"
+CFrameQ = CFrame.new(-2440.9934082031, 73.04190826416, -3217.7082519531)
+CFrameMon = CFrame.new(-2489.2622070313, 84.613594055176, -3151.8830566406)
+elseif Lv == 900 or Lv <= 949 or SelectMonster == "Marine Captain" or SelectArea == 'Marine' then -- Marine Captain
+Ms = "Marine Captain"
+NameQuest = "MarineQuest3"
+QuestLv = 2
+NameMon = "Marine Captain"
+CFrameQ = CFrame.new(-2440.9934082031, 73.04190826416, -3217.7082519531)
+CFrameMon = CFrame.new(-2335.2026367188, 79.786659240723, -3245.8674316406)
+elseif Lv == 950 or Lv <= 974 or SelectMonster == "Zombie" or SelectArea == 'Zombie' then -- Zombie
+Ms = "Zombie"
+NameQuest = "ZombieQuest"
+QuestLv = 1
+NameMon = "Zombie"
+CFrameQ = CFrame.new(-5494.3413085938, 48.505931854248, -794.59094238281)
+CFrameMon = CFrame.new(-5536.4970703125, 101.08577728271, -835.59075927734)
+elseif Lv == 975 or Lv <= 999 or SelectMonster == "Vampire" or SelectArea == 'Zombie' then -- Vampire
+Ms = "Vampire"
+NameQuest = "ZombieQuest"
+QuestLv = 2
+NameMon = "Vampire"
+CFrameQ = CFrame.new(-5494.3413085938, 48.505931854248, -794.59094238281)
+CFrameMon = CFrame.new(-5806.1098632813, 16.722528457642, -1164.4384765625)
+elseif Lv == 1000 or Lv <= 1049 or SelectMonster == "S Now Trooper" or SelectArea == 'S Now Mountain' then -- S Now Trooper
+Ms = "S Now Trooper"
+NameQuest = "S NowMountainQuest"
+QuestLv = 1
+NameMon = "S Now Trooper"
+CFrameQ = CFrame.new(607.05963134766, 401.44781494141, -5370.5546875)
+CFrameMon = CFrame.new(535.21051025391, 432.74209594727, -5484.9165039063)
+elseif Lv == 1050 or Lv <= 1099 or SelectMonster == "Winter Warrior" or SelectArea == 'S Now Mountain' then -- Winter Warrior
+Ms = "Winter Warrior"
+NameQuest = "S NowMountainQuest"
+QuestLv = 2
+NameMon = "Winter Warrior"
+CFrameQ = CFrame.new(607.05963134766, 401.44781494141, -5370.5546875)
+CFrameMon = CFrame.new(1234.4449462891, 456.95419311523, -5174.130859375)
+elseif Lv == 1100 or Lv <= 1124 or SelectMonster == "Lab Subordinate" or SelectArea == 'Ice Fire' then -- Lab Subordinate
+Ms = "Lab Subordinate"
+NameQuest = "IceSideQuest"
+QuestLv = 1
+NameMon = "Lab Subordinate"
+CFrameQ = CFrame.new(-6061.841796875, 15.926671981812, -4902.0385742188)
+CFrameMon = CFrame.new(-5720.5576171875, 63.309471130371, -4784.6103515625)
+elseif Lv == 1125 or Lv <= 1174 or SelectMonster == "Horned Warrior" or SelectArea == 'Ice Fire' then -- Horned Warrior
+Ms = "Horned Warrior"
+NameQuest = "IceSideQuest"
+QuestLv = 2
+NameMon = "Horned Warrior"
+CFrameQ = CFrame.new(-6061.841796875, 15.926671981812, -4902.0385742188)
+CFrameMon = CFrame.new(-6292.751953125, 91.181983947754, -5502.6499023438)
+elseif Lv == 1175 or Lv <= 1199 or SelectMonster == "Magma Ninja" or SelectArea == 'Ice Fire' then -- Magma Ninja
+Ms = "Magma Ninja"
+NameQuest = "FireSideQuest"
+QuestLv = 1
+NameMon = "Magma Ninja"
+CFrameQ = CFrame.new(-5429.0473632813, 15.977565765381, -5297.9614257813)
+CFrameMon = CFrame.new(-5461.8388671875, 130.36347961426, -5836.4702148438)
+elseif Lv == 1200 or Lv <= 1249 or SelectMonster == "Lava Pirate" or SelectArea == 'Ice Fire' then -- Lava Pirate
+Ms = "Lava Pirate"
+NameQuest = "FireSideQuest"
+QuestLv = 2
+NameMon = "Lava Pirate"
+CFrameQ = CFrame.new(-5429.0473632813, 15.977565765381, -5297.9614257813)
+CFrameMon = CFrame.new(-5251.1889648438, 55.164535522461, -4774.4096679688)
+elseif Lv == 1250 or Lv <= 1274 or SelectMonster == "Ship Deckhand" or SelectArea == 'Ship' then -- Ship Deckhand
+Ms = "Ship Deckhand"
+NameQuest = "ShipQuest1"
+QuestLv = 1
+NameMon = "Ship Deckhand"
+CFrameQ = CFrame.new(1040.2927246094, 125.08293151855, 32911.0390625)
+CFrameMon = CFrame.new(921.12365722656, 125.9839553833, 33088.328125)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 20000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+end
+elseif Lv == 1275 or Lv <= 1299 or SelectMonster == "Ship Engineer" or SelectArea == 'Ship' then -- Ship Engineer
+Ms = "Ship Engineer"
+NameQuest = "ShipQuest1"
+QuestLv = 2
+NameMon = "Ship Engineer"
+CFrameQ = CFrame.new(1040.2927246094, 125.08293151855, 32911.0390625)
+CFrameMon = CFrame.new(886.28179931641, 40.47790145874, 32800.83203125)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 20000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+end
+elseif Lv == 1300 or Lv <= 1324 or SelectMonster == "Ship Steward" or SelectArea == 'Ship' then -- Ship Steward
+Ms = "Ship Steward"
+NameQuest = "ShipQuest2"
+QuestLv = 1
+NameMon = "Ship Steward"
+CFrameQ = CFrame.new(971.42065429688, 125.08293151855, 33245.54296875)
+CFrameMon = CFrame.new(943.85504150391, 129.58183288574, 33444.3671875)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 20000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+end
+elseif Lv == 1325 or Lv <= 1349 or SelectMonster == "Ship Officer" or SelectArea == 'Ship' then -- Ship Officer
+Ms = "Ship Officer"
+NameQuest = "ShipQuest2"
+QuestLv = 2
+NameMon = "Ship Officer"
+CFrameQ = CFrame.new(971.42065429688, 125.08293151855, 33245.54296875)
+CFrameMon = CFrame.new(955.38458251953, 181.08335876465, 33331.890625)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 20000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+end
+elseif Lv == 1350 or Lv <= 1374 or SelectMonster == "Arctic Warrior" or SelectArea == 'Frost' then -- Arctic Warrior
+Ms = "Arctic Warrior"
+NameQuest = "FrostQuest"
+QuestLv = 1
+NameMon = "Arctic Warrior"
+CFrameQ = CFrame.new(5668.1372070313, 28.202531814575, -6484.6005859375)
+CFrameMon = CFrame.new(5935.4541015625, 77.26016998291, -6472.7568359375)
+if getgenv().AutoLevel and (CFrameMon.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude > 20000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-6508.5581054688, 89.034996032715, -132.83953857422))
+end
+elseif Lv == 1375 or Lv <= 1424 or SelectMonster == "S Now Lurker" or SelectArea == 'Frost' then -- S Now Lurker
+Ms = "S Now Lurker"
+NameQuest = "FrostQuest"
+QuestLv = 2
+NameMon = "S Now Lurker"
+CFrameQ = CFrame.new(5668.1372070313, 28.202531814575, -6484.6005859375)
+CFrameMon = CFrame.new(5628.482421875, 57.574996948242, -6618.3481445313)
+elseif Lv == 1425 or Lv <= 1449 or SelectMonster == "Sea Soldier" or SelectArea == 'Forgotten' then -- Sea Soldier
+Ms = "Sea Soldier"
+NameQuest = "ForgottenQuest"
+QuestLv = 1
+NameMon = "Sea Soldier"
+CFrameQ = CFrame.new(-3054.5827636719, 236.87213134766, -10147.790039063)
+CFrameMon = CFrame.new(-3185.0153808594, 58.789089202881, -9663.6064453125)
+elseif Lv >= 1450 or SelectMonster == "Water Fighter" or SelectArea == 'Forgotten' then -- Water Fighter
+Ms = "Water Fighter"
+NameQuest = "ForgottenQuest"
+QuestLv = 2
+NameMon = "Water Fighter"
+CFrameQ = CFrame.new(-3054.5827636719, 236.87213134766, -10147.790039063)
+CFrameMon = CFrame.new(-3262.9301757813, 298.69036865234, -10552.529296875)
+end
+end
+if Third_Sea then
+if Lv == 1500 or Lv <= 1524 or SelectMonster == "Pirate Millionaire" or SelectArea == 'Pirate Port' then -- Pirate Millionaire
+Ms = "Pirate Millionaire"
+NameQuest = "PiratePortQuest"
+QuestLv = 1
+NameMon = "Pirate Millionaire"
+CFrameQ = CFrame.new(-289.61752319336, 43.819011688232, 5580.0903320313)
+CFrameMon = CFrame.new(-435.68109130859, 189.69866943359, 5551.0756835938)
+elseif Lv == 1525 or Lv <= 1574 or SelectMonster == "Pistol Billionaire" or SelectArea == 'Pirate Port' then -- Pistol Billoonaire
+Ms = "Pistol Billionaire"
+NameQuest = "PiratePortQuest"
+QuestLv = 2
+NameMon = "Pistol Billionaire"
+CFrameQ = CFrame.new(-289.61752319336, 43.819011688232, 5580.0903320313)
+CFrameMon = CFrame.new(-236.53652954102, 217.46676635742, 6006.0883789063)
+elseif Lv == 1575 or Lv <= 1599 or SelectMonster == "Dragon Crew Warrior" or SelectArea == 'Amazon' then -- Dragon Crew Warrior
+Ms = "Dragon Crew Warrior"
+NameQuest = "AmazonQuest"
+QuestLv = 1
+NameMon = "Dragon Crew Warrior"
+CFrameQ = CFrame.new(5833.1147460938, 51.60498046875, -1103.0693359375)
+CFrameMon = CFrame.new(6301.9975585938, 104.77153015137, -1082.6075439453)
+elseif Lv == 1600 or Lv <= 1624 or SelectMonster == "Dragon Crew Archer" or SelectArea == 'Amazon' then -- Dragon Crew Archer
+Ms = "Dragon Crew Archer"
+NameQuest = "AmazonQuest"
+QuestLv = 2
+NameMon = "Dragon Crew Archer"
+CFrameQ = CFrame.new(5833.1147460938, 51.60498046875, -1103.0693359375)
+CFrameMon = CFrame.new(6831.1171875, 441.76708984375, 446.58615112305)
+elseif Lv == 1625 or Lv <= 1649 or SelectMonster == "Female Islander" or SelectArea == 'Amazon' then -- Female Islander
+Ms = "Female Islander"
+NameQuest = "AmazonQuest2"
+QuestLv = 1
+NameMon = "Female Islander"
+CFrameQ = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422)
+CFrameMon = CFrame.new(5792.5166015625, 848.14392089844, 1084.1818847656)
+elseif Lv == 1650 or Lv <= 1699 or SelectMonster == "Giant Islander" or SelectArea == 'Amazon' then -- Giant Islander
+Ms = "Giant Islander"
+NameQuest = "AmazonQuest2"
+QuestLv = 2
+NameMon = "Giant Islander"
+CFrameQ = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422)
+CFrameMon = CFrame.new(5009.5068359375, 664.11071777344, -40.960144042969)
+elseif Lv == 1700 or Lv <= 1724 or SelectMonster == "Marine Commodore" or SelectArea == 'Marine Tree' then -- Marine Commodore
+Ms = "Marine Commodore"
+NameQuest = "MarineTreeIsland"
+QuestLv = 1
+NameMon = "Marine Commodore"
+CFrameQ = CFrame.new(2179.98828125, 28.731239318848, -6740.0551757813)
+CFrameMon = CFrame.new(2198.0063476563, 128.71075439453, -7109.5043945313)
+elseif Lv == 1725 or Lv <= 1774 or SelectMonster == "Marine Rear Admiral" or SelectArea == 'Marine Tree' then -- Marine Rear Admiral
+Ms = "Marine Rear Admiral"
+NameQuest = "MarineTreeIsland"
+QuestLv = 2
+NameMon = "Marine Rear Admiral"
+CFrameQ = CFrame.new(2179.98828125, 28.731239318848, -6740.0551757813)
+CFrameMon = CFrame.new(3294.3142089844, 385.41125488281, -7048.6342773438)
+elseif Lv == 1775 or Lv <= 1799 or SelectMonster == "Fishman Raider" or SelectArea == 'Deep Forest' then -- Fishman Raide
+Ms = "Fishman Raider"
+NameQuest = "DeepForestIsland3"
+QuestLv = 1
+NameMon = "Fishman Raider"
+CFrameQ = CFrame.new(-10582.759765625, 331.78845214844, -8757.666015625)
+CFrameMon = CFrame.new(-10553.268554688, 521.38439941406, -8176.9458007813)
+elseif Lv == 1800 or Lv <= 1824 or SelectMonster == "Fishman Captain" or SelectArea == 'Deep Forest' then -- Fishman Captain
+Ms = "Fishman Captain"
+NameQuest = "DeepForestIsland3"
+QuestLv = 2
+NameMon = "Fishman Captain"
+CFrameQ = CFrame.new(-10583.099609375, 331.78845214844, -8759.4638671875)
+CFrameMon = CFrame.new(-10789.401367188, 427.18637084961, -9131.4423828125)
+elseif Lv == 1825 or Lv <= 1849 or SelectMonster == "Forest Pirate" or SelectArea == 'Deep Forest' then -- Forest Pirate
+Ms = "Forest Pirate"
+NameQuest = "DeepForestIsland"
+QuestLv = 1
+NameMon = "Forest Pirate"
+CFrameQ = CFrame.new(-13232.662109375, 332.40396118164, -7626.4819335938)
+CFrameMon = CFrame.new(-13489.397460938, 400.30349731445, -7770.251953125)
+elseif Lv == 1850 or Lv <= 1899 or SelectMonster == "Mythological Pirate" or SelectArea == 'Deep Forest' then -- Mythological Pirate
+Ms = "Mythological Pirate"
+NameQuest = "DeepForestIsland"
+QuestLv = 2
+NameMon = "Mythological Pirate"
+CFrameQ = CFrame.new(-13232.662109375, 332.40396118164, -7626.4819335938)
+CFrameMon = CFrame.new(-13508.616210938, 582.46228027344, -6985.3037109375)
+elseif Lv == 1900 or Lv <= 1924 or SelectMonster == "Jungle Pirate" or SelectArea == 'Deep Forest' then -- Jungle Pirate
+Ms = "Jungle Pirate"
+NameQuest = "DeepForestIsland2"
+QuestLv = 1
+NameMon = "Jungle Pirate"
+CFrameQ = CFrame.new(-12682.096679688, 390.88653564453, -9902.1240234375)
+CFrameMon = CFrame.new(-12267.103515625, 459.75262451172, -10277.200195313)
+elseif Lv == 1925 or Lv <= 1974 or SelectMonster == "Musketeer Pirate" or SelectArea == 'Deep Forest' then -- Musketeer Pirate
+Ms = "Musketeer Pirate"
+NameQuest = "DeepForestIsland2"
+QuestLv = 2
+NameMon = "Musketeer Pirate"
+CFrameQ = CFrame.new(-12682.096679688, 390.88653564453, -9902.1240234375)
+CFrameMon = CFrame.new(-13291.5078125, 520.47338867188, -9904.638671875)
+elseif Lv == 1975 or Lv <= 1999 or SelectMonster == "Reborn Skeleton" or SelectArea == 'Haunted Castle' then
+Ms = "Reborn Skeleton"
+NameQuest = "HauntedQuest1"
+QuestLv = 1
+NameMon = "Reborn Skeleton"
+CFrameQ = CFrame.new(-9480.80762, 142.130661, 5566.37305, -0.00655503059, 4.52954225e-08, -0.999978542, 2.04920472e-08, 1, 4.51620679e-08, 0.999978542, -2.01955679e-08, -0.00655503059)
+CFrameMon = CFrame.new(-8761.77148, 183.431747, 6168.33301, 0.978073597, -1.3950732e-05, -0.208259016, -1.08073925e-06, 1, -7.20630269e-05, 0.208259016, 7.07080399e-05, 0.978073597)
+elseif Lv == 2000 or Lv <= 2024 or SelectMonster == "Living Zombie" or SelectArea == 'Haunted Castle' then
+Ms = "Living Zombie"
+NameQuest = "HauntedQuest1"
+QuestLv = 2
+NameMon = "Living Zombie"
+CFrameQ = CFrame.new(-9480.80762, 142.130661, 5566.37305, -0.00655503059, 4.52954225e-08, -0.999978542, 2.04920472e-08, 1, 4.51620679e-08, 0.999978542, -2.01955679e-08, -0.00655503059)
+CFrameMon = CFrame.new(-10103.7529, 238.565979, 6179.75977, 0.999474227, 2.77547141e-08, 0.0324240364, -2.58006327e-08, 1, -6.06848474e-08, -0.0324240364, 5.98163865e-08, 0.999474227)
+elseif Lv == 2025 or Lv <= 2049 or SelectMonster == "Demonic Soul" or SelectArea == 'Haunted Castle' then
+Ms = "Demonic Soul"
+NameQuest = "HauntedQuest2"
+QuestLv = 1
+NameMon = "Demonic Soul"
+CFrameQ = CFrame.new(-9516.9931640625, 178.00651550293, 6078.4653320313)
+CFrameMon = CFrame.new(-9712.03125, 204.69589233398, 6193.322265625)
+elseif Lv == 2050 or Lv <= 2074 or SelectMonster == "Posessed Mummy" or SelectArea == 'Haunted Castle' then
+Ms = "Posessed Mummy"
+NameQuest = "HauntedQuest2"
+QuestLv = 2
+NameMon = "Posessed Mummy"
+CFrameQ = CFrame.new(-9516.9931640625, 178.00651550293, 6078.4653320313)
+CFrameMon = CFrame.new(-9545.7763671875, 69.619895935059, 6339.5615234375)
+elseif Lv == 2075 or Lv <= 2099 or SelectMonster == "Peanut Scout" or SelectArea == 'Nut Island' then
+Ms = "Peanut Scout"
+NameQuest = "NutsIslandQuest"
+QuestLv = 1
+NameMon = "Peanut Scout"
+CFrameQ = CFrame.new(-2105.53198, 37.2495995, -10195.5088, -0.766061664, 0, -0.642767608, 0, 1, 0, 0.642767608, 0, -0.766061664)
+CFrameMon = CFrame.new(-2150.587890625, 122.49767303467, -10358.994140625)
+elseif Lv == 2100 or Lv <= 2124 or SelectMonster == "Peanut President" or SelectArea == 'Nut Island' then
+Ms = "Peanut President"
+NameQuest = "NutsIslandQuest"
+QuestLv = 2
+NameMon = "Peanut President"
+CFrameQ = CFrame.new(-2105.53198, 37.2495995, -10195.5088, -0.766061664, 0, -0.642767608, 0, 1, 0, 0.642767608, 0, -0.766061664)
+CFrameMon = CFrame.new(-2150.587890625, 122.49767303467, -10358.994140625)
+elseif Lv == 2125 or Lv <= 2149 or SelectMonster == "Ice Cream Chef" or SelectArea == 'Ice Cream Island' then
+Ms = "Ice Cream Chef"
+NameQuest = "IceCreamIslandQuest"
+QuestLv = 1
+NameMon = "Ice Cream Chef"
+CFrameQ = CFrame.new(-819.376709, 64.9259796, -10967.2832, -0.766061664, 0, 0.642767608, 0, 1, 0, -0.642767608, 0, -0.766061664)
+CFrameMon = CFrame.new(-789.941528, 209.382889, -11009.9805, -0.0703101531, -0, -0.997525156, -0, 1.00000012, -0, 0.997525275, 0, -0.0703101456)
+elseif Lv == 2150 or Lv <= 2199 or SelectMonster == "Ice Cream Commander" or SelectArea == 'Ice Cream Island' then
+Ms = "Ice Cream Commander"
+NameQuest = "IceCreamIslandQuest"
+QuestLv = 2
+NameMon = "Ice Cream Commander"
+CFrameQ = CFrame.new(-819.376709, 64.9259796, -10967.2832, -0.766061664, 0, 0.642767608, 0, 1, 0, -0.642767608, 0, -0.766061664)
+CFrameMon = CFrame.new(-789.941528, 209.382889, -11009.9805, -0.0703101531, -0, -0.997525156, -0, 1.00000012, -0, 0.997525275, 0, -0.0703101456)
+elseif Lv == 2200 or Lv <= 2224 or SelectMonster == "Cookie Crafter" or SelectArea == 'Cake Island' then
+Ms = "Cookie Crafter"
+NameQuest = "CakeQuest1"
+QuestLv = 1
+NameMon = "Cookie Crafter"
+CFrameQ = CFrame.new(-2022.29858, 36.9275894, -12030.9766, -0.961273909, 0, -0.275594592, 0, 1, 0, 0.275594592, 0, -0.961273909)
+CFrameMon = CFrame.new(-2321.71216, 36.699482, -12216.7871, -0.780074954, 0, 0.625686109, 0, 1, 0, -0.625686109, 0, -0.780074954)
+elseif Lv == 2225 or Lv <= 2249 or SelectMonster == "Cake Guard" or SelectArea == 'Cake Island' then
+Ms = "Cake Guard"
+NameQuest = "CakeQuest1"
+QuestLv = 2
+NameMon = "Cake Guard"
+CFrameQ = CFrame.new(-2022.29858, 36.9275894, -12030.9766, -0.961273909, 0, -0.275594592, 0, 1, 0, 0.275594592, 0, -0.961273909)
+CFrameMon = CFrame.new(-1418.11011, 36.6718941, -12255.7324, 0.0677844882, 0, 0.997700036, 0, 1, 0, -0.997700036, 0, 0.0677844882)
+elseif Lv == 2250 or Lv <= 2274 or SelectMonster == "Baking Staff" or SelectArea == 'Cake Island' then
+Ms = "Baking Staff"
+NameQuest = "CakeQuest2"
+QuestLv = 1
+NameMon = "Baking Staff"
+CFrameQ = CFrame.new(-1928.31763, 37.7296638, -12840.626, 0.951068401, -0, -0.308980465, 0, 1, -0, 0.308980465, 0, 0.951068401)
+CFrameMon = CFrame.new(-1980.43848, 36.6716766, -12983.8418, -0.254443765, 0, -0.967087567, 0, 1, 0, 0.967087567, 0, -0.254443765)
+elseif Lv == 2275 or Lv <= 2299 or SelectMonster == "Head Baker" or SelectArea == 'Cake Island' then
+Ms = "Head Baker"
+NameQuest = "CakeQuest2"
+QuestLv = 2
+NameMon = "Head Baker"
+CFrameQ = CFrame.new(-1928.31763, 37.7296638, -12840.626, 0.951068401, -0, -0.308980465, 0, 1, -0, 0.308980465, 0, 0.951068401)
+CFrameMon = CFrame.new(-2251.5791, 52.2714615, -13033.3965, -0.991971016, 0, -0.126466095, 0, 1, 0, 0.126466095, 0, -0.991971016)
+elseif Lv == 2300 or Lv <= 2324 or SelectMonster == "Cocoa Warrior" or SelectArea == 'Choco Island' then
+Ms = "Cocoa Warrior"
+NameQuest = "ChocQuest1"
+QuestLv = 1
+NameMon = "Cocoa Warrior"
+CFrameQ = CFrame.new(231.75, 23.9003029, -12200.292, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+CFrameMon = CFrame.new(167.978516, 26.2254658, -12238.874, -0.939700961, 0, 0.341998369, 0, 1, 0, -0.341998369, 0, -0.939700961)
+elseif Lv == 2325 or Lv <= 2349 or SelectMonster == "Chocolate Bar Battler" or SelectArea == 'Choco Island' then
+Ms = "Chocolate Bar Battler"
+NameQuest = "ChocQuest1"
+QuestLv = 2
+NameMon = "Chocolate Bar Battler"
+CFrameQ = CFrame.new(231.75, 23.9003029, -12200.292, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+CFrameMon = CFrame.new(701.312073, 25.5824986, -12708.2148, -0.342042685, 0, -0.939684391, 0, 1, 0, 0.939684391, 0, -0.342042685)
+elseif Lv == 2350 or Lv <= 2374 or SelectMonster == "Sweet Thief" or SelectArea == 'Choco Island' then
+Ms = "Sweet Thief"
+NameQuest = "ChocQuest2"
+QuestLv = 1
+NameMon = "Sweet Thief"
+CFrameQ = CFrame.new(151.198242, 23.8907146, -12774.6172, 0.422592998, 0, 0.906319618, 0, 1, 0, -0.906319618, 0, 0.422592998)
+CFrameMon = CFrame.new(-140.258301, 25.5824986, -12652.3115, 0.173624337, -0, -0.984811902, 0, 1, -0, 0.984811902, 0, 0.173624337)
+elseif Lv == 2375 or Lv <= 2400 or SelectMonster == "Candy Rebel" or SelectArea == 'Choco Island' then
+Ms = "Candy Rebel"
+NameQuest = "ChocQuest2"
+QuestLv = 2
+NameMon = "Candy Rebel"
+CFrameQ = CFrame.new(151.198242, 23.8907146, -12774.6172, 0.422592998, 0, 0.906319618, 0, 1, 0, -0.906319618, 0, 0.422592998)
+CFrameMon = CFrame.new(47.9231453, 25.5824986, -13029.2402, -0.819156051, 0, -0.573571265, 0, 1, 0, 0.573571265, 0, -0.819156051)
+elseif Lv == 2400 or Lv <= 2424 or SelectMonster == "Candy Pirate" or SelectArea == 'Candy Island' then
+Ms = "Candy Pirate"
+NameQuest = "CandyQuest1"
+QuestLv = 1
+NameMon = "Candy Pirate"
+CFrameQ = CFrame.new(-1149.328, 13.5759039, -14445.6143, -0.156446099, 0, -0.987686574, 0, 1, 0, 0.987686574, 0, -0.156446099)
+CFrameMon = CFrame.new(-1437.56348, 17.1481285, -14385.6934, 0.173624337, -0, -0.984811902, 0, 1, -0, 0.984811902, 0, 0.173624337)
+elseif Lv == 2425 or Lv <= 2449 or SelectMonster == "S Now Demon" or SelectArea == 'Candy Island' then
+Ms = "S Now Demon"
+NameQuest = "CandyQuest1"
+QuestLv = 2
+NameMon = "S Now Demon"
+CFrameQ = CFrame.new(-1149.328, 13.5759039, -14445.6143, -0.156446099, 0, -0.987686574, 0, 1, 0, 0.987686574, 0, -0.156446099)
+CFrameMon = CFrame.new(-916.222656, 17.1481285, -14638.8125, 0.866007268, 0, 0.500031412, 0, 1, 0, -0.500031412, 0, 0.866007268)
+elseif Lv == 2450 or Lv <= 2474 or SelectMonster == "Isle Outlaw" or SelectArea == 'Tiki Outpost' then
+Ms = "Isle Outlaw"
+NameQuest = "TikiQuest1"
+QuestLv = 1
+NameMon = "Isle Outlaw"
+CFrameQ = CFrame.new(-16549.890625, 55.68635559082031, -179.91360473632812)
+CFrameMon = CFrame.new(-16162.8193359375, 11.6863374710083, -96.45481872558594)
+elseif Lv == 2475 or Lv <= 2499 or SelectMonster == "Island Boy" or SelectArea == 'Tiki Outpost' then 
+Ms = "Island Boy"
+NameQuest = "TikiQuest1"
+QuestLv = 2
+NameMon = "Island Boy"
+CFrameQ = CFrame.new(-16549.890625, 55.68635559082031, -179.91360473632812)
+CFrameMon = CFrame.new(-16912.130859375, 11.787443161010742, -133.0850830078125)
+elseif Lv == 2500 or Lv <= 2424 then
+Ms = "Sun-kissed Warrior"
+QuestLv = 1
+NameQuest = "TikiQuest2"
+NameMon = "kissed"
+CFrameQ = CFrame.new(-16539.078125, 55.68632888793945, 1051.5738525390625)
+CFrameMon = CFrame.new(-16349.8779296875, 92.0808334350586, 1123.4169921875)
+elseif Lv >= 2525 or SelectMonster == "Isle Champion" or SelectArea == 'Tiki Outpost' then
+Ms = "Isle Champion"
+NameQuest = "TikiQuest2"
+QuestLv = 2
+NameMon = "Isle Champion"
+CFrameQ = CFrame.new(-16542.447265625, 55.68632888793945, 1044.41650390625)
+CFrameMon = CFrame.new(-16848.94140625, 21.68633460998535, 1041.4490966796875)
+end
+end
+end
+
+--// Check Material
+function MaterialMon()
+if SelectMaterial == "Radioactive Material" then
+MMon = "Factory Staff"
+MPos = CFrame.new(295,73,-56)
+SP = "Default"
+elseif SelectMaterial == "Mystic Droplet" then
+MMon = "Water Fighter"
+MPos = CFrame.new(-3385,239,-10542)
+SP = "Default"
+elseif SelectMaterial == "Magma Ore" then
+if First_Sea then
+MMon = "Military Spy"
+MPos = CFrame.new(-5815,84,8820)
+SP = "Default"
+elseif Second_Sea then
+MMon = "Magma Ninja"
+MPos = CFrame.new(-5428,78,-5959)
+SP = "Default"
+end
+elseif SelectMaterial == "Angel Wings" then
+MMon = "God's Guard"
+MPos = CFrame.new(-4698,845,-1912)
+SP = "Default"
+if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - Vector3.new(-7859.09814, 5544.19043, -381.476196)).Magnitude >= 5000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7859.09814, 5544.19043, -381.476196))
+end
+elseif SelectMaterial == "Leather" then
+if First_Sea then
+MMon = "Brute"
+MPos = CFrame.new(-1145,15,4350)
+SP = "Default"
+elseif Second_Sea then
+MMon = "Marine Captain"
+MPos = CFrame.new(-2010.5059814453125, 73.00115966796875, -3326.620849609375)
+SP = "Default"
+elseif Third_Sea then
+MMon = "Jungle Pirate"
+MPos = CFrame.new(-11975.78515625, 331.7734069824219, -10620.0302734375)
+SP = "Default"
+end
+elseif SelectMaterial == "Scrap Metal" then
+if First_Sea then
+MMon = "Brute"
+MPos = CFrame.new(-1145,15,4350)
+SP = "Default"
+elseif Second_Sea then
+MMon = "Swan Pirate"
+MPos = CFrame.new(878,122,1235)
+SP = "Default"
+elseif Third_Sea then
+MMon = "Jungle Pirate"
+MPos = CFrame.new(-12107,332,-10549)
+SP = "Default"
+end
+elseif SelectMaterial == "Fish Tail" then
+if Third_Sea then
+MMon = "Fishman Raider"
+MPos = CFrame.new(-10993,332,-8940)
+SP = "Default"
+elseif First_Sea then
+MMon = "Fishman Warrior"
+MPos = CFrame.new(61123,19,1569)
+SP = "Default"
+if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - Vector3.new(61163.8515625, 5.342342376708984, 1819.7841796875)).Magnitude >= 17000 then
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 5.342342376708984, 1819.7841796875))
+end
+end
+elseif SelectMaterial == "Demonic Wisp" then
+MMon = "Demonic Soul"
+MPos = CFrame.new(-9507,172,6158)
+SP = "Default"
+elseif SelectMaterial == "Vampire Fang" then
+MMon = "Vampire"
+MPos = CFrame.new(-6033,7,-1317)
+SP = "Default"
+elseif SelectMaterial == "Conjured Cocoa" then
+MMon = "Chocolate Bar Battler"
+MPos = CFrame.new(620.6344604492188,78.93644714355469, -12581.369140625)
+SP = "Default"
+elseif SelectMaterial == "Dragon Scale" then
+MMon = "Dragon Crew Archer"
+MPos = CFrame.new(6594,383,139)
+SP = "Default"
+elseif SelectMaterial == "Gunpowder" then
+MMon = "Pistol Billionaire"
+MPos = CFrame.new(-469,74,5904)
+SP = "Default"
+elseif SelectMaterial == "Mini Tusk" then
+MMon = "Mythological Pirate"
+MPos = CFrame.new(-13545,470,-6917)
+SP = "Default"
+end
+end
+--Esp
+function UpdateIslandESP() 
+    for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
+        pcall(function()
+            if IslandESP then 
+                if v.Name ~= "Sea" then
+                    if  Not v:FindFirstChild('NameEsp') then
+                        local bill = Instance.new('BillboardGui',v)
+                        bill.Name = 'NameEsp'
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                        bill.Size = UDim2.new(1,200,1,30)
+                        bill.Adornee = v
+                        bill.AlwaysOnTop = true
+                        local name = Instance.new('TextLabel',bill)
+                        name.Font = "GothamBold"
+                        name.FontSize = "Size14"
+                        name.TextWrapped = true
+                        name.Size = UDim2.new(1,0,1,0)
+                        name.TextYAlignment = 'Top'
+                        name.BackgroundTransparency = 1
+                        name.TextStrokeTransparency = 0.5
+                        name.TextColor3 = Color3.fromRGB(8, 0, 0)
+                    else
+                        v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                    end
+                end
+            else
+                if v:FindFirstChild('NameEsp') then
+                    v:FindFirstChild('NameEsp'):Destroy()
+                end
+            end
+        end)
+    end
+end
+
+function isnil(thing)
+return (thing == nil)
+end
+local function round(n)
+return math.floor(tonumber(n) + 0.5)
+end
+Number = math.random(1, 1000000)
+function UpdatePlayerChams()
+for i,v in pairs(game:GetService'Players':GetChildren()) do
+    pcall(function()
+        if  Not isnil(v.Character) then
+            if ESPPlayer then
+                if  Not isnil(v.Character.Head) and  Not v.Character.Head:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v.Character.Head)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v.Character.Head
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size10"
+                    name.TextWrapped = true
+                    name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Character.Head.Position).Magnitude/3) ..' Distance')
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    if v.Team == game.Players.LocalPlayer.Team then
+                        name.TextColor3 = Color3.new(0,0,254)
+                    else
+                        name.TextColor3 = Color3.new(255,0,0)
+                    end
+                else
+                    v.Character.Head['NameEsp'..Number].TextLabel.Text = (v.Name ..' | '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Character.Head.Position).Magnitude/3) ..' Distance\nHealth : ' .. round(v.Character.Huma Noid.Health*100/v.Character.Huma Noid.MaxHealth) .. '%')
+                end
+            else
+                if v.Character.Head:FindFirstChild('NameEsp'..Number) then
+                    v.Character.Head:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end
+    end)
+end
+end
+function UpdateChestChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if string.find(v.Name,"Chest") then
+            if ChestESP then
+                if string.find(v.Name,"Chest") then
+                    if  Not v:FindFirstChild('NameEsp'..Number) then
+                        local bill = Instance.new('BillboardGui',v)
+                        bill.Name = 'NameEsp'..Number
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                        bill.Size = UDim2.new(1,200,1,30)
+                        bill.Adornee = v
+                        bill.AlwaysOnTop = true
+                        local name = Instance.new('TextLabel',bill)
+                        name.Font = Enum.Font.GothamSemibold
+                        name.FontSize = "Size14"
+                        name.TextWrapped = true
+                        name.Size = UDim2.new(1,0,1,0)
+                        name.TextYAlignment = 'Top'
+                        name.BackgroundTransparency = 1
+                        name.TextStrokeTransparency = 0.5
+                        if v.Name == "Chest1" then
+                            name.TextColor3 = Color3.fromRGB(109, 109, 109)
+                            name.Text = ("Chest 1" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                        if v.Name == "Chest2" then
+                            name.TextColor3 = Color3.fromRGB(173, 158, 21)
+                            name.Text = ("Chest 2" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                        if v.Name == "Chest3" then
+                            name.TextColor3 = Color3.fromRGB(85, 255, 255)
+                            name.Text = ("Chest 3" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                    else
+                        v['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                    end
+                end
+            else
+                if v:FindFirstChild('NameEsp'..Number) then
+                    v:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end
+    end)
+end
+end
+function UpdateDevilChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if DevilFruitESP then
+            if string.find(v.Name, "Fruit") then   
+                if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v.Handle)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v.Handle
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(255, 255, 255)
+                    name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+                else
+                    v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+                end
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end
+    end)
+end
+end
+function UpdateFlowerChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if v.Name == "Flower2" or v.Name == "Flower1" then
+            if FlowerESP then 
+                if  Not v:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    if v.Name == "Flower1" then 
+                        name.Text = ("Blue Flower" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        name.TextColor3 = Color3.fromRGB(0, 0, 255)
+                    end
+                    if v.Name == "Flower2" then
+                        name.Text = ("Red Flower" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    end
+                else
+                    v['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                end
+            else
+                if v:FindFirstChild('NameEsp'..Number) then
+                v:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end   
+    end)
+end
+end
+function UpdateRealFruitChams() 
+for i,v in pairs(game.Workspace.AppleSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+for i,v in pairs(game.Workspace.PineappleSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(255, 174, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+for i,v in pairs(game.Workspace.BananaSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(251, 255, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+end
+
+function UpdateIslandESP() 
+    for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
+        pcall(function()
+            if IslandESP then 
+                if v.Name ~= "Sea" then
+                    if  Not v:FindFirstChild('NameEsp') then
+                        local bill = Instance.new('BillboardGui',v)
+                        bill.Name = 'NameEsp'
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                        bill.Size = UDim2.new(1,200,1,30)
+                        bill.Adornee = v
+                        bill.AlwaysOnTop = true
+                        local name = Instance.new('TextLabel',bill)
+                        name.Font = "GothamBold"
+                        name.FontSize = "Size14"
+                        name.TextWrapped = true
+                        name.Size = UDim2.new(1,0,1,0)
+                        name.TextYAlignment = 'Top'
+                        name.BackgroundTransparency = 1
+                        name.TextStrokeTransparency = 0.5
+                        name.TextColor3 = Color3.fromRGB(7, 236, 240)
+                    else
+                        v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                    end
+                end
+            else
+                if v:FindFirstChild('NameEsp') then
+                    v:FindFirstChild('NameEsp'):Destroy()
+                end
+            end
+        end)
+    end
+end
+
+function isnil(thing)
+return (thing == nil)
+end
+local function round(n)
+return math.floor(tonumber(n) + 0.5)
+end
+Number = math.random(1, 1000000)
+function UpdatePlayerChams()
+for i,v in pairs(game:GetService'Players':GetChildren()) do
+    pcall(function()
+        if  Not isnil(v.Character) then
+            if ESPPlayer then
+                if  Not isnil(v.Character.Head) and  Not v.Character.Head:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v.Character.Head)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v.Character.Head
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Character.Head.Position).Magnitude/3) ..' Distance')
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    if v.Team == game.Players.LocalPlayer.Team then
+                        name.TextColor3 = Color3.new(0,255,0)
+                    else
+                        name.TextColor3 = Color3.new(255,0,0)
+                    end
+                else
+                    v.Character.Head['NameEsp'..Number].TextLabel.Text = (v.Name ..' | '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Character.Head.Position).Magnitude/3) ..' Distance\nHealth : ' .. round(v.Character.Huma Noid.Health*100/v.Character.Huma Noid.MaxHealth) .. '%')
+                end
+            else
+                if v.Character.Head:FindFirstChild('NameEsp'..Number) then
+                    v.Character.Head:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end
+    end)
+end
+end
+function UpdateChestChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if string.find(v.Name,"Chest") then
+            if ChestESP then
+                if string.find(v.Name,"Chest") then
+                    if  Not v:FindFirstChild('NameEsp'..Number) then
+                        local bill = Instance.new('BillboardGui',v)
+                        bill.Name = 'NameEsp'..Number
+                        bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                        bill.Size = UDim2.new(1,200,1,30)
+                        bill.Adornee = v
+                        bill.AlwaysOnTop = true
+                        local name = Instance.new('TextLabel',bill)
+                        name.Font = Enum.Font.GothamSemibold
+                        name.FontSize = "Size14"
+                        name.TextWrapped = true
+                        name.Size = UDim2.new(1,0,1,0)
+                        name.TextYAlignment = 'Top'
+                        name.BackgroundTransparency = 1
+                        name.TextStrokeTransparency = 0.5
+                        if v.Name == "Chest1" then
+                            name.TextColor3 = Color3.fromRGB(109, 109, 109)
+                            name.Text = ("Chest 1" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                        if v.Name == "Chest2" then
+                            name.TextColor3 = Color3.fromRGB(173, 158, 21)
+                            name.Text = ("Chest 2" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                        if v.Name == "Chest3" then
+                            name.TextColor3 = Color3.fromRGB(85, 255, 255)
+                            name.Text = ("Chest 3" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        end
+                    else
+                        v['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                    end
+                end
+            else
+                if v:FindFirstChild('NameEsp'..Number) then
+                    v:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end
+    end)
+end
+end
+function UpdateDevilChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if DevilFruitESP then
+            if string.find(v.Name, "Fruit") then   
+                if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v.Handle)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v.Handle
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(255, 255, 255)
+                    name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+                else
+                    v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+                end
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end
+    end)
+end
+end
+function UpdateFlowerChams() 
+for i,v in pairs(game.Workspace:GetChildren()) do
+    pcall(function()
+        if v.Name == "Flower2" or v.Name == "Flower1" then
+            if FlowerESP then 
+                if  Not v:FindFirstChild('NameEsp'..Number) then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'..Number
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = Enum.Font.GothamSemibold
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    if v.Name == "Flower1" then 
+                        name.Text = ("Blue Flower" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        name.TextColor3 = Color3.fromRGB(0, 0, 255)
+                    end
+                    if v.Name == "Flower2" then
+                        name.Text = ("Red Flower" ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                        name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                    end
+                else
+                    v['NameEsp'..Number].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' Distance')
+                end
+            else
+                if v:FindFirstChild('NameEsp'..Number) then
+                v:FindFirstChild('NameEsp'..Number):Destroy()
+                end
+            end
+        end   
+    end)
+end
+end
+function UpdateRealFruitChams() 
+for i,v in pairs(game.Workspace.AppleSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(255, 0, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+for i,v in pairs(game.Workspace.PineappleSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(255, 174, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+for i,v in pairs(game.Workspace.BananaSpawner:GetChildren()) do
+    if v:IsA("Tool") then
+        if RealFruitESP then 
+            if  Not v.Handle:FindFirstChild('NameEsp'..Number) then
+                local bill = Instance.new('BillboardGui',v.Handle)
+                bill.Name = 'NameEsp'..Number
+                bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                bill.Size = UDim2.new(1,200,1,30)
+                bill.Adornee = v.Handle
+                bill.AlwaysOnTop = true
+                local name = Instance.new('TextLabel',bill)
+                name.Font = Enum.Font.GothamSemibold
+                name.FontSize = "Size14"
+                name.TextWrapped = true
+                name.Size = UDim2.new(1,0,1,0)
+                name.TextYAlignment = 'Top'
+                name.BackgroundTransparency = 1
+                name.TextStrokeTransparency = 0.5
+                name.TextColor3 = Color3.fromRGB(251, 255, 0)
+                name.Text = (v.Name ..' \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            else
+                v.Handle['NameEsp'..Number].TextLabel.Text = (v.Name ..' '.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Handle.Position).Magnitude/3) ..' Distance')
+            end
+        else
+            if v.Handle:FindFirstChild('NameEsp'..Number) then
+                v.Handle:FindFirstChild('NameEsp'..Number):Destroy()
+            end
+        end 
+    end
+end
+end
+
+spawn(function()
+while wait() do
+    pcall(function()
+        if MobESP then
+            for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                if v:FindFirstChild('Huma NoidRootPart') then
+                    if  Not v:FindFirstChild("MobEap") then
+                        local BillboardGui = Instance.new("BillboardGui")
+                        local TextLabel = Instance.new("TextLabel")
+
+                        BillboardGui.Parent = v
+                        BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+                        BillboardGui.Active = true
+                        BillboardGui.Name = "MobEap"
+                        BillboardGui.AlwaysOnTop = true
+                        BillboardGui.LightInfluence = 1.000
+                        BillboardGui.Size = UDim2.new(0, 200, 0, 50)
+                        BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0)
+
+                        TextLabel.Parent = BillboardGui
+                        TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+                        TextLabel.BackgroundTransparency = 1.000
+                        TextLabel.Size = UDim2.new(0, 200, 0, 50)
+                        TextLabel.Font = Enum.Font.GothamBold
+                        TextLabel.TextColor3 = Color3.fromRGB(7, 236, 240)
+                        TextLabel.Text.Size = 35
+                    end
+                    local Dis = math.floor((game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v.Huma NoidRootPart.Position).Magnitude)
+                    v.MobEap.TextLabel.Text = v.Name.." - "..Dis.." Distance"
+                end
+            end
+        else
+            for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                if v:FindFirstChild("MobEap") then
+                    v.MobEap:Destroy()
+                end
+            end
+        end
+    end)
+end
+end)
+
+spawn(function()
+while wait() do
+    pcall(function()
+        if SeaESP then
+            for i,v in pairs(game:GetService("Workspace").SeaBeasts:GetChildren()) do
+                if v:FindFirstChild('Huma NoidRootPart') then
+                    if  Not v:FindFirstChild("Seaesps") then
+                        local BillboardGui = Instance.new("BillboardGui")
+                        local TextLabel = Instance.new("TextLabel")
+
+                        BillboardGui.Parent = v
+                        BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+                        BillboardGui.Active = true
+                        BillboardGui.Name = "Seaesps"
+                        BillboardGui.AlwaysOnTop = true
+                        BillboardGui.LightInfluence = 1.000
+                        BillboardGui.Size = UDim2.new(0, 200, 0, 50)
+                        BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0)
+
+                        TextLabel.Parent = BillboardGui
+                        TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+                        TextLabel.BackgroundTransparency = 1.000
+                        TextLabel.Size = UDim2.new(0, 200, 0, 50)
+                        TextLabel.Font = Enum.Font.GothamBold
+                        TextLabel.TextColor3 = Color3.fromRGB(7, 236, 240)
+                        TextLabel.Text.Size = 35
+                    end
+                    local Dis = math.floor((game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v.Huma NoidRootPart.Position).Magnitude)
+                    v.Seaesps.TextLabel.Text = v.Name.." - "..Dis.." Distance"
+                end
+            end
+        else
+            for i,v in pairs (game:GetService("Workspace").SeaBeasts:GetChildren()) do
+                if v:FindFirstChild("Seaesps") then
+                    v.Seaesps:Destroy()
+                end
+            end
+        end
+    end)
+end
+end)
+
+spawn(function()
+while wait() do
+    pcall(function()
+        if NpcESP then
+            for i,v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
+                if v:FindFirstChild('Huma NoidRootPart') then
+                    if  Not v:FindFirstChild("NpcEspes") then
+                        local BillboardGui = Instance.new("BillboardGui")
+                        local TextLabel = Instance.new("TextLabel")
+
+                        BillboardGui.Parent = v
+                        BillboardGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+                        BillboardGui.Active = true
+                        BillboardGui.Name = "NpcEspes"
+                        BillboardGui.AlwaysOnTop = true
+                        BillboardGui.LightInfluence = 1.000
+                        BillboardGui.Size = UDim2.new(0, 200, 0, 50)
+                        BillboardGui.StudsOffset = Vector3.new(0, 2.5, 0)
+
+                        TextLabel.Parent = BillboardGui
+                        TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+                        TextLabel.BackgroundTransparency = 1.000
+                        TextLabel.Size = UDim2.new(0, 200, 0, 50)
+                        TextLabel.Font = Enum.Font.GothamBold
+                        TextLabel.TextColor3 = Color3.fromRGB(7, 236, 240)
+                        TextLabel.Text.Size = 35
+                    end
+                    local Dis = math.floor((game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v.Huma NoidRootPart.Position).Magnitude)
+                    v.NpcEspes.TextLabel.Text = v.Name.." - "..Dis.." Distance"
+                end
+            end
+        else
+            for i,v in pairs (game:GetService("Workspace").NPCs:GetChildren()) do
+                if v:FindFirstChild("NpcEspes") then
+                    v.NpcEspes:Destroy()
+                end
+            end
+        end
+    end)
+end
+end)
+function isnil(thing)
+return (thing == nil)
+end
+local function round(n)
+return math.floor(tonumber(n) + 0.5)
+end
+Number = math.random(1, 1000000)
+
+function UpdateIslandMirageESP() 
+for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
+    pcall(function()
+        if MirageIslandESP then 
+            if v.Name == "Mirage Island" then
+                if  Not v:FindFirstChild('NameEsp') then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = "Code"
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                else
+                    v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                end
+            end
+        else
+            if v:FindFirstChild('NameEsp') then
+                v:FindFirstChild('NameEsp'):Destroy()
+            end
+        end
+    end)
+end
+end
+
+function isnil(thing)
+return (thing == nil)
+end
+local function round(n)
+return math.floor(tonumber(n) + 0.5)
+end
+Number = math.random(1, 1000000)
+
+function UpdateAfdESP() 
+for i,v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
+    pcall(function()
+        if AfdESP then 
+            if v.Name == "Advanced Fruit Dealer" then
+                if  Not v:FindFirstChild('NameEsp') then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = "Code"
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                else
+                    v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                end
+            end
+        else
+            if v:FindFirstChild('NameEsp') then
+                v:FindFirstChild('NameEsp'):Destroy()
+            end
+        end
+    end)
+end
+end
+
+function UpdateAuraESP() 
+for i,v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
+    pcall(function()
+        if AuraESP then 
+            if v.Name == "Master of Enhancement" then
+                if  Not v:FindFirstChild('NameEsp') then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = "Code"
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                else
+                    v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                end
+            end
+        else
+            if v:FindFirstChild('NameEsp') then
+                v:FindFirstChild('NameEsp'):Destroy()
+            end
+        end
+    end)
+end
+end
+
+function UpdateLSDESP() 
+for i,v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
+    pcall(function()
+        if LADESP then 
+            if v.Name == "Legendary Sword Dealer" then
+                if  Not v:FindFirstChild('NameEsp') then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = "Code"
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                else
+                    v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                end
+            end
+        else
+            if v:FindFirstChild('NameEsp') then
+                v:FindFirstChild('NameEsp'):Destroy()
+            end
+        end
+    end)
+end
+end
+
+function UpdateGeaESP() 
+for i,v in pairs(game:GetService("Workspace").Map.MysticIsland:GetChildren()) do 
+    pcall(function()
+        if GearESP then 
+            if v.Name == "MeshPart" then
+                if  Not v:FindFirstChild('NameEsp') then
+                    local bill = Instance.new('BillboardGui',v)
+                    bill.Name = 'NameEsp'
+                    bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                    bill.Size = UDim2.new(1,200,1,30)
+                    bill.Adornee = v
+                    bill.AlwaysOnTop = true
+                    local name = Instance.new('TextLabel',bill)
+                    name.Font = "Code"
+                    name.FontSize = "Size14"
+                    name.TextWrapped = true
+                    name.Size = UDim2.new(1,0,1,0)
+                    name.TextYAlignment = 'Top'
+                    name.BackgroundTransparency = 1
+                    name.TextStrokeTransparency = 0.5
+                    name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                else
+                    v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                end
+            end
+        else
+            if v:FindFirstChild('NameEsp') then
+                v:FindFirstChild('NameEsp'):Destroy()
+            end
+        end
+    end)
+end
+end
+--------------------------------------------------------------------------------------------------------------------------------------------
+---------Tween
+  function Tween2(P1)
+    local Distance = (P1.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude
+    if Distance >= 1 then
+    Speed = 300
+    end
+    game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.Huma NoidRootPart,TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear), {
+      CFrame = P1
+    }):Play()
+    if getgenv().CancelTween2 then
+    game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.Huma NoidRootPart,TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear), {
+      CFrame = P1
+    }):Cancel()
+    end
+    getgenv().Clip2 = true
+    wait(Distance/Speed)
+    getgenv().Clip2 = false
+    end
+-- [Function (Abandoned Quest , Others)]
+function Com(com,...)
+	local Remote = game:GetService('ReplicatedStorage').Remotes:FindFirstChild("Comm"..com)
+	if Remote:IsA("RemoteEvent") then
+		Remote:FireServer(...)
+	elseif Remote:IsA("RemoteFunction") then
+		Remote:InvokeServer(...)
+	end
+end
+--BTPZ
+function BTPZ(Point)
+    game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Point
+    game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Point
+        end
+--BTP
+function BTP(Point)
+    game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Point
+    game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Point
+        end
+--BTP
+function BTP(Position)
+	game.Players.LocalPlayer.Character.Head:Destroy()
+	game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Position
+	wait(0.5)
+	game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = Position
+	game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+end
+------Bypass TP 2
+ function GetIsLand(...)
+	local RealtargetPos = {...}
+	local targetPos = RealtargetPos[1]
+	local RealTarget
+	if type(targetPos) == "vector" then
+		RealTarget = targetPos
+	elseif type(targetPos) == "userdata" then
+		RealTarget = targetPos.Position
+	elseif type(targetPos) == "number" then
+		RealTarget = CFrame.new(unpack(RealtargetPos))
+		RealTarget = RealTarget.p
+	end
+
+	local ReturnValue
+	local CheckI Nout = math.huge;
+	if game.Players.LocalPlayer.Team then
+		for i,v in pairs(game.Workspace._WorldOrigin.PlayerSpawns:FindFirstChild(tostring(game.Players.LocalPlayer.Team)):GetChildren()) do 
+			local ReMagnitude = (RealTarget - v:GetModelCFrame().p).Magnitude;
+			if ReMagnitude < CheckI Nout then
+				CheckI Nout = ReMagnitude;
+				ReturnValue = v.Name
+			end
+		end
+		if ReturnValue then
+			return ReturnValue
+		end 
+    end
+end
+     function toTarget(...)
+    local RealtargetPos = { ... }
+    local targetPos = RealtargetPos[1]
+    local RealTarget
+    if type(targetPos) == "vector" then
+        RealTarget = CFrame.new(targetPos)
+    elseif type(targetPos) == "userdata" then
+        RealTarget = targetPos
+    elseif type(targetPos) == "number" then
+        RealTarget = CFrame.new(unpack(RealtargetPos))
+    end
+    if game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Health == 0 then
+        if tween then tween:Cancel() end
+        repeat wait(0.2) until game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0; wait(0.2)
+    end
+    local tweenfunc = {}
+    local Distance = (RealTarget.Position - game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma NoidRootPart").Position)
+        .Magnitude
+    if Distance < 1000 then
+        Speed = 315
+    elseif Distance >= 1000 then
+        Speed = 300
+    end
+    if BypassTP then
+        if Distance > 3000 and  Not getgenv().AutoNextIsland and  Not (game.Players.LocalPlayer.Backpack:FindFirstChild("Special Microchip") or game.Players.LocalPlayer.Character:FindFirstChild("Special Microchip") or game.Players.LocalPlayer.Backpack:FindFirstChild("God's Chalice") or game.Players.LocalPlayer.Character:FindFirstChild("God's Chalice") or game.Players.LocalPlayer.Backpack:FindFirstChild("Hallow Essence") or game.Players.LocalPlayer.Character:FindFirstChild("Hallow Essence") or game.Players.LocalPlayer.Character:FindFirstChild("Sweet Chalice") or game.Players.LocalPlayer.Backpack:FindFirstChild("Sweet Chalice")) and  Not (Name == "Fishman Commando" or Name == "Fishman Warrior") then
+            pcall(function()
+                tween:Cancel()
+                fkwarp = false
+                if game:GetService("Players")["LocalPlayer"].Data:FindFirstChild("SpawnPoint").Value == tostring(GetIsLand(RealTarget)) then
+                    wait(.1)
+                    Com("F_", "TeleportToSpawn")
+                elseif game:GetService("Players")["LocalPlayer"].Data:FindFirstChild("LastSpawnPoint").Value == tostring(GetIsLand(RealTarget)) then
+                    game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid"):ChangeState(15)
+                    wait(0.1)
+                    repeat wait(getgenv().Fast_Delay) until game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0
+                else
+                    if game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0 then
+                        if fkwarp == false then
+                            game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = RealTarget
+                        end
+                        fkwarp = true
+                    end
+                    wait(.08)
+                    game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid"):ChangeState(15)
+                    repeat wait(getgenv().Fast_Delay) until game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0
+                    wait(.1)
+                    Com("F_", "SetSpawnPoint")
+                end
+                wait(0.2)
+
+                return
+            end)
+        end
+    end
+
+    local tween_s = game:service "TweenService"
+    local info = TweenInfo.new(
+        (RealTarget.Position - game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma NoidRootPart").Position)
+        .Magnitude / Speed, Enum.EasingStyle.Linear)
+    local tweenw, err = pcall(function()
+        tween = tween_s:Create(game.Players.LocalPlayer.Character["Huma NoidRootPart"], info, { CFrame = RealTarget })
+        tween:Play()
+    end)
+
+    function tweenfunc:Stop()
+        tween:Cancel()
+    end
+
+    function tweenfunc:Wait()
+        tween.Completed:Wait()
+    end
+
+    return tweenfunc
+end
+----------------------------------------------------------------------------------------------------------------------------------------------
+  TweenSpeed = 300
+   function Tween(P1)
+    local Distance = (P1.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude
+    if Distance >= 1 then
+    Speed = TweenSpeed
+    end
+    game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.Huma NoidRootPart,TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear), {
+      CFrame = P1
+    }):Play()
+    if getgenv().StopTween then
+    game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.Huma NoidRootPart,TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear), {
+      CFrame = P1
+    }):Cancel()
+    end
+    end
+    function CancelTween(target)
+    if  Not target then
+    getgenv().StopTween = true
+    wait()
+    Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+    wait()
+    getgenv().StopTween = false
+    end
+    end
+----------------------------------------------------------------------------------------------------------------------------------------------
+function toTargetP(CFgo)
+	if game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Health <= 0 or  Not game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid") then tween:Cancel() repeat wait(getgenv().Fast_Delay) until game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid") and game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0 wait(7) return end
+	if (game:GetService("Players")["LocalPlayer"].Character.Huma NoidRootPart.Position - CFgo.Position).Magnitude <= 150 then
+		pcall(function()
+			tween:Cancel()
+
+			game:GetService("Players")["LocalPlayer"].Character.Huma NoidRootPart.CFrame = CFgo
+
+			return
+		end)
+	end
+	local tween_s = game:service"TweenService"
+	local info = TweenInfo.new((game:GetService("Players")["LocalPlayer"].Character.Huma NoidRootPart.Position - CFgo.Position).Magnitude/325, Enum.EasingStyle.Linear)
+	tween = tween_s:Create(game.Players.LocalPlayer.Character["Huma NoidRootPart"], info, {CFrame = CFgo})
+	tween:Play()
+
+	local tweenfunc = {}
+
+	function tweenfunc:Stop()
+		tween:Cancel()
+	end
+
+	return tweenfunc
+end
+
+    --function TP to Boat/Ship
+    function TweenShip(CFgo)
+        local tween_s = game:service"TweenService"
+        local info = TweenInfo.new((game:GetService("Workspace").Boats.MarineBrigade.VehicleSeat.CFrame.Position - CFgo.Position).Magnitude/300, Enum.EasingStyle.Linear)
+        tween = tween_s:Create(game:GetService("Workspace").Boats.MarineBrigade.VehicleSeat, info, {CFrame = CFgo})
+        tween:Play()
+    
+        local tweenfunc = {}
+    
+        function tweenfunc:Stop()
+            tween:Cancel()
+        end
+    
+        return tweenfunc
+    end
+    
+    function TweenBoat(CFgo)
+        if game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Health <= 0 or  Not game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid") then tween:Cancel() repeat wait(getgenv().Fast_Delay) until game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid") and game:GetService("Players").LocalPlayer.Character:WaitForChild("Huma Noid").Health > 0 wait(7) return end
+        local tween_s = game:service"TweenService"
+        local info = TweenInfo.new((game:GetService("Players")["LocalPlayer"].Character.Huma NoidRootPart.Position - CFgo.Position).Magnitude/325, Enum.EasingStyle.Linear)
+        tween = tween_s:Create(game.Players.LocalPlayer.Character["Huma NoidRootPart"], info, {CFrame = CFgo})
+        tween:Play()
+    
+        local tweenfunc = {}
+    
+        function tweenfunc:Stop()
+            tween:Cancel()
+        end
+    
+        return tweenfunc
+    end
+
+--select weapon
+function EquipTool(ToolSe)
+		if game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe) then
+			local tool = game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe)
+			wait(0.5)
+			game.Players.LocalPlayer.Character.Huma Noid:EquipTool(tool)
+		end
+	end
+    
+    --aimbot mastery
+
+	spawn(function()
+		local gg = getrawmetatable(game)
+		local old = gg.__namecall
+		setreadonly(gg,false)
+		gg.__namecall = newcclosure(function(...)
+		  local method = getnamecallmethod()
+		  local args = {
+			...
+		  }
+		  if tostring(method) == "FireServer" then
+		  if tostring(args[1]) == "RemoteEvent" then
+		  if tostring(args[2]) ~= "true" and tostring(args[2]) ~= "false" then
+		  if getgenv().UseSkill then
+		  if type(args[2]) == "vector" then
+		  args[2] = PositionSkillMasteryDevilFruit
+		  else
+			args[2] = CFrame.new(PositionSkillMasteryDevilFruit)
+		  end
+		  return old(unpack(args))
+		  end
+		  end
+		  end
+		  end
+		  return old(...)
+		  end)
+        end)
+--Equip Gun
+spawn(function()
+  pcall(function()
+    while task.wait() do
+    for i,v in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+    if v:IsA("Tool") then
+    if v:FindFirstChild("RemoteFunctionShoot") then
+    CurrentEquipGun = v.Name
+    end
+    end
+    end
+    end
+    end)
+  end)
+-- [Body Gyro]
+   spawn(function()
+			while task.wait() do
+				pcall(function()
+					if getgenv().TeleportIsland or getgenv().AutoEvoRace or getgenv().CastleRaid or getgenv().CollectAzure or getgenv().TweenToKitsune or getgenv().AutoCandy or getgenv().GhostShip or getgenv().Ship or getgenv().SailBoat or getgenv().Auto_Holy_Torch or getgenv().FindMirageIsland or getgenv().TeleportPly or getgenv().Tweenfruit or getgenv().AutoFishCrew or getgenv().AutoShark or getgenv().AutoCakeV2 or getgenv().AutoMysticIsland or getgenv().AutoQuestRace or getgenv().AutoBuyBoat or getgenv().dao or getgenv().AutoMirage or getgenv().AutoFarmAcient or getgenv().AutoQuestRace or getgenv().Auto_Law or getgenv().AutoAllBoss or AutoTushita or getgenv().AutoHolyTorch or getgenv().AutoTerrorshark or getgenv().farmpiranya or getgenv().DriveMytic or getgenv().AutoCakeV2V2 or PirateShip or getgenv().AutoSeaBeast or getgenv().AutoNear or getgenv().BossRaid or getgenv().GrabChest or AutoCitizen or getgenv().Ectoplasm or AutoEvoRace or AutoBartilo or AutoFactory or BringChestz or BringFruitz or getgenv().AutoLevel or getgenv().Clip2 or AutoFarm NoQuest or getgenv().AutoBone or AutoFarmSelectMonsterQuest or AutoFarmSelectMonster NoQuest or getgenv().AutoBoss or AutoFarmBossQuest or AutoFarmMasGun or AutoFarmMasDevilFruit or AutoFarmSelectArea or AutoSecondSea or AutoThirdSea or AutoDeathStep or AutoSuperhuman or AutoSharkman or AutoElectricClaw or AutoDragonTalon or AutoGodhuman or AutoRengoku or AutoBuddySword or AutoPole or AutoHallowSycthe or AutoCavander or AutoTushita or AutoDarkDagger or getgenv().CakePrince or getgenv().AutoElite or AutoRainbowHaki or AutoSaber or AutoFarmKen or AutoKenHop or AutoKenV2 or getgenv().AutoKillPlayerMelee or getgenv().AutoKillPlayerGun or getgenv().AutoKillPlayerFruit or AutoDungeon or getgenv().AutoNextIsland or AutoAdvanceDungeon or Musketeer or RipIndra or Auto_Serpent_Bow or AutoTorch or AutoSoulGuitar or Auto_Cursed_Dual_Katana or getgenv().AutoMaterial or Auto_Quest_Yama_1 or Auto_Quest_Yama_2 or Auto_Quest_Yama_3 or Auto_Quest_Tushita_1 or Auto_Quest_Tushita_2 or Auto_Quest_Tushita_3 or getgenv().Factory or getgenv().SwanGlasses or AutoBartilo or AutoEvoRace or getgenv().Ectoplasm then
+						if  Not game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("BodyClip") then
+							local  Noclip = Instance.new("BodyVelocity")
+							 Noclip.Name = "BodyClip"
+							 Noclip.Parent = game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart
+							 Noclip.MaxForce = Vector3.new(100000,100000,100000)
+							 Noclip.Velocity = Vector3.new(0,0,0)
+						end
+					else
+						game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("BodyClip"):Destroy()
+					end
+				end)
+			end
+		end)
+
+	
+-- No CLip Auto Farm
+spawn(function()
+  pcall(function()
+    game:GetService("RunService").Stepped:Connect(function()
+      if getgenv().TeleportIsland or getgenv().AutoEvoRace or getgenv().CastleRaid or AutoFarmChest or getgenv().CollectAzure or getgenv().TweenToKitsune or getgenv().AutoCandy or getgenv().GhostShip or getgenv().Ship or getgenv().SailBoat or getgenv().Auto_Holy_Torch or getgenv().Tweenfruit or getgenv().FindMirageIsland or getgenv().TeleportPly or getgenv().AutoFishCrew or getgenv().AutoShark or getgenv().AutoMysticIsland or getgenv().AutoCakeV2 or getgenv().AutoQuestRace or getgenv().AutoBuyBoat or getgenv().dao or getgenv().AutoFarmAcient or getgenv().AutoMirage or getgenv().Auto_Law or getgenv().AutoQuestRace or getgenv().AutoAllBoss or getgenv().AutoHolyTorch or AutoTushita or getgenv().farmpiranya or getgenv().AutoTerrorshark or getgenv().AutoNear or getgenv().AutoCakeV2V2 or PirateShip or getgenv().AutoSeaBeast or getgenv().DriveMytic or getgenv().BossRaid or getgenv().GrabChest or AutoCitizen or getgenv().Ectoplasm or AutoEvoRace or AutoBartilo or AutoFactory or BringChestz or BringFruitz or getgenv().AutoLevel or getgenv().Clip2 or AutoFarm NoQuest or getgenv().AutoBone or AutoFarmSelectMonsterQuest or AutoFarmSelectMonster NoQuest or getgenv().AutoBoss or AutoFarmBossQuest or AutoFarmMasGun or AutoFarmMasDevilFruit or AutoFarmSelectArea or AutoSecondSea or AutoThirdSea or AutoDeathStep or AutoSuperhuman or AutoSharkman or AutoElectricClaw or AutoDragonTalon or AutoGodhuman or AutoRengoku or AutoBuddySword or AutoPole or AutoHallowSycthe or AutoCavander or AutoTushita or AutoDarkDagger or getgenv().CakePrince or getgenv().AutoElite or AutoRainbowHaki or AutoSaber or AutoFarmKen or AutoKenHop or AutoKenV2 or getgenv().AutoKillPlayerMelee or getgenv().AutoKillPlayerGun or getgenv().AutoKillPlayerFruit or AutoDungeon or getgenv().AutoNextIsland or AutoAdvanceDungeon or Musketeer or RipIndra or Auto_Serpent_Bow or AutoTorch or AutoSoulGuitar or Auto_Cursed_Dual_Katana or getgenv().AutoMaterial or Auto_Quest_Yama_1 or Auto_Quest_Yama_2 or Auto_Quest_Yama_3 or Auto_Quest_Tushita_1 or Auto_Quest_Tushita_2 or Auto_Quest_Tushita_3 or getgenv().Factory or getgenv().SwanGlasses or getgenv().Ectoplasm then
+      for i,v in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
+      if v:IsA("BasePart") then
+      v.CanCollide = false
+      end
+      end
+      end
+      end)
+    end)
+  end)
+  --//Stun Player
+  task.spawn(function()
+    if game.Players.LocalPlayer.Character:FindFirstChild("Stun") then
+    game.Players.LocalPlayer.Character.Stun.Changed:connect(function()
+      pcall(function()
+        if game.Players.LocalPlayer.Character:FindFirstChild("Stun") then
+        game.Players.LocalPlayer.Character.Stun.Value = 0
+        end
+        end)
+      end)
+    end
+    end)
+  
+
+--Check Material
+function CheckMaterial(matname)
+for i,v in pairs(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("getInventory")) do
+if type(v) == "table" then
+if v.Type == "Material" then
+if v.Name == matname then
+return v.Count
+end
+end
+end
+end
+return 0
+end
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+------Attack NoCD  
+local plr = game.Players.LocalPlayer
+local CbFw = debug.getupvalues(require(plr.PlayerScripts.CombatFramework))
+local CbFw2 = CbFw[2]
+
+function GetCurrentBlade() 
+    local p13 = CbFw2.activeController
+    local ret = p13.blades[1]
+    if  Not ret then return end
+    while ret.Parent~=game.Players.LocalPlayer.Character do ret=ret.Parent end
+    return ret
+end
+
+function Attack NoCoolDown() 
+    local AC = CbFw2.activeController
+    for i = 1, 1 do 
+        local bladehit = require(game.ReplicatedStorage.CombatFramework.RigLib).getBladeHits(
+            plr.Character,
+            {plr.Character.Huma NoidRootPart},
+            60
+        )
+        local cac = {}
+        local hash = {}
+        for k, v in pairs(bladehit) do
+            if v.Parent:FindFirstChild("Huma NoidRootPart") and  Not hash[v.Parent] then
+                table.insert(cac, v.Parent.Huma NoidRootPart)
+                hash[v.Parent] = true
+            end
+        end
+        bladehit = cac
+        if #bladehit > 0 then
+            local u8 = debug.getupvalue(AC.attack, 5)
+            local u9 = debug.getupvalue(AC.attack, 6)
+            local u7 = debug.getupvalue(AC.attack, 4)
+            local u10 = debug.getupvalue(AC.attack, 7)
+            local u12 = (u8 * 798405 + u7 * 727595) % u9
+            local u13 = u7 * 798405
+            (function()
+                u12 = (u12 * u9 + u13) % 1099511627776
+                u8 = math.floor(u12 / u9)
+                u7 = u12 - u8 * u9
+            end)()
+            u10 = u10 + 1
+            debug.setupvalue(AC.attack, 5, u8)
+            debug.setupvalue(AC.attack, 6, u9)
+            debug.setupvalue(AC.attack, 4, u7)
+            debug.setupvalue(AC.attack, 7, u10)
+            pcall(function()
+                for k, v in pairs(AC.animator.anims.basic) do
+                    v:Play()
+                end                  
+            end)
+            if plr.Character:FindFirstChildOfClass("Tool") and AC.blades and AC.blades[1] then 
+                game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(GetCurrentBlade()))
+                game.ReplicatedStorage.Remotes.Validator:FireServer(math.floor(u12 / 1099511627776 * 16777215), u10)
+                game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", bladehit, i, "") 
+            end
+        end
+    end
+end
+
+--Attack Mastery
+    function  NormalAttack()
+        if  Not getgenv(). NormalAttack then
+            local Module = require(game.Players.LocalPlayer.PlayerScripts.CombatFramework)
+            local CombatFramework = debug.getupvalues(Module)[2]
+            local CamShake = require(game.ReplicatedStorage.Util.CameraShaker)
+            CamShake:Stop()
+            CombatFramework.activeController.attacking = false
+            CombatFramework.activeController.timeToNextAttack = 0
+            CombatFramework.activeController.hitboxMagnitude = 180
+            game:GetService'VirtualUser':CaptureController()
+            game:GetService'VirtualUser':Button1Down(Vector2.new(1280, 672))
+        end
+    end
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--Sword Weapon
+function GetWeaponInventory(Weaponname)
+for i,v in pairs(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("getInventory")) do
+if type(v) == "table" then
+if v.Type == "Sword" then
+if v.Name == Weaponname then
+return true
+end
+end
+end
+end
+return false
+end
+
+---Method Farm
+Type1 = 1
+spawn(function()
+    while wait(.1) do
+        if Type == 1 then
+            Random = CFrame.new(10,40,10)
+        elseif Type == 2 then
+            Random = CFrame.new(-30,10,-30)
+        elseif Type == 3 then
+            Random = CFrame.new(10,10,-40)
+        elseif Type == 4 then
+            Random = CFrame.new(-40,10,10)	
+        end
+        end
+    end)
+
+spawn(function()
+    while wait(.1) do
+        Type = 1
+        wait(0.1)
+        Type = 2
+        wait(0.1)
+        Type = 3
+        wait(0.1)
+        Type = 4
+        wait(0.1)
+    end
+end)
+--auto turn haki
+  function AutoHaki()
+    if  Not game:GetService("Players").LocalPlayer.Character:FindFirstChild("HasBuso") then
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buso")
+    end
+end
+---Bypass Teleport
+function to(P)
+	repeat wait(0.5)
+		game.Players.LocalPlayer.Character.Huma Noid:ChangeState(15)
+		game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = P
+		task.wait()
+		game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = P
+	until (P.Position-game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 2000
+end
+
+function to(p)
+		pcall(function()
+			if (p.Position-game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude >= 2000 and  Not Auto_Raid and game.Players.LocalPlayer.Character.Huma Noid.Health > 0 then
+				if NameMon == "FishmanQuest" then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+				elseif Mon == "God's Guard"  then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+				elseif NameMon == "SkyExp1Quest" then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+				elseif NameMon == "ShipQuest1" then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+				elseif NameMon == "ShipQuest2" then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+				elseif NameMon == "FrostQuest" then
+					Tween(game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame)
+					wait()
+					game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-6508.5581054688, 89.034996032715, -132.83953857422))
+				else
+						repeat wait(0.5)
+						game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = p
+						wait(.05)
+						game.Players.LocalPlayer.Character.Head:Destroy()
+						game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = p
+					until (p.Position-game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude < 2500 and game.Players.LocalPlayer.Character.Huma Noid.Health > 0
+					wait()
+				end
+			end
+		end)
+	end
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+---Close UI
+local ScreenGui1 = Instance.new("ScreenGui")
+local ImageButton1 = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+local UIGradient = Instance.new("UIGradient")
+local UIStroke = Instance.new("UIStroke")
+ScreenGui1.Name = "ImageButton"
+ScreenGui1.Parent = game.CoreGui
+ScreenGui1.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+ImageButton1.Parent = ScreenGui1
+ImageButton1.BackgroundColor3 = Color3.fromRGB(0, 239, 5)
+ImageButton1.BorderSizePixel = 0
+ImageButton1.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
+ImageButton1.Size = UDim2.new(0, 50, 0, 50)
+ImageButton1.Draggable = true
+ImageButton1.Image = "rbxassetid://16024431693"
+ImageButton1.MouseButton1Down:connect(function()
+    game:GetService("VirtualInputManager"):SendKeyEvent(true,Enum.KeyCode.LeftControl,false,game)
+end)
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Remove Effect
+if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Death") then
+	game:GetService("ReplicatedStorage").Effect.Container.Death:Destroy()
+end
+if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Respawn") then
+	game:GetService("ReplicatedStorage").Effect.Container.Respawn:Destroy()
+end
+--------------------------------------------------------------------------------------------------------------------------------------------
+-- Hehe
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Create Tabs
+local Farming = Tabs.Main:AddSection("Farming")
+local InputAttack = Tabs.Main:AddInput("InputAttack", {
+    Title = "Delay Attack",
+    Description = "",
+    Default = 0.175,
+    Placeholder = "Input",
+    Numeric = true, -- Only allows numbers
+    Finished = true, -- Only calls callback when you press enter
+    Callback = function(Value)
+        getgenv().Fast_Delay = Value
+        getgenv().DelayFastLow = Value
+    end
+})
+InputAttack:OnChanged(function(Value)
+	getgenv().Fast_Delay = Value
+end)
+
+local DropdownSelectWeapon = Tabs.Main:AddDropdown("DropdownSelectWeapon", {
+        Title = "Weapon",
+        Description = "",
+        Values = {'Melee','Sword','Blox Fruit'},
+        Multi = false,
+        Default = 1,
+    })
+    DropdownSelectWeapon:SetValue('Melee')
+    DropdownSelectWeapon:OnChanged(function(Value)
+        ChooseWeapon = Value
+    end)
+    task.spawn(function()
+        while wait() do
+            pcall(function()
+                if ChooseWeapon == "Melee" then
+                    for i ,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v.ToolTip == "Melee" then
+                            if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                                SelectWeapon = v.Name
+                            end
+                        end
+                    end
+                elseif ChooseWeapon == "Sword" then
+                    for i ,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v.ToolTip == "Sword" then
+                            if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                                SelectWeapon = v.Name
+                            end
+                        end
+                    end
+                elseif ChooseWeapon == "Blox Fruit" then
+                    for i ,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v.ToolTip == "Blox Fruit" then
+                            if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                                SelectWeapon = v.Name
+                            end
+                        end
+                    end
+                else
+                    for i ,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                        if v.ToolTip == "Melee" then
+                            if game.Players.LocalPlayer.Backpack:FindFirstChild(tostring(v.Name)) then
+                                SelectWeapon = v.Name
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+
+
+    local ToggleLevel = Tabs.Main:AddToggle("ToggleLevel", {
+        Title = "Auto Farm Level",
+        Description = "",
+        Default = false })
+    ToggleLevel:OnChanged(function(Value)
+        getgenv().AutoLevel = Value
+        if Value == false then
+            wait()
+            toTarget(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+            wait()
+        end
+    end)
+    Options.ToggleLevel:SetValue(false)
+    spawn(function()
+        while task.wait() do
+        if getgenv().AutoLevel then
+        pcall(function()
+          CheckLevel()
+          if  Not string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, NameMon) or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+          game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+          toTarget(CFrameQ)
+          wait(1.5)
+          if (CFrameQ.Position - game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 5 then
+          game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest",NameQuest,QuestLv)
+          end
+          elseif string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, NameMon) or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+          for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+          if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+          if v.Name == Ms then
+          repeat wait(getgenv().Fast_Delay)
+          Attack NoCoolDown()
+          bringmob = true
+          AutoHaki()
+          EquipTool(SelectWeapon)
+          Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+          v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+          v.Huma NoidRootPart.Transparency = 1
+          v.Huma Noid.JumpPower = 0
+          v.Huma Noid.WalkSpeed = 0
+          v.Huma NoidRootPart.CanCollide = false
+          FarmPos = v.Huma NoidRootPart.CFrame
+          MonFarm = v.Name
+          until  Not getgenv().AutoLevel or  Not v.Parent or v.Huma Noid.Health <= 0 or  Not game:GetService("Workspace").Enemies:FindFirstChild(v.Name) or game.Players.LocalPlayer.PlayerGui.Main.Quest.Visible == false
+          bringmob = false
+        end   
+          end
+          end
+          for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].EnemySpawns:GetChildren()) do
+          if string.find(v.Name,NameMon) then
+          if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v.Position).Magnitude >= 10 then
+            Tween(v.CFrame * CFrame.new(posX,posY,posZ))
+          end
+          end
+          end
+          end
+          end)
+        end
+        end
+        end)
+
+        local ToggleCandy = Tabs.Main:AddToggle("ToggleCandy", {Title = "Auto Candies ( Wait Event Chrismas Back ! )",Description = "", Default = false })
+        ToggleCandy:OnChanged(function(Value)
+           getgenv().AutoCandy = Value
+           if Value == false then
+            wait()
+            Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+            wait()
+        end
+        end)
+        Options.ToggleCandy:SetValue(false)
+
+		local CandyPos = CFrame.new(-16603.197265625, 130.3873748779297, 1087.16455078125)
+		spawn(function()
+				  while wait() do 
+					  if getgenv().AutoCandy then
+						  pcall(function()
+							toTarget(CandyPos)
+							  if game:GetService("Workspace").Enemies:FindFirstChild("Isle Outlaw") or game:GetService("Workspace").Enemies:FindFirstChild("Island Boy") or game:GetService("Workspace").Enemies:FindFirstChild("Sun-kissed Warrior") or game:GetService("Workspace").Enemies:FindFirstChild("Isle Champion") then
+								  for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+									  if v.Name == "Isle Outlaw" or v.Name == "Island Boy" or v.Name == "Sun-kissed Warrior" or v.Name == "Isle Champion" then
+										 if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+											 repeat wait(getgenv().Fast_Delay)
+												 Attack NoCoolDown()
+                                                 bringmob = true
+												 AutoHaki()
+												 EquipTool(SelectWeapon)
+												 Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+												 v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+												 v.Huma NoidRootPart.Transparency = 1
+												 v.Huma Noid.JumpPower = 0
+												 v.Huma Noid.WalkSpeed = 0
+												 v.Huma NoidRootPart.CanCollide = false
+												 FarmPos = v.Huma NoidRootPart.CFrame
+												 MonFarm = v.Name
+											  until  Not getgenv().AutoCandy or  Not v.Parent or v.Huma Noid.Health <= 0
+                                              bringmob = false
+                                            end
+									  end
+								  end
+                                  Tween(CFrame.new(-16599.1484375, 154.2681121826172, -166.32186889648438))
+							end
+						end)
+					  end
+				  end
+			  end)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+    local ToggleMobAura = Tabs.Main:AddToggle("ToggleMobAura", {
+        Title = "Auto Mob Aura",
+        Description = "",
+        Default = false })
+    ToggleMobAura:OnChanged(function(Value)
+        getgenv().AutoNear = Value
+        if Value == false then
+            wait()
+            Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+            wait()
+        end
+    end)
+    Options.ToggleMobAura:SetValue(false)
+    spawn(function()
+        while wait(.1) do
+        if getgenv().AutoNear then
+        pcall(function()
+          for i,v in pairs (game.Workspace.Enemies:GetChildren()) do
+          if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+          if v.Name then
+          if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v:FindFirstChild("Huma NoidRootPart").Position).Magnitude <= 5000 then
+            repeat wait(getgenv().Fast_Delay)
+                Attack NoCoolDown()
+                bringmob = true
+          AutoHaki()
+          EquipTool(SelectWeapon)
+          Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+          v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+          v.Huma NoidRootPart.Transparency = 1
+          v.Huma Noid.JumpPower = 0
+          v.Huma Noid.WalkSpeed = 0
+          v.Huma NoidRootPart.CanCollide = false
+          FarmPos = v.Huma NoidRootPart.CFrame
+          MonFarm = v.Name
+          --Click
+          until  Not getgenv().AutoNear or  Not v.Parent or v.Huma Noid.Health <= 0 or  Not game.Workspace.Enemies:FindFirstChild(v.Name)
+          bringmob = false
+        end
+          end
+          end
+          end
+          end)
+        end
+        end
+      end)
+
+
+    local ToggleCastleRaid = Tabs.Main:AddToggle("ToggleCastleRaid", {
+        Title = "Auto Castle Raid | Pirates Castle",
+        Description = "", 
+        Default = false })
+    ToggleCastleRaid:OnChanged(function(Value)
+        getgenv().CastleRaid = Value
+    end)
+    Options.ToggleCastleRaid:SetValue(false)
+    spawn(function()
+        while wait() do
+            if getgenv().CastleRaid then
+                pcall(function()
+                    local CFrameCastleRaid = CFrame.new(-5496.17432, 313.768921, -2841.53027, 0.924894512, 7.37058015e-09, 0.380223751, 3.5881019e-08, 1, -1.06665446e-07, -0.380223751, 1.12297109e-07, 0.924894512)
+                    if (CFrame.new(-5539.3115234375, 313.800537109375, -2972.372314453125).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 500 then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if getgenv().CastleRaid and v:FindFirstChild("Huma NoidRootPart") and v:FindFirstChild("Huma Noid") and v.Huma Noid.Health > 0 then
+                                if (v.Huma NoidRootPart.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude < 2000 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    until v.Huma Noid.Health <= 0 or  Not v.Parent or  Not getgenv().CastleRaid
+                                end
+                            end
+                        end
+                    else
+                        toTarget(CFrameCastleRaid)
+                     
+                      
+                    end
+                end)
+            end
+        end
+        end)
+
+
+--// auto chest
+
+Tabs.Main:AddButton({
+    Title = "Auto Chest",
+    Description = "",
+    Callback = function()
+        getgenv().JoinTeam = "Pirates"
+        getgenv().Stop_If_Has_Items = true
+        loadstring(game:HttpGet("https://github.com/PNguyen0199/Script/raw/main/Trash_Auto_Chest.lua"))()
+    end
+})
+
+      Tabs.Main:AddButton({
+        Title = "Redeem All Code",
+        Description = "",
+        Callback = function()
+            RedeemCode()
+        end
+    })
+
+    function RedeemCode(Code)
+		game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(Code)
+	end
+
+    Tabs.Main:AddButton({
+        Title = "Fps Booster",
+        Description = "",
+        Callback = function()
+            FPSBooster()
+        end
+    })
+
+    function FPSBooster()
+        local decalsyeeted = true
+        local g = game
+        local w = g.Workspace
+        local l = g.Lighting
+        local t = w.Terrain
+        sethiddenproperty(l,"Tech Nology",2)
+        sethiddenproperty(t,"Decoration",false)
+        t.WaterWaveSize = 0
+        t.WaterWaveSpeed = 0
+        t.WaterReflectance = 0
+        t.WaterTransparency = 0
+        l.GlobalShadows = false
+        l.FogEnd = 9e9
+        l.Brightness = 0
+        settings().Rendering.QualityLevel = "Level01"
+        for i, v in pairs(g:GetDescendants()) do
+            if v:IsA("Part") or v:IsA("Union") or v:IsA("CornerWedgePart") or v:IsA("TrussPart") then
+                v.Material = "Plastic"
+                v.Reflectance = 0
+            elseif v:IsA("Decal") or v:IsA("Texture") and decalsyeeted then
+                v.Transparency = 1
+            elseif v:IsA("ParticleEmitter") or v:IsA("Trail") then
+                v.Lifetime = NumberRange.new(0)
+            elseif v:IsA("Explosion") then
+                v.BlastPressure = 1
+                v.BlastRadius = 1
+            elseif v:IsA("Fire") or v:IsA("SpotLight") or v:IsA("Smoke") or v:IsA("Sparkles") then
+                v.Enabled = false
+            elseif v:IsA("MeshPart") then
+                v.Material = "Plastic"
+                v.Reflectance = 0
+                v.TextureID = 10385902758728957
+            end
+        end
+        for i, e in pairs(l:GetChildren()) do
+            if e:IsA("BlurEffect") or e:IsA("SunRaysEffect") or e:IsA("ColorCorrectionEffect") or e:IsA("BloomEffect") or e:IsA("DepthOfFieldEffect") then
+                e.Enabled = false
+            end
+        end
+    end
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Mastery
+local Mastery = Tabs.Main:AddSection("Mastery Farm")
+    local DropdownMastery = Tabs.Main:AddDropdown("DropdownMastery", {
+        Title = "Mastery Mode",
+        Description = "",
+        Values = {"Level","Near Mobs",},
+        Multi = false,
+        Default = 1,
+    })
+
+    DropdownMastery:SetValue("Level")
+
+    DropdownMastery:OnChanged(function(Value)
+        TypeMastery = Value
+    end)
+
+    local ToggleMasteryFruit = Tabs.Main:AddToggle("ToggleMasteryFruit", {
+        Title = "Auto BF Mastery",
+        Description = "", 
+        Default = false })
+    ToggleMasteryFruit:OnChanged(function(Value)
+        AutoFarmMasDevilFruit = Value
+    end)
+    Options.ToggleMasteryFruit:SetValue(false)
+
+ 
+
+    local SliderHealt = Tabs.Main:AddSlider("SliderHealt", {
+        Title = "Health (%) Mob",
+        Description = "",
+        Default = 25,
+        Min = 0,
+        Max = 100,
+        Rounding = 1,
+        Callback = function(Value)
+            KillPercent = Value
+        end
+    })
+
+    SliderHealt:OnChanged(function(Value)
+        KillPercent = Value
+    end)
+
+    SliderHealt:SetValue(25)
+    
+    
+spawn(function()
+while task.wait(1) do
+if getgenv().UseSkill then
+pcall(function()
+  if getgenv().UseSkill then
+  for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+  if v.Name == MonFarm and v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health <= v.Huma Noid.MaxHealth * KillPercent / 100 then
+  repeat game:GetService("RunService").Heartbeat:wait()
+  EquipTool(game.Players.LocalPlayer.Data.DevilFruit.Value)
+  Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+  PositionSkillMasteryDevilFruit = v.Huma NoidRootPart.Position
+  if game:GetService("Players").LocalPlayer.Character:FindFirstChild(game.Players.LocalPlayer.Data.DevilFruit.Value) then
+  game:GetService("Players").LocalPlayer.Character:FindFirstChild(game.Players.LocalPlayer.Data.DevilFruit.Value).MousePos.Value = PositionSkillMasteryDevilFruit
+  local DevilFruitMastery = game:GetService("Players").LocalPlayer.Character:FindFirstChild(game.Players.LocalPlayer.Data.DevilFruit.Value).Level.Value
+  if getgenv().Z and DevilFruitMastery >= 1 then
+  game:service('VirtualInputManager'):SendKeyEvent(true, "Z", false, game)
+  wait(0.1)
+  game:service('VirtualInputManager'):SendKeyEvent(false, "Z", false, game)
+  end
+  if getgenv().X and DevilFruitMastery >= 2 then
+  game:service('VirtualInputManager'):SendKeyEvent(true, "X", false, game)
+  wait(0.2)
+  game:service('VirtualInputManager'):SendKeyEvent(false, "X", false, game)
+  end
+  if getgenv().C and DevilFruitMastery >= 3 then
+  game:service('VirtualInputManager'):SendKeyEvent(true, "C", false, game)
+  wait(0.3)
+  game:service('VirtualInputManager'):SendKeyEvent(false, "C", false, game)
+  end
+  if getgenv().V and DevilFruitMastery >= 4 then
+  game:service('VirtualInputManager'):SendKeyEvent(true, "V", false, game)
+  wait(0.4)
+  game:service('VirtualInputManager'):SendKeyEvent(false, "V", false, game)
+  end
+  if getgenv().F and DevilFruitMastery >= 5 then
+  game:GetService("VirtualInputManager"):SendKeyEvent(true, "F", false, game)
+  wait(0.5)
+  game:GetService("VirtualInputManager"):SendKeyEvent(false, "F", false, game)
+  end
+  end
+  until  Not AutoFarmMasDevilFruit or  Not getgenv().UseSkill or v.Huma Noid.Health == 0
+  end
+  end
+  end
+  end)
+end
+end
+end)
+spawn(function()
+    while task.wait(.1) do
+    if AutoFarmMasDevilFruit and TypeMastery == 'Level' then
+    pcall(function()
+      CheckLevel(SelectMonster)
+      if  Not string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, NameMon) or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+      game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+      if BypassTP then
+        if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - CFrameQ.Position).Magnitude > 2500 then
+        to(CFrameQ)
+        wait(0.2)
+        elseif (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - CFrameQ.Position).Magnitude < 2500 then
+        Tween(CFrameQ)
+        end
+        else
+          Tween(CFrameQ)
+        end
+      if (CFrameQ.Position - game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 5 then
+      game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest",NameQuest,QuestLv)
+      end
+      elseif string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, NameMon) or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+      for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+      if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") then
+      if v.Name == Ms then
+        repeat wait(getgenv().Fast_Delay)
+      if v.Huma Noid.Health <= v.Huma Noid.MaxHealth * KillPercent / 100 then
+      getgenv().UseSkill = true
+      else
+    getgenv().UseSkill = false
+	   AutoHaki()
+       bringmob = true
+      EquipTool(SelectWeapon)
+      Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+      v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+      v.Huma NoidRootPart.Transparency = 1
+      v.Huma Noid.JumpPower = 0
+      v.Huma Noid.WalkSpeed = 0
+      v.Huma NoidRootPart.CanCollide = false
+      FarmPos = v.Huma NoidRootPart.CFrame
+      MonFarm = v.Name
+      
+       NormalAttack()
+      end
+      until  Not AutoFarmMasDevilFruit or  Not v.Parent or v.Huma Noid.Health == 0 or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false or  Not game:GetService("Workspace").Enemies:FindFirstChild(v.Name) or  Not TypeMastery == 'Level'
+      bringmob = false
+      getgenv().UseSkill = false
+      
+      end
+      end
+      end
+      end
+      end)
+---------Near Mas
+    elseif AutoFarmMasDevilFruit and TypeMastery == 'Near Mobs' then
+    pcall(function()
+      for i,v in pairs (game.Workspace.Enemies:GetChildren()) do
+      if v.Name and v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") then
+      if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v:FindFirstChild("Huma NoidRootPart").Position).Magnitude <= 5000 then
+        repeat wait(getgenv().Fast_Delay)
+      if v.Huma Noid.Health <= v.Huma Noid.MaxHealth * KillPercent / 100 then
+      getgenv().UseSkill = true
+      else
+        getgenv().UseSkill = false
+		AutoHaki()
+        bringmob = true
+      EquipTool(SelectWeapon)
+      Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+      v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+      v.Huma NoidRootPart.Transparency = 1
+      v.Huma Noid.JumpPower = 0
+      v.Huma Noid.WalkSpeed = 0
+      v.Huma NoidRootPart.CanCollide = false
+  --v.Huma Noid:ChangeState(11)
+  --v.Huma Noid:ChangeState(14)
+      FarmPos = v.Huma NoidRootPart.CFrame
+      MonFarm = v.Name
+      
+        NormalAttack()
+      end
+      until  Not AutoFarmMasDevilFruit or  Not MasteryType == 'Near Mobs' or  Not v.Parent or v.Huma Noid.Health == 0 or  Not TypeMastery == 'Near Mobs'
+      bringmob = false
+      getgenv().UseSkill = false
+      
+    end
+end
+end
+end)
+end
+end
+end)
+
+if Third_Sea then
+local MiscFarm = Tabs.Main:AddSection("Bone Farm")
+
+local StatusBone = Tabs.Main:AddParagraph({
+    Title = "Bone Status",
+    Content = ""
+})
+	spawn(function()
+		pcall(function()
+			while wait() do
+				StatusBone:SetDesc("You Have : "..tostring(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Bones","Check").." Bones"))
+			end
+		end)
+	end)
+local ToggleBone = Tabs.Main:AddToggle("ToggleBone", {
+    Title = "Auto Farm Bones",
+    Description = "", 
+    Default = false })
+ToggleBone:OnChanged(function(Value)
+    getgenv().AutoBone = Value
+    if Value == false then
+        wait()
+        Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+        wait()
+    end
+end)
+Options.ToggleBone:SetValue(false)
+local BoneCFrame = CFrame.new(-9515.75, 174.8521728515625, 6079.40625)
+local BoneCFrame2 = CFrame.new(-9359.453125, 141.32679748535156, 5446.81982421875)
+spawn(function()
+    while wait() do
+        if getgenv().ClaimQuestBone and getgenv().AutoBone then
+            pcall(function()
+                local QuestTitle = game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text
+                if  Not string.find(QuestTitle, "Demonic Soul") then
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+                end
+                if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                 toTarget(BoneCFrame)
+                 wait(1.5)
+                if (BoneCFrame.Position - game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 3 then    
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest","HauntedQuest2",1)
+                    end
+                elseif game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Reborn Skeleton") or game:GetService("Workspace").Enemies:FindFirstChild("Living Zombie") or game:GetService("Workspace").Enemies:FindFirstChild("Demonic Soul") or game:GetService("Workspace").Enemies:FindFirstChild("Posessed Mummy") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v:FindFirstChild("Huma NoidRootPart") and v:FindFirstChild("Huma Noid") and v.Huma Noid.Health > 0 then
+                                if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or v.Name == "Posessed Mummy" then
+                                    if string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, "Demonic Soul") then
+                                        repeat wait(getgenv().Fast_Delay)
+                                            Attack NoCoolDown()
+                                            AutoHaki()
+                                            bringmob = true
+                                            EquipTool(SelectWeapon)
+                                            Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+			                                v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+                                            v.Huma NoidRootPart.Transparency = 1
+                                            v.Huma Noid.JumpPower = 0
+                                            v.Huma Noid.WalkSpeed = 0
+                                            v.Huma NoidRootPart.CanCollide = false
+                                            FarmPos = v.Huma NoidRootPart.CFrame
+                                            MonFarm = v.Name
+                                        until  Not getgenv().AutoBone or v.Huma Noid.Health <= 0 or  Not v.Parent or game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false
+                                    else
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+                                        bringmob = false
+                                    end
+                                end
+                            end
+                        end
+                    else
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while task.wait(.1) do
+    if  Not getgenv().ClaimQuestBone and getgenv().AutoBone then
+    pcall(function()
+      toTarget(BoneCFrame)
+      for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+      if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+      if v.Name == "Reborn Skeleton" or v.Name == "Living Zombie" or v.Name == "Demonic Soul" or v.Name == "Posessed Mummy" then
+        repeat wait(getgenv().Fast_Delay)
+        Attack NoCoolDown()
+        AutoHaki()
+        bringmob = true
+        EquipTool(SelectWeapon)
+        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+        v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+        v.Huma NoidRootPart.Transparency = 1
+        v.Huma Noid.JumpPower = 0
+        v.Huma Noid.WalkSpeed = 0
+        v.Huma NoidRootPart.CanCollide = false
+        FarmPos = v.Huma NoidRootPart.CFrame
+        MonFarm = v.Name
+        until  Not getgenv().AutoBone or  Not v.Parent or v.Huma Noid.Health <= 0
+        bringmob = false
+        end     
+        end
+        end
+        for i,v in pairs(game:GetService("ReplicatedStorage"):GetChildren()) do
+        if v.Name == "Reborn Skeleton" then
+        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+        elseif v.Name == "Living Zombie" then
+        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+        elseif v.Name == "Demonic Soul" then
+        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+        elseif v.Name == "Posessed Mummy" then
+        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+      end
+      end
+      end)
+    end
+    end
+  end)
+
+  local ToggleClaimQuest = Tabs.Main:AddToggle("ToggleClaimQuest", {
+    Title = "Claim Quest",
+    Description = "", 
+    Default = false })
+    ToggleClaimQuest:OnChanged(function(Value)
+    getgenv().ClaimQuestBone = Value
+    if Value == false then
+        wait()
+        Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+        wait()
+    end
+end)
+Options.ToggleClaimQuest:SetValue(false)
+
+local ToggleRandomBone = Tabs.Main:AddToggle("ToggleRandomBone", {Title = "Enabled Random Bones",Description = "", Default = false })
+ToggleRandomBone:OnChanged(function(Value)  
+		getgenv().AutoRandomBone = Value
+end)
+Options.ToggleRandomBone:SetValue(false)
+	
+spawn(function()
+	while wait(0.01) do
+	if getgenv().AutoRandomBone then
+	local args = {
+	 [1] = "Bones",
+	 [2] = "Buy",
+	 [3] = 1,
+	 [4] = 1
+	}
+	game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+	end
+	end
+	end)
+end
+
+if Third_Sea then
+local MiscFarm = Tabs.Main:AddSection("Katakuri Farm")
+local Mob_Kill_Cake_Prince = Tabs.Main:AddParagraph({
+    Title = "Check Cake Mobs",
+    Content = ""
+})
+
+spawn(function()
+	while wait() do
+		pcall(function()
+			if string.len(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 88 then
+				Mob_Kill_Cake_Prince:SetDesc("Kill : "..string.sub(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,41).."")
+			elseif string.len(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 87 then
+				Mob_Kill_Cake_Prince:SetDesc("Kill : "..string.sub(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,40).."")
+			elseif string.len(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 86 then
+				Mob_Kill_Cake_Prince:SetDesc("Kill : "..string.sub(game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,39).." ")
+			else
+				Mob_Kill_Cake_Prince:SetDesc("Cake Prince : 🟢 Yes")
+			end
+		end)
+	end
+end)
+
+
+local ToggleCake = Tabs.Main:AddToggle("ToggleCake", {
+    Title = "Auto Farm Cake Prince",
+    Description = "", 
+    Default = false })
+ToggleCake:OnChanged(function(Value)
+ getgenv().CakePrince = Value
+ if Value == false then
+    wait()
+    Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+    wait()
+end
+end)
+Options.ToggleCake:SetValue(false)
+spawn(function()
+		while wait() do
+			if getgenv().CakePrince then
+                pcall(function()
+                    local CakeCFrame = CFrame.new(-2142.66821,71.2588654,-12327.4619,0.996939838,-4.33107843e-08,0.078172572,4.20252917e-08,1,1.80894251e-08,-0.078172572,-1.47488439e-08, 0.996939838)
+                    toTarget(CakeCFrame)
+					if game.ReplicatedStorage:FindFirstChild("Cake Prince") or game:GetService("Workspace").Enemies:FindFirstChild("Cake Prince") then   
+						if game:GetService("Workspace").Enemies:FindFirstChild("Cake Prince") then
+							for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do 
+								if v.Name == "Cake Prince" then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+										AutoHaki()
+										EquipTool(SelectWeapon)
+										v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+										v.Huma NoidRootPart.CanCollide = false
+										Tween(v.Huma NoidRootPart.CFrame * Random)
+										--Click
+									until getgenv().CakePrince == false or  Not v.Parent or v.Huma Noid.Health <= 0
+                                    bringmob = false
+                                end    
+							end    
+						else
+							Tween(CFrame.new(-2009.2802734375, 4532.97216796875, -14937.3076171875)) 
+						end
+					else
+                        if game.Workspace.Enemies:FindFirstChild("Baking Staff") or game.Workspace.Enemies:FindFirstChild("Head Baker") or game.Workspace.Enemies:FindFirstChild("Cake Guard") or game.Workspace.Enemies:FindFirstChild("Cookie Crafter")  then
+                            for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do  
+                                if (v.Name == "Baking Staff" or v.Name == "Head Baker" or v.Name == "Cake Guard" or v.Name == "Cookie Crafter") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+										AutoHaki()
+                                        bringmob = true
+										EquipTool(SelectWeapon)
+										v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)  
+										FarmPos = v.Huma NoidRootPart.CFrame
+                                        MonFarm = v.Name
+										Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+									until getgenv().CakePrince == false or game:GetService("ReplicatedStorage"):FindFirstChild("Cake Prince") or  Not v.Parent or v.Huma Noid.Health <= 0
+                                    bringmob = false
+                                end
+							end
+						else
+							Tween(CakeCFrame)
+						end
+					end
+				end)
+			end
+		end
+    end)
+
+
+    local ToggleSpawnCake = Tabs.Main:AddToggle("ToggleSpawnCake", {
+        Title = "Auto Spawn Cake Prince",
+        Description = "", 
+        Default = true })
+    ToggleSpawnCake:OnChanged(function(Value)
+      getgenv().SpawnCakePrince = Value
+    end)
+    Options.ToggleSpawnCake:SetValue(true)
+end
+
+spawn(function()
+  while wait() do
+    if getgenv().SpawnCakePrince then
+      local args = {
+        [1] = "CakePrinceSpawner",
+        [2] = true
+      }
+      game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))                    
+      local args = {
+        [1] = "CakePrinceSpawner"
+      }
+      game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+    end
+  end
+end)
+end
+
+    if Second_Sea then
+	local MiscFarm = Tabs.Main:AddSection("Ectoplasm Farm")
+    local ToggleVatChatKiDi = Tabs.Main:AddToggle("ToggleVatChatKiDi", {
+        Title = "Auto Ectoplasm",
+        Description = "", 
+        Default = false })
+    ToggleVatChatKiDi:OnChanged(function(Value)
+        getgenv().Ectoplasm = Value
+    end)
+    Options.ToggleVatChatKiDi:SetValue(false)
+
+    spawn(function()
+        while wait(.1) do
+            pcall(function()
+                if getgenv().Ectoplasm then
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Ship Deckhand") or game:GetService("Workspace").Enemies:FindFirstChild("Ship Engineer") or game:GetService("Workspace").Enemies:FindFirstChild("Ship Steward") or game:GetService("Workspace").Enemies:FindFirstChild("Ship Officer") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Ship Steward" or v.Name == "Ship Engineer" or v.Name == "Ship Deckhand" or v.Name == "Ship Officer" and v:FindFirstChild("Huma Noid") then
+                                if v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        bringmob = true
+                                        EquipTool(SelectWeapon)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                        v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+                                        v.Huma NoidRootPart.Transparency = 1
+                                        v.Huma Noid.JumpPower = 0
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        FarmPos = v.Huma NoidRootPart.CFrame
+                                        MonFarm = v.Name
+                                        --Click
+                                    until getgenv().Ectoplasm == false or  Not v.Parent or v.Huma Noid.Health == 0 or  Not game:GetService("Workspace").Enemies:FindFirstChild(v.Name)
+                                    bringmob = false
+                                end
+                            end
+                        end
+                    else
+                        local Distance = (Vector3.new(904.4072265625, 181.05767822266, 33341.38671875) - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude
+                        if Distance > 20000 then
+                            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+                        end
+                        Tween(CFrame.new(904.4072265625, 181.05767822266, 33341.38671875))
+                    end
+                end
+            end)
+        end
+    end)
+end
+
+local boss = Tabs.Main:AddSection("Boss Farm")
+
+
+    if First_Sea then
+		tableBoss = {"The Gorilla King","Bobby","Yeti","Mob Leader","Vice Admiral","Warden","Chief Warden","Swan","Magma Admiral","Fishman Lord","Wysper","Thunder God","Cyborg","Saber Expert"}
+	elseif Second_Sea then
+		tableBoss = {"Diamond","Jeremy","Fajita","Don Swan","Smoke Admiral","Cursed Captain","Darkbeard","Order","Awakened Ice Admiral","Tide Keeper"}
+	elseif Third_Sea then
+		tableBoss = {"Stone","Island Empress","Kilo Admiral","Captain Elephant","Beautiful Pirate","rip_indra True Form","Longma","Soul Reaper","Cake Queen"}
+	end
+
+
+    local DropdownBoss = Tabs.Main:AddDropdown("DropdownBoss", {
+        Title = "Dropdown",
+        Description = "",
+        Values = tableBoss,
+        Multi = false,
+        Default = 1,
+    })
+
+    DropdownBoss:SetValue("")
+    DropdownBoss:OnChanged(function(Value)
+		getgenv().SelectBoss = Value
+    end)
+
+	local ToggleAutoFarmBoss = Tabs.Main:AddToggle("ToggleAutoFarmBoss", {
+        Title = "Kill Boss",
+        Description = "", 
+        Default = false })
+
+    ToggleAutoFarmBoss:OnChanged(function(Value)
+		getgenv().AutoBoss = Value
+    end)
+
+    Options.ToggleAutoFarmBoss:SetValue(false)
+
+    spawn(function()
+        while wait() do
+            if getgenv().AutoBoss then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild(getgenv().SelectBoss) then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == getgenv().SelectBoss then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(80,80,80)                             
+                                        Tween(v.Huma NoidRootPart.CFrame * Random)
+                                        sethiddenproperty(game:GetService("Players").LocalPlayer,"SimulationRadius",math.huge)
+                                    until  Not getgenv().AutoBoss or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            end
+                        end
+                    else
+                        if game:GetService("ReplicatedStorage"):FindFirstChild(getgenv().SelectBoss) then
+                            toTarget(game:GetService("ReplicatedStorage"):FindFirstChild(getgenv().SelectBoss).Huma NoidRootPart.CFrame * CFrame.new(5,10,7))
+                        end
+                    end
+                end)
+            end
+        end
+    end)
+
+    local Material = Tabs.Main:AddSection("Material Farm")
+
+    if First_Sea then
+        MaterialList = {
+          "Scrap Metal","Leather","Angel Wings","Magma Ore","Fish Tail"
+        } elseif Second_Sea then
+        MaterialList = {
+          "Scrap Metal","Leather","Radioactive Material","Mystic Droplet","Magma Ore","Vampire Fang"
+        } elseif Third_Sea then
+        MaterialList = {
+          "Scrap Metal","Leather","Demonic Wisp","Conjured Cocoa","Dragon Scale","Gunpowder","Fish Tail","Mini Tusk"
+        }
+        end
+
+    local DropdownMaterial = Tabs.Main:AddDropdown("DropdownMaterial", {
+        Title = "Dropdown",
+        Description = "Chọn Nguyên Liệu",
+        Values = MaterialList,
+        Multi = false,
+        Default = 1,
+    })
+
+    DropdownMaterial:SetValue("Dragon Scale")
+
+    DropdownMaterial:OnChanged(function(Value)
+        SelectMaterial = Value
+    end)
+
+    local ToggleMaterial = Tabs.Main:AddToggle("ToggleMaterial", {
+        Title = "Auto Material",
+        Description = "", 
+        Default = false })
+
+    ToggleMaterial:OnChanged(function(Value)
+        getgenv().AutoMaterial = Value
+        if Value == false then
+            wait()
+            Tween(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+            wait()
+        end
+    end)
+    Options.ToggleMaterial:SetValue(false)
+    spawn(function()
+        while task.wait() do
+        if getgenv().AutoMaterial then
+        pcall(function()
+          MaterialMon(SelectMaterial)
+            toTarget(MPos)
+          if game:GetService("Workspace").Enemies:FindFirstChild(MMon) then
+          for i,v in pairs (game.Workspace.Enemies:GetChildren()) do
+          if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+          if v.Name == MMon then
+            repeat wait(getgenv().Fast_Delay)
+                Attack NoCoolDown()
+          AutoHaki()
+          bringmob = true
+          EquipTool(SelectWeapon)
+          Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+          v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+          v.Huma NoidRootPart.Transparency = 1
+          v.Huma Noid.JumpPower = 0
+          v.Huma Noid.WalkSpeed = 0
+          v.Huma NoidRootPart.CanCollide = false
+          FarmPos = v.Huma NoidRootPart.CFrame
+          MonFarm = v.Name
+          --Click
+          until  Not getgenv().AutoMaterial or  Not v.Parent or v.Huma Noid.Health <= 0
+          bringmob = false
+        end
+          end
+          end
+          else
+            for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].EnemySpawns:GetChildren()) do
+          if string.find(v.Name, Mon) then
+          if (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - v.Position).Magnitude >= 10 then
+          Tween(v.CFrame * CFrame.new(posX,posY,posZ))
+          end
+          end
+          end
+          end
+          end)
+        end
+        end
+      end)
+
+      if Third_Sea then
+      local RoughSea = Tabs.Main:AddSection("Kitsune")
+	 
+local StatusKitsune = Tabs.Main:AddParagraph({
+    Title = "Kistune Island",
+    Content = ""
+})
+function UpdateKitsune()
+    if game.Workspace._WorldOrigin.Locations:FindFirstChild('Kitsune Island') then
+        StatusKitsune:SetDesc("Kitsune Island : 🟢 Yes")
+    else
+        StatusKitsune:SetDesc("Kitsune Island : 🔴 No")
+     end
+end
+spawn(function()
+    pcall(function()
+        while wait() do
+            UpdateKitsune()
+        end
+    end)
+end)
+
+      local ToggleEspKitsune = Tabs.Main:AddToggle("ToggleEspKitsune", {Title = "Esp Kitsune Island",Description = "Định vị Đảo kisune", Default = false })
+      ToggleEspKitsune:OnChanged(function(Value)
+        KitsuneIslandEsp = Value
+        while KitsuneIslandEsp do wait()
+            UpdateIslandKisuneESP() 
+        end
+    end)
+      Options.ToggleEspKitsune:SetValue(false)
+
+      function UpdateIslandKisuneESP() 
+        for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
+            pcall(function()
+                if KitsuneIslandEsp then 
+                    if v.Name == "Kitsune Island" then
+                        if  Not v:FindFirstChild('NameEsp') then
+                            local bill = Instance.new('BillboardGui',v)
+                            bill.Name = 'NameEsp'
+                            bill.ExtentsOffset = Vector3.new(0, 1, 0)
+                            bill.Size = UDim2.new(1,200,1,30)
+                            bill.Adornee = v
+                            bill.AlwaysOnTop = true
+                            local name = Instance.new('TextLabel',bill)
+                            name.Font = "Code"
+                            name.FontSize = "Size14"
+                            name.TextWrapped = true
+                            name.Size = UDim2.new(1,0,1,0)
+                            name.TextYAlignment = 'Top'
+                            name.BackgroundTransparency = 1
+                            name.TextStrokeTransparency = 0.5
+                            name.TextColor3 = Color3.fromRGB(80, 245, 245)
+                        else
+                            v['NameEsp'].TextLabel.Text = (v.Name ..'   \n'.. round((game:GetService('Players').LocalPlayer.Character.Head.Position - v.Position).Magnitude/3) ..' M')
+                        end
+                    end
+                else
+                    if v:FindFirstChild('NameEsp') then
+                        v:FindFirstChild('NameEsp'):Destroy()
+                    end
+                end
+            end)
+        end
+    end
+
+      local ToggleTPKitsune = Tabs.Main:AddToggle("ToggleTPKitsune", {Title = "Tween To Kitsune Island",Description = "Di Chuyển Đến Đảo Kisune", Default = false })
+      ToggleTPKitsune:OnChanged(function(Value)
+        getgenv().TweenToKitsune = Value
+      end)
+      Options.ToggleTPKitsune:SetValue(false)
+      spawn(function()
+        local kitsuneIsland
+        while  Not kitsuneIsland do
+            kitsuneIsland = game:GetService("Workspace").Map:FindFirstChild("KitsuneIsland")
+            wait(1)
+        end
+        while wait() do
+            if getgenv().TweenToKitsune then
+                local shrineActive = kitsuneIsland:FindFirstChild("ShrineActive")
+                if shrineActive then
+                    for _, v in pairs(shrineActive:GetDescendants()) do
+                        if v:IsA("BasePart") and v.Name:find("NeonShrinePart") then
+                            Tween(v.CFrame)
+                        end
+                    end
+                end
+            end
+        end
+    end)
+
+
+      local ToggleCollectAzure = Tabs.Main:AddToggle("ToggleCollectAzure", {Title = "Collect Azure Ambers",Description = "", Default = false })
+      ToggleCollectAzure:OnChanged(function(Value)
+         getgenv().CollectAzure = Value
+      end)
+      Options.ToggleCollectAzure:SetValue(false)
+    spawn(function()
+        while wait() do
+            if getgenv().CollectAzure then
+                pcall(function()
+                    if game:GetService("Workspace"):FindFirstChild("AttachedAzureEmber") then
+                        Tween(game:GetService("Workspace"):WaitForChild("EmberTemplate"):FindFirstChild("Part").CFrame)
+                        print("Azure")
+                    end
+                end)
+            end
+        end
+    end)
+end
+
+if Third_Sea then
+    local RoughSea = Tabs.Main:AddSection("Rough Sea")
+
+    local ToggleSailBoat = Tabs.Main:AddToggle("ToggleSailBoat", {Title = "Auto Buy Boat",Description = "", Default = false })
+    ToggleSailBoat:OnChanged(function(Value)
+        getgenv().SailBoat = Value
+    end)
+    Options.ToggleSailBoat:SetValue(false)
+
+
+    spawn(function()
+        while wait() do
+            pcall(function()
+                if getgenv().SailBoat then
+                    if  Not game:GetService("Workspace").Enemies:FindFirstChild("Shark") or  Not game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") or  Not game:GetService("Workspace").Enemies:FindFirstChild("Piranha") or  Not game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") then
+                        if  Not game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                            buyb = TweenBoat(CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781))
+                            if (CFrame.new(-16927.451171875, 9.0863618850708, 433.8642883300781).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                if buyb then buyb:Stop() end
+                                local args = {
+                                    [1] = "BuyBoat",
+                                    [2] = "PirateGrandBrigade"
+                                }
+    
+                                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                            end
+                        elseif game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                            if game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit == false then
+                                TweenBoat(game:GetService("Workspace").Boats.PirateGrandBrigade.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                            else
+                                for i,v in pairs(game:GetService("Workspace").Boats:GetChildren()) do
+                                    if v.Name == "PirateGrandBrigade" then
+                                        repeat wait(getgenv().Fast_Delay)
+                                            if (CFrame.new(-17013.80078125, 10.962434768676758, 438.0169982910156).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                                TweenShip(CFrame.new(-33163.1875, 10.964323997497559, -324.4842224121094))
+                                            elseif (CFrame.new(-33163.1875, 10.964323997497559, -324.4842224121094).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                                TweenShip(CFrame.new(-37952.49609375, 10.96342945098877, -1324.12109375))
+                                            elseif (CFrame.new(-37952.49609375, 10.96342945098877, -1324.12109375).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                                TweenShip(CFrame.new(-33163.1875, 10.964323997497559, -324.4842224121094))
+                                            end 
+                                        until game:GetService("Workspace").Enemies:FindFirstChild("Shark") or game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") or game:GetService("Workspace").Enemies:FindFirstChild("Piranha") or game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") or getgenv().SailBoat == false
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+    
+    spawn(function()
+		pcall(function()
+			while wait() do
+				if getgenv().SailBoat then
+					if game:GetService("Workspace").Enemies:FindFirstChild("Shark") or game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") or game:GetService("Workspace").Enemies:FindFirstChild("Piranha") or game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") then
+					    game.Players.LocalPlayer.Character.Huma Noid.Sit = false
+					end
+				end
+			end
+		end)
+	end)
+	
+	
+local Toggle Nocliprock = Tabs.Main:AddToggle("Toggle Nocliprock", {
+    Title = " No Clip Rock",
+    Description = "", 
+    Default = false })
+Toggle Nocliprock:OnChanged(function(Value)
+    getgenv(). Nocliprock = Value
+end)
+Options.Toggle Nocliprock:SetValue(false)
+spawn(function()
+	while wait() do
+		if getgenv(). Nocliprock then
+			if game.Players.LocalPlayer.Character.Huma Noid.Sit == true then
+				for _, v in pairs(game.Workspace.Boats:GetDescendants()) do
+					if v:IsA("BasePart") and v.CanCollide == true then
+						v.CanCollide = false
+					end
+				end
+				for _, v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+					if v:IsA("BasePart") and v.CanCollide == true then
+						v.CanCollide = false
+					end
+				end
+			elseif game.Players.LocalPlayer.Character.Huma Noid.Sit == false then
+				for _, v in pairs(game.Workspace.Boats:GetDescendants()) do
+					if v:IsA("BasePart") and v.CanCollide == false then
+						v.CanCollide = true
+					end
+				end
+				for _, v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+					if v:IsA("BasePart") and v.CanCollide == false then
+						v.CanCollide = true
+					end
+				end
+			end
+		end
+	end
+end)
+
+	
+	local SetSpeedBoatSlider = Tabs.Main:AddSlider("SliderSpeedBoat", {
+	Title = "Set Speed boat",
+	Description = "",
+	Default = 300,
+	Min = 0,
+	Max = 1000,
+	Rounding = 1,
+	Callback = function(value)
+		SetSpeedBoat = value
+	end
+})
+
+SetSpeedBoatSlider:OnChanged(function(value)
+	SetSpeedBoat = value
+end)
+
+SetSpeedBoatSlider:SetValue(300)
+
+local SpeedBoatToggle = Tabs.Main:AddToggle("SpeedBoat_Toggle", {Title = "Speed Boat",Description = "Tốc độ thuyền", Default = false })
+Options.SpeedBoat_Toggle:SetValue(false)
+
+SpeedBoatToggle:OnChanged(function(value)
+	getgenv().SpeedBoat = value
+end)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+    if getgenv().SpeedBoat then
+        for i, v in pairs(game:GetService("Workspace").Boats:GetChildren()) do
+            if game:GetService("Players").LocalPlayer.Character.Huma Noid.Sit then
+                v:FindFirstChild("VehicleSeat").MaxSpeed = SetSpeedBoat
+            end
+        end
+    end
+end)
+
+
+
+    local ToggleTerrorshark = Tabs.Main:AddToggle("ToggleTerrorshark", {Title = " Kill Terrorshark",Description = "", Default = false })
+
+    ToggleTerrorshark:OnChanged(function(Value)
+        getgenv().AutoTerrorshark = Value
+    end)
+    Options.ToggleTerrorshark:SetValue(false)
+    spawn(function()
+        while wait() do
+            if getgenv().AutoTerrorshark then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Terrorshark" then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    until  Not getgenv().AutoTerrorshark or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            end
+                        end
+                    else
+                      
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Terrorshark") then
+                            Tween(game:GetService("ReplicatedStorage"):FindFirstChild("Terrorshark").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else
+                        end
+                    end
+                end)
+    
+            end
+        end
+     end)
+
+
+
+     local TogglePiranha = Tabs.Main:AddToggle("TogglePiranha", {Title = " Kill Piranha",Description = "", Default = false })
+
+     TogglePiranha:OnChanged(function(Value)
+        getgenv().farmpiranya = Value
+     end)
+     Options.TogglePiranha:SetValue(false)
+
+     spawn(function()
+        while wait() do
+            if getgenv().farmpiranya then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Piranha") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Piranha" then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    until  Not getgenv().farmpiranya or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            end
+                        end
+                    else
+                     
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Piranha") then
+                            Tween(game:GetService("ReplicatedStorage"):FindFirstChild("Piranha").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else  
+                        end
+                    end
+        
+                end)
+            end
+        end
+     end)
+
+
+
+     local ToggleShark = Tabs.Main:AddToggle("ToggleShark", {Title = "Kill Shark",Description = "", Default = false })
+     ToggleShark:OnChanged(function(Value)
+        getgenv().AutoShark = Value
+     end)
+     Options.ToggleShark:SetValue(false)
+     spawn(function()
+        while wait() do
+            if getgenv().AutoShark then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Shark") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Shark" then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                        game.Players.LocalPlayer.Character.Huma Noid.Sit = false
+                                    until  Not getgenv().AutoShark or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            end
+                        end
+                    else
+                        Tween(game:GetService("Workspace").Boats.PirateGrandBrigade.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Terrorshark") then
+                            Tween(game:GetService("ReplicatedStorage"):FindFirstChild("Terrorshark").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else
+                        end
+                    end
+                end)
+    
+            end
+        end
+    end)
+
+
+
+    local ToggleFishCrew = Tabs.Main:AddToggle("ToggleFishCrew", {Title = " Kill Fish Crew",Description = "", Default = false })
+    ToggleFishCrew:OnChanged(function(Value)
+       getgenv().AutoFishCrew = Value
+    end)
+    Options.ToggleFishCrew:SetValue(false)
+
+    spawn(function()
+        while wait() do
+            if getgenv().AutoFishCrew then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Fish Crew Member" then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                            
+                                        game.Players.LocalPlayer.Character.Huma Noid.Sit = false
+                                    until  Not getgenv().AutoFishCrew or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            
+                            end
+                        end
+                    else
+                  
+                        Tween(game:GetService("Workspace").Boats.PirateGrandBrigade.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Fish Crew Member") then
+                            Tween(game:GetService("ReplicatedStorage"):FindFirstChild("Fish Crew Member").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else
+                           
+                        end
+                    end
+        
+                end)
+            end
+        end
+    end)
+
+
+
+    local ToggleShip = Tabs.Main:AddToggle("ToggleShip", {Title = "Kill Ship",Description = "", Default = false })
+    ToggleShip:OnChanged(function(Value)
+        getgenv().Ship = Value
+       end)
+       Options.ToggleShip:SetValue(false)
+       function CheckPirateBoat()
+        local checkmmpb = {"PirateGrandBrigade", "PirateBrigade"}
+        for r, v in next, game:GetService("Workspace").Enemies:GetChildren() do
+            if table.find(checkmmpb, v.Name) and v:FindFirstChild("Health") and v.Health.Value > 0 then
+                return v
+            end
+        end
+    end
+    
+    spawn(function()
+while wait() do
+    if getgenv().Ship then
+        pcall(function()
+            if CheckPirateBoat() then
+                game:GetService("VirtualInputManager"):SendKeyEvent(true,32,false,game)
+                wait(.5)
+                game:GetService("VirtualInputManager"):SendKeyEvent(false,32,false,game)
+                local v = CheckPirateBoat()
+                repeat
+                    wait()
+                    spawn(Tween(v.Engine.CFrame * CFrame.new(0, -20, 0)), 1)
+                    AimBotSkillPosition = game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame * CFrame.new(0, -5, 0)
+                    Skillaimbot = true
+                    AutoSkill = false
+                until  Not v or  Not v.Parent or v.Health.Value <= 0 or  Not CheckPirateBoat()
+                Skillaimbot = true
+                AutoSkill = false
+            end
+        end)
+    end
+end
+end)
+
+
+
+    local ToggleGhostShip = Tabs.Main:AddToggle("ToggleGhostShip", {Title = "Kill Ghost Ship",Description = "",Default = false })
+    ToggleGhostShip:OnChanged(function(Value)
+        getgenv().GhostShip = Value
+       end)
+       Options.ToggleGhostShip:SetValue(false)
+    
+       function CheckPirateBoat()
+        local checkmmpb = {"FishBoat"}
+        for r, v in next, game:GetService("Workspace").Enemies:GetChildren() do
+            if table.find(checkmmpb, v.Name) and v:FindFirstChild("Health") and v.Health.Value > 0 then
+                return v
+            end
+        end
+    end
+spawn(function()
+while wait() do
+    pcall(function()
+        if getgenv().bjirFishBoat then
+            if CheckPirateBoat() then
+                game:GetService("VirtualInputManager"):SendKeyEvent(true, 32, false, game)
+                wait(0.5)
+                game:GetService("VirtualInputManager"):SendKeyEvent(false, 32, false, game)
+                local v = CheckPirateBoat()
+                repeat
+                    wait()
+                    spawn(Tween(v.Engine.CFrame * CFrame.new(0, -20, 0), 1))
+                    AutoSkill = true
+                    Skillaimbot = true
+                    AimBotSkillPosition = game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame * CFrame.new(0, -5, 0)
+                until v.Parent or v.Health.Value <= 0 or  Not CheckPirateBoat()
+                AutoSkill = false
+                Skillaimbot = false
+            end
+        end
+    end)
+end
+end)
+
+spawn(function()
+    while wait() do
+        if getgenv().bjirFishBoat then
+               pcall(function()
+                    if CheckPirateBoat() then
+                        AutoHaki()
+                        game:GetService("VirtualUser"):CaptureController()
+                        game:GetService("VirtualUser"):Button1Down(Vector2.new(1280,672))
+                        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                            if v:IsA("Tool") then
+                                if v.ToolTip == "Melee" then -- "Blox Fruit" , "Sword" , "Wear" , "Agility"
+                                    game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+                                end
+                            end
+                        end
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,"C",false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                            if v:IsA("Tool") then
+                                if v.ToolTip == "Blox Fruit" then -- "Blox Fruit" , "Sword" , "Wear" , "Agility"
+                                    game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+                                end
+                            end
+                        end
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,"V",false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,"V",false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(0.6)
+                        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                            if v:IsA("Tool") then
+                                if v.ToolTip == "Sword" then -- "Blox Fruit" , "Sword" , "Wear" , "Agility"
+                                    game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+                                end
+                            end
+                        end
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(0.5)
+                        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                            if v:IsA("Tool") then
+                                if v.ToolTip == "Gun" then -- "Blox Fruit" , "Sword" , "Wear" , "Agility"
+                                    game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+                                end
+                            end
+                        end
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        wait(.2)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                        game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+                    end
+                end)
+            end
+    end
+      end)
+
+
+
+    local AutoElite = Tabs.Main:AddSection("Elite Hunter Farm")
+
+    local StatusElite = Tabs.Main:AddParagraph({
+        Title = "Check Elite",
+        Content = "Status: "
+    })
+    
+    spawn(function()
+        while wait() do
+            pcall(function()
+                if game:GetService("ReplicatedStorage"):FindFirstChild("Diablo") or game:GetService("ReplicatedStorage"):FindFirstChild("Deandre") or game:GetService("ReplicatedStorage"):FindFirstChild("Urban") or game:GetService("Workspace").Enemies:FindFirstChild("Diablo") or game:GetService("Workspace").Enemies:FindFirstChild("Deandre") or game:GetService("Workspace").Enemies:FindFirstChild("Urban") then
+                    StatusElite:SetDesc("Elite Boss : 🟢 Yes | Killed:  "..game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EliteHunter","Progress"))	
+                else
+                    StatusElite:SetDesc("Elite Boss : 🔴 No | Killed: "..game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EliteHunter","Progress"))	
+                end
+            end)
+        end
+    end)
+    
+    local ToggleElite = Tabs.Main:AddToggle("ToggleElite", {Title = "Auto Elite Hunter",Description = "Đánh Boss Bí Ẩn", Default = false })
+
+    ToggleElite:OnChanged(function(Value)
+       getgenv().AutoElite = Value
+       end)
+       Options.ToggleElite:SetValue(false)
+       spawn(function()
+           while task.wait() do
+               if getgenv().AutoElite then
+                   pcall(function()
+                       if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                           if string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text,"Diablo") or string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text,"Deandre") or string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text,"Urban") then
+                               if game:GetService("Workspace").Enemies:FindFirstChild("Diablo") or game:GetService("Workspace").Enemies:FindFirstChild("Deandre") or game:GetService("Workspace").Enemies:FindFirstChild("Urban") then
+                                   for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                                       if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                           if v.Name == "Diablo" or v.Name == "Deandre" or v.Name == "Urban" then
+                                            repeat wait(getgenv().Fast_Delay)
+                                                Attack NoCoolDown()
+                                                   EquipTool(SelectWeapon)
+                                                   AutoHaki()
+                                                   toTarget(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                                   MonsterPosition = v.Huma NoidRootPart.CFrame
+                                                   v.Huma NoidRootPart.CFrame = v.Huma NoidRootPart.CFrame
+                                                   v.Huma Noid.JumpPower = 0
+                                                   v.Huma Noid.WalkSpeed = 0
+                                                   v.Huma NoidRootPart.CanCollide = false
+                                                   v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+                                               until getgenv().AutoElite == false or v.Huma Noid.Health <= 0 or  Not v.Parent
+                                           end
+                                       end
+                                   end
+                               else
+                                 
+                                   if game:GetService("ReplicatedStorage"):FindFirstChild("Diablo") then
+                                    toTarget(game:GetService("ReplicatedStorage"):FindFirstChild("Diablo").Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                   elseif game:GetService("ReplicatedStorage"):FindFirstChild("Deandre") then
+                                    toTarget(game:GetService("ReplicatedStorage"):FindFirstChild("Deandre").Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                   elseif game:GetService("ReplicatedStorage"):FindFirstChild("Urban") then
+                                    toTarget(game:GetService("ReplicatedStorage"):FindFirstChild("Urban").Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                   end
+   
+                               end
+                         
+                           end
+                       else
+                           game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EliteHunter")
+                       end
+                   end)
+               end
+           end
+       end)
+    end
+
+
+if Third_Sea then
+    local Sea = Tabs.Main:AddSection("Sea Beast")
+
+
+local ToggleSeaBeAst = Tabs.Main:AddToggle("ToggleSeaBeAst", {Title = "Auto Sea Beast",Description = "", Default = false })
+
+ToggleSeaBeAst:OnChanged(function(Value)
+    getgenv().AutoSeaBeast = Value
+    end)
+    Options.ToggleSeaBeAst:SetValue(false)
+ 
+    
+    getgenv().Z = true
+    getgenv().X = true
+    getgenv().C = true
+    getgenv().V = true
+    
+    spawn(function()
+        while wait() do
+            pcall(function()
+                if AutoSkill then
+                    if getgenv().Z then
+                        game:service('VirtualInputManager'):SendKeyEvent(true, "Z", false, game)
+                        wait(.1)
+                        game:service('VirtualInputManager'):SendKeyEvent(false, "Z", false, game)
+                    end
+                    if getgenv().X then
+                        game:service('VirtualInputManager'):SendKeyEvent(true, "X", false, game)
+                        wait(.1)
+                        game:service('VirtualInputManager'):SendKeyEvent(false, "X", false, game)
+                    end
+                    if getgenv().C then
+                        game:service('VirtualInputManager'):SendKeyEvent(true, "C", false, game)
+                        wait(.1)
+                        game:service('VirtualInputManager'):SendKeyEvent(false, "C", false, game)
+                    end
+                    if getgenv().V then
+                        game:service('VirtualInputManager'):SendKeyEvent(true, "V", false, game)
+                        wait(.1)
+                        game:service('VirtualInputManager'):SendKeyEvent(false, "V", false, game)
+                    end
+                end
+            end)
+        end
+    end)
+    task.spawn(function()
+        while wait() do
+            pcall(function()
+                if getgenv().AutoSeaBeast then
+                    if  Not game:GetService("Workspace").SeaBeasts:FindFirstChild("SeaBeast1") then
+                        if  Not game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then 
+                            if  Not game:GetService("Workspace").Boats:FindFirstChild("PirateBasic") then
+                                if  Not game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                                    buyb = TweenBoat(CFrame.new(-4513.90087890625, 16.76398277282715, -2658.820556640625))
+                                    if (CFrame.new(-4513.90087890625, 16.76398277282715, -2658.820556640625).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                        if buyb then buyb:Stop() end
+                                        local args = {
+                                            [1] = "BuyBoat",
+                                            [2] = "PirateGrandBrigade"
+                                        }
+            
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                                    end
+                                elseif game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                                    if game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit == false then
+                                        TweenBoat(game:GetService("Workspace").Boats.PirateGrandBrigade.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                                    elseif game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit == true then
+                                        repeat wait(getgenv().Fast_Delay)
+                                            if (game:GetService("Workspace").Boats.PirateGrandBrigade.VehicleSeat.CFrame.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).magnitude <= 10 then
+                                                TweenShip(CFrame.new(35.04552459716797, 17.750778198242188, 4819.267578125))
+                                            end
+                                        until game:GetService("Workspace").SeaBeasts:FindFirstChild("SeaBeast1") or getgenv().AutoSeaBeast == false
+                                    end
+                                end
+                            elseif game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                                for is,vs in pairs(game:GetService("Workspace").Boats:GetChildren()) do
+                                    if vs.Name == "PirateGrandBrigade" then
+                                        if vs:FindFirstChild("VehicleSeat") then
+                                            repeat wait(getgenv().Fast_Delay)
+                                                game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit = false
+                                                TweenBoat(vs.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                                            until  Not game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") or getgenv().AutoSeaBeast == false
+                                        end
+                                    end
+                                end
+                            end
+                        elseif game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") then
+                            for iss,v in pairs(game:GetService("Workspace").Boats:GetChildren()) do
+                                if v.Name == "PirateGrandBrigade" then
+                                    if v:FindFirstChild("VehicleSeat") then
+                                        repeat wait(getgenv().Fast_Delay)
+                                            game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit = false
+                                            TweenBoat(v.VehicleSeat.CFrame * CFrame.new(0,1,0))
+                                        until  Not game:GetService("Workspace").Boats:FindFirstChild("PirateGrandBrigade") or getgenv().AutoSeaBeast == false
+                                    end
+                                end
+                            end
+                        end
+                    elseif game:GetService("Workspace").SeaBeasts:FindFirstChild("SeaBeast1") then  
+                        for i,v in pairs(game:GetService("Workspace").SeaBeasts:GetChildren()) do
+                            if v:FindFirstChild("Huma NoidRootPart") then
+                                repeat wait(getgenv().Fast_Delay)
+                                    game.Players.LocalPlayer.Character:WaitForChild("Huma Noid").Sit = false
+                                    TweenBoat(v.Huma NoidRootPart.CFrame * CFrame.new(0,500,0))
+                                    EquipAllWeapon()  
+                                    AutoSkill = true
+                                    AimBotSkillPosition = v.Huma NoidRootPart
+                                    Skillaimbot = true
+                                until  Not v:FindFirstChild("Huma NoidRootPart") or getgenv().AutoSeaBeast == false
+                                AutoSkill = false
+                                Skillaimbot = false
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+
+local ToggleAutoW = Tabs.Main:AddToggle("ToggleAutoW", {Title = "Auto Press W",Description = "", Default = false })
+ToggleAutoW:OnChanged(function(Value)
+    getgenv().AutoW = Value
+    end)
+ Options.ToggleAutoW:SetValue(false)
+ spawn(function()
+    while wait() do
+        pcall(function()
+            if getgenv().AutoW then
+                game:GetService("VirtualInputManager"):SendKeyEvent(true,"W",false,game)
+            end
+        end)
+    end
+    end)
+
+
+
+
+    local AutoMysticIsland = Tabs.Main:AddSection("Mirage Island")
+
+    local StatusMirage = Tabs.Main:AddParagraph({
+        Title = "Status",
+        Content = "Status:"
+    })
+    
+    task.spawn(function()
+    while task.wait() do
+    pcall(function()
+        if game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149431" then
+           FullMoonStatus = "100%"
+        elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149052" then
+            FullMoonStatus = "75%"
+        elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709143733" then
+            FullMoonStatus = "50%"
+        elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709150401" then
+            FullMoonStatus = "25%"
+        elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149680" then
+            FullMoonStatus = "15%"
+        else
+            FullMoonStatus = "0%"
+        end
+    end)
+    end
+    end)
+    
+    task.spawn(function()
+        while task.wait() do
+            pcall(function()
+            if game.Workspace._WorldOrigin.Locations:FindFirstChild('Mirage Island') then
+                MirageStatus = "🟢 Yes"
+            else
+                MirageStatus = '🔴 No'
+             end
+        end)
+     end
+    end)
+    
+    
+    spawn(function()
+        pcall(function()
+            while wait() do
+                StatusMirage:SetDesc("Mirage Island: "..MirageStatus.." | Full Moon: "..FullMoonStatus)
+            end
+        end)
+    end)
+
+    Tabs.Main:AddButton({
+        Title = "Tween to Mirage Island",
+        Description = "",
+        Callback = function()
+            TweenMirage()
+        end
+    })
+    function TweenMirage()
+        repeat
+            wait()
+        until game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+        if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+            AllNPCS = getnilinstances()
+            for r, v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
+                table.insert(AllNPCS, v)
+            end
+            for r, v in pairs(AllNPCS) do
+                if v.Name == "Advanced Fruit Dealer" then
+                    Tween2(v.Huma NoidRootPart.CFrame)
+                end
+            end
+        end
+    end
+
+
+    Tabs.Main:AddButton({
+        Title = "Tween to Highest Point",
+        Description = "",
+        Callback = function()
+            TwenetoHighestPoint()
+        end
+    })
+
+    function TwenetoHighestPoint()
+        HighestPoint = getHighestPoint()
+        if HighestPoint then
+            Tween2(HighestPoint.CFrame * CFrame.new(0, 211.88, 0))
+        end
+    end
+    function getHighestPoint()
+        if  Not game.workspace.Map:FindFirstChild("MysticIsland") then
+            return nil
+        end
+        for r, v in pairs(game:GetService("Workspace").Map.MysticIsland:GetDescendants()) do
+            if v:IsA("MeshPart") then
+                if v.MeshId == "rbxassetid://6745037796" then
+                    return v
+                end
+            end
+        end
+    end
+
+local ToggleTweenGear = Tabs.Main:AddToggle("ToggleTweenGear", {Title = "Tween To Gear",Description = "", Default = false })
+ToggleTweenGear:OnChanged(function(Value)
+    getgenv().TweenToGear = Value
+end) 
+Options.ToggleTweenGear:SetValue(false)
+
+spawn(function()
+    pcall(function()
+        while wait() do
+            if getgenv().TweenToGear then
+				if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+					for i,v in pairs(game:GetService("Workspace").Map.MysticIsland:GetChildren()) do 
+						if v:IsA("MeshPart")then 
+                            if v.Material ==  Enum.Material.Neon then  
+                                Tween2(v.CFrame)
+                            end
+                        end
+					end
+				end
+			end
+        end
+    end)
+end)
+
+
+
+
+    local Togglelockmoon = Tabs.Main:AddToggle("Togglelockmoon", {Title = "Lock Moon and Use Race Skill",Description = "", Default = false })
+    Togglelockmoon:OnChanged(function(Value)
+        getgenv().AutoLockMoon = Value
+    end) 
+    Options.Togglelockmoon:SetValue(false)
+
+    spawn(function()
+        while wait() do
+            pcall(function()
+                if getgenv().AutoLockMoon then
+                    local moonDir = game.Lighting:GetMoonDirection()
+                    local lookAtPos = game.Workspace.CurrentCamera.CFrame.p + moonDir * 100
+                    game.Workspace.CurrentCamera.CFrame = CFrame.lookAt(game.Workspace.CurrentCamera.CFrame.p, lookAtPos)
+                end
+            end)
+        end
+    end)
+
+
+    spawn(function()
+        while wait() do
+            pcall(function()
+                if getgenv().AutoLockMoon then
+                    game:GetService("VirtualInputManager"):SendKeyEvent(true,"T",false,game)
+                    wait(0.1)
+                    game:GetService("VirtualInputManager"):SendKeyEvent(false,"T",false,game)
+                end
+            end)
+        end
+    end)
+
+
+local ToggleMirage = Tabs.Main:AddToggle("ToggleMirage", {Title = "Auto Mirage Island",Description = "", Default = false })
+ToggleMirage:OnChanged(function(Value)
+getgenv().AutoSeaBeast = Value
+end) 
+
+ Options.ToggleMirage:SetValue(false)
+
+ local AutoW = Tabs.Main:AddToggle("AutoW", {Title = "Auto Press W",Description = "", Default = false })
+ AutoW:OnChanged(function(Value)
+    getgenv().AutoW = Value
+     end)
+  Options.AutoW:SetValue(false)
+  spawn(function()
+    while wait() do
+        pcall(function()
+            if getgenv().AutoW then
+                game:GetService("VirtualInputManager"):SendKeyEvent(true,"W",false,game)
+            end
+        end)
+    end
+    end)
+end
+
+local Items = Tabs.Main:AddSection("Items Farm")
+
+if Third_Sea then
+    local ToggleHallow = Tabs.Main:AddToggle("ToggleHallow", {Title = "Auto Hallow Scythe [Fully]",Description = "", Default = false })
+
+    ToggleHallow:OnChanged(function(Value)
+        AutoHallowSycthe = Value
+    end)
+    Options.ToggleHallow:SetValue(false)
+    spawn(function()
+        while wait() do
+            if AutoHallowSycthe then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Soul Reaper") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if string.find(v.Name , "Soul Reaper") then
+                                repeat wait(getgenv().Fast_Delay)
+                                    Attack NoCoolDown()
+                                    AutoHaki()
+                                    EquipTool(SelectWeapon)
+                                    v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                    toTarget(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    v.Huma NoidRootPart.Transparency = 1
+                                    sethiddenproperty(game.Players.LocalPlayer,"SimulationRadius",math.huge)
+									--Click
+                                until v.Huma Noid.Health <= 0 or AutoHallowSycthe == false
+                            end
+                        end
+                    elseif game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Hallow Essence") or game:GetService("Players").LocalPlayer.Character:FindFirstChild("Hallow Essence") then
+                        repeat toTarget(CFrame.new(-8932.322265625, 146.83154296875, 6062.55078125)) wait() until (CFrame.new(-8932.322265625, 146.83154296875, 6062.55078125).Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 8                        
+                      wait(0.5)
+                        EquipTool("Hallow Essence")
+                    else
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Soul Reaper") then
+                            toTarget(game:GetService("ReplicatedStorage"):FindFirstChild("Soul Reaper").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else
+                        end
+                    end
+                end)
+    
+            end
+        end
+    end)
+	
+	
+	spawn(function()
+           while wait(0.001) do
+           if AutoHallowSycthe then
+           local args = {
+            [1] = "Bones",
+            [2] = "Buy",
+            [3] = 1,
+            [4] = 1
+           }
+          
+           game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+           end
+           end
+           end)
+        
+           
+           local ToggleYama = Tabs.Main:AddToggle("ToggleYama", {Title = "Auto Get Yama",Description = "", Default = false })
+           ToggleYama:OnChanged(function(Value)
+            getgenv().AutoYama = Value
+           end)
+           Options.ToggleYama:SetValue(false)
+           spawn(function()
+            while wait() do
+                if getgenv().AutoYama then
+                    if game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EliteHunter","Progress") >= 30 then
+                        repeat wait(.1)
+                            fireclickdetector(game:GetService("Workspace").Map.Waterfall.SealedKatana.Handle.ClickDetector)
+                        until game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Yama") or  Not getgenv().AutoYama
+                    end
+                end
+            end
+        end)
+
+
+        local ToggleTushita = Tabs.Main:AddToggle("ToggleTushita", {Title = "Auto Tushita",Description = "", Default = false })
+        ToggleTushita:OnChanged(function(Value)
+            AutoTushita = Value
+        end)
+        Options.ToggleTushita:SetValue(false)
+           spawn(function()
+                   while wait() do
+                               if AutoTushita then
+                                   if game:GetService("Workspace").Enemies:FindFirstChild("Longma") then
+                                       for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                                           if v.Name == ("Longma" or v.Name == "Longma") and v.Huma Noid.Health > 0 and v:IsA("Model") and v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") then
+                                            repeat wait(getgenv().Fast_Delay)
+                                                Attack NoCoolDown()
+                                                   AutoHaki()
+                                                   if  Not game.Players.LocalPlayer.Character:FindFirstChild(SelectWeapon) then
+                                                       wait()
+                                                       EquipTool(SelectWeapon)
+                                                   end
+                                                   FarmPos = v.Huma NoidRootPart.CFrame
+                                                     --Click
+                                                   v.Huma NoidRootPart.Size = Vector3.new(60,60,60)
+                                                   v.Huma Noid.JumpPower = 0
+                                                   v.Huma Noid.WalkSpeed = 0
+                                                   v.Huma NoidRootPart.CanCollide = false
+                                                   v.Huma Noid:ChangeState(11)
+                                                   Tween(v.Huma NoidRootPart.CFrame * Random)
+                                               until  Not AutoTushita or  Not v.Parent or v.Huma Noid.Health <= 0
+                                           end
+                                       end
+                                   else
+                                       Tween(CFrame.new(-10238.875976563, 389.7912902832, -9549.7939453125))
+                                   end
+                               end
+                           end
+                   end)
+
+
+                   local ToggleHoly = Tabs.Main:AddToggle("ToggleHoly", {Title = "Auto Holy Torch",Description = "", Default = false })
+                   ToggleHoly:OnChanged(function(Value)
+                    getgenv().Auto_Holy_Torch = Value
+                   end)
+                   Options.ToggleHoly:SetValue(false)
+                   spawn(function()
+                    while wait() do
+                        if getgenv().Auto_Holy_Torch then
+                            pcall(function()
+                                wait(1)
+                                repeat Tween(CFrame.new(-10752, 417, -9366)) wait() until  Not getgenv().Auto_Holy_Torch or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(-10752, 417, -9366)).Magnitude <= 10
+                                wait(1)
+                                repeat Tween(CFrame.new(-11672, 334, -9474)) wait() until  Not getgenv().Auto_Holy_Torch or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(-11672, 334, -9474)).Magnitude <= 10
+                                wait(1)
+                                repeat Tween(CFrame.new(-12132, 521, -10655)) wait() until  Not getgenv().Auto_Holy_Torch or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(-12132, 521, -10655)).Magnitude <= 10
+                                wait(1)
+                                repeat Tween(CFrame.new(-13336, 486, -6985)) wait() until  Not getgenv().Auto_Holy_Torch or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(-13336, 486, -6985)).Magnitude <= 10
+                                wait(1)
+                                repeat Tween(CFrame.new(-13489, 332, -7925)) wait() until  Not getgenv().Auto_Holy_Torch or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(-13489, 332, -7925)).Magnitude <= 10
+                            end)
+                        end
+                    end
+                end)
+            end
+
+
+if Second_Sea then
+        local ToggleFactory = Tabs.Main:AddToggle("ToggleFactory", {Title = "Auto Farm Factory",Description = "", Default = false })
+        ToggleFactory:OnChanged(function(Value)
+            getgenv().Factory = Value
+        end)
+        Options.ToggleFactory:SetValue(false)
+
+        spawn(function()
+            while wait() do
+                if getgenv().Factory then
+                    if game.Workspace.Enemies:FindFirstChild("Core") then
+                        for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+                            if v.Name == "Core" and v.Huma Noid.Health > 0 then
+                                repeat wait(getgenv().Fast_Delay)
+                                    Attack NoCoolDown()
+                                    repeat Tween(CFrame.new(448.46756, 199.356781, -441.389252))
+                                        wait()
+                                    until  Not getgenv().Factory or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(448.46756, 199.356781, -441.389252)).Magnitude <= 10
+                                    EquipTool(SelectWeapon)
+                                    AutoHaki()
+                                    Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    v.Huma NoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.Huma NoidRootPart.Transparency = 1
+                                    v.Huma Noid.JumpPower = 0
+                                    v.Huma Noid.WalkSpeed = 0
+                                    v.Huma NoidRootPart.CanCollide = false
+                                    FarmPos = v.Huma NoidRootPart.CFrame
+                                    MonFarm = v.Name
+                                    --Click
+                                until  Not v.Parent or v.Huma Noid.Health <= 0  or getgenv().Factory == false
+                            end
+                        end
+                    elseif game.ReplicatedStorage:FindFirstChild("Core") then
+                        repeat Tween(CFrame.new(448.46756, 199.356781, -441.389252))
+                            wait()
+                        until  Not getgenv().Factory or (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position-Vector3.new(448.46756, 199.356781, -441.389252)).Magnitude <= 10
+                    end
+        
+                end
+            end
+        end)
+
+    end
+
+        if Third_Sea then
+    local ToggleCakeV2 = Tabs.Main:AddToggle("ToggleCakeV2", {Title = "Kill Dought King [Need Spawn]",Description = "", Default = false })
+    ToggleCakeV2:OnChanged(function(Value)
+        getgenv().AutoCakeV2 = Value
+    end)
+        Options.ToggleCakeV2:SetValue(false)
+end
+    spawn(function()
+        while wait() do
+            if getgenv().AutoCakeV2 then
+                pcall(function()
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Dough King") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Dough King" then
+                                if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    repeat wait(getgenv().Fast_Delay)
+                                        Attack NoCoolDown()
+                                        AutoHaki()
+                                        EquipTool(SelectWeapon)
+                                        v.Huma NoidRootPart.CanCollide = false
+                                        v.Huma Noid.WalkSpeed = 0
+                                        v.Huma NoidRootPart.Size = Vector3.new(50,50,50)
+                                        Tween(v.Huma NoidRootPart.CFrame * Random)
+                                    until  Not getgenv().AutoCakeV2 or  Not v.Parent or v.Huma Noid.Health <= 0
+                                end
+                            end
+                        end
+                    else
+                        if game:GetService("ReplicatedStorage"):FindFirstChild("Dough King") then
+                     Tween(game:GetService("ReplicatedStorage"):FindFirstChild("Dough King").Huma NoidRootPart.CFrame * CFrame.new(2,20,2))
+                        else
+                        end
+            
+                    end
+                end)
+            end
+        end
+    end)
+
+
+
+
+
+
+    
+if Second_Sea or Third_Sea then
+    local ToggleHakiColor = Tabs.Main:AddToggle("ToggleHakiColor", {Title = "Buy Haki Color",Description = "Mua Haki Màu",Default = false })
+    ToggleHakiColor:OnChanged(function(Value)
+        getgenv().Auto_Buy_Enchancement = Value
+    end)
+        Options.ToggleHakiColor:SetValue(false)
+    spawn(function()
+            while wait() do
+                if getgenv().Auto_Buy_Enchancement then
+                    local args = {
+                        [1] = "ColorsDealer",
+                        [2] = "2"
+                    }
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                end 
+            end
+        end)
+end
+
+if Second_Sea then
+    local ToggleSwordLengend = Tabs.Main:AddToggle("ToggleSwordLengend", {Title = "Buy Sword Lengendary",Description = "",Default = false })
+    ToggleSwordLengend:OnChanged(function(Value)
+        getgenv().BuyLengendSword = Value
+    end)
+        Options.ToggleSwordLengend:SetValue(false)
+
+        spawn(function()
+            while wait(.1) do
+                pcall(function()
+                    if getgenv().BuyLengendSword or Triple_A then
+                        local args = {
+                            [1] = "LegendarySwordDealer",
+                            [2] = "2"
+                        }
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                    else
+                        wait(2)
+                    end
+                end)
+            end
+        end)
+    end
+
+if Second_Sea then
+    local ToggleEvoRace = Tabs.Main:AddToggle("ToggleEvoRace", {Title = "Auto Evo Race",Description = "",Default = false })
+    ToggleEvoRace:OnChanged(function(Value)
+        getgenv().AutoEvoRace = Value
+    end)
+        Options.ToggleEvoRace:SetValue(false)
+
+    spawn(function()
+        while task.wait() do
+            pcall(function()
+                if getgenv().AutoEvoRace then
+                    local Back = game.Players.LocalPlayer.Backpack
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Alchemist","1")
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Alchemist","2")
+                    if Back:FindFirstChild("Flower 2") then
+                        if Back:FindFirstChild("Flower 1") then
+                            Tween(CFrame.new(-5497.06152, 47.5923004, -795.237061))
+                            for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+                                if v.Name == "Zombie" then
+                                    repeat task.wait()
+                                        EquipTool(SelectWeapon)
+                                        Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))		
+                                    until Back:FindFirstChild("Flower 3")
+                                end
+                            end
+                        else
+                            Tween(game.Workspace["Flower1"].CFrame)
+                        end
+                    else
+                        Tween(game.Workspace["Flower2"].CFrame)
+                    end
+                    if Back:FindFirstChild("Flower 1") and Back:FindFirstChild("Flower 2") and Back:FindFirstChild("Flower 3") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Alchemist","1")
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Alchemist","3")
+                    end
+                    for i,v in pairs(game.Workspace:GetChildren()) do
+                        if v.Name == "Flower1" or v.Name == "Flower2" then
+                            v.Size = Vector3.new(20,20,20)
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+end
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Setting
+local SettingFarm = Tabs.Setting:AddSection("Farming")
+
+local ToggleFast = Tabs.Setting:AddToggle("ToggleFast", {Title = "Enabled Fast Attack",Description = "", Default = true })
+ToggleFast:OnChanged(function(Value)
+    getgenv().FastNe = Value
+end)
+Options.ToggleFast:SetValue(true)
+
+local CameraShaker = require(game.ReplicatedStorage.Util.CameraShaker)
+CombatFrameworkR = require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework)
+y = debug.getupvalues(CombatFrameworkR)[2]
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if getgenv().FastNe then
+            if typeof(y) == "table" then
+                pcall(function()
+                    CameraShaker:Stop()
+                    y.activeController.timeToNextAttack = (math.huge^math.huge^math.huge)
+                    y.activeController.timeToNextAttack = 0
+                    y.activeController.hitboxMagnitude = 60
+                    y.activeController.active = false
+                    y.activeController.timeToNextBlock = 0
+                    y.activeController.focusStart = 1655503339.0980349
+                    y.activeController.increment = 1
+                    y.activeController.blocking = false
+                    y.activeController.attacking = false
+                    y.activeController.huma Noid.AutoRotate = true
+                end)
+            end
+        end
+    end)
+end)
+
+local ToggleFastLow = Tabs.Setting:AddToggle("ToggleFastLow", {Title = "Enabled Fast Attack (for low mobile & pc)",Description = "Đánh nhanh cho máy yếu", Default = false })
+ToggleFastLow:OnChanged(function(Value)
+    getgenv().FastNelow = Value
+end)
+Options.ToggleFastLow:SetValue(false)
+local CurveFrame = debug.getupvalues(require(game:GetService("Players").LocalPlayer.PlayerScripts:WaitForChild("CombatFramework")))[2]
+local VirtualUser = game:GetService("VirtualUser")
+local RigControllerR = debug.getupvalues(require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework.RigController))[2]
+local Client = game:GetService("Players").LocalPlayer
+local DMG = require(Client.PlayerScripts.CombatFramework.Particle.Damage)
+local CameraShaker = require(game.ReplicatedStorage.Util.CameraShaker)
+CameraShaker:Stop()
+function CurveFuckWeapon()
+    local p13 = CurveFrame.activeController
+    local wea = p13.blades[1]
+    if  Not wea then
+        return
+    end
+    while wea.Parent ~= game.Players.LocalPlayer.Character do
+        wea = wea.Parent
+    end
+    return wea
+end
+
+function getHits(Size)
+    local Hits = {}
+    local Enemies = workspace.Enemies:GetChildren()
+    local Characters = workspace.Characters:GetChildren()
+    for i = 1, #Enemies do
+        local v = Enemies[i]
+        local Human = v:FindFirstChildOfClass("Huma Noid")
+        if
+            Human and Human.RootPart and Human.Health > 0 and
+                game.Players.LocalPlayer:DistanceFromCharacter(Human.RootPart.Position) < Size + 5
+         then
+            table.insert(Hits, Human.RootPart)
+        end
+    end
+    for i = 1, #Characters do
+        local v = Characters[i]
+        if v ~= game.Players.LocalPlayer.Character then
+            local Human = v:FindFirstChildOfClass("Huma Noid")
+            if
+                Human and Human.RootPart and Human.Health > 0 and
+                    game.Players.LocalPlayer:DistanceFromCharacter(Human.RootPart.Position) < Size + 5
+             then
+                table.insert(Hits, Human.RootPart)
+            end
+        end
+    end
+    return Hits
+end
+
+function Boost()
+    task.spawn(function()
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(CurveFuckWeapon()))
+    end)
+end
+
+function Unboost()
+    tsak.spawn(function()
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("unequipWeapon",tostring(CurveFuckWeapon()))
+    end)
+end
+
+local cd Normal = 0
+local Animation = Instance.new("Animation")
+local CooldownFastAttack = 0
+
+FastAttack = function()
+    local ac = CurveFrame.activeController
+    if ac and ac.equipped then
+        task.spawn(function()
+            if tick() - cd Normal > 0.5 then
+                ac:attack()
+                cd Normal = tick()
+            else
+                Animation.AnimationId = ac.anims.basic[2]
+                ac.huma Noid:LoadAnimation(Animation):Play(1, 1)
+                game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", getHits(120), 2, "")
+            end
+        end)
+    end
+end
+
+bs = tick()
+task.spawn(function()
+    while task.wait(getgenv().DelayFastLow) do
+        if getgenv().FastNelow then
+            _G.Fast = true
+            if bs - tick() > 0.75 then
+                task.wait()
+                bs = tick()
+            end
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v.Huma Noid.Health > 0 then
+                        if (v.Huma NoidRootPart.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 100 then
+                            FastAttack()
+                            task.wait()
+                            Boost()
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+
+k = tick()
+task.spawn(function()
+    if _G.Fast then
+    while task.wait(.2) do
+            if k - tick() > 0.75 then
+                task.wait()
+                k = tick()
+            end
+            end
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v.Huma Noid.Health > 0 then
+                        if (v.Huma NoidRootPart.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 100 then
+                            task.wait(.000025)
+                            Unboost()
+                        end
+                    end
+                end
+            end)
+    end
+end)
+
+task.spawn(function()
+    while task.wait() do
+        if _G.Fast then
+       pcall(function()
+        CurveFrame.activeController.timeToNextAttack = 0
+        CurveFrame.activeController.focusStart = 0
+        CurveFrame.activeController.hitboxMagnitude = 200
+        CurveFrame.activeController.huma Noid.AutoRotate = true
+        CurveFrame.activeController.increment = 1 + 1 / 1
+       end)
+    end
+    end
+end)
+
+abc = true
+task.spawn(function()
+    local a = game.Players.LocalPlayer
+    local b = require(a.PlayerScripts.CombatFramework.Particle)
+    local c = require(game:GetService("ReplicatedStorage").CombatFramework.RigLib)
+    if  Not shared.orl then
+        shared.orl = c.wrapAttackAnimationAsync
+    end
+    if  Not shared.cpc then
+        shared.cpc = b.play
+    end
+    if abc then
+        pcall(function()
+            c.wrapAttackAnimationAsync = function(d, e, f, g, h)
+            local i = c.getBladeHits(e, f, g)
+            if i then
+                b.play = function()
+                end
+                d:Play(0.25, 0.25, 0.25)
+                h(i)
+                b.play = shared.cpc
+                wait(.5)
+                d:Stop()
+            end
+            end
+        end)
+    end
+end)
+
+    local ToggleBringMob = Tabs.Setting:AddToggle("ToggleBringMob", {Title = "Enabled Bring Mobs",Description = "", Default = true })
+    ToggleBringMob:OnChanged(function(Value)
+        getgenv().BringMob = Value
+    end)
+    Options.ToggleBringMob:SetValue(true)
+    spawn(function()
+        while task.wait() do
+            pcall(function()
+                if getgenv().BringMob and bringmob then
+                    for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if v.Name == MonFarm and (v.Huma NoidRootPart.Position - game.Players.LocalPlayer.Character.Huma NoidRootPart.Position).Magnitude <= 315 then
+                            v.Huma NoidRootPart.Size = Vector3.new(60,60,60)
+                            v.Head.CanCollide = false
+                            v.Huma NoidRootPart.CFrame = FarmPos
+                            v.Huma NoidRootPart.CanCollide = false
+                            v.Head.CanCollide = false
+                            if v.Huma Noid:FindFirstChild("Animator") then
+                                v.Huma Noid.Animator:Destroy()
+                            end
+                            sethiddenproperty(game.Players.LocalPlayer,"SimulationRadius",math.huge)
+                        end
+                    end
+                end
+            end)
+        end
+    end)
+
+    local ToggleBypassTP = Tabs.Setting:AddToggle("ToggleBypassTP", {Title = "Enabled Bypass Tp",Description = "", Default = false })
+    ToggleBypassTP:OnChanged(function(Value)
+        BypassTP = Value
+    end)
+    Options.ToggleBypassTP:SetValue(false)
+
+
+local ToggleRemove = Tabs.Setting:AddToggle("ToggleRemove", {Title = " Enabled Remove Damage Texts",Description = "", Default = true })
+ToggleRemove:OnChanged(function(Value)
+    getgenv().RemoveDameText = Value
+    end)
+    Options.ToggleRemove:SetValue(true)
+
+    spawn(function()
+        while wait() do
+            if getgenv().RemoveDameText then
+                game:GetService("ReplicatedStorage").Assets.GUI.DamageCounter.Enabled = false
+            else
+                game:GetService("ReplicatedStorage").Assets.GUI.DamageCounter.Enabled = true
+            end
+        end
+        end)
+
+        
+local ToggleRemove Notify = Tabs.Setting:AddToggle("ToggleRemove Notify", {Title = " Enabled Remove All  Notify",Description = "", Default = false })
+ToggleRemove Notify:OnChanged(function(Value)
+    getgenv().Remove Notify = Value
+    end)
+    Options.ToggleRemove Notify:SetValue(false)
+
+    spawn(function()
+        while wait() do
+            if getgenv().Remove Notify then
+                game.Players.LocalPlayer.PlayerGui. Notifications.Enabled = false
+            else
+                game.Players.LocalPlayer.PlayerGui. Notifications.Enabled = true
+            end
+        end
+    end)
+
+
+
+    local ToggleWhite = Tabs.Setting:AddToggle("ToggleWhite", {Title = " Enabled White Screen",Description = "Màn hình Treo", Default = false })
+    ToggleWhite:OnChanged(function(Value)
+       getgenv().WhiteScreen = Value
+       if getgenv().WhiteScreen == true then
+        game:GetService("RunService"):Set3dRenderingEnabled(false)
+    elseif getgenv().WhiteScreen == false then
+        game:GetService("RunService"):Set3dRenderingEnabled(true)
+            end
+        end)
+        Options.ToggleWhite:SetValue(false)
+      
+        local SKill = Tabs.Setting:AddSection("Skill Mastery")
+local ToggleZ = Tabs.Setting:AddToggle("ToggleZ", {Title = "Skill Z",Description = "", Default = true })
+ToggleZ:OnChanged(function(Value)
+    getgenv().Z = Value
+end)
+Options.ToggleZ:SetValue(true)
+
+local ToggleX = Tabs.Setting:AddToggle("ToggleX", {Title = "Skill X", Description = "",Default = true })
+ToggleX:OnChanged(function(Value)
+    getgenv().X = Value
+end)
+Options.ToggleX:SetValue(true)
+
+
+local ToggleC = Tabs.Setting:AddToggle("ToggleC", {Title = "Skill C",Description = "", Default = false })
+ToggleC:OnChanged(function(Value)
+    getgenv().C = Value
+end)
+Options.ToggleC:SetValue(false)
+
+
+local ToggleV = Tabs.Setting:AddToggle("ToggleV", {Title = "Skill V",Description = "", Default = false })
+ToggleV:OnChanged(function(Value)
+    getgenv().V = Value
+end)
+Options.ToggleV:SetValue(false)
+
+
+local ToggleF = Tabs.Setting:AddToggle("ToggleF", {Title = "Skill F",Description = "", Default = false })
+ToggleF:OnChanged(function(Value)
+   getgenv().F = Value
+    end)
+Options.ToggleF:SetValue(false)
+
+
+local Pos = Tabs.Setting:AddSection("Distance Farm")
+
+local SliderPosX = Tabs.Setting:AddSlider("SliderPosX", {
+    Title = "Pos X",
+    Description = "",
+    Default = 0,
+    Min = -60,
+    Max = 60,
+    Rounding = 1,
+    Callback = function(Value)
+      posX = Value
+    end
+})
+SliderPosX:OnChanged(function(Value)
+  posX = Value
+end)
+SliderPosX:SetValue(0)
+
+local SliderPosY = Tabs.Setting:AddSlider("SliderPosY", {
+    Title = "Pos Y",
+    Description = "",
+    Default = 15,
+    Min = -60,
+    Max = 60,
+    Rounding = 1,
+    Callback = function(Value)
+      posY = Value
+    end
+})
+SliderPosY:OnChanged(function(Value)
+  posY = Value
+end)
+SliderPosY:SetValue(15)
+
+local SliderPosZ = Tabs.Setting:AddSlider("SliderPosZ", {
+    Title = "Pos Z",
+    Description = "",
+    Default = 15,
+    Min = -60,
+    Max = 60,
+    Rounding = 1,
+    Callback = function(Value)
+      posZ = Value
+    end
+})
+SliderPosZ:OnChanged(function(Value)
+     posZ = Value
+end)
+SliderPosZ:SetValue(15)
+
+local Ui = Tabs.Setting:AddSection("Config UI")
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Stats
+local ToggleMelee = Tabs.Stats:AddToggle("ToggleMelee", {Title = "Auto Melee",Description = "", Default = false })
+ToggleMelee:OnChanged(function(Value)
+    getgenv().Auto_Stats_Melee = Value
+    end)
+Options.ToggleMelee:SetValue(false)
+
+local ToggleDe = Tabs.Stats:AddToggle("ToggleDe", {Title = "Auto Defense",Description = "Nâng Máu", Default = false })
+ToggleDe:OnChanged(function(Value)
+    getgenv().Auto_Stats_Defense = Value
+    end)
+Options.ToggleDe:SetValue(false)
+
+local ToggleSword = Tabs.Stats:AddToggle("ToggleSword", {Title = "Auto Sword",Description = "", Default = false })
+ToggleSword:OnChanged(function(Value)
+    getgenv().Auto_Stats_Sword = Value
+    end)
+Options.ToggleSword:SetValue(false)
+
+local ToggleGun = Tabs.Stats:AddToggle("ToggleGun", {Title = "Auto Gun", Description = "Nâng Súng",Default = false })
+ToggleGun:OnChanged(function(Value)
+    getgenv().Auto_Stats_Gun = Value
+    end)
+Options.ToggleGun:SetValue(false)
+
+local ToggleFruit = Tabs.Stats:AddToggle("ToggleFruit", {Title = "Auto Demon Fruit",Description = "", Default = false })
+ToggleFruit:OnChanged(function(Value)
+    getgenv().Auto_Stats_Devil_Fruit = Value
+    end)
+Options.ToggleFruit:SetValue(false)
+spawn(function()
+    while wait() do
+        if getgenv().Auto_Stats_Devil_Fruit then
+            local args = {
+                [1] = "AddPoint",
+                [2] = "Demon Fruit",
+                [3] = 3
+            }
+                        
+            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+        end
+    end
+end)
+
+spawn(function()
+    while wait() do
+        if getgenv().Auto_Stats_Gun then
+            local args = {
+                [1] = "AddPoint",
+                [2] = "Gun",
+                [3] = 3
+            }
+                        
+            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+        end
+    end
+end)
+
+
+spawn(function()
+    while wait() do
+        if getgenv().Auto_Stats_Sword then
+            local args = {
+                [1] = "AddPoint",
+                [2] = "Sword",
+                [3] = 3
+            }
+                        
+            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+        end
+    end
+end)
+
+spawn(function()
+    while wait() do
+        if getgenv().Auto_Stats_Defense then
+            local args = {
+                [1] = "AddPoint",
+                [2] = "Defense",
+                [3] = 3
+            }
+                        
+            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+        end
+    end
+end)
+
+spawn(function()
+    while wait() do
+        if getgenv().Auto_Stats_Melee then
+            local args = {
+                [1] = "AddPoint",
+                [2] = "Melee",
+                [3] = 3
+            }
+                        
+            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+        end
+    end
+end)
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Player
+
+local Playerslist = {}
+for i,v in pairs(game:GetService("Players"):GetChildren()) do
+    table.insert(Playerslist,v.Name)
+end
+
+local SelectedPly = Tabs.Player:AddDropdown("SelectedPly", {
+    Title = "Select Player",
+    Description = "",
+    Values = Playerslist,
+    Multi = false,
+    Default = 1,
+})
+
+SelectedPly:SetValue("nil")
+SelectedPly:OnChanged(function(Value)
+    getgenv().SelectPly = Value
+end)
+
+local ToggleTeleport = Tabs.Player:AddToggle("ToggleTeleport", {Title = "Teleport To Player", Description = "Bay Đến Người Chơi",Default = false })
+ToggleTeleport:OnChanged(function(Value)
+    getgenv().TeleportPly = Value
+    if Value == false then
+        wait()
+        AutoHaki()
+        toTarget(game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart.CFrame)
+        wait()
+    end
+end)
+Options.ToggleTeleport:SetValue(false)
+
+spawn(function()
+	while wait() do
+		if getgenv().TeleportPly then
+			pcall(function()
+				if game.Players:FindFirstChild(getgenv().SelectPly) then
+					toTarget(game.Players[getgenv().SelectPly].Character.Huma NoidRootPart.CFrame)
+				end
+			end)
+		end
+	end
+end)
+
+local ToggleQuanSat = Tabs.Player:AddToggle("ToggleQuanSat", {Title = "Spectate Player",Description = "Quan sát Người Chơi", Default = false })
+ToggleQuanSat:OnChanged(function(Value)
+    SpectatePlys = Value
+    local plr1 = game:GetService("Players").LocalPlayer.Character.Huma Noid
+    local plr2 = game:GetService("Players"):FindFirstChild(getgenv().SelectPly)
+    repeat wait(.1)
+        game:GetService("Workspace").Camera.CameraSubject = game:GetService("Players"):FindFirstChild(getgenv().SelectPly).Character.Huma Noid
+    until SpectatePlys == false 
+    game:GetService("Workspace").Camera.CameraSubject = game:GetService("Players").LocalPlayer.Character.Huma Noid
+end)
+Options.ToggleQuanSat:SetValue(false)
+
+
+local ToggleFastAttack = Tabs.Player:AddToggle("ToggleFastAttack", {Title = " Click Attack Player",Description = "Đánh Người Chơi", Default = false })
+
+ToggleFastAttack:OnChanged(function(Value)
+ getgenv().FastAttackFaiFao = Value
+end)
+Options.ToggleFastAttack:SetValue(false)
+
+local SliderDelayAttackPlayer = Tabs.Player:AddSlider("SliderDelayAttackPlayer", {
+    Title = "Delay Fast",
+    Description = "",
+    Default = 0.1,
+    Min = 0,
+    Max = 1,
+    Rounding = 1,
+    Callback = function(Value)
+       getgenv().DelayAttackPlayer = Value
+    end
+})
+
+SliderDelayAttackPlayer:OnChanged(function(Value)
+   getgenv().DelayAttackPlayer = Value
+end)
+
+SliderDelayAttackPlayer:SetValue(0.1)
+
+spawn(function()
+while wait() do
+    pcall(function()
+        if getgenv().FastAttackFaiFao then
+            repeat wait(getgenv().DelayAttackPlayer)
+               Attack NoCoolDown()
+            until  Not getgenv().FastAttackFaiFao
+        end
+    end)
+end
+end)
+local Camera = require(game.ReplicatedStorage.Util.CameraShaker)
+Camera:Stop()
+function getAllBladeHitsPlayers(Sizes)
+	local Hits = {}
+	local Client = game.Players.LocalPlayer
+	local Characters = game:GetService("Workspace").Characters:GetChildren()
+	for i=1,#Characters do local v = Characters[i]
+		local Human = v:FindFirstChildOfClass("Huma Noid")
+		if v.Name ~= game.Players.LocalPlayer.Name and Human and Human.RootPart and Human.Health > 0 and Client:DistanceFromCharacter(Human.RootPart.Position) < Sizes+5 then
+			table.insert(Hits,Human.RootPart)
+		end
+	end
+	return Hits
+end
+
+function getAllBladeHits(Sizes)
+	local Hits = {}
+	local Client = game.Players.LocalPlayer
+	local Enemies = game:GetService("Workspace").Enemies:GetChildren()
+	for i=1,#Enemies do local v = Enemies[i]
+		local Human = v:FindFirstChildOfClass("Huma Noid")
+		if Human and Human.RootPart and Human.Health > 0 and Client:DistanceFromCharacter(Human.RootPart.Position) < Sizes+5 then
+			table.insert(Hits,Human.RootPart)
+		end
+	end
+	return Hits
+end
+
+local Teleport = Tabs.Player:AddSection("Combat")
+local SlidershowFov = Tabs.Player:AddSlider("SlidershowFov", {
+    Title = "Size Fov",
+    Description = "",
+    Default = 100,
+    Min = 0,
+    Max = 500,
+    Rounding = 1,
+    Callback = function(Value)
+        getgenv().Select_Size_Fov = Value
+    end
+})
+
+SlidershowFov:OnChanged(function(Value)
+    getgenv().Select_Size_Fov = Value
+end)
+SlidershowFov:SetValue(100)
+
+
+local ToggleShowFov = Tabs.Player:AddToggle("ToggleShowFov", {Title = "Show Fov",Description = "", Default = false })
+ToggleShowFov:OnChanged(function(value)
+    getgenv().Show_Fov = value
+end)
+Options.ToggleShowFov:SetValue(false)
+
+
+local ToggleAimBotSkill = Tabs.Player:AddToggle("ToggleAimBotSkill", {Title = "Auto Aimbot Skill",Description = "", Default = false })
+ToggleAimBotSkill:OnChanged(function(Value)
+    getgenv().Aimbot_Skill_Fov = Value
+end)
+Options.ToggleAimBotSkill:SetValue(false)
+local lp = game:GetService('Players').LocalPlayer
+local mouse = lp:GetMouse()
+spawn(function()
+	while wait() do
+		if getgenv().Aimbot_Skill_Fov then
+			pcall(function()
+				local MaxDist, Closest = math.huge
+				for i,v in pairs(game:GetService("Players"):GetChildren()) do 
+					local Head = v.Character:FindFirstChild("Huma NoidRootPart")
+					local Pos, Vis = game.Workspace.CurrentCamera.WorldToScreenPoint(game.Workspace.CurrentCamera, Head.Position)
+					local MousePos, TheirPos = Vector2.new(mouse.X, mouse.Y), Vector2.new(Pos.X, Pos.Y)
+					local Dist = (TheirPos - MousePos).Magnitude
+					if Dist < MaxDist and Dist <= getgenv().Select_Size_Fov and v.Name ~= game.Players.LocalPlayer.Name then
+						MaxDist = Dist
+						getgenv().Aim_Players = v
+					end
+				end
+			end)
+		end
+	end
+end)
+spawn(function()
+	local gg = getrawmetatable(game)
+	local old = gg.__namecall
+	setreadonly(gg,false)
+	gg.__namecall = newcclosure(function(...)
+		local method = getnamecallmethod()
+		local args = {...}
+		if tostring(method) == "FireServer" then
+			if tostring(args[1]) == "RemoteEvent" then
+				if tostring(args[2]) ~= "true" and tostring(args[2]) ~= "false" then
+					if getgenv().Aimbot_Skill_Fov then
+						args[2] = getgenv().Aim_Players.Character.Huma NoidRootPart.Position
+						return old(unpack(args))
+					end
+				end
+			end
+		end
+		return old(...)
+	end)
+end)
+
+local Circle = Drawing.new("Circle")
+Circle.Color =  Color3.fromRGB(0, 244, 0)
+Circle.Thickness = 1
+Circle.Radius = 250
+Circle.NumSides = 460
+Circle.Filled = false
+Circle.Transparency = 1
+
+game:GetService("RunService").Stepped:Connect(function()
+    Circle.Radius = getgenv().Select_Size_Fov
+    Circle.Thickness = 1
+    Circle.NumSides = 460
+    Circle.Position = game:GetService('UserInputService'):GetMouseLocation()
+    if getgenv().Show_Fov then
+        Circle.Visible = true
+    else
+        Circle.Visible = false
+    end
+end)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+local Mastery = Tabs.Player:AddSection("Misc")
+
+local Toggle NoClip = Tabs.Player:AddToggle("Toggle NoClip", {Title = " No Clip",Description = "", Default = false })
+Toggle NoClip:OnChanged(function(value)
+    getgenv().LOf = value
+end)
+Options.Toggle NoClip:SetValue(false)
+spawn(function()
+    pcall(function()
+        game:GetService("RunService").Stepped:Connect(function()
+            if getgenv().LOf then
+                for _, v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+                    if v:IsA("BasePart") then
+                        v.CanCollide = false    
+                    end
+                end
+            end
+        end)
+    end)
+end)
+
+local ToggleWalkonWater = Tabs.Player:AddToggle("ToggleWalkonWater", {Title = "Walk on Water",Description = "Đi Trên Nước", Default = true })
+ToggleWalkonWater:OnChanged(function(Value)
+  getgenv().WalkonWater = Value
+end)
+Options.ToggleWalkonWater:SetValue(true)
+spawn(function()
+  while task.wait() do
+    pcall(function()
+      if getgenv().WalkonWater then
+        game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,112,1000)
+      else
+        game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,80,1000)
+      end
+    end)
+  end
+end)
+
+local ToggleSpeedRun = Tabs.Player:AddToggle("ToggleSpeedRun", {Title = "Run Speed",Description = "Chạy Nhanh", Default = true })
+ToggleSpeedRun:OnChanged(function(Value)
+    getgenv().RunSpeed = Value
+    if Value == false then
+        game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("Agility"):Destroy()
+    end
+end)
+Options.ToggleSpeedRun:SetValue(true)
+spawn(function()
+    while wait() do
+        if getgenv().RunSpeed then
+            InfAb()
+        end
+    end
+end)
+function InfAb()
+    if getgenv().RunSpeed then
+        if  Not game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("Agility") then
+            local inf = Instance.new("ParticleEmitter")
+            inf.Acceleration = Vector3.new(0,0,0)
+            inf.Archivable = true
+            inf.Drag = 20
+            inf.EmissionDirection = Enum. NormalId.Top
+            inf.Enabled = true
+            inf.Lifetime = NumberRange.new(0,0)
+            inf.LightInfluence = 0
+            inf.LockedToPart = true
+            inf.Name = "Agility"
+            inf.Rate = 500
+            local numberKeypoints2 = {
+                NumberSequenceKeypoint.new(0, 0);
+                NumberSequenceKeypoint.new(1, 4); 
+            }
+            inf.Size = NumberSequence.new(numberKeypoints2)
+            inf.RotSpeed = NumberRange.new(9999, 99999)
+            inf.Rotation = NumberRange.new(0, 0)
+            inf.Speed = NumberRange.new(30, 30)
+            inf.SpreadAngle = Vector2.new(0,0,0,0)
+            inf.Texture = ""
+            inf.VelocityInheritance = 0
+            inf.ZOffset = 2
+            inf.Transparency = NumberSequence.new(0)
+            inf.Color = ColorSequence.new(Color3.fromRGB(0,0,0),Color3.fromRGB(0,0,0))
+            inf.Parent = game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart
+        end
+    else
+        if game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("Agility") then
+            game:GetService("Players").LocalPlayer.Character.Huma NoidRootPart:FindFirstChild("Agility"):Destroy()
+        end
+    end
+end
+
+
+
+local ToggleEnablePvp = Tabs.Player:AddToggle("ToggleEnablePvp", {Title = "Auto Enable PVP", Description = "",Default = false })
+ToggleEnablePvp:OnChanged(function(Value)
+  getgenv().EnabledPvP = Value
+end)
+Options.ToggleEnablePvp:SetValue(false)
+
+spawn(function()
+  pcall(function()
+      while wait() do
+          if getgenv().EnabledPvP then
+              if game:GetService("Players").LocalPlayer.PlayerGui.Main.PvpDisabled.Visible == true then
+                  game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EnablePvp")
+              end
+          end
+      end
+  end)
+end)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+--Teleport
+local Teleport = Tabs.Teleport:AddSection("Teleport World")
+
+Tabs.Teleport:AddButton({
+    Title = "First Sea",
+    Description = "Sea 1",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelMain")
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Second Sea",
+    Description = "Sea 2",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelDressrosa")
+    end
+})
+
+Tabs.Teleport:AddButton({
+    Title = "Third Sea",
+    Description = "Sea 3",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelZou")
+    end
+})
+local Mastery = Tabs.Teleport:AddSection("Teleport Island")
+
+if First_Sea then
+ IslandList = {
+                "WindMill",
+                "Marine",
+                "Middle Town",
+                "Jungle",
+                "Pirate Village",
+                "Desert",
+                "S Now Island",
+                "MarineFord",
+                "Colosseum",
+                "Sky Island 1",
+                "Sky Island 2",
+                "Sky Island 3",
+                "Prison",
+                "Magma Village",
+                "Under Water Island",
+                "Fountain City",
+                "Shank Room",
+                "Mob Island",
+}
+
+elseif Second_Sea then
+       IslandList = {
+        "The Cafe",
+        "Frist Spot",
+        "Dark Area",
+        "Flamingo Mansion",
+        "Flamingo Room",
+        "Green Zone",
+        "Factory",
+        "Colossuim",
+        "Zombie Island",
+        "Two S Now Mountain",
+        "Punk Hazard",
+        "Cursed Ship",
+        "Ice Castle",
+        "Forgotten Island",
+        "Ussop Island",
+        "Mini Sky Island",
+       }
+
+elseif Third_Sea then
+    IslandList = {
+        "Mansion",
+        "Port Town",
+        "Great Tree",
+        "Castle On The Sea",
+        "MiniSky", 
+        "Hydra Island",
+        "Floating Turtle",
+        "Haunted Castle",
+        "Ice Cream Island",
+        "Peanut Island",
+        "Cake Island",
+        "Cocoa Island",
+        "Candy Island",
+        "Tiki Outpost",
+       }
+    end
+
+local DropdownIsland = Tabs.Teleport:AddDropdown("DropdownIsland",{
+    Title = "Dropdown",
+    Description = "",
+    Values = IslandList,
+    Multi = false,
+    Default = 1,
+})
+
+DropdownIsland:SetValue("")
+DropdownIsland:OnChanged(function(Value)
+    getgenv().SelectIsland = Value
+end)
+
+Tabs.Teleport:AddButton({
+    Title = "Tween",
+    Description = "",
+    Callback = function()
+            if getgenv().SelectIsland == "WindMill" then
+                toTarget(CFrame.new(979.79895019531, 16.516613006592, 1429.0466308594))
+            elseif getgenv().SelectIsland == "Marine" then
+                toTarget(CFrame.new(-2566.4296875, 6.8556680679321, 2045.2561035156))
+            elseif getgenv().SelectIsland == "Middle Town" then
+                toTarget(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094))
+            elseif getgenv().SelectIsland == "Jungle" then
+                toTarget(CFrame.new(-1612.7957763672, 36.852081298828, 149.12843322754))
+            elseif getgenv().SelectIsland == "Pirate Village" then
+                toTarget(CFrame.new(-1181.3093261719, 4.7514905929565, 3803.5456542969))
+            elseif getgenv().SelectIsland == "Desert" then
+                toTarget(CFrame.new(944.15789794922, 20.919729232788, 4373.3002929688))
+            elseif getgenv().SelectIsland == "S Now Island" then
+                toTarget(CFrame.new(1347.8067626953, 104.66806030273, -1319.7370605469))
+            elseif getgenv().SelectIsland == "MarineFord" then
+                toTarget(CFrame.new(-4914.8212890625, 50.963626861572, 4281.0278320313))
+            elseif getgenv().SelectIsland == "Colosseum" then
+                toTarget( CFrame.new(-1427.6203613281, 7.2881078720093, -2792.7722167969))
+            elseif getgenv().SelectIsland == "Sky Island 1" then
+                toTarget(CFrame.new(-4869.1025390625, 733.46051025391, -2667.0180664063))
+            elseif getgenv().SelectIsland == "Sky Island 2" then  
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+            elseif getgenv().SelectIsland == "Sky Island 3" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+            elseif getgenv().SelectIsland == "Prison" then
+                toTarget( CFrame.new(4875.330078125, 5.6519818305969, 734.85021972656))
+            elseif getgenv().SelectIsland == "Magma Village" then
+                toTarget(CFrame.new(-5247.7163085938, 12.883934020996, 8504.96875))
+            elseif getgenv().SelectIsland == "Under Water Island" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+            elseif getgenv().SelectIsland == "Fountain City" then
+                toTarget(CFrame.new(5127.1284179688, 59.501365661621, 4105.4458007813))
+            elseif getgenv().SelectIsland == "Shank Room" then
+                toTarget(CFrame.new(-1442.16553, 29.8788261, -28.3547478))
+            elseif getgenv().SelectIsland == "Mob Island" then
+                toTarget(CFrame.new(-2850.20068, 7.39224768, 5354.99268))
+            elseif getgenv().SelectIsland == "The Cafe" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-281.93707275390625, 306.130615234375, 609.280029296875))
+                wait(0.1)
+                Tween2(CFrame.new(-380.47927856445, 77.220390319824, 255.82550048828))
+            elseif getgenv().SelectIsland == "Frist Spot" then
+                toTarget(CFrame.new(-11.311455726624, 29.276733398438, 2771.5224609375))
+            elseif getgenv().SelectIsland == "Dark Area" then
+                toTarget(CFrame.new(3780.0302734375, 22.652164459229, -3498.5859375))
+            elseif getgenv().SelectIsland == "Flamingo Mansion" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-281.93707275390625, 306.130615234375, 609.280029296875))
+            elseif getgenv().SelectIsland == "Flamingo Room" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(2284.912109375, 15.152034759521484, 905.48291015625))
+            elseif getgenv().SelectIsland == "Green Zone" then
+                toTarget( CFrame.new(-2448.5300292969, 73.016105651855, -3210.6306152344))
+            elseif getgenv().SelectIsland == "Factory" then
+                toTarget(CFrame.new(424.12698364258, 211.16171264648, -427.54049682617))
+            elseif getgenv().SelectIsland == "Colossuim" then
+                toTarget( CFrame.new(-1503.6224365234, 219.7956237793, 1369.3101806641))
+            elseif getgenv().SelectIsland == "Zombie Island" then
+                toTarget(CFrame.new(-5622.033203125, 492.19604492188, -781.78552246094))
+            elseif getgenv().SelectIsland == "Two S Now Mountain" then
+                toTarget(CFrame.new(753.14288330078, 408.23559570313, -5274.6147460938))
+            elseif getgenv().SelectIsland == "Punk Hazard" then
+                toTarget(CFrame.new(-6127.654296875, 15.951762199402, -5040.2861328125))
+            elseif getgenv().SelectIsland == "Cursed Ship" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.40197753906, 125.05712890625, 32885.875))
+            elseif getgenv().SelectIsland == "Ice Castle" then
+                toTarget(CFrame.new(6148.4116210938, 294.38687133789, -6741.1166992188))
+            elseif getgenv().SelectIsland == "Forgotten Island" then
+                toTarget(CFrame.new(-3032.7641601563, 317.89672851563, -10075.373046875))
+            elseif getgenv().SelectIsland == "Ussop Island" then
+                toTarget(CFrame.new(4816.8618164063, 8.4599885940552, 2863.8195800781))
+            elseif getgenv().SelectIsland == "Mini Sky Island" then
+                Tween2(CFrame.new(-288.74060058594, 49326.31640625, -35248.59375))
+            elseif getgenv().SelectIsland == "Great Tree" then
+                toTarget(CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625))
+            elseif getgenv().SelectIsland == "Castle On The Sea" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-5075.50927734375, 314.5155029296875, -3150.0224609375))
+            elseif getgenv().SelectIsland == "MiniSky" then
+                Tween2(CFrame.new(-260.65557861328, 49325.8046875, -35253.5703125))
+            elseif getgenv().SelectIsland == "Port Town" then
+                toTarget(CFrame.new(-290.7376708984375, 6.729952812194824, 5343.5537109375))
+            elseif getgenv().SelectIsland == "Hydra Island" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(5753.5478515625, 610.7880859375, -282.33172607421875))
+            elseif getgenv().SelectIsland == "Floating Turtle" then
+                toTarget(CFrame.new(-13274.528320313, 531.82073974609, -7579.22265625))
+            elseif getgenv().SelectIsland == "Mansion" then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-12468.5380859375, 375.0094299316406, -7554.62548828125))
+            elseif getgenv().SelectIsland == "Haunted Castle" then
+                toTarget(CFrame.new(-9515.3720703125, 164.00624084473, 5786.0610351562))
+            elseif getgenv().SelectIsland == "Ice Cream Island" then
+                toTarget(CFrame.new(-902.56817626953, 79.93204498291, -10988.84765625))
+            elseif getgenv().SelectIsland == "Peanut Island" then
+                toTarget(CFrame.new(-2062.7475585938, 50.473892211914, -10232.568359375))
+            elseif getgenv().SelectIsland == "Cake Island" then
+                toTarget(CFrame.new(-1884.7747802734375, 19.327526092529297, -11666.8974609375))
+            elseif getgenv().SelectIsland == "Cocoa Island" then
+                toTarget(CFrame.new(87.94276428222656, 73.55451202392578, -12319.46484375))
+            elseif getgenv().SelectIsland == "Candy Island" then
+                toTarget(CFrame.new(-1014.4241943359375, 149.11068725585938, -14555.962890625))
+            elseif getgenv().SelectIsland == "Tiki Outpost" then
+                toTarget(CFrame.new(-16542.447265625, 55.68632888793945, 1044.41650390625))
+            end
+        end
+    })
+
+    Tabs.Teleport:AddButton({
+        Title = "Stop Tween",
+        Description = "",
+        Callback = function()
+          CancelTween()
+          game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.Huma NoidRootPart,TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear), {
+            CFrame = P1
+          }):Cancel()
+        end
+    })
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Fruit
+local Remote_GetFruits = game.ReplicatedStorage:FindFirstChild("Remotes").CommF_:InvokeServer("GetFruits");
+Table_DevilFruitSniper = {}
+ShopDevilSell = {}
+for i,v in next,Remote_GetFruits do
+    table.insert(Table_DevilFruitSniper,v.Name)
+    if v.OnSale then 
+        table.insert(ShopDevilSell,v.Name)
+    end
+end
+local DropdownFruit = Tabs.Fruit:AddDropdown("DropdownFruit", {
+    Title = "Select Fruit",
+    Description = "",
+    Values = Table_DevilFruitSniper,
+    Multi = false,
+    Default = 1,
+})
+DropdownFruit:SetValue("Kitsune-Kitsune")
+DropdownFruit:OnChanged(function(Value)
+    getgenv().SelectFruit = Value
+end)
+
+local ToggleFruit = Tabs.Fruit:AddToggle("ToggleFruit", {Title = "Buy Fruit Sniper",Description = "", Default = false })
+ToggleFruit:OnChanged(function(Value)
+    getgenv().AutoBuyFruitSniper = Value
+end)
+Options.ToggleFruit:SetValue(false)
+spawn(function()
+    pcall(function()
+        while wait(.1) do
+            if getgenv().AutoBuyFruitSniper then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("GetFruits")
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("PurchaseRawFruit",getgenv().SelectFruit,false)
+            end 
+        end
+    end)
+end)
+
+
+local ToggleStore = Tabs.Fruit:AddToggle("ToggleStore", {Title = "Store Fruit",Description = "", Default = false })
+ToggleStore:OnChanged(function(Value)
+    getgenv().AutoStoreFruit = Value
+end)
+Options.ToggleStore:SetValue(false)
+
+spawn(function()
+    while task.wait() do
+        if getgenv().AutoStoreFruit then
+            pcall(function()
+                if getgenv().AutoStoreFruit then
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Bomb Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Bomb Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Bomb-Bomb",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Bomb Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Spike Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spike Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Spike-Spike",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spike Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Chop Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Chop Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Chop-Chop",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Chop Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Spring Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spring Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Spring-Spring",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spring Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Rocket Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rocket Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Rocket-Rocket",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rocket Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Smoke Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Smoke Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Smoke-Smoke",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Smoke Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Spin Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spin Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Spin-Spin",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spin Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Flame Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Flame Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Flame-Flame",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Flame Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Falcon Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Falcon Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Falcon",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("alcon Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Ice Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ice Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Ice-Ice",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ice Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Sand Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Sand Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Sand-Sand",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Sand Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Dark Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dark Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Dark-Dark",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dark Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Ghost Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ghost Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Ghost-Ghost",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ghost Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Diamond Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Diamond Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Diamond-Diamond",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Diamond Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Light Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Light Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Light-Light",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Light Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Love Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Love Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Love-Love",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Love Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Rubber Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rubber Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Rubber-Rubber",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rubber Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Barrier Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Barrier Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Barrier-Barrier",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Barrier Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Magma Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Magma Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Magma-Magma",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Magma Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Portal Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Portal Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Portal-Portal",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Portal Fruit"))
+                    end
+
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Quake Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Quake Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Quake-Quake",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Quake Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Buddha Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Buddha Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buddha",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Buddha Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Spider Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spider Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Spider-Spider",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spider Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Phoenix Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Phoenix Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Phoenix",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Phoenix Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Rumble Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rumble Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Rumble-Rumble",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Rumble Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Pain Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Pain Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Pain-Pain",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Pain Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Gravity Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Gravity Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Gravity-Gravity",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Gravity Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Dough Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dough Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Dough-Dough",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dough Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Shadow Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Shadow Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Shadow-Shadow",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Shadow Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Ve Nom Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ve Nom Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Ve Nom-Ve Nom",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Ve Nom Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Control Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Control Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Control-Control",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Control Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Spirit Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spirit Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Spirit-Spirit",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Spirit Fruit"))
+                    end
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Dragon Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dragon Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Dragon-Dragon",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Dragon Fruit"))
+                        if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kitsune Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Kitsune Fruit") then
+                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Kitsune-Kitsune",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Kitsune Fruit"))
+                    end
+                        if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kitsune Fruit") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Kitsune Fruit") then
+                            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StoreFruit","Kitsune-Kitsune",game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Kitsune Fruit"))
+                    end
+                end
+                end
+            end)
+        end
+        wait(0.3)
+    end
+    end)
+
+local ToggleRandomFruit = Tabs.Fruit:AddToggle("ToggleRandomFruit", {Title = "Random Fruit",Description = "", Default = false })
+ToggleRandomFruit:OnChanged(function(Value)
+    getgenv().Random_Auto = Value
+end)
+Options.ToggleRandomFruit:SetValue(false)
+spawn(function()
+    pcall(function()
+        while wait(.1) do
+            if getgenv().Random_Auto then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Cousin","Buy")
+            end 
+        end
+    end)
+end)
+local ToggleCollectTP = Tabs.Fruit:AddToggle("ToggleCollectTP", {Title = "Collect Devil Fruit (TP)",Description = "", Default = false })
+ToggleCollectTP:OnChanged(function(Value)
+    getgenv().CollectFruitTP = Value
+end)
+Options.ToggleCollectTP:SetValue(false)
+spawn(function()
+		while wait(.1) do
+			if getgenv().CollectFruitTP then
+					for i,v in pairs(game.Workspace:GetChildren()) do
+						if string.find(v.Name, "Fruit") then
+						game.Players.LocalPlayer.Character.Huma NoidRootPart.CFrame = v.Handle.CFrame
+						end
+					end
+				end
+            end
+       end)
+local ToggleCollect = Tabs.Fruit:AddToggle("ToggleCollect", {Title = "Collect Devil Fruit (Tween)",Description = "", Default = false })
+ToggleCollect:OnChanged(function(Value)
+    getgenv().Tweenfruit = Value
+end)
+Options.ToggleCollect:SetValue(false)
+spawn(function()
+    while wait(.1) do
+        if getgenv().Tweenfruit then
+            for i,v in pairs(game.Workspace:GetChildren()) do
+                if string.find(v.Name, "Fruit") then
+                    Tween(v.Handle.CFrame)
+                end
+            end
+        end
+end
+end)
+
+local Mastery = Tabs.Fruit:AddSection("Esp")
+
+local ToggleEspPlayer = Tabs.Fruit:AddToggle("ToggleEspPlayer", {Title = "Esp Player",Description = "Định vị Người Chơi", Default = false })
+
+ToggleEspPlayer:OnChanged(function(Value)
+    ESPPlayer = Value
+	UpdatePlayerChams()
+end)
+Options.ToggleEspPlayer:SetValue(false)
+
+
+local ToggleEspFruit = Tabs.Fruit:AddToggle("ToggleEspFruit", {Title = "Esp Demon Fruit",Description = "", Default = false })
+
+ToggleEspFruit:OnChanged(function(Value)
+    DevilFruitESP = Value
+    while DevilFruitESP do wait()
+        UpdateDevilChams() 
+    end
+end)
+Options.ToggleEspFruit:SetValue(false)
+
+
+
+
+local ToggleEspIsland = Tabs.Fruit:AddToggle("ToggleEspIsland", {Title = "Esp Island",Description = "", Default = false })
+
+ToggleEspIsland:OnChanged(function(Value)
+    IslandESP = Value
+    while IslandESP do wait()
+        UpdateIslandESP() 
+    end
+end)
+Options.ToggleEspIsland:SetValue(false)
+
+
+local ToggleEspFlower = Tabs.Fruit:AddToggle("ToggleEspFlower", {Title = "Esp Flower",Description = "Định Vị Hoa", Default = false })
+
+ToggleEspFlower:OnChanged(function(Value)
+    FlowerESP = Value
+	UpdateFlowerChams() 
+end)
+Options.ToggleEspFlower:SetValue(false)
+
+
+spawn(function()
+    while wait(2) do
+        if FlowerESP then
+            UpdateFlowerChams() 
+        end
+        if DevilFruitESP then
+            UpdateDevilChams() 
+        end
+        if ChestESP then
+            UpdateChestChams() 
+        end
+        if ESPPlayer then
+            UpdatePlayerChams()
+        end
+        if RealFruitESP then
+            UpdateRealFruitChams()
+        end
+    end
+end)
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Raid
+local Chips = {"Flame","Ice","Quake","Light","Dark","Spider","Rumble","Magma","Buddha","Sand","Phoenix","Dough"}
+
+local DropdownRaid = Tabs.Raid:AddDropdown("DropdownRaid", {
+    Title = "Select Chip",
+    Description = "Chọn Chip",
+    Values = Chips,
+    Multi = false,
+    Default = 1,
+})
+DropdownRaid:SetValue("Flame")
+DropdownRaid:OnChanged(function(Value)
+    SelectChip = Value
+end)
+local ToggleBuy = Tabs.Raid:AddToggle("ToggleBuy", {Title = "Auto Buy Chip", Description = "Mua Chip",Default = false })
+ToggleBuy:OnChanged(function(Value)
+    getgenv().Auto_Buy_Chips_Dungeon = Value
+end)
+Options.ToggleBuy:SetValue(false)
+spawn(function()
+    while wait() do
+		if getgenv().Auto_Buy_Chips_Dungeon then
+			pcall(function()
+				local args = {
+					[1] = "RaidsNpc",
+					[2] = "Select",
+					[3] = SelectChip
+				}
+				game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+			end)
+        end
+    end
+end)
+
+
+    local ToggleStart = Tabs.Raid:AddToggle("ToggleStart", {Title = "Auto Start Raid",Description = "", Default = false })
+    ToggleStart:OnChanged(function(Value)
+        getgenv().Auto_StartRaid = Value
+end)
+Options.ToggleStart:SetValue(false)
+
+spawn(function()
+    while wait(.1) do
+        pcall(function()
+            if getgenv().Auto_StartRaid then
+                if game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Timer.Visible == false then
+                    if  Not game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1") and game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Special Microchip") or game:GetService("Players").LocalPlayer.Character:FindFirstChild("Special Microchip") then
+                        if Second_Sea then
+                            fireclickdetector(game:GetService("Workspace").Map.CircleIsland.RaidSummon2.Button.Main.ClickDetector)
+                        elseif Third_Sea then
+                            fireclickdetector(game:GetService("Workspace").Map["Boat Castle"].RaidSummon2.Button.Main.ClickDetector)
+                        end
+                    end
+                end
+            end
+        end)
+    end
+end)
+
+
+local ToggleKillAura = Tabs.Raid:AddToggle("ToggleKillAura", {Title = "Auto Kill Aura",Description = "", Default = false })
+ToggleKillAura:OnChanged(function(Value)
+    getgenv().KillAura = Value
+end)
+Options.ToggleKillAura:SetValue(false)
+spawn(function()
+    while wait() do
+        if getgenv().KillAura then
+            pcall(function()
+                for i,v in pairs(game.Workspace.Enemies:GetDescendants()) do
+                    if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                        repeat task.wait()
+                            sethiddenproperty(game:GetService('Players').LocalPlayer,"SimulationRadius",math.huge)
+                            v.Huma Noid.Health = 0
+                            v.Huma NoidRootPart.CanCollide = false
+                        until  Not getgenv().KillAura or  Not v.Parent or v.Huma Noid.Health <= 0
+                    end
+                end
+            end)
+        end
+    end
+end)
+
+
+local ToggleNextIsland = Tabs.Raid:AddToggle("ToggleNextIsland", {Title = "Auto Next Island",Description = "", Default = false })
+ToggleNextIsland:OnChanged(function(Value)
+    getgenv().AutoNextIsland = Value
+end)
+Options.ToggleNextIsland:SetValue(false)
+spawn(function()
+    while task.wait() do
+        if getgenv().AutoNextIsland then
+            pcall(function()
+                if game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Timer.Visible == true then
+                    if game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 5") then
+                        Tween(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 5").CFrame * CFrame.new(0,70,100))
+                    elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 4") then
+                        Tween(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 4").CFrame * CFrame.new(0,70,100))
+                    elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 3") then
+                        Tween(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 3").CFrame * CFrame.new(0,70,100))
+                    elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 2") then
+                        Tween(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 2").CFrame * CFrame.new(0,70,100))
+                    elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1") then
+                        Tween(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1").CFrame * CFrame.new(0,70,100))
+                    end
+                end
+            end)
+        end
+    end
+end)
+
+
+
+local ToggleAwake = Tabs.Raid:AddToggle("ToggleAwake", {Title = "Auto Awake",Description = "", Default = false })
+ToggleAwake:OnChanged(function(Value)
+    getgenv().AutoAwakenAbilities = Value
+end)
+Options.ToggleAwake:SetValue(false)
+spawn(function()
+    while task.wait() do
+        if getgenv().AutoAwakenAbilities then
+            pcall(function()
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Awakener","Awaken")
+            end)
+        end
+    end
+end)
+
+
+local ToggleGetFruit = Tabs.Raid:AddToggle("ToggleGetFruit", {Title = "Get Fruit Low Bely",Description = "", Default = false })
+ToggleGetFruit:OnChanged(function(Value)
+    getgenv().Autofruit = Value
+end)
+
+spawn(function()
+    while wait(.1) do
+        pcall(function()
+     if getgenv().Autofruit then
+         
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Rocket-Rocket"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Spin-Spin"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Chop-Chop"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Spring-Spring"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Bomb-Bomb"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Smoke-Smoke"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Spike-Spike"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Flame-Flame"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Falcon-Falcon"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Ice-Ice"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Sand-Sand"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Dark-Dark"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Ghost-Ghost"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Diamond-Diamond"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Light-Light"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Rubber-Rubber"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "LoadFruit",
+    [2] = "Barrier-Barrier"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+end
+end)
+end
+end)
+
+if Second_Sea then
+Tabs.Raid:AddButton({
+    Title = "Raid Lab",
+    Description = "",
+    Callback = function()
+     Tween2(CFrame.new(-6438.73535, 250.645355, -4501.50684))
+end
+})
+elseif Third_Sea then
+    Tabs.Raid:AddButton({
+        Title = "Raid Lab",
+        Description = "",
+        Callback = function()
+		 game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-5075.50927734375, 314.5155029296875, -3150.0224609375))
+           Tween2(CFrame.new(-5017.40869, 314.844055, -2823.0127, -0.925743818, 4.48217499e-08, -0.378151238, 4.55503146e-09, 1, 1.07377559e-07, 0.378151238, 9.7681621e-08, -0.925743818))
+        end
+        })
+end
+
+local Mastery = Tabs.Raid:AddSection("Law Raid")
+
+
+local ToggleLaw = Tabs.Raid:AddToggle("ToggleLaw", {Title = "Auto Law",Description = "", Default = false })
+
+ToggleLaw:OnChanged(function(Value)
+    getgenv().Auto_Law = Value
+end)
+Options.ToggleLaw:SetValue(false)
+spawn(function()
+    pcall(function()
+        while wait() do
+            if getgenv().Auto_Law then
+                if  Not game:GetService("Players").LocalPlayer.Character:FindFirstChild("Microchip") and  Not game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Microchip") and  Not game:GetService("Workspace").Enemies:FindFirstChild("Order") and  Not game:GetService("ReplicatedStorage"):FindFirstChild("Order") then
+                    wait(0.3)
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Microchip","1")
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Microchip","2")
+                end
+            end
+        end
+    end)
+end)
+
+spawn(function()
+    pcall(function()
+        while wait(0.4) do
+            if getgenv().Auto_Law then
+                if  Not game:GetService("Workspace").Enemies:FindFirstChild("Order") and  Not game:GetService("ReplicatedStorage"):FindFirstChild("Order") then
+                    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Microchip") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Microchip") then
+                        fireclickdetector(game:GetService("Workspace").Map.CircleIsland.RaidSummon.Button.Main.ClickDetector)
+                    end
+                end
+                if game:GetService("ReplicatedStorage"):FindFirstChild("Order") or game:GetService("Workspace").Enemies:FindFirstChild("Order") then
+                    if game:GetService("Workspace").Enemies:FindFirstChild("Order") then
+                        for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                            if v.Name == "Order" then
+                                repeat wait(getgenv().Fast_Delay)
+                                    Attack NoCoolDown()
+                                    AutoHaki()
+                                    EquipTool(SelectWeapon)
+                                    Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                    v.Huma NoidRootPart.CanCollide = false
+                                    v.Huma NoidRootPart.Size = Vector3.new(120, 120, 120)
+                                    --Click
+                                until  Not v.Parent or v.Huma Noid.Health <= 0 or getgenv().Auto_Law == false
+                            end
+                        end
+                    elseif game:GetService("ReplicatedStorage"):FindFirstChild("Order") then
+                        Tween(CFrame.new(-6217.2021484375, 28.047645568848, -5053.1357421875))
+                    end
+                end
+            end
+        end
+    end)
+end)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--RaceV4
+
+Tabs.Race:AddButton({
+    Title = "Timple Of Time",
+    Description = "",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(28286.35546875, 14895.3017578125, 102.62469482421875))
+    end
+})
+
+Tabs.Race:AddButton({
+    Title = "Tween To Lever Pull",
+    Description = "",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(28286.35546875, 14895.3017578125, 102.62469482421875))
+        Tween2(CFrame.new(28575.181640625, 14936.6279296875, 72.31636810302734))
+    end
+})
+
+
+Tabs.Race:AddButton({
+    Title = "Tween To Acient One",
+    Description = "",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(28286.35546875, 14895.3017578125, 102.62469482421875))
+        Tween2(CFrame.new(28981.552734375, 14888.4267578125, -120.245849609375))
+    end
+})
+
+
+local Mastery = Tabs.Race:AddSection("Auto Race")
+Tabs.Race:AddButton({
+    Title = "Tween To Race Portal",
+    Description = "",
+    Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(28286.35546875, 14895.3017578125, 102.62469482421875))
+                    if game:GetService("Players").LocalPlayer.Data.Race.Value == "Human" then
+                    Tween2(CFrame.new(29221.822265625, 14890.9755859375, -205.99114990234375))
+                    elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Skypiea" then
+                    Tween2(CFrame.new(28960.158203125, 14919.6240234375, 235.03948974609375))
+                    elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Fishman" then
+                    Tween2(CFrame.new(28231.17578125, 14890.9755859375, -211.64173889160156))
+                    elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Cyborg" then
+                    Tween2(CFrame.new(28502.681640625, 14895.9755859375, -423.7279357910156))
+                    elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Ghoul" then
+                    Tween2(CFrame.new(28674.244140625, 14890.6767578125, 445.4310607910156))
+                    elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Mink" then
+                    Tween2(CFrame.new(29012.341796875, 14890.9755859375, -380.1492614746094))
+                    end
+    end
+})
+
+local ToggleHumanandghoul = Tabs.Race:AddToggle("ToggleHumanandghoul", {Title = "Auto [ Human / Ghoul ] Trial",Description = "Hoàn thành Tộc quỷ + người", Default = false })
+ToggleHumanandghoul:OnChanged(function(Value)
+    getgenv().KillAura = Value
+end)
+Options.ToggleHumanandghoul:SetValue(false)
+
+local ToggleAutotrial = Tabs.Race:AddToggle("ToggleAutotrial", {Title = "Auto Trial",Description = "Tụ Động hoàn thành ải", Default = false })
+ToggleAutotrial:OnChanged(function(Value)
+    getgenv().AutoQuestRace = Value
+end)
+Options.ToggleAutotrial:SetValue(false)
+spawn(function()
+    pcall(function()
+        while wait() do
+            if getgenv().AutoQuestRace then
+				if game:GetService("Players").LocalPlayer.Data.Race.Value == "Human" then
+					for i,v in pairs(game.Workspace.Enemies:GetDescendants()) do
+						if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+							pcall(function()
+								repeat wait(.1)
+									v.Huma Noid.Health = 0
+									v.Huma NoidRootPart.CanCollide = false
+									sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+								until  Not getgenv().AutoQuestRace or  Not v.Parent or v.Huma Noid.Health <= 0
+							end)
+						end
+					end
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Skypiea" then
+					for i,v in pairs(game:GetService("Workspace").Map.SkyTrial.Model:GetDescendants()) do
+						if v.Name ==  "s Nowisland_Cylinder.081" then
+							BTPZ(v.CFrame* CFrame.new(0,0,0))
+						end
+					end
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Fishman" then
+					for i,v in pairs(game:GetService("Workspace").SeaBeasts.SeaBeast1:GetDescendants()) do
+						if v.Name ==  "Huma NoidRootPart" then
+							Tween(v.CFrame* Random)
+							for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+								if v:IsA("Tool") then
+									if v.ToolTip == "Melee" then
+										game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+									end
+								end
+							end
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+								if v:IsA("Tool") then
+									if v.ToolTip == "Blox Fruit" then
+										game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+									end
+								end
+							end
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+					
+							wait(0.5)
+							for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+								if v:IsA("Tool") then
+									if v.ToolTip == "Sword" then
+										game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+									end
+								end
+							end
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(0.5)
+							for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+								if v:IsA("Tool") then
+									if v.ToolTip == "Gun" then
+										game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+									end
+								end
+							end
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							wait(.2)
+							game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+							game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game.Players.LocalPlayer.Character.Huma NoidRootPart)
+						end
+					end
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Cyborg" then
+					Tween(CFrame.new(28654, 14898.7832, -30, 1, 0, 0, 0, 1, 0, 0, 0, 1))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Ghoul" then
+					for i,v in pairs(game.Workspace.Enemies:GetDescendants()) do
+						if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+							pcall(function()
+								repeat wait(.1)
+									v.Huma Noid.Health = 0
+									v.Huma NoidRootPart.CanCollide = false
+									sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+								until  Not getgenv().AutoQuestRace or  Not v.Parent or v.Huma Noid.Health <= 0
+							end)
+						end
+					end
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Mink" then
+					for i,v in pairs(game:GetService("Workspace"):GetDescendants()) do
+						if v.Name == "StartPoint" then
+							Tween(v.CFrame* CFrame.new(0,10,0))
+					  	end
+				   	end
+				end
+			end
+        end
+    end)
+end)
+
+local Mastery = Tabs.Race:AddSection("Auto Train")
+
+local ToggleAutoAcientQuest = Tabs.Race:AddToggle("ToggleAutoAcientQuest", {Title = "Auto Train",Description = "l", Default = false })
+ToggleAutoAcientQuest:OnChanged(function(Value)
+    getgenv().AutoFarmAcient = Value
+end)
+Options.ToggleAutoAcientQuest:SetValue(false)
+local AcientCframe = CFrame.new(216.211181640625, 126.9352035522461, -12599.0732421875)
+
+spawn(function()
+    pcall(function()
+        while wait() do
+            if getgenv().AutoFarmAcient then
+                if game.Players.LocalPlayer.Character.RaceTransformed.Value == true then
+                    getgenv().AutoFarmAcient = false
+                    toTarget(CFrame.new(216.211181640625, 126.9352035522461, -12599.0732421875))
+                end
+            end
+        end
+    end)
+end)
+spawn(function()
+    while wait() do 
+        if getgenv().AutoFarmAcient then
+            pcall(function()
+                if game:GetService("Workspace").Enemies:FindFirstChild("Cocoa Warrior") or game:GetService("Workspace").Enemies:FindFirstChild("Chocolate Bar Battler") or game:GetService("Workspace").Enemies:FindFirstChild("Sweet Thief") or game:GetService("Workspace").Enemies:FindFirstChild("Candy Rebel") then
+                    for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                        if v.Name == "Cocoa Warrior" or v.Name == "Chocolate Bar Battler" or v.Name == "Sweet Thief" or v.Name == "Candy Rebel" then
+                           if v:FindFirstChild("Huma Noid") and v:FindFirstChild("Huma NoidRootPart") and v.Huma Noid.Health > 0 then
+                                    bringmob = true
+                                    repeat wait(getgenv().Fast_Delay)
+                                    Attack NoCoolDown()
+                                    AutoHaki()
+                                    EquipTool(SelectWeapon)
+                                    v.Huma NoidRootPart.CanCollide = false
+                                    v.Huma Noid.WalkSpeed = 0
+                                    v.Head.CanCollide = false 
+                                    FarmPos = v.Huma NoidRootPart.CFrame
+                                    MonFarm = v.Name
+                                    Tween(v.Huma NoidRootPart.CFrame * CFrame.new(posX,posY,posZ))
+                                until  Not getgenv().AutoFarmAcient or  Not v.Parent or v.Huma Noid.Health <= 0
+                          bringmob = false
+                            end
+                        end
+                    end
+                else
+                toTarget(AcientCframe)
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    pcall(function()
+        while wait() do
+            if getgenv().AutoFarmAcient then
+                if game.Players.LocalPlayer.Character.RaceTransformed.Value == false then
+                    getgenv().AutoFarmAcient = true
+                end
+            end
+        end
+    end)
+end)
+spawn(function()
+while wait() do
+    pcall(function()
+        if getgenv().AutoFarmAcient then
+            game:GetService("VirtualInputManager"):SendKeyEvent(true,"Y",false,game)
+            wait(0.1)
+            game:GetService("VirtualInputManager"):SendKeyEvent(false,"Y",false,game)
+        end
+    end)
+end
+end)
+--------------------------------------------------------------------------------------------------------------------------------------------
+--shop
+
+Tabs.Shop:AddButton({
+	Title = "Geppo",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyHaki","Geppo")
+	end
+})
+
+
+
+Tabs.Shop:AddButton({
+	Title = "Buso Haki",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyHaki","Buso")
+	end
+})
+
+
+
+
+Tabs.Shop:AddButton({
+	Title = "Soru",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyHaki","Soru")
+	end
+})
+
+
+Tabs.Shop:AddButton({
+	Title = "Ken Haki",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("KenTalk","Buy")
+	end
+})
+
+local Mastery = Tabs.Shop:AddSection("Fighting Styles")
+
+
+Tabs.Shop:AddButton({
+	Title = "Black Leg",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyBlackLeg")
+	end
+})
+
+Tabs.Shop:AddButton({
+	Title = "Electro",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyElectro")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Fishman Karate",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyFishmanKarate")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Dragon Claw",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","DragonClaw","1")
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","DragonClaw","2")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Superhuman",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySuperhuman")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Death Step",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDeathStep")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Sharkman Karate",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySharkmanKarate",true)
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySharkmanKarate")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Electric Claw",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyElectricClaw")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Dragon Talon",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyDragonTalon")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Godhuman",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyGodhuman")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Sanguine Art",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySanguineArt", true)
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuySanguineArt")
+	end
+})
+
+local Mastery = Tabs.Shop:AddSection("Misc Items")
+
+Tabs.Shop:AddButton({
+	Title = "Refund Stats",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Refund","1")
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Refund","2")
+	end
+})
+Tabs.Shop:AddButton({
+	Title = "Reroll Race",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Reroll","1")
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BlackbeardReward","Reroll","2")
+	end
+})
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--misc
+
+Tabs.Misc:AddButton({
+	Title = "Rejoin Server",
+	Description = "",
+	Callback = function()
+		game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
+	end
+})
+
+
+Tabs.Misc:AddButton({
+	Title = "Hop Server",
+	Description = "",
+	Callback = function()
+		Hop()
+	end
+})
+
+function Hop()
+	local PlaceID = game.PlaceId
+	local AllIDs = {}
+	local foundAnything = ""
+	local actualHour = os.date("!*t").hour
+	local Deleted = false
+	function TPReturner()
+		local Site;
+		if foundAnything == "" then
+			Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+		else
+			Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+		end
+		local ID = ""
+		if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+			foundAnything = Site.nextPageCursor
+		end
+		local num = 0;
+		for i,v in pairs(Site.data) do
+			local Possible = true
+			ID = tostring(v.id)
+			if tonumber(v.maxPlayers) > tonumber(v.playing) then
+				for _,Existing in pairs(AllIDs) do
+					if num ~= 0 then
+						if ID == tostring(Existing) then
+							Possible = false
+						end
+					else
+						if tonumber(actualHour) ~= tonumber(Existing) then
+							local delFile = pcall(function()
+								AllIDs = {}
+								table.insert(AllIDs, actualHour)
+							end)
+						end
+					end
+					num = num + 1
+				end
+				if Possible == true then
+					table.insert(AllIDs, ID)
+					wait()
+					pcall(function()
+						wait()
+						game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
+					end)
+					wait(4)
+				end
+			end
+		end
+	end
+	function Teleport() 
+		while wait() do
+			pcall(function()
+				TPReturner()
+				if foundAnything ~= "" then
+					TPReturner()
+				end
+			end)
+		end
+	end
+	Teleport()
+end      
+
+
+local Mastery = Tabs.Misc:AddSection("Team")
+
+
+Tabs.Misc:AddButton({
+	Title = "Join Pirates Team",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetTeam","Pirates") 
+	end
+})
+
+
+Tabs.Misc:AddButton({
+	Title = "Join Marines Team",
+	Description = "",
+	Callback = function()
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetTeam","Marines") 
+	end
+})
+
+local Mastery = Tabs.Misc:AddSection("Open Ui")
+
+Tabs.Misc:AddButton({
+	Title = "Devil Shop",
+	Description = "",
+	Callback = function()
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("GetFruits")
+        game:GetService("Players").LocalPlayer.PlayerGui.Main.FruitShop.Visible = true
+	end
+})
+
+
+
+Tabs.Misc:AddButton({
+	Title = "Color Haki",
+	Description = "",
+	Callback = function()
+		game.Players.localPlayer.PlayerGui.Main.Colors.Visible = true
+	end
+})
+
+
+
+Tabs.Misc:AddButton({
+	Title = "Title Name",
+	Description = "",
+	Callback = function()
+		local args = {
+			[1] = "getTitles"
+		}
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+		game.Players.localPlayer.PlayerGui.Main.Titles.Visible = true
+	end
+})
+
+
+
+Tabs.Misc:AddButton({
+	Title = "Awakening",
+	Description = "",
+	Callback = function()
+        game:GetService("Players").LocalPlayer.PlayerGui.Main.AwakeningToggler.Visible = true
+	end
+})
+
+
+local Mastery = Tabs.Misc:AddSection("Troll")
+
+
+Tabs.Misc:AddButton({
+	Title = "Rain Fruit",
+	Description = "",
+	Callback = function()
+        for i, v in pairs(game:GetObjects("rbxassetid://14759368201")[1]:GetChildren()) do
+            v.Parent = game.Workspace.Map
+            v:MoveTo(game.Players.LocalPlayer.Character.PrimaryPart.Position + Vector3.new(math.random(-50, 50), 100, math.random(-50, 50)))
+            if v.Fruit:FindFirstChild("AnimationController") then
+                v.Fruit:FindFirstChild("AnimationController"):LoadAnimation(v.Fruit:FindFirstChild("Idle")):Play()
+            end
+            v.Handle.Touched:Connect(function(otherPart)
+                if otherPart.Parent == game.Players.LocalPlayer.Character then
+                    v.Parent = game.Players.LocalPlayer.Backpack
+                    game.Players.LocalPlayer.Character.Huma Noid:EquipTool(v)
+                end
+            end)
+        end
+	end
+})
+
+
+
+local Mastery = Tabs.Misc:AddSection("Misc")
+
+
+local ToggleRejoin = Tabs.Misc:AddToggle("ToggleRejoin", {Title = "Auto Rejoin", Description = "Tự động vào lại khi bị văng",Default = true })
+ToggleRejoin:OnChanged(function(Value)
+	getgenv().AutoRejoin = Value
+end)
+
+Options.ToggleRejoin:SetValue(true)
+spawn(function()
+	while wait() do
+		if getgenv().AutoRejoin then
+				getgenv().rejoin = game:GetService("CoreGui").RobloxPromptGui.promptOverlay.ChildAdded:Connect(function(child)
+					if child.Name == 'ErrorPrompt' and child:FindFirstChild('MessageArea') and child.MessageArea:FindFirstChild("ErrorFrame") then
+						game:GetService("TeleportService"):Teleport(game.PlaceId)
+					end
+				 end)
+			end
+		end
+	end)
+
+
+
+    local Mastery = Tabs.Misc:AddSection("Kaitun Cap")
+
+Tabs.Misc:AddButton({
+	Title = "Show Items",
+	Description = "Hiện thị vật phẩm",
+	Callback = function()
+		do
+			local ui = game:GetService("CoreGui").RobloxGui.Modules.Profile:FindFirstChild("UILibrary")
+			if ui then ui:Destroy() end
+		end
+		local UserInputService = game:GetService("UserInputService")
+		local TweenService = game:GetService("TweenService")
+		local RunService = game:GetService("RunService")
+		local LocalPlayer = game:GetService("Players").LocalPlayer
+		local Mouse = LocalPlayer:GetMouse()
+	
+		do
+			local ui = game:GetService("Lighting"):FindFirstChild("Blur")
+			if ui then ui:Destroy() end
+		end
+	
+		local Blur = Instance.new("BlurEffect")
+	
+		TweenService:Create(
+			Blur,
+			TweenInfo.new(.4, Enum.EasingStyle.Back, Enum.EasingDirection.I Nout),
+			{ Size = 50 }
+		):Play()
+		Blur.Parent = game.Lighting
+	
+		local UIStroke = Instance.new("UIStroke")
+		local UICorner = Instance.new("UICorner")
+	
+		local ScreenGui = Instance.new("ScreenGui")
+		local ImageButton = Instance.new("ImageButton")
+		local RobloxButton = Enum.ButtonStyle.RobloxButton
+	
+		ScreenGui.Parent = game.CoreGui
+		ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+	
+		local cac = require(game:GetService("Players").LocalPlayer.PlayerGui.Main.UIController.Inventory)
+		local Inventory = game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("getInventory")
+		local Items = {}
+		local RaityLevel = { "Mythical", "Legendary", "Rare", "Uncommon", "Common" }
+		local RaityColor = {
+			["Common"] = Color3.fromRGB(179, 179, 179),
+			["Uncommon"] = Color3.fromRGB(92, 140, 211),
+			["Rare"] = Color3.fromRGB(140, 82, 255),
+			["Legendary"] = Color3.fromRGB(213, 43, 228),
+			["Mythical"] = Color3.fromRGB(238, 47, 50)
+		}
+		function GetRaity(color)
+			for k, v in pairs(RaityColor) do
+				if v == color then return k end
+			end
+		end
+	
+		for k, v in pairs(Inventory) do
+			Items[v.Name] = v
+		end
+	
+		local total = #getupvalue(cac.UpdateRender, 4)
+		local rac = {}
+		local allitem = {}
+		local total2 = 0
+		while total2 < total do
+			local i = 0
+			while i < 25000 and total2 < total do
+				game:GetService("Players").LocalPlayer.PlayerGui.Main.InventoryContainer.Right.Content.ScrollingFrame.CanvasPosition =
+					Vector2.new(0, i)
+				for k, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Main.InventoryContainer.Right.Content.ScrollingFrame.Frame:GetChildren()) do
+					if v:IsA("Frame") and  Not rac[v.ItemName.Text] and v.ItemName.Visible == true then
+						local vaihuhu = GetRaity(v.Background.BackgroundColor3)
+						if vaihuhu then
+							if  Not allitem[vaihuhu] then
+								allitem[vaihuhu] = {}
+							end
+							table.insert(allitem[vaihuhu], v:Clone())
+						end
+						total2 = total2 + 1
+						rac[v.ItemName.Text] = true
+					end
+				end
+				i = i + 20
+			end
+			wait()
+		end
+		function GetXY(vec)
+			return vec * 100
+		end
+	
+		local tvk = Instance.new("UIListLayout")
+		tvk.FillDirection = Enum.FillDirection.Vertical
+		tvk.SortOrder = 2
+		tvk.Padding = UDim.new(0, 10)
+	
+		local Left = Instance.new("Frame", game.Players.LocalPlayer.PlayerGui.BubbleChat)
+		Left.BackgroundTransparency = 1
+		Left.Size = UDim2.new(.5, 0, 1, 0)
+		tvk.Parent = Left
+	
+		local Right = Instance.new("Frame", game.Players.LocalPlayer.PlayerGui.BubbleChat)
+		Right.BackgroundTransparency = 1
+		Right.Size = UDim2.new(.5, 0, 1, 0)
+		Right.Position = UDim2.new(.6, 0, 0, 0)
+		tvk:Clone().Parent = Right
+		for k, v in pairs(allitem) do
+			local cac = Instance.new("Frame", Left)
+			cac.BackgroundTransparency = 1
+			cac.Size = UDim2.new(1, 0, 0, 0)
+			cac.LayoutOrder = table.find(RaityLevel, k)
+	
+			local cac2 = Instance.new("Frame", Right)
+			cac2.BackgroundTransparency = 1
+			cac2.Size = UDim2.new(1, 0, 0, 0)
+			cac2.LayoutOrder = table.find(RaityLevel, k)
+	
+			local tvk = Instance.new("UIGridLayout", cac)
+			tvk.CellPadding = UDim2.new(.005, 0, .005, 0)
+			tvk.CellSize = UDim2.new(0, 70, 0, 70)
+			tvk.FillDirectionMaxCells = 100
+			tvk.FillDirection = Enum.FillDirection.Horizontal
+	
+			local ccc = tvk:Clone()
+			ccc.Parent = cac2
+			for k, v in pairs(v) do
+				if Items[v.ItemName.Text] and Items[v.ItemName.Text].Mastery then
+					if v.ItemLine2.Text ~= "Accessory" then
+						local bucac                  = v.ItemName:Clone()
+						bucac.BackgroundTransparency = 1
+						bucac.TextSize               = 10
+						bucac.TextXAlignment         = 2
+						bucac.TextYAlignment         = 2
+						bucac.ZIndex                 = 5
+						bucac.Text                   = Items[v.ItemName.Text].Mastery
+						bucac.Size                   = UDim2.new(.5, 0, .5, 0)
+						bucac.Position               = UDim2.new(.5, 0, .5, 0)
+						bucac.Parent                 = v
+					end
+					v.Parent = cac
+				elseif v.ItemLine2.Text == "Blox Fruit" then
+					v.Parent = cac2
+				end
+			end
+			cac.AutomaticSize = 2
+			cac2.AutomaticSize = 2
+		end
+		local ListHuhu = {
+			["Superhuman"] = Vector2.new(3, 2),
+			["DeathStep"] = Vector2.new(4, 3),
+			["ElectricClaw"] = Vector2.new(2, 0),
+			["SharkmanKarate"] = Vector2.new(0, 0),
+			["DragonTalon"] = Vector2.new(1, 5)
+		}
+		local MeleeG = Instance.new("Frame", Left)
+		MeleeG.BackgroundTransparency = 1
+		MeleeG.Size = UDim2.new(1, 0, 0, 0)
+		MeleeG.LayoutOrder = table.find(RaityLevel, k)
+		MeleeG.AutomaticSize = 2
+		MeleeG.LayoutOrder = 100
+		local tvk = Instance.new("UIGridLayout", MeleeG)
+		tvk.CellPadding = UDim2.new(.005, 0, .005, 0)
+		tvk.CellSize = UDim2.new(0, 70, 0, 70)
+		tvk.FillDirectionMaxCells = 100
+		tvk.FillDirection = Enum.FillDirection.Horizontal
+	
+		local cac = { "Superhuman", "ElectricClaw", "DragonTalon", "SharkmanKarate", "DeathStep", "GodHuman" }
+		for k, v in pairs(cac) do
+			if ListHuhu[v] and game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buy" .. v, true) == 1 then
+				local huhu = Instance.new("ImageLabel", MeleeG)
+				huhu.Image = "rbxassetid://9945562382"
+				huhu.ImageRectSize = Vector2.new(100, 100)
+				huhu.ImageRectOffset = ListHuhu[v] * 100
+			end
+		end
+		function formatNumber(v)
+			return tostring(v):reverse():gsub("%d%d%d", "%1,"):reverse():gsub("^,", "")
+		end
+	
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli.AnchorPoint = Vector2.new(0.5, 0.5)
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli.Position = UDim2.new(0, 1120, 0, 700)
+	
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.Level.AnchorPoint = Vector2.new(0.5, 0.5)
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.Level.Position = UDim2.new(0, 1150, 0, 750)
+		local Name = game:GetService("Players").LocalPlayer.PlayerGui.Main.Fragments:Clone()
+		Name.Name = "Name"
+		Name.Parent = game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli
+		Name.Position = UDim2.new(0, 0, -1.5, 0)
+		Name.Size = UDim2.new(1, 0, 1, 0)
+		Name.TextColor3 = Color3.fromRGB(255, 255, 255)
+		Name.Text = game.Players.LocalPlayer.Name
+	
+		local Fragments = game:GetService("Players").LocalPlayer.PlayerGui.Main.Fragments:Clone()
+		Fragments.Name = "FragmentsCheck"
+		Fragments.Parent = game:GetService("Players").LocalPlayer.PlayerGui.Main.Beli
+		Fragments.Position = UDim2.new(0, 0, -0.75, 0)
+		Fragments.Size = UDim2.new(1, 0, 1, 0)
+		Fragments.Text = 'ƒ' .. formatNumber(game:GetService("Players").LocalPlayer.Data.Fragments.Value)
+		local args = {
+			[1] = "getAwakenedAbilities"
+		}
+	
+		game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+		game.Players.LocalPlayer.PlayerGui.Main.AwakeningToggler.Visible = true
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.AwakeningToggler.Position = UDim2.new(0.48, 10, 0.908, 2)
+		game:GetService("Players").LocalPlayer.PlayerGui.Main.AwakeningToggler.Size = UDim2.new(1, 0, 0.22, 0)
+	
+	
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.MenuButton.Visible = false
+		end)
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.RaceEnergy.Visible = false
+		end)
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.SafeZone.Visible = false
+		end)
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.HP.Visible = false
+		end)
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Backpack.Enabled.Visible = false
+		end)
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.Energy.Visible = false
+		end)
+		for k, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Main:GetChildren()) do
+			if v:IsA("ImageButton") then
+				v:Destroy()
+			end
+		end
+		pcall(function()
+			game:GetService("Players").LocalPlayer.PlayerGui.Main.Compass.Visible = false
+		end)
+	end
+})
+
+local Mastery = Tabs.Misc:AddSection("Day")
+
+Tabs.Misc:AddButton({
+	Title = "Remove Fog",
+	Description = "",
+	Callback = function()
+         NoFog()
+    end
+})
+function  NoFog()
+    local c = game.Lighting
+    c.FogEnd = 100000
+    for r, v in pairs(c:GetDescendants()) do
+        if v:IsA("Atmosphere") then
+            v:Destroy()
+        end
+    end
+end
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--Hop
+
+if First_Sea or Second_Sea then
+    local Mastery = Tabs.Hop:AddSection("Thid Sea Please !!!")
+end
+
+if Third_Sea then
+local ToggleFindMoon = Tabs.Hop:AddToggle("ToggleFindMoon", {Title = "Find Full Moon",Description = "Tìm trăng tròn", Default = false })
+ToggleFindMoon:OnChanged(function(Value)
+    getgenv().AutoFindMoon = Value
+end)
+Options.ToggleFindMoon:SetValue(false)
+
+
+spawn(function()
+    while wait() do
+        if getgenv().AutoFindMoon then
+        if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
+            wait(2.0)
+        elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
+            Hop()
+            Fluent: Notify({
+                Title = "Sea Hub",
+                Content = "Turn Off Find Full Moon...",
+                SubContent = "", -- Optional
+                Duration = 5 -- Set to nil to make the  Notification  Not disappear
+            })
+        elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
+            Hop()
+            Fluent: Notify({
+                Title = "Sea Hub",
+                Content = "Hop...",
+                SubContent = "", -- Optional
+                Duration = 5 -- Set to nil to make the  Notification  Not disappear
+            })
+        elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
+            Hop()
+            Fluent: Notify({
+                Title = "Sea Hub",
+                Content = "Hop...",
+                SubContent = "", -- Optional
+                Duration = 5 -- Set to nil to make the  Notification  Not disappear
+            })
+        else
+            Hop()
+            end
+        end
+    end
+end)
+
+
+local ToggleMirageIsland = Tabs.Hop:AddToggle("ToggleMirageIsland", {Title = "Find Mirage Island",Description = "Tìm đảo bí ẩn", Default = false })
+ToggleMirageIsland:OnChanged(function(Value)
+    getgenv().FindMirageIsland = Value
+end)
+Options.ToggleMirageIsland:SetValue(false)
+
+spawn(function()
+    while wait() do
+    if getgenv().FindMirageIsland then
+        if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") or game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+            if HighestPointRealCFrame and (game.Players.LocalPlayer.Character.Huma NoidRootPart.Position - HighestPointRealCFrame.Position).Magnitude > 10 then
+            Tween(getHighestPoint().CFrame * CFrame.new(0, 211.88, 0))
+                end
+        elseif  Not game:GetService("Workspace").Map:FindFirstChild("MysticIsland") or  Not game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+            Hop()
+            end
+        end
+    end
+end)
+end
+--------------------------------------------------------------------------------------------------------------------------------------------
+print("Script Loading Completed !")
+--------------------------------------------------------------------------------------------------------------------------------------------
+-- Addons:
+-- SaveManager (Allows you to have a configuration system)
+-- InterfaceManager (Allows you to have a interface managment system)
+-- Hand the library over to our managers
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+-- Ig Nore keys that are used by ThemeManager.
+-- (we dont want configs to save themes, do we?)
+SaveManager:Ig NoreThemeSettings()
+-- You can add indexes of elements the save manager should ig Nore
+SaveManager:SetIg NoreIndexes({})
+-- use case for doing it this way:
+-- a script hub could have themes in a global folder
+-- and game configs in a separate folder per game
+InterfaceManager:SetFolder("Sea Hub")
+SaveManager:SetFolder("Sea Hub/specific-game")
+InterfaceManager:BuildInterfaceSection(Tabs.Setting)
+SaveManager:BuildConfigSection(Tabs.Setting)
+Window:SelectTab(1)
+-- You can use the SaveManager:LoadAutoloadConfig() to load a config
+-- which has been marked to be one that auto loads!
+SaveManager:LoadAutoloadConfig()
+----------------------------------------------------------------------------------------------------------------------------------------------
