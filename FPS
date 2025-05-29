@@ -1,0 +1,101 @@
+local Players = game:GetService("Players")
+local StarterGui = game:GetService("StarterGui")
+local RunService = game:GetService("RunService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local function hideCoreUI()
+    StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Chat, false)
+    StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, false)
+    StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, false)
+    StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.EmotesMenu, false)
+end
+
+local function hideCustomUI()
+    for _, gui in pairs(playerGui:GetChildren()) do
+        if gui:IsA("ScreenGui") and gui.Name ~= "BlackoutGui" and gui.Name ~= "FPSDisplay" then
+            gui.Enabled = false
+        end
+    end
+end
+
+local function createBlackout()
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "BlackoutGui"
+    screenGui.IgnoreGuiInset = true
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = playerGui
+
+    local blackFrame = Instance.new("Frame")
+    blackFrame.Name = "BlackFrame"
+    blackFrame.BackgroundColor3 = Color3.new(0, 0, 0)
+    blackFrame.Size = UDim2.new(1, 0, 1, 0)
+    blackFrame.Position = UDim2.new(0, 0, 0, 0)
+    blackFrame.BackgroundTransparency = 0
+    blackFrame.Parent = screenGui
+end
+
+local function createFPSDisplay()
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "FPSDisplay"
+    screenGui.Parent = playerGui
+    screenGui.ResetOnSpawn = false
+
+    local textLabel = Instance.new("TextLabel")
+    textLabel.Size = UDim2.new(0, 300, 0, 30)
+    textLabel.Position = UDim2.new(0.5, -150, 0, 10)
+    textLabel.BackgroundTransparency = 1
+    textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    textLabel.TextScaled = true
+    textLabel.Font = Enum.Font.SourceSansBold
+    textLabel.BorderSizePixel = 0
+    textLabel.Parent = screenGui
+
+    local frameCount = 0
+    local lastTime = tick()
+    local fps = 60
+
+    local function updateDisplay()
+        frameCount = frameCount + 1
+        local currentTime = tick()
+        
+        if currentTime - lastTime >= 1 then
+            fps = math.round(frameCount / (currentTime - lastTime))
+            frameCount = 0
+            lastTime = currentTime
+        end
+        
+        local timeString = os.date("%H:%M")
+        textLabel.Text = string.format("FPS: %d | %s | %s", fps, timeString, player.Name)
+    end
+
+    RunService.RenderStepped:Connect(updateDisplay)
+end
+
+local function makeObjectsTransparent()
+    for i, v in next, workspace:GetDescendants() do
+        pcall(function()
+            v.Transparency = 1
+        end)
+    end
+    for i, v in next, getnilinstances() do
+        pcall(function()
+            v.Transparency = 1
+            for i1, v1 in next, v:GetDescendants() do
+                v1.Transparency = 1
+            end
+        end)
+    end
+    workspace.DescendantAdded:Connect(function(v)
+        pcall(function()
+            v.Transparency = 1
+        end)
+    end)
+end
+
+createBlackout()
+createFPSDisplay()
+hideCoreUI()
+hideCustomUI()
+makeObjectsTransparent()
